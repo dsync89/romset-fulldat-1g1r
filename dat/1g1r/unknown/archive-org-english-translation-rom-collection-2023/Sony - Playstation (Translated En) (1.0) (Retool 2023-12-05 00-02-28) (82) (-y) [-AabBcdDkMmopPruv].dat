@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sony - Playstation (Translated En) (Retool)</name>
+		<description>Sony - Playstation (Translated En) (82) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-05 00-02-28</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1) [T-En by Load Word Team v1.1]">
+		<category>Games</category>
+		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1) [T-En by Load Word Team v1.1]</description>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1) [T-En by Load Word Team v1.1].chd" size="433120892" crc="96c40d26" sha1="0b06dd34753dc89ef5ff07927dc502e92a0390c5"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1) [T-En by Load Word Team v1.1].chd" size="453248320" crc="b05918b9" sha1="f8a70ef9f3bf5d3a15a7c8c063485af6cbd6d57e"/>
+		<rom name="Ace Combat 3 - Electrosphere - Direct Audio with AppenDisc (Japan) [T-En by Load Word Team v1.1].chd" size="357548817" crc="a58a0f23" sha1="7428218ca85ddda4b81c505b27d0ac7dfba77ff4"/>
+	</game>
+	<game name="Aconcagua (Japan) [T-En by Hilltop v1.0]">
+		<category>Games</category>
+		<description>Aconcagua (Japan) [T-En by Hilltop v1.0]</description>
+		<rom name="Aconcagua (Japan) (Disc 1) [T-En by Hilltop v1.0].chd" size="213832831" crc="3824057e" sha1="1ddff8bf3d8a45e146940c9b8e2b3c0ffe4a4af9"/>
+		<rom name="Aconcagua (Japan) (Disc 2) [T-En by Hilltop v1.0].chd" size="249847913" crc="253b2b15" sha1="1bae9495f06f16812809f403aeb5ff88fb41a2cb"/>
+	</game>
+	<game name="Addie's Present - To Moze from Addie (Japan) [T-En by Cargodin &amp; EsperKnight &amp; Gwendolyn &amp; PSXCraver v1.0] [n]">
+		<category>Games</category>
+		<description>Addie's Present - To Moze from Addie (Japan) [T-En by Cargodin &amp; EsperKnight &amp; Gwendolyn &amp; PSXCraver v1.0] [n]</description>
+		<rom name="Addie's Present - To Moze from Addie (Japan) [T-En by Cargodin &amp; EsperKnight &amp; Gwendolyn &amp; PSXCraver v1.0] [n].chd" size="66968725" crc="bd9e6348" sha1="2e7bcdef310374b3dad67820f5196f1f62f5405f"/>
+	</game>
+	<game name="Air Management '96 (Japan) [T-En by Lady Jessica v0.8] [i]">
+		<category>Games</category>
+		<description>Air Management '96 (Japan) [T-En by Lady Jessica v0.8] [i]</description>
+		<rom name="Air Management '96 (Japan) [T-En by Lady Jessica v0.8] [i].chd" size="351514271" crc="21904ae5" sha1="adb9df5faa789584f981e467b2ae1135c671ba54"/>
+	</game>
+	<game name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2) [T-En by Devil Hackers v1.0]">
+		<category>Games</category>
+		<description>Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2) [T-En by Devil Hackers v1.0]</description>
+		<rom name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2) [T-En by Devil Hackers v1.0].chd" size="375010858" crc="6bc168f9" sha1="378095c3536c1786effb0f8254aa8957dc69c9f8"/>
+	</game>
+	<game name="Alundra (USA) (Rev 1) [Un-Worked Design by Supper v1 (04-03-2017)]">
+		<category>Games</category>
+		<description>Alundra (USA) (Rev 1) [Un-Worked Design by Supper v1 (04-03-2017)]</description>
+		<rom name="Alundra (USA) (Rev 1) [Un-Worked Design by Supper v1 (04-03-2017)].chd" size="304801807" crc="bf91dfa3" sha1="5afd593539353ea77bd5c4be48333445fed8f29e"/>
+	</game>
+	<game name="Animetic Story Game 1 - Card Captor Sakura (Japan) [T-En by NoOneee v1.0]">
+		<category>Games</category>
+		<description>Animetic Story Game 1 - Card Captor Sakura (Japan) [T-En by NoOneee v1.0]</description>
+		<rom name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 1) [T-En by NoOneee v1.0].chd" size="287526660" crc="a2530d45" sha1="1d9e6025d170d2da68662a6f562eb4217317e797"/>
+		<rom name="Animetic Story Game 1 - Card Captor Sakura (Japan) (Disc 2) [T-En by NoOneee v1.0].chd" size="277094052" crc="ef23a73c" sha1="c14ae0acf355f2148257ebdbd96197f2c51e5537"/>
+	</game>
+	<game name="Asuncia - Staff of Sealing (Japan) [T-En by John Osborne v2] [n]">
+		<category>Games</category>
+		<description>Asuncia - Staff of Sealing (Japan) [T-En by John Osborne v2] [n]</description>
+		<rom name="Asuncia - Staff of Sealing (Japan) [T-En by John Osborne v2] [n].chd" size="316619261" crc="7691af50" sha1="ed30ab2b25df3a8a47961b4e2c4c14249bcfd1c2"/>
+	</game>
+	<game name="B. L. U. E. - Legend of Water (Japan) [T-En by Hilltop v1.1]">
+		<category>Games</category>
+		<description>B. L. U. E. - Legend of Water (Japan) [T-En by Hilltop v1.1]</description>
+		<rom name="B. L. U. E. - Legend of Water (Japan) [T-En by Hilltop v1.1].chd" size="314153497" crc="e3ea8a39" sha1="eb67332e90996e77b17303710d508e3e4d66de2e"/>
+	</game>
+	<game name="Baroque - Yuganda Mousou (Japan) (Genteiban) [T-En by Plissken v1.0.2]">
+		<category>Games</category>
+		<description>Baroque - Yuganda Mousou (Japan) (Genteiban) [T-En by Plissken v1.0.2]</description>
+		<rom name="Baroque - Yuganda Mousou (Japan) (Genteiban) [T-En by Plissken v1.0.2].chd" size="421086430" crc="c0eb5714" sha1="a2b74afda12cc7bc00188aca6be16485e79f1680"/>
+	</game>
+	<game name="Beavis and Butt-Head in Virtual Stupidity (Japan) [T-En by Mr. Nobody v1.0] [n]">
+		<category>Games</category>
+		<description>Beavis and Butt-Head in Virtual Stupidity (Japan) [T-En by Mr. Nobody v1.0] [n]</description>
+		<rom name="Beavis and Butt-Head in Virtual Stupidity (Japan) [T-En by Mr. Nobody v1.0] [n].chd" size="297458346" crc="6e6e0341" sha1="b9508382cc6af2cd48e50aea27181291f05e6bd0"/>
+	</game>
+	<game name="Bomberman Wars (Japan, Asia) [T-En by Denim v1.0]">
+		<category>Games</category>
+		<description>Bomberman Wars (Japan, Asia) [T-En by Denim v1.0]</description>
+		<rom name="Bomberman Wars (Japan, Asia) [T-En by Denim v1.0].chd" size="86262151" crc="f747bf3a" sha1="d84b2181c9683ad314a42d941b312f763aa040c7"/>
+	</game>
+	<game name="Brave Prove (Japan) [T-En by Aishsha and Paul_met and Stardust Crusaders v1.1b]">
+		<category>Games</category>
+		<description>Brave Prove (Japan) [T-En by Aishsha and Paul_met and Stardust Crusaders v1.1b]</description>
+		<rom name="Brave Prove (Japan) [T-En by Aishsha &amp; Paul_met &amp; Stardust Crusaders v1.1b].chd" size="102877376" crc="0492c0f7" sha1="65c544c50e1f237ed0124fff5948d4598a801847"/>
+	</game>
+	<game name="Brigandine - Grand Edition (Japan) [T-En by John Osborne v8] [English Subtitles v2]">
+		<category>Games</category>
+		<description>Brigandine - Grand Edition (Japan) [T-En by John Osborne v8] [English Subtitles v2]</description>
+		<rom name="Brigandine - Grand Edition (Japan) (Disc 1) [T-En by John Osborne v8] [English Subtitles v2].chd" size="448724475" crc="5fcdf6f9" sha1="67b49805ef20751347f4c8bc1b564a3906ce3b78"/>
+		<rom name="Brigandine - Grand Edition (Japan) (Disc 2) [T-En by John Osborne v8] [English Subtitles v2].chd" size="428467252" crc="0bf17d06" sha1="e219fc2dee461141491f8a9a645ecf3cd1e30418"/>
+	</game>
+	<game name="Chocobo no Fushigi na Dungeon (Japan) [T-En by Higsby and SpecialAgentApe v1.0]">
+		<category>Games</category>
+		<description>Chocobo no Fushigi na Dungeon (Japan) [T-En by Higsby and SpecialAgentApe v1.0]</description>
+		<rom name="Chocobo no Fushigi na Dungeon (Japan) [T-En by Higsby &amp; SpecialAgentApe v1.0].chd" size="334199975" crc="7658c5fc" sha1="59172a808c4292ea82ac88369fb24d09e410f053"/>
+	</game>
+	<game name="Choro Q 2 (Japan) [T-En by M. Z. v0.01]">
+		<category>Games</category>
+		<description>Choro Q 2 (Japan) [T-En by M. Z. v0.01]</description>
+		<rom name="Choro Q 2 (Japan) [T-En by M. Z. v0.01].chd" size="315667777" crc="8dc93496" sha1="8e2802cafdb05d637d0834a89cb25ea50436b7ec"/>
+	</game>
+	<game name="Choro Q 3 (Japan) [T-En by M. Z. v0.01]">
+		<category>Games</category>
+		<description>Choro Q 3 (Japan) [T-En by M. Z. v0.01]</description>
+		<rom name="Choro Q 3 (Japan) [T-En by M. Z. v0.01].chd" size="398674888" crc="5f61b6cc" sha1="6a18bb38bda0941850f2da99e4fc90d06be64bce"/>
+	</game>
+	<game name="Choro Q Wonderful! (Japan) [T-En by Robert Allen v1.2]">
+		<category>Games</category>
+		<description>Choro Q Wonderful! (Japan) [T-En by Robert Allen v1.2]</description>
+		<rom name="Choro Q Wonderful! (Japan) [T-En by Robert Allen v1.2].chd" size="37996993" crc="1ef11af4" sha1="3b58f67738270618844a6ffe615de358506059f7"/>
+	</game>
+	<game name="Clock Tower - The First Fear (Japan) [T-En by Arcraith v1.1]">
+		<category>Games</category>
+		<description>Clock Tower - The First Fear (Japan) [T-En by Arcraith v1.1]</description>
+		<rom name="Clock Tower - The First Fear (Japan) [T-En by Arcraith v1.1].chd" size="55397252" crc="56a8a4c0" sha1="22e70b91ea34b5a98f083abae61e9469bb3ac157"/>
+	</game>
+	<game name="Community Pom (Japan) [T-En by LIPEMCO! Translations v1.0]">
+		<category>Games</category>
+		<description>Community Pom (Japan) [T-En by LIPEMCO! Translations v1.0]</description>
+		<rom name="Community Pom (Japan) [T-En by LIPEMCO! Translations v1.0].chd" size="65061000" crc="02e2bfae" sha1="0d3b7cdd647c44cd9dd5413a3ee729ce7e180d9b"/>
+	</game>
+	<game name="Dr. Slump (Japan) [T-En by Hilltop v1.1]">
+		<category>Games</category>
+		<description>Dr. Slump (Japan) [T-En by Hilltop v1.1]</description>
+		<rom name="Dr. Slump (Japan) [T-En by Hilltop v1.1].chd" size="37804117" crc="b22db548" sha1="d52f646e18d0b2450a4934a59274fda2fee901d8"/>
+	</game>
+	<game name="Echo Night - The Lord of Nightmares (Japan) [T-En by Devil Hackers v1.0a] [n]">
+		<category>Games</category>
+		<description>Echo Night - The Lord of Nightmares (Japan) [T-En by Devil Hackers v1.0a] [n]</description>
+		<rom name="Echo Night - The Lord of Nightmares (Japan) [T-En by Devil Hackers v1.0a] [n].chd" size="139563512" crc="82416299" sha1="21a634d274de89cbca435ff09ea487166258e723"/>
+	</game>
+	<game name="Ecsaform (Japan) [T-En by Aishsha &amp; Paul_met &amp; Pennywise v1.1]">
+		<category>Games</category>
+		<description>Ecsaform (Japan) [T-En by Aishsha &amp; Paul_met &amp; Pennywise v1.1]</description>
+		<rom name="Ecsaform (Japan) (Disc 1) [T-En by Aishsha &amp; Paul_met &amp; Pennywise v1.1].chd" size="158341419" crc="bdcbd6c2" sha1="609667691a1ed3586ed85b62e711edb473a6f86b"/>
+		<rom name="Ecsaform (Japan) (Disc 2) [T-En by Aishsha &amp; Paul_met &amp; Pennywise v1.1].chd" size="69141312" crc="3c22bc4a" sha1="072cc3392a35aecbf2165386cfc4b1216fde56a9"/>
+	</game>
+	<game name="Fantastic Night Dreams - Cotton Original (Japan) [T-En by RIP Translations v1.10]">
+		<category>Games</category>
+		<description>Fantastic Night Dreams - Cotton Original (Japan) [T-En by RIP Translations v1.10]</description>
+		<rom name="Fantastic Night Dreams - Cotton Original (Japan) [T-En by RIP Translations v1.10].chd" size="2002851" crc="ecd30c10" sha1="2bbf96881e2594562108528df9cd6dcc4f731c22"/>
+	</game>
+	<game name="Final Fantasy VII (USA) [T-En by ProjectXsent v1.01] [Steam Translation]">
+		<category>Games</category>
+		<description>Final Fantasy VII (USA) [T-En by ProjectXsent v1.01] [Steam Translation]</description>
+		<rom name="Final Fantasy VII (USA) (Disc 1) [T-En by ProjectXsent v1.01] [Steam Translation].chd" size="482457694" crc="75f23a9a" sha1="c90d26af48e7b6356a86e712dc64819ff9ba027d"/>
+		<rom name="Final Fantasy VII (USA) (Disc 2) [T-En by ProjectXsent v1.01] [Steam Translation].chd" size="465481112" crc="70312ab3" sha1="c44085417b5627a31d7655e19d83d728dbedd20e"/>
+		<rom name="Final Fantasy VII (USA) (Disc 3) [T-En by ProjectXsent v1.01] [Steam Translation].chd" size="420178940" crc="c37a521d" sha1="b74ac58159ce2ab9ac25615a937ffc04687e7b6d"/>
+	</game>
+	<game name="Finger Flashing (Japan) [T-En by RIP Translations v1.00]">
+		<category>Games</category>
+		<description>Finger Flashing (Japan) [T-En by RIP Translations v1.00]</description>
+		<rom name="Finger Flashing (Japan) [T-En by RIP Translations v1.00].chd" size="10099190" crc="ed090f04" sha1="26113658b68b77b62d02870408990aa2ab5da56a"/>
+	</game>
+	<game name="Front Mission 2 (Japan) [T-En by Front Mission 5 Team Patch F]">
+		<category>Games</category>
+		<description>Front Mission 2 (Japan) [T-En by Front Mission 5 Team Patch F]</description>
+		<rom name="Front Mission 2 (Japan) [T-En by Front Mission 5 Team Patch F].chd" size="156382376" crc="398cedc3" sha1="583438f1a575fd5e0f562c053baaa1f5b0f66dc2"/>
+	</game>
+	<game name="Ganbare Goemon - Space Pirate Akogingu (Japan) (Rev 1) [T-En by Adventurous Translations v0.96] [n]">
+		<category>Games</category>
+		<description>Ganbare Goemon - Space Pirate Akogingu (Japan) (Rev 1) [T-En by Adventurous Translations v0.96] [n]</description>
+		<rom name="Ganbare Goemon - Space Pirate Akogingu (Japan) (Rev 1) [T-En by Adventurous Translations v0.96] [n].chd" size="400800498" crc="f4dd6d0f" sha1="8f73381c538d2ccb4ae60228af024aff9fc3424a"/>
+	</game>
+	<game name="Gangway Monsters (Japan) [T-En by Stephanie Wagner v0.2] [i]">
+		<category>Games</category>
+		<description>Gangway Monsters (Japan) [T-En by Stephanie Wagner v0.2] [i]</description>
+		<rom name="Gangway Monsters (Japan) [T-En by Stephanie Wagner v0.2] [i].chd" size="132762737" crc="58daf794" sha1="ee7d44bf4ad9dc68ad0426ed01ad206fb1f21be8"/>
+	</game>
+	<game name="Goemon - The Successor for a New Generation (Japan) [T-En by Acediez &amp; FlashPV &amp; Frank ''Bo'' deWindt II &amp; Tom v1.0] [n]">
+		<category>Games</category>
+		<description>Goemon - The Successor for a New Generation (Japan) [T-En by Acediez &amp; FlashPV &amp; Frank ''Bo'' deWindt II &amp; Tom v1.0] [n]</description>
+		<rom name="Goemon - The Successor for a New Generation (Japan) [T-En by Acediez &amp; FlashPV &amp; Frank ''Bo'' deWindt II &amp; Tom v1.0] [n].chd" size="398133656" crc="dd994ca5" sha1="3389e90a6126b4982a1f1fdb3417caf65e341bf4"/>
+	</game>
+	<game name="Gunnm - Martian Memory (Japan) [T-En by Ripper v0.17] [i] [n]">
+		<category>Games</category>
+		<description>Gunnm - Martian Memory (Japan) [T-En by Ripper v0.17] [i] [n]</description>
+		<rom name="Gunnm - Martian Memory (Japan) [T-En by Ripper v0.17] [i] [n].chd" size="234747785" crc="2dc4b088" sha1="ddcdec04d3eed90daf05ce2cc48cfd35a1b1c1a1"/>
+	</game>
+	<game name="Hakai-ou - King of Crusher (Japan) [T-En by ArcaneAria and Mr. Nobody v1.1]">
+		<category>Games</category>
+		<description>Hakai-ou - King of Crusher (Japan) [T-En by ArcaneAria and Mr. Nobody v1.1]</description>
+		<rom name="Hakai-ou - King of Crusher (Japan) [T-En by ArcaneAria &amp; Mr. Nobody v1.1].chd" size="308594038" crc="2c838d19" sha1="5600fceb258859ab32dbc04b332033bda770c0ad"/>
+	</game>
+	<game name="Harmful Park (Japan) [T-En by Hilltop v1.1]">
+		<category>Games</category>
+		<description>Harmful Park (Japan) [T-En by Hilltop v1.1]</description>
+		<rom name="Harmful Park (Japan) [T-En by Hilltop v1.1].chd" size="148335155" crc="6f63a269" sha1="491d5bcf85c0a4b0bd2e9af3b9ddefcd768373b0"/>
+	</game>
+	<game name="Hop Ching Checkers (Japan) [T-En by John Osborne v1] [n]">
+		<category>Games</category>
+		<description>Hop Ching Checkers (Japan) [T-En by John Osborne v1] [n]</description>
+		<rom name="Hop Ching Checkers (Japan) [T-En by John Osborne v1] [n].chd" size="459992" crc="089dfbaa" sha1="844191fbe73624180b1be7d8df05675ef246a7b7"/>
+	</game>
+	<game name="Iblard - The City of Hatching Laputa (Japan) [T-En by Blame &amp; Cargodin &amp; EsperKnight &amp; Mr. Nobody &amp; PSXCraver v0.95] [n]">
+		<category>Games</category>
+		<description>Iblard - The City of Hatching Laputa (Japan) [T-En by Blame &amp; Cargodin &amp; EsperKnight &amp; Mr. Nobody &amp; PSXCraver v0.95] [n]</description>
+		<rom name="Iblard - The City of Hatching Laputa (Japan) [T-En by Blame &amp; Cargodin &amp; EsperKnight &amp; Mr. Nobody &amp; PSXCraver v0.95] [n].chd" size="368653049" crc="293bc114" sha1="40e4b10a4cbbd2a7970bb0ea519916120ddcabc1"/>
+	</game>
+	<game name="Imadoki no Vampire - Bloody Bride (Japan) [T-En by Bloody Bride Translation Project v1.01] [i]">
+		<category>Games</category>
+		<description>Imadoki no Vampire - Bloody Bride (Japan) [T-En by Bloody Bride Translation Project v1.01] [i]</description>
+		<rom name="Imadoki no Vampire - Bloody Bride (Japan) [T-En by Bloody Bride Translation Project v1.01] [i].chd" size="472539775" crc="42f416b9" sha1="f95747e9597f9c3ed8519ed05e791065ec6d0a34"/>
+	</game>
+	<game name="J. League Jikkyou Winning Eleven 2000 (Japan) [T-En by Walxer v0.85] [i]">
+		<category>Games</category>
+		<description>J. League Jikkyou Winning Eleven 2000 (Japan) [T-En by Walxer v0.85] [i]</description>
+		<rom name="J. League Jikkyou Winning Eleven 2000 (Japan) [T-En by Walxer v0.85] [i].chd" size="285513377" crc="44688347" sha1="0a2373d5dff21243c941dfcee21918a40ef63c1e"/>
+	</game>
+	<game name="J. League Jikkyou Winning Eleven 2001 (Japan) [T-En by Walxer v0.81] [i]">
+		<category>Games</category>
+		<description>J. League Jikkyou Winning Eleven 2001 (Japan) [T-En by Walxer v0.81] [i]</description>
+		<rom name="J. League Jikkyou Winning Eleven 2001 (Japan) [T-En by Walxer v0.81] [i].chd" size="217334781" crc="76319716" sha1="e2afe1160a6820bc3d0f7b5ce55da79035ba1c13"/>
+	</game>
+	<game name="Kakuge Yarou - Fighting Game Creator (Japan) [T-En by TransGen BETA]">
+		<category>Games</category>
+		<description>Kakuge Yarou - Fighting Game Creator (Japan) [T-En by TransGen BETA]</description>
+		<rom name="Kakuge Yarou - Fighting Game Creator (Japan) [T-En by TransGen BETA].chd" size="89297011" crc="a69ea3e9" sha1="596afd1cfcd9d4d8f2217c63f4fcb7e77384d170"/>
+	</game>
+	<game name="King's Field (Japan) [T-En by John Osborne v1.0]">
+		<category>Games</category>
+		<description>King's Field (Japan) [T-En by John Osborne v1.0]</description>
+		<rom name="King's Field (Japan) [T-En by John Osborne v1.0].chd" size="7434554" crc="a115f607" sha1="4a15edc284f3373562270c0219d7de88e47b0433"/>
+	</game>
+	<game name="King's Field III - Pilot Style (Japan) [T-En by John Osborne v1.0]">
+		<category>Games</category>
+		<description>King's Field III - Pilot Style (Japan) [T-En by John Osborne v1.0]</description>
+		<rom name="King's Field III - Pilot Style (Japan) [T-En by John Osborne v1.0].chd" size="73075786" crc="74938e89" sha1="dc84c593e919395b060853f5f70b27658dd16202"/>
+	</game>
+	<game name="Klaymen Klaymen - The Mystery of the Neverhood (Japan) [T-En] [n]">
+		<category>Games</category>
+		<description>Klaymen Klaymen - The Mystery of the Neverhood (Japan) [T-En] [n]</description>
+		<rom name="Klaymen Klaymen - The Mystery of the Neverhood (Japan) [T-En] [n].chd" size="541181218" crc="3cbb3e97" sha1="f2732cfa1de3def670064f4c8c9f8852fc67e258"/>
+	</game>
+	<game name="Kowai Shashin - Tales in Spirit Photography (Japan) [T-En by SnowyAria v1.1] [n]">
+		<category>Games</category>
+		<description>Kowai Shashin - Tales in Spirit Photography (Japan) [T-En by SnowyAria v1.1] [n]</description>
+		<rom name="Kowai Shashin - Tales in Spirit Photography (Japan) [T-En by SnowyAria v1.1] [n].chd" size="24326035" crc="368898a9" sha1="c93c7e4d1a2b05248da5780b356a2c78bd2802a6"/>
+	</game>
+	<game name="LSD - Dream Emulator (Japan) [T-En by Mr. Nobody and ArcaneAria v1]">
+		<category>Games</category>
+		<description>LSD - Dream Emulator (Japan) [T-En by Mr. Nobody and ArcaneAria v1]</description>
+		<rom name="LSD - Dream Emulator (Japan) [T-En by Mr. Nobody &amp; ArcaneAria v1].chd" size="414566775" crc="80f14fba" sha1="5a938116b4eca0831ad772c22044a2f63916fe79"/>
+	</game>
+	<game name="Langrisser IV (Japan) [T-En by Kil v1.3]">
+		<category>Games</category>
+		<description>Langrisser IV (Japan) [T-En by Kil v1.3]</description>
+		<rom name="Langrisser IV (Japan) [T-En by Kil v1.3].chd" size="380608304" crc="f5db0f8a" sha1="854f071c81141f6c4b8bef2b65ac9c048b7d54e2"/>
+	</game>
+	<game name="Lunar - Silver Star Story Complete (USA) [Un-Worked Design by Supper v0 (09-04-2017)]">
+		<category>Games</category>
+		<description>Lunar - Silver Star Story Complete (USA) [Un-Worked Design by Supper v0 (09-04-2017)]</description>
+		<rom name="Lunar - Silver Star Story Complete (USA) (Disc 1) [Un-Worked Design by Supper v0 (09-04-2017)].chd" size="395594565" crc="d4fb3026" sha1="5a788816dbee76e0b7b63ebc6e6c638107b0af01"/>
+		<rom name="Lunar - Silver Star Story Complete (USA) (Disc 2) [Un-Worked Design by Supper v0 (09-04-2017)].chd" size="476061378" crc="7dc68e13" sha1="4b59defea146b11a0284bd966cfe2e6d96973adb"/>
+	</game>
+	<game name="Lunar 2 - Eternal Blue Complete (USA) [Un-Worked Design by Supper v0 (05-05-2017)]">
+		<category>Games</category>
+		<description>Lunar 2 - Eternal Blue Complete (USA) [Un-Worked Design by Supper v0 (05-05-2017)]</description>
+		<rom name="Lunar 2 - Eternal Blue Complete (USA) (Disc 1) [Un-Worked Design by Supper v0 (05-05-2017)].chd" size="441707913" crc="c82e2e9b" sha1="8f3a1bffd7702ba710ea47d0b220583c8eede4ef"/>
+		<rom name="Lunar 2 - Eternal Blue Complete (USA) (Disc 2) [Un-Worked Design by Supper v0 (05-05-2017)].chd" size="405632925" crc="ae8a07db" sha1="039001b226fccb6060f3ebcc7fb7821f2da4c984"/>
+		<rom name="Lunar 2 - Eternal Blue Complete (USA) (Disc 3) [Un-Worked Design by Supper v0 (05-05-2017)].chd" size="447515260" crc="8491f093" sha1="9d10719f85ef3efe36296763615de18c75d2e791"/>
+	</game>
+	<game name="Medarot R (Japan) [T-En by Star Trinket Beta v1]">
+		<category>Games</category>
+		<description>Medarot R (Japan) [T-En by Star Trinket Beta v1]</description>
+		<rom name="Medarot R (Japan) [T-En by Star Trinket Beta v1].chd" size="76470990" crc="d72282fb" sha1="28c1812bc6bbae10aca254fa3e69b59b65d3e99d"/>
+	</game>
+	<game name="Mega Man 8 (USA) [Undub by Acediez v1.4]">
+		<category>Games</category>
+		<description>Mega Man 8 (USA) [Undub by Acediez v1.4]</description>
+		<rom name="Mega Man 8 (USA) [Undub by Acediez v1.4].chd" size="253590926" crc="317cf903" sha1="43fb869ac1d5bb32e168e62884e6885a65078086"/>
+	</game>
+	<game name="Mega Man X4 (USA) [T-En by NectarHime] [Undub by Acediez v1.13] [Relocalized]">
+		<category>Games</category>
+		<description>Mega Man X4 (USA) [T-En by NectarHime] [Undub by Acediez v1.13] [Relocalized]</description>
+		<rom name="Mega Man X4 (USA) [T-En by NectarHime] [Undub by Acediez v1.13] [Relocalized].chd" size="367565797" crc="4fd60af2" sha1="d46ac5b965efee759c47ba1652f26daf0fbe8dae"/>
+	</game>
+	<game name="Mizzurna Falls (Japan) [T-En by Evie and Nikita and Cirosan v1.0]">
+		<category>Games</category>
+		<description>Mizzurna Falls (Japan) [T-En by Evie and Nikita and Cirosan v1.0]</description>
+		<rom name="Mizzurna Falls (Japan) [T-En by Evie &amp; Nikita &amp; Cirosan v1.0].chd" size="214554168" crc="73779920" sha1="ad2845f2e37cef3bb3c0a7029ee232935034d773"/>
+	</game>
+	<game name="Moon - Remix RPG Adventure (Japan) [T-En by EsperKnight and CJ_Iwakura v2019 Beta]">
+		<category>Games</category>
+		<description>Moon - Remix RPG Adventure (Japan) [T-En by EsperKnight and CJ_Iwakura v2019 Beta]</description>
+		<rom name="Moon - Remix RPG Adventure (Japan) [T-En by EsperKnight &amp; CJ_Iwakura v2019 Beta].chd" size="377076431" crc="4257aa36" sha1="21bdc5a36858d4c50d0c6d7f65b2ca6612916b1c"/>
+	</game>
+	<game name="Moorhuhn 2 - Die Jagd geht weiter (Germany) [T-En by John Osborne v1.1]">
+		<category>Games</category>
+		<description>Moorhuhn 2 - Die Jagd geht weiter (Germany) [T-En by John Osborne v1.1]</description>
+		<rom name="Moorhuhn 2 - Die Jagd geht weiter (Germany) [T-En by John Osborne v1.1].chd" size="14997763" crc="3289618e" sha1="88ac53db2cbdc9c463b8734b951f2c08788e5e07"/>
+	</game>
+	<game name="Mystic Dragoons, The (Japan) [T-En by TransGen v1.0Beta] [i]">
+		<category>Games</category>
+		<description>Mystic Dragoons, The (Japan) [T-En by TransGen v1.0Beta] [i]</description>
+		<rom name="Mystic Dragoons, The (Japan) [T-En by TransGen v1.0Beta] [i].chd" size="80247128" crc="b18f7bc2" sha1="88110b26db26b81359d4a7fc53b8feaba6c2575b"/>
+	</game>
+	<game name="Namco Museum Encore (Japan) (Shokai Gentei Special Box) [T-En by MonstermanMFR v1.0]">
+		<category>Games</category>
+		<description>Namco Museum Encore (Japan) (Shokai Gentei Special Box) [T-En by MonstermanMFR v1.0]</description>
+		<rom name="Namco Museum Encore (Japan) (Shokai Gentei Special Box) [T-En by MonstermanMFR v1.0].chd" size="311798125" crc="7c9c6105" sha1="a3757f5ef254eaa94b9c55d301addb271114ae29"/>
+	</game>
+	<game name="Nekketsu Oyako (Japan) [T-En by PentarouZero v1.0d] [Add by SCO v1.0]">
+		<category>Games</category>
+		<description>Nekketsu Oyako (Japan) [T-En by PentarouZero v1.0d] [Add by SCO v1.0]</description>
+		<rom name="Nekketsu Oyako (Japan) [T-En by PentarouZero v1.0d] [Add by SCO v1.0].chd" size="7804785" crc="4e4578f9" sha1="43dc3f98afa755c06fda236740683b6d89484da0"/>
+	</game>
+	<game name="Persona 2 - Tsumi - Innocent Sin (Japan) [T-En by Devil Hackers v1.0a]">
+		<category>Games</category>
+		<description>Persona 2 - Tsumi - Innocent Sin (Japan) [T-En by Devil Hackers v1.0a]</description>
+		<rom name="Persona 2 - Tsumi - Innocent Sin (Japan) [T-En by Devil Hackers v1.0a].chd" size="409264246" crc="9aacb565" sha1="906089a24fe51d426601c4f634bd75bb6fd470c0"/>
+	</game>
+	<game name="Planet Laika (Japan) [T-En by Cargodin and EsperKnight and Mr. Nobody v1.3]">
+		<category>Games</category>
+		<description>Planet Laika (Japan) [T-En by Cargodin and EsperKnight and Mr. Nobody v1.3]</description>
+		<rom name="Planet Laika (Japan) [T-En by Cargodin &amp; EsperKnight &amp; Mr. Nobody v1.3].chd" size="400801866" crc="3bc3b53e" sha1="f1dbdd31a6b26f63846572f18265cc2025368e6c"/>
+	</game>
+	<game name="PoPoLoCrois Monogatari II (Japan) [T-En by LostOkina &amp; Wyrdwad v0.3] [i]">
+		<category>Games</category>
+		<description>PoPoLoCrois Monogatari II (Japan) [T-En by LostOkina &amp; Wyrdwad v0.3] [i]</description>
+		<rom name="PoPoLoCrois Monogatari II (Japan) (Disc 1) [T-En by LostOkina &amp; Wyrdwad v0.3] [i].chd" size="286108154" crc="feabeed0" sha1="f71111c787a3988bac44aa926ddb393e784384d2"/>
+		<rom name="PoPoLoCrois Monogatari II (Japan) (Disc 2) [T-En by LostOkina &amp; Wyrdwad v0.3] [i].chd" size="348741581" crc="c96b420f" sha1="940d0ad9aeb54421814eeb4c16482b7670071eeb"/>
+		<rom name="PoPoLoCrois Monogatari II (Japan) (Disc 3) [T-En by LostOkina &amp; Wyrdwad v0.3] [i].chd" size="268604554" crc="4ecc4cb0" sha1="180aa0661f9ff9fd768aba2201eaf6852c9ce18a"/>
+	</game>
+	<game name="PoPoLoCrois Story (Japan) (Rev 1) [T-En by Aishsha &amp; Paul_met &amp; Stardust Crusaders v1.3] [n]">
+		<category>Games</category>
+		<description>PoPoLoCrois Story (Japan) (Rev 1) [T-En by Aishsha &amp; Paul_met &amp; Stardust Crusaders v1.3] [n]</description>
+		<rom name="PoPoLoCrois Story (Japan) (Rev 1) [T-En by Aishsha &amp; Paul_met &amp; Stardust Crusaders v1.3] [n].chd" size="254701385" crc="1e17e9f8" sha1="788e50dbc8778d4f3c331221c8021e9810493d3b"/>
+	</game>
+	<game name="Policenauts (Japan) [T-En by JunkerHQ v1.01]">
+		<category>Games</category>
+		<description>Policenauts (Japan) [T-En by JunkerHQ v1.01]</description>
+		<rom name="Policenauts (Japan) (Disc 1) [T-En by JunkerHQ v1.01].chd" size="525682364" crc="bfb15463" sha1="047fbba35e58058208e5dac4f3eb54cd2d04452f"/>
+		<rom name="Policenauts (Japan) (Disc 2) [T-En by JunkerHQ v1.01].chd" size="408307614" crc="5688c900" sha1="0d2d19639b10d33b6d9048973cd7ebb73c740041"/>
+	</game>
+	<game name="Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0]">
+		<category>Games</category>
+		<description>Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0]</description>
+		<rom name="Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0].chd" size="356338186" crc="b1972723" sha1="882181b7924340a641befd82d9b134f618722d58"/>
+	</game>
+	<game name="RMJ - The Mystery Hospital (Japan) [T-En by Blametherobots &amp; EsperKnight &amp; Cargodin &amp; SnowyAria v1.0]">
+		<category>Games</category>
+		<description>RMJ - The Mystery Hospital (Japan) [T-En by Blametherobots &amp; EsperKnight &amp; Cargodin &amp; SnowyAria v1.0]</description>
+		<rom name="RMJ - The Mystery Hospital (Japan) (Disc 1) (What's Going On) [T-En by Blametherobots &amp; EsperKnight &amp; Cargodin &amp; SnowyAria v1.0].chd" size="409889986" crc="27c22796" sha1="d0527681ac6338c25c481948f579507c2cf5f795"/>
+		<rom name="RMJ - The Mystery Hospital (Japan) (Disc 2) (Fears Behind) [T-En by Blametherobots &amp; EsperKnight &amp; Cargodin &amp; SnowyAria v1.0].chd" size="417048875" crc="0fe54861" sha1="4b60831b1b9622d0b7531410de7e9909ab43b9bd"/>
+	</game>
+	<game name="Racing Lagoon (Japan, Asia) [T-En by Hilltop v1.1]">
+		<category>Games</category>
+		<description>Racing Lagoon (Japan, Asia) [T-En by Hilltop v1.1]</description>
+		<rom name="Racing Lagoon (Japan, Asia) [T-En by Hilltop v1.1].chd" size="476226709" crc="7d36d467" sha1="d5e074a061d1bd66daa93233b1fbd196b1d39d47"/>
+	</game>
+	<game name="Remote Control Dandy (Japan) [T-En by LIPEMCO! Translations v1.0]">
+		<category>Games</category>
+		<description>Remote Control Dandy (Japan) [T-En by LIPEMCO! Translations v1.0]</description>
+		<rom name="Remote Control Dandy (Japan) [T-En by LIPEMCO! Translations v1.0].chd" size="294197424" crc="965ca629" sha1="8ad40db24cb2a9b9e5e4e891885de53a2c42cb45"/>
+	</game>
+	<game name="Shin Megami Tensei (Japan) [T-En by Tom &amp; FlashPV &amp; Fothsid v1.1]">
+		<category>Games</category>
+		<description>Shin Megami Tensei (Japan) [T-En by Tom &amp; FlashPV &amp; Fothsid v1.1]</description>
+		<rom name="Shin Megami Tensei (Japan) [T-En by Tom &amp; FlashPV &amp; Fothsid v1.1].chd" size="36753348" crc="824f465f" sha1="426ba508baf094b3db26bf321bdd8466d2326ec8"/>
+	</game>
+	<game name="Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) [T-En by Riderr3 v1.1] [i]">
+		<category>Games</category>
+		<description>Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) [T-En by Riderr3 v1.1] [i]</description>
+		<rom name="Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) [T-En by Riderr3 v1.1] [i].chd" size="68076890" crc="9aa1284f" sha1="bc85143ffa139da8460175a2a90998e8b9301c05"/>
+	</game>
+	<game name="Suikogaiden Vol. 1 - Swordsman of Harmonia (Japan) [T-En by Suikogaiden Translation Project v1.1] [n]">
+		<category>Games</category>
+		<description>Suikogaiden Vol. 1 - Swordsman of Harmonia (Japan) [T-En by Suikogaiden Translation Project v1.1] [n]</description>
+		<rom name="Suikogaiden Vol. 1 - Swordsman of Harmonia (Japan) [T-En by Suikogaiden Translation Project v1.1] [n].chd" size="330482574" crc="fbde2f76" sha1="cb06805819ab6c37371977e6b9bece07092cfe62"/>
+	</game>
+	<game name="Suikogaiden Vol. 2 - Duel at Crystal Valley (Japan) [T-En by Suikogaiden Translation Project v1.1] [n]">
+		<category>Games</category>
+		<description>Suikogaiden Vol. 2 - Duel at Crystal Valley (Japan) [T-En by Suikogaiden Translation Project v1.1] [n]</description>
+		<rom name="Suikogaiden Vol. 2 - Duel at Crystal Valley (Japan) [T-En by Suikogaiden Translation Project v1.1] [n].chd" size="294947722" crc="0d6c25f5" sha1="25d35b909e8a427356ec2c94c3fef33bcb3129ec"/>
+	</game>
+	<game name="Super Robot Wars Alpha Gaiden (Japan) [T-En by Aeon Genesis v0.95b] [i] [n]">
+		<category>Games</category>
+		<description>Super Robot Wars Alpha Gaiden (Japan) [T-En by Aeon Genesis v0.95b] [i] [n]</description>
+		<rom name="Super Robot Wars Alpha Gaiden (Japan) [T-En by Aeon Genesis v0.95b] [i] [n].chd" size="419830882" crc="2c80e0c9" sha1="7f5e7a5e9ada7951f3f457bca358c0f9159548aa"/>
+	</game>
+	<game name="Tactical Adventure Galaxy Fraulein Yuna - Final Edition (Japan) [T-En by Supper &amp; Mafoo343 v1.0] [n]">
+		<category>Games</category>
+		<description>Tactical Adventure Galaxy Fraulein Yuna - Final Edition (Japan) [T-En by Supper &amp; Mafoo343 v1.0] [n]</description>
+		<rom name="Tactical Adventure Galaxy Fraulein Yuna - Final Edition (Japan) [T-En by Supper &amp; Mafoo343 v1.0] [n].chd" size="374743832" crc="70ee6b65" sha1="bbfd93b9de2cbdff4c71ab7e8c5749fea9e0ebc1"/>
+	</game>
+	<game name="Tales of Phantasia (Japan) [T-En by Absolute Zero v1.0]">
+		<category>Games</category>
+		<description>Tales of Phantasia (Japan) [T-En by Absolute Zero v1.0]</description>
+		<rom name="Tales of Phantasia (Japan) [T-En by Absolute Zero v1.0].chd" size="370378624" crc="be729b25" sha1="53a469504b30c05e725ef2f17eb108ea9aa5979d"/>
+	</game>
+	<game name="They're here! (Japan) [T-En by SnowyAria v1.0] [n]">
+		<category>Games</category>
+		<description>They're here! (Japan) [T-En by SnowyAria v1.0] [n]</description>
+		<rom name="They're here! (Japan) [T-En by SnowyAria v1.0] [n].chd" size="47205642" crc="9f0822f6" sha1="de7c71992217496bce0900ea61819de4b070c87f"/>
+	</game>
+	<game name="Tobal 2 (Japan) (Rev 1) [T-En by Infinite Lupine Translations v1.00b] [Add by r4dius v1.01b] [i]">
+		<category>Games</category>
+		<description>Tobal 2 (Japan) (Rev 1) [T-En by Infinite Lupine Translations v1.00b] [Add by r4dius v1.01b] [i]</description>
+		<rom name="Tobal 2 (Japan) (Rev 1) [T-En by Infinite Lupine Translations v1.00b] [Add by r4dius v1.01b] [i].chd" size="425071267" crc="2af29f71" sha1="80dd9386b8ea0b8a8e814ae709fb42df811c3bb5"/>
+	</game>
+	<game name="Tripuzz (Japan) [T-En by bankbank &amp; MA97 &amp; ratttz v1.0]">
+		<category>Games</category>
+		<description>Tripuzz (Japan) [T-En by bankbank &amp; MA97 &amp; ratttz v1.0]</description>
+		<rom name="Tripuzz (Japan) [T-En by bankbank &amp; MA97 &amp; ratttz v1.0].chd" size="293676185" crc="f3db7caa" sha1="2e76c256cdfe98191d7bd64501329815f7dba7ed"/>
+	</game>
+	<game name="Ultima Underworld - The Stygian Abyss (Japan) [T-En by Gertius v1.0]">
+		<category>Games</category>
+		<description>Ultima Underworld - The Stygian Abyss (Japan) [T-En by Gertius v1.0]</description>
+		<rom name="Ultima Underworld - The Stygian Abyss (Japan) [T-En by Gertius v1.0].chd" size="229428748" crc="f66c4c75" sha1="19c5e29e3225495407bbbe52ee3ef6c6c3aa6470"/>
+	</game>
+	<game name="Welcome House (Japan) [T-En by Nikita600 vAlpha 05FEB2023]">
+		<category>Games</category>
+		<description>Welcome House (Japan) [T-En by Nikita600 vAlpha 05FEB2023]</description>
+		<rom name="Welcome House (Japan) [T-En by Nikita600 vAlpha 05FEB2023].chd" size="132216655" crc="9aab4691" sha1="d7058d8d03a0f3df8abc8ddf09842c1e70230d02"/>
+	</game>
+	<game name="World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal e no Chousen (Japan) [T-En by Walxer v0.83] [i]">
+		<category>Games</category>
+		<description>World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal e no Chousen (Japan) [T-En by Walxer v0.83] [i]</description>
+		<rom name="World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal e no Chousen (Japan) [T-En by Walxer v0.83] [i].chd" size="286598056" crc="cc39e06b" sha1="87e8ed035e9a09d97570b81302e7d17f403ce70e"/>
+	</game>
+	<game name="World Soccer Jikkyou Winning Eleven 4 (Japan) [T-En by Walxer v0.89] [i]">
+		<category>Games</category>
+		<description>World Soccer Jikkyou Winning Eleven 4 (Japan) [T-En by Walxer v0.89] [i]</description>
+		<rom name="World Soccer Jikkyou Winning Eleven 4 (Japan) [T-En by Walxer v0.89] [i].chd" size="257234720" crc="6ef75a17" sha1="b3f2bc035c777c69735069f1dded0067a3e6ecca"/>
+	</game>
+	<game name="World Soccer Winning Eleven 2002 (Japan) [T-En by PoliPoli v2] [Japanese commentary]">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven 2002 (Japan) [T-En by PoliPoli v2] [Japanese commentary]</description>
+		<rom name="World Soccer Winning Eleven 2002 (Japan) [T-En by PoliPoli v2] [Japanese commentary].chd" size="279765462" crc="e3a90200" sha1="25dbc4f2974201fb8c0f2fbb6f7b699fc3dcc6b1"/>
+	</game>
+	<game name="Yutona Eiyuu Senki - TearRingSaga (Japan) [T-En by Aethin v1.04]">
+		<category>Games</category>
+		<description>Yutona Eiyuu Senki - TearRingSaga (Japan) [T-En by Aethin v1.04]</description>
+		<rom name="Yutona Eiyuu Senki - TearRingSaga (Japan) [T-En by Aethin v1.04].chd" size="177734808" crc="edb0838f" sha1="6730bb7222811b966646ed1a17129557efa7fd61"/>
+	</game>
+	<game name="iS - Internal Section (Japan) [T-En by GameHacking.org v1.02]">
+		<category>Games</category>
+		<description>iS - Internal Section (Japan) [T-En by GameHacking.org v1.02]</description>
+		<rom name="iS - Internal Section (Japan) [T-En by GameHacking.org v1.02].chd" size="171714064" crc="ad8d8359" sha1="96794cfd3d9df83436c683a2b6cf4996deb65989"/>
+	</game>
+</datafile>

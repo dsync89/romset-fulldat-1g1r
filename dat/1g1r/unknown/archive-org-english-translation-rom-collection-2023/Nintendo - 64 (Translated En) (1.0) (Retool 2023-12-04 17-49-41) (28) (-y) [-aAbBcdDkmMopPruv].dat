@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - 64 (Translated En) (Retool)</name>
+		<description>Nintendo - 64 (Translated En) (28) (-y) [-aAbBcdDkmMopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 17-49-41</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Aleck Bordon Adventure - 4th Story - Tower &amp; Shaft (Japan) (Aleck 64) [T-En by Zoinkity v1.0]">
+		<category>Games</category>
+		<description>Aleck Bordon Adventure - 4th Story - Tower &amp; Shaft (Japan) (Aleck 64) [T-En by Zoinkity v1.0]</description>
+		<rom name="Aleck Bordon Adventure - 4th Story - Tower &amp; Shaft (Japan) (Aleck 64) [T-En by Zoinkity v1.0].z64" size="16777216" crc="a07eff81" sha1="7f55a71caa024c6765f1742115cfe61e96f3889a"/>
+	</game>
+	<game name="Animal Forest (Japan) [T-En by Zoinkity v021210] [i] [n]">
+		<category>Games</category>
+		<description>Animal Forest (Japan) [T-En by Zoinkity v021210] [i] [n]</description>
+		<rom name="Animal Forest (Japan) [T-En by Zoinkity v021210] [i] [n].z64" size="33554432" crc="46239627" sha1="1d7ee0f42824b2cdb85242862909b564f499c17b"/>
+	</game>
+	<game name="Bomberman 64 (Japan) [T-En by Zoinkity v1.3]">
+		<category>Games</category>
+		<description>Bomberman 64 (Japan) [T-En by Zoinkity v1.3]</description>
+		<rom name="Bomberman 64 (Japan) [T-En by Zoinkity v1.3].z64" size="10485760" crc="9bb224ca" sha1="0f691f3383de294e85e7ddb939e5533a15b6b15d"/>
+	</game>
+	<game name="Chameleon Twist (Japan) [T-En by Zoinkity v1.0]">
+		<category>Games</category>
+		<description>Chameleon Twist (Japan) [T-En by Zoinkity v1.0]</description>
+		<rom name="Chameleon Twist (Japan) [T-En by Zoinkity v1.0].z64" size="12582912" crc="6def366b" sha1="08691e8bf9bba1fde56b97ac6825d5dba68df5a2"/>
+	</game>
+	<game name="Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan) [T-En by Zoinkity v1.0]">
+		<category>Games</category>
+		<description>Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan) [T-En by Zoinkity v1.0]</description>
+		<rom name="Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan) [T-En by Zoinkity v1.0].z64" size="12582912" crc="4c50d8c5" sha1="028acd55431d2170adf857d5d01f2de64e436a4d"/>
+	</game>
+	<game name="Custom Robo (Japan) [T-En by Star Trinket v1.0]">
+		<category>Games</category>
+		<description>Custom Robo (Japan) [T-En by Star Trinket v1.0]</description>
+		<rom name="Custom Robo (Japan) [T-En by Star Trinket v1.0].z64" size="16777216" crc="6b6ea7db" sha1="59d69f2a730eac3a9966e12f18b009c242023aa9"/>
+	</game>
+	<game name="Densha de Go! 64 (Japan) [T-En by Zoinkity v1.01]">
+		<category>Games</category>
+		<description>Densha de Go! 64 (Japan) [T-En by Zoinkity v1.01]</description>
+		<rom name="Densha de Go! 64 (Japan) [T-En by Zoinkity v1.01].z64" size="31457280" crc="4cb52323" sha1="34c45fe569a22185da5c3e707cd7eee46ad82492"/>
+	</game>
+	<game name="Doshin the Giant 1 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v2018-06] [i] [n]">
+		<category>Games</category>
+		<description>Doshin the Giant 1 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v2018-06] [i] [n]</description>
+		<rom name="Doshin the Giant 1 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v2018-06] [i] [n].z64" size="65090560" crc="67511f43" sha1="35293ff0296131d798749d9029be051592897e14"/>
+	</game>
+	<game name="F-Zero X - Expansion Kit (Japan) (64DD) [Hack by Zoinkity v2] [T-En by LuigiBlood v2]">
+		<category>Games</category>
+		<description>F-Zero X - Expansion Kit (Japan) (64DD) [Hack by Zoinkity v2] [T-En by LuigiBlood v2]</description>
+		<rom name="F-Zero X - Expansion Kit (Japan) (64DD) [Hack by Zoinkity v2] [T-En by LuigiBlood v2].z64" size="66551504" crc="c444ca5e" sha1="5d46e6ba0abcccfb84f73c31e00dff9864218b28"/>
+	</game>
+	<game name="J.League Dynamite Soccer 64 (Japan) [T-En by Zoinkity v1.0]">
+		<category>Games</category>
+		<description>J.League Dynamite Soccer 64 (Japan) [T-En by Zoinkity v1.0]</description>
+		<rom name="J.League Dynamite Soccer 64 (Japan) [T-En by Zoinkity v1.0].z64" size="7625120" crc="a615c97f" sha1="cbb76bfcaf7aa4b1aae0df5b9c69ac129c7d8bfc"/>
+	</game>
+	<game name="J.League Live 64 (Japan) [T-En by Zoinkity v1.0]">
+		<category>Games</category>
+		<description>J.League Live 64 (Japan) [T-En by Zoinkity v1.0]</description>
+		<rom name="J.League Live 64 (Japan) [T-En by Zoinkity v1.0].z64" size="8388608" crc="41b82889" sha1="9874a423f5c86ff6ec1c88542f795de14fb2cb15"/>
+	</game>
+	<game name="Last Legion UX (Japan) [T-En by Zoinkity v1.0]">
+		<category>Games</category>
+		<description>Last Legion UX (Japan) [T-En by Zoinkity v1.0]</description>
+		<rom name="Last Legion UX (Japan) [T-En by Zoinkity v1.0].z64" size="8823808" crc="d08a2ccd" sha1="41b4decb1330ba5d091750ae512ed8e729243843"/>
+	</game>
+	<game name="Magical Tetris Challenge (Japan) (Aleck 64) [T-En by Zoinkity v1.1] [n]">
+		<category>Games</category>
+		<description>Magical Tetris Challenge (Japan) (Aleck 64) [T-En by Zoinkity v1.1] [n]</description>
+		<rom name="Magical Tetris Challenge (Japan) (Aleck 64) [T-En by Zoinkity v1.1] [n].z64" size="16777216" crc="90e49a82" sha1="b92489fbef9ad2578945b9137695686add021449"/>
+	</game>
+	<game name="Mario Artist - Paint Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood &amp; Cauterize v2.1]">
+		<category>Games</category>
+		<description>Mario Artist - Paint Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood &amp; Cauterize v2.1]</description>
+		<rom name="Mario Artist - Paint Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood &amp; Cauterize v2.1].z64" size="65090560" crc="e3862c3e" sha1="b66491bcb2812e81b5f2c1929eeb91233e8b3d37"/>
+	</game>
+	<game name="Mario Artist - Polygon Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood v3.0]">
+		<category>Games</category>
+		<description>Mario Artist - Polygon Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood v3.0]</description>
+		<rom name="Mario Artist - Polygon Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood v3.0].z64" size="65090560" crc="cf274100" sha1="6cf3f709c880589a6c2583dd9a487a0e9e949811"/>
+	</game>
+	<game name="Mario Artist - Talent Studio (Japan) (64DD) [T-En by LuigiBlood v2.1]">
+		<category>Games</category>
+		<description>Mario Artist - Talent Studio (Japan) (64DD) [T-En by LuigiBlood v2.1]</description>
+		<rom name="Mario Artist - Talent Studio (Japan) (64DD) [T-En by LuigiBlood v2.1].z64" size="65090560" crc="3caef35e" sha1="08dc05bffbcdc83ca6ac3400eacaf0a540b7fab1"/>
+	</game>
+	<game name="Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [n]">
+		<category>Games</category>
+		<description>Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [n]</description>
+		<rom name="Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [n].z64" size="16777216" crc="9605710e" sha1="bf5d347f4047f79f7a89a5f3e28fbbf1d0fa9a0a"/>
+	</game>
+	<game name="Masters '98 - Augusta National Golf Club (Japan) [T-En by Zoinkity v1.0] [n]">
+		<category>Games</category>
+		<description>Masters '98 - Augusta National Golf Club (Japan) [T-En by Zoinkity v1.0] [n]</description>
+		<rom name="Masters '98 - Augusta National Golf Club (Japan) [T-En by Zoinkity v1.0] [n].z64" size="15125440" crc="d2a6b89f" sha1="a74635e776e97520519c3340d3316d778a0cd4d6"/>
+	</game>
+	<game name="Ninja Boy Rantarou 64 Game Gallery (Japan) [T-En by Zoinkity v1.0] [n]">
+		<category>Games</category>
+		<description>Ninja Boy Rantarou 64 Game Gallery (Japan) [T-En by Zoinkity v1.0] [n]</description>
+		<rom name="Ninja Boy Rantarou 64 Game Gallery (Japan) [T-En by Zoinkity v1.0] [n].z64" size="5111808" crc="788c0242" sha1="92f27a536913a641241c4a1dcb81379dc7396fdd"/>
+	</game>
+	<game name="Puyo Puyo Sun 64 (Japan) [T-En by Zoinkity v1.1]">
+		<category>Games</category>
+		<description>Puyo Puyo Sun 64 (Japan) [T-En by Zoinkity v1.1]</description>
+		<rom name="Puyo Puyo Sun 64 (Japan) [T-En by Zoinkity v1.1].z64" size="16777216" crc="c7d71667" sha1="cd4aaaaad29c6766dfc4f639326cea0a0a4d9a24"/>
+	</game>
+	<game name="Shiren the Wanderer 2 - Oni Invasion! Shiren Castle! (Japan) [T-En by SharkSnack &amp; Ozidual &amp; KmbTos v1.02] [n]">
+		<category>Games</category>
+		<description>Shiren the Wanderer 2 - Oni Invasion! Shiren Castle! (Japan) [T-En by SharkSnack &amp; Ozidual &amp; KmbTos v1.02] [n]</description>
+		<rom name="Shiren the Wanderer 2 - Oni Invasion! Shiren Castle! (Japan) [T-En by SharkSnack &amp; Ozidual &amp; KmbTos v1.02] [n].z64" size="33554432" crc="2e2752c4" sha1="9c2c4fe015728cd535d40d5776b54580f45888fa"/>
+	</game>
+	<game name="SimCity 64 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v0.6.38]">
+		<category>Games</category>
+		<description>SimCity 64 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v0.6.38]</description>
+		<rom name="SimCity 64 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v0.6.38].z64" size="67061760" crc="21422dfa" sha1="36d673c38bb8b33ae9ea46a5e886739e97227966"/>
+	</game>
+	<game name="St. Andrews Old Course (Japan) [T-En by Zoinkity v1.0] [n]">
+		<category>Games</category>
+		<description>St. Andrews Old Course (Japan) [T-En by Zoinkity v1.0] [n]</description>
+		<rom name="St. Andrews Old Course (Japan) [T-En by Zoinkity v1.0] [n].z64" size="8299120" crc="759e0bd2" sha1="f1495f7f1605522dd84f879af9754d0a8d62bf66"/>
+	</game>
+	<game name="Tsumi to Batsu - Hoshi no Keishousha (Japan) [T-En by Zoinkity v1.0]">
+		<category>Games</category>
+		<description>Tsumi to Batsu - Hoshi no Keishousha (Japan) [T-En by Zoinkity v1.0]</description>
+		<rom name="Tsumi to Batsu - Hoshi no Keishousha (Japan) [T-En by Zoinkity v1.0].z64" size="33554432" crc="6a19ae94" sha1="e3906c919236dac6eba020b4b8c1df91fd725c5d"/>
+	</game>
+	<game name="Virtual Pro Wrestling 2 - Oudou Keishou (Japan) [T-En by VPW 2 Dojo Beta 3]">
+		<category>Games</category>
+		<description>Virtual Pro Wrestling 2 - Oudou Keishou (Japan) [T-En by VPW 2 Dojo Beta 3]</description>
+		<rom name="Virtual Pro Wrestling 2 - Oudou Keishou (Japan) [T-En by VPW 2 Dojo Beta 3].z64" size="33554432" crc="71f98a9b" sha1="967e5239ca44fff2271d0971d9300f27f75560ee"/>
+	</game>
+	<game name="Virtual Pro Wrestling 64 (Japan) [T-En by Star Trinket v1.77 beta]">
+		<category>Games</category>
+		<description>Virtual Pro Wrestling 64 (Japan) [T-En by Star Trinket v1.77 beta]</description>
+		<rom name="Virtual Pro Wrestling 64 (Japan) [T-En by Star Trinket v1.77 beta].z64" size="16777216" crc="0f516393" sha1="524f9ed2e17e160a7a853da1e704d6174f7041c9"/>
+	</game>
+	<game name="Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition) [T-En by Zoinkity v1.1]">
+		<category>Games</category>
+		<description>Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition) [T-En by Zoinkity v1.1]</description>
+		<rom name="Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition) [T-En by Zoinkity v1.1].z64" size="8388608" crc="5c3017f2" sha1="8d9a115b34d9ae100595cfef81a3a8bae38e2388"/>
+	</game>
+	<game name="Wonder Project J2 - Koruro no Mori no Jozet (Japan) [T-En by Ryu v1.0]">
+		<category>Games</category>
+		<description>Wonder Project J2 - Koruro no Mori no Jozet (Japan) [T-En by Ryu v1.0]</description>
+		<rom name="Wonder Project J2 - Koruro no Mori no Jozet (Japan) [T-En by Ryu v1.0].z64" size="8912896" crc="e1094e29" sha1="27c4c8f199d1045c697c5d79d216d33e1c715760"/>
+	</game>
+</datafile>

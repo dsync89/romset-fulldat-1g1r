@@ -1,0 +1,129 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1) [T-En by Load Word Team v1.1]
+  - Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1) [T-En by Team NEMO v0.9b]
++ Brigandine - Grand Edition (Japan) [T-En by John Osborne v8] [English Subtitles v2]
+  - Brigandine - Grand Edition (Japan) [T-En by John Osborne v8]
+  - Brigandine - Grand Edition (Japan) [T-En by John Osborne v8] [English Voices v2]
++ Choro Q Wonderful! (Japan) [T-En by Robert Allen v1.2]
+  - Choro Q Wonderful! (Japan) [T-En by Robert Allen v1.2] [Modded]
++ Dr. Slump (Japan) [T-En by Hilltop v1.1]
+  - Dr. Slump (Japan) [T-En by Hilltop v1.1] [Classic Arale]
++ Final Fantasy VII (USA) [T-En by ProjectXsent v1.01] [Steam Translation]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized] [Canon]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized] [Canon] [Chicago]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized] [Canon] [Chicago] [HardType]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized] [Canon] [HardType]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized] [Chicago]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized] [Chicago] [HardType]
+  - Final Fantasy VII (USA) [T-En by GreenGoblin R06g v08-06-2021] [Relocalized] [HardType]
++ King's Field III - Pilot Style (Japan) [T-En by John Osborne v1.0]
+  - King's Field III - Pilot Style (Japan) [T-En by John Osborne v1.0] [All Items v1.0]
++ Kowai Shashin - Tales in Spirit Photography (Japan) [T-En by SnowyAria v1.1] [n]
+  - Kowai Shashin - Tales in Spirit Photography (Japan) [T-En by SnowyAria v1.1] [n] [Randomized Inputs Edition]
+  - Kowai Shashin - Tales in Spirit Photography (Japan) [T-En by SnowyAria v1.1] [n] [Visual Novel Edition]
++ Mizzurna Falls (Japan) [T-En by Evie and Nikita and Cirosan v1.0]
+  - Mizzurna Falls (Japan) [T-En by Owl v20210330 beta]
++ Tales of Phantasia (Japan) [T-En by Absolute Zero v1.0]
+  - Tales of Phantasia (Japan) [T-En by Phantasian Productions pre-1.1]
++ Tobal 2 (Japan) (Rev 1) [T-En by Infinite Lupine Translations v1.00b] [Add by r4dius v1.01b] [i]
+  - Tobal 2 (Japan) (Rev 1) [T-En by Infinite Lupine Translations v1.00b] [i]
++ World Soccer Winning Eleven 2002 (Japan) [T-En by PoliPoli v2] [Japanese commentary]
+  - World Soccer Winning Eleven 2002 (Japan) [T-En by PoliPoli v2]
+  - World Soccer Winning Eleven 2002 (Japan) [T-En by Walxer v0.8] [i]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Aconcagua (Japan) [T-En by Hilltop v1.0]
++ Addie's Present - To Moze from Addie (Japan) [T-En by Cargodin & EsperKnight & Gwendolyn & PSXCraver v1.0] [n]
++ Air Management '96 (Japan) [T-En by Lady Jessica v0.8] [i]
++ Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2) [T-En by Devil Hackers v1.0]
++ Alundra (USA) (Rev 1) [Un-Worked Design by Supper v1 (04-03-2017)]
++ Animetic Story Game 1 - Card Captor Sakura (Japan) [T-En by NoOneee v1.0]
++ Asuncia - Staff of Sealing (Japan) [T-En by John Osborne v2] [n]
++ B. L. U. E. - Legend of Water (Japan) [T-En by Hilltop v1.1]
++ Baroque - Yuganda Mousou (Japan) (Genteiban) [T-En by Plissken v1.0.2]
++ Beavis and Butt-Head in Virtual Stupidity (Japan) [T-En by Mr. Nobody v1.0] [n]
++ Bomberman Wars (Japan, Asia) [T-En by Denim v1.0]
++ Brave Prove (Japan) [T-En by Aishsha and Paul_met and Stardust Crusaders v1.1b]
++ Chocobo no Fushigi na Dungeon (Japan) [T-En by Higsby and SpecialAgentApe v1.0]
++ Choro Q 2 (Japan) [T-En by M. Z. v0.01]
++ Choro Q 3 (Japan) [T-En by M. Z. v0.01]
++ Clock Tower - The First Fear (Japan) [T-En by Arcraith v1.1]
++ Community Pom (Japan) [T-En by LIPEMCO! Translations v1.0]
++ Echo Night - The Lord of Nightmares (Japan) [T-En by Devil Hackers v1.0a] [n]
++ Ecsaform (Japan) [T-En by Aishsha & Paul_met & Pennywise v1.1]
++ Fantastic Night Dreams - Cotton Original (Japan) [T-En by RIP Translations v1.10]
++ Finger Flashing (Japan) [T-En by RIP Translations v1.00]
++ Front Mission 2 (Japan) [T-En by Front Mission 5 Team Patch F]
++ Ganbare Goemon - Space Pirate Akogingu (Japan) (Rev 1) [T-En by Adventurous Translations v0.96] [n]
++ Gangway Monsters (Japan) [T-En by Stephanie Wagner v0.2] [i]
++ Goemon - The Successor for a New Generation (Japan) [T-En by Acediez & FlashPV & Frank ''Bo'' deWindt II & Tom v1.0] [n]
++ Gunnm - Martian Memory (Japan) [T-En by Ripper v0.17] [i] [n]
++ Hakai-ou - King of Crusher (Japan) [T-En by ArcaneAria and Mr. Nobody v1.1]
++ Harmful Park (Japan) [T-En by Hilltop v1.1]
++ Hop Ching Checkers (Japan) [T-En by John Osborne v1] [n]
++ Iblard - The City of Hatching Laputa (Japan) [T-En by Blame & Cargodin & EsperKnight & Mr. Nobody & PSXCraver v0.95] [n]
++ Imadoki no Vampire - Bloody Bride (Japan) [T-En by Bloody Bride Translation Project v1.01] [i]
++ J. League Jikkyou Winning Eleven 2000 (Japan) [T-En by Walxer v0.85] [i]
++ J. League Jikkyou Winning Eleven 2001 (Japan) [T-En by Walxer v0.81] [i]
++ Kakuge Yarou - Fighting Game Creator (Japan) [T-En by TransGen BETA]
++ King's Field (Japan) [T-En by John Osborne v1.0]
++ Klaymen Klaymen - The Mystery of the Neverhood (Japan) [T-En] [n]
++ LSD - Dream Emulator (Japan) [T-En by Mr. Nobody and ArcaneAria v1]
++ Langrisser IV (Japan) [T-En by Kil v1.3]
++ Lunar - Silver Star Story Complete (USA) [Un-Worked Design by Supper v0 (09-04-2017)]
++ Lunar 2 - Eternal Blue Complete (USA) [Un-Worked Design by Supper v0 (05-05-2017)]
++ Medarot R (Japan) [T-En by Star Trinket Beta v1]
++ Mega Man 8 (USA) [Undub by Acediez v1.4]
++ Mega Man X4 (USA) [T-En by NectarHime] [Undub by Acediez v1.13] [Relocalized]
++ Moon - Remix RPG Adventure (Japan) [T-En by EsperKnight and CJ_Iwakura v2019 Beta]
++ Moorhuhn 2 - Die Jagd geht weiter (Germany) [T-En by John Osborne v1.1]
++ Mystic Dragoons, The (Japan) [T-En by TransGen v1.0Beta] [i]
++ Namco Museum Encore (Japan) (Shokai Gentei Special Box) [T-En by MonstermanMFR v1.0]
++ Nekketsu Oyako (Japan) [T-En by PentarouZero v1.0d] [Add by SCO v1.0]
++ Persona 2 - Tsumi - Innocent Sin (Japan) [T-En by Devil Hackers v1.0a]
++ Planet Laika (Japan) [T-En by Cargodin and EsperKnight and Mr. Nobody v1.3]
++ PoPoLoCrois Monogatari II (Japan) [T-En by LostOkina & Wyrdwad v0.3] [i]
++ PoPoLoCrois Story (Japan) (Rev 1) [T-En by Aishsha & Paul_met & Stardust Crusaders v1.3] [n]
++ Policenauts (Japan) [T-En by JunkerHQ v1.01]
++ Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0]
++ RMJ - The Mystery Hospital (Japan) [T-En by Blametherobots & EsperKnight & Cargodin & SnowyAria v1.0]
++ Racing Lagoon (Japan, Asia) [T-En by Hilltop v1.1]
++ Remote Control Dandy (Japan) [T-En by LIPEMCO! Translations v1.0]
++ Shin Megami Tensei (Japan) [T-En by Tom & FlashPV & Fothsid v1.1]
++ Sid Meier's Civilization - Shin Sekai Shichidai Bunmei (Japan) [T-En by Riderr3 v1.1] [i]
++ Suikogaiden Vol. 1 - Swordsman of Harmonia (Japan) [T-En by Suikogaiden Translation Project v1.1] [n]
++ Suikogaiden Vol. 2 - Duel at Crystal Valley (Japan) [T-En by Suikogaiden Translation Project v1.1] [n]
++ Super Robot Wars Alpha Gaiden (Japan) [T-En by Aeon Genesis v0.95b] [i] [n]
++ Tactical Adventure Galaxy Fraulein Yuna - Final Edition (Japan) [T-En by Supper & Mafoo343 v1.0] [n]
++ They're here! (Japan) [T-En by SnowyAria v1.0] [n]
++ Tripuzz (Japan) [T-En by bankbank & MA97 & ratttz v1.0]
++ Ultima Underworld - The Stygian Abyss (Japan) [T-En by Gertius v1.0]
++ Welcome House (Japan) [T-En by Nikita600 vAlpha 05FEB2023]
++ World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal e no Chousen (Japan) [T-En by Walxer v0.83] [i]
++ World Soccer Jikkyou Winning Eleven 4 (Japan) [T-En by Walxer v0.89] [i]
++ Yutona Eiyuu Senki - TearRingSaga (Japan) [T-En by Aethin v1.04]
++ iS - Internal Section (Japan) [T-En by GameHacking.org v1.02]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sony PlayStation [T-En] Docs

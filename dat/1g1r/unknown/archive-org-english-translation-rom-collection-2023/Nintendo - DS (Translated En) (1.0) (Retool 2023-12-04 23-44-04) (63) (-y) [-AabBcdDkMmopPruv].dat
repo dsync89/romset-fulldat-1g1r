@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - DS (Translated En) (Retool)</name>
+		<description>Nintendo - DS (Translated En) (63) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 23-44-04</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="7th Dragon (Japan) [T-En by Geoff Embree v1.01]">
+		<category>Games</category>
+		<description>7th Dragon (Japan) [T-En by Geoff Embree v1.01]</description>
+		<rom name="7th Dragon (Japan) [T-En by Geoff Embree v1.01].nds" size="134217728" crc="93762f88" sha1="9679ecff7f72aa4243619ebdd538242a6e4869e8"/>
+	</game>
+	<game name="ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b]">
+		<category>Games</category>
+		<description>ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b]</description>
+		<rom name="ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b].nds" size="257877045" crc="33239395" sha1="3df938352013b74439822d4a6df503e71b43bd85"/>
+	</game>
+	<game name="Ace Attorney Investigations - Miles Edgeworth - Prosecutor's Path (Japan) [T-En by Auryn v20022015] [n]">
+		<category>Games</category>
+		<description>Ace Attorney Investigations - Miles Edgeworth - Prosecutor's Path (Japan) [T-En by Auryn v20022015] [n]</description>
+		<rom name="Ace Attorney Investigations - Miles Edgeworth - Prosecutor's Path (Japan) [T-En by Auryn v20022015] [n].nds" size="45165392" crc="a1b255cf" sha1="2456f96e7d5f47f05479bc743fd235765a8e8668"/>
+	</game>
+	<game name="Blood of Bahamut (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.07]">
+		<category>Games</category>
+		<description>Blood of Bahamut (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.07]</description>
+		<rom name="Blood of Bahamut (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.07].nds" size="67108864" crc="6df95de4" sha1="7d77c4f200d2942c78386896ab4855c543a19783"/>
+	</game>
+	<game name="Chibi-Robo! - Clean Sweep! (Japan) [T-En by Cjuub v1.1] [n]">
+		<category>Games</category>
+		<description>Chibi-Robo! - Clean Sweep! (Japan) [T-En by Cjuub v1.1] [n]</description>
+		<rom name="Chibi-Robo! - Clean Sweep! (Japan) [T-En by Cjuub v1.1] [n].nds" size="51015168" crc="45ea9daf" sha1="99c2c4ef45ba4120ec4b385379d49bf2e991dff1"/>
+	</game>
+	<game name="Culdcept DS (Japan) [T-En by Theli v1.0]">
+		<category>Games</category>
+		<description>Culdcept DS (Japan) [T-En by Theli v1.0]</description>
+		<rom name="Culdcept DS (Japan) [T-En by Theli v1.0].nds" size="66865724" crc="2b23c97f" sha1="2a948595b44e535a2eb12c5750e43c528708cd3c"/>
+	</game>
+	<game name="D.Gray-Man - The Apostles of God (Japan) [T-En by Phantom &amp; Supper v1.0] [n]">
+		<category>Games</category>
+		<description>D.Gray-Man - The Apostles of God (Japan) [T-En by Phantom &amp; Supper v1.0] [n]</description>
+		<rom name="D.Gray-Man - The Apostles of God (Japan) [T-En by Phantom &amp; Supper v1.0] [n].nds" size="60933320" crc="36ea7f69" sha1="835b720e5afa742a00467cab6fa4b7e84f24ebc0"/>
+	</game>
+	<game name="Death Note - Kira Game (Japan) [T-En by Anime Game Translations Team v1.2]">
+		<category>Games</category>
+		<description>Death Note - Kira Game (Japan) [T-En by Anime Game Translations Team v1.2]</description>
+		<rom name="Death Note - Kira Game (Japan) [T-En by Anime Game Translations Team v1.2].nds" size="54025964" crc="ae1f5241" sha1="2eae2f0b73a3fdec31d6c39d8934565f797fee6a"/>
+	</game>
+	<game name="Detective Conan &amp; Kindaichi Case Files - Chance Encounter of 2 Great Detectives (Japan) [T-En by DCTP v1.0] [n]">
+		<category>Games</category>
+		<description>Detective Conan &amp; Kindaichi Case Files - Chance Encounter of 2 Great Detectives (Japan) [T-En by DCTP v1.0] [n]</description>
+		<rom name="Detective Conan &amp; Kindaichi Case Files - Chance Encounter of 2 Great Detectives (Japan) [T-En by DCTP v1.0] [n].nds" size="45787656" crc="7a6b0c48" sha1="8958aaddc3c7334cee9f5263a6e6e2a728bd1ebf"/>
+	</game>
+	<game name="Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1] [AP fix]">
+		<category>Games</category>
+		<description>Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1] [AP fix]</description>
+		<rom name="Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1] [AP fix].nds" size="60598900" crc="8182a9ed" sha1="83b4104e654ed2423c0a609802ec6b2843874fd3"/>
+	</game>
+	<game name="Dragon Quest IV - Michibikareshi Mono-tachi (Japan) [T-En by Concreted v20210703]">
+		<category>Games</category>
+		<description>Dragon Quest IV - Michibikareshi Mono-tachi (Japan) [T-En by Concreted v20210703]</description>
+		<rom name="Dragon Quest IV - Michibikareshi Mono-tachi (Japan) [T-En by Concreted v20210703].nds" size="101049152" crc="a34fa983" sha1="fff0280c84c1a03b0b51f2964e30d57062eb267d"/>
+	</game>
+	<game name="Dungeon of Windaria (Japan) [T-En by Rastsan v0.1]">
+		<category>Games</category>
+		<description>Dungeon of Windaria (Japan) [T-En by Rastsan v0.1]</description>
+		<rom name="Dungeon of Windaria (Japan) [T-En by Rastsan v0.1].nds" size="16777216" crc="37bd3ef7" sha1="3f5cafd198b908b4c3e6e2f34ea5f9ad03823eca"/>
+	</game>
+	<game name="FabStyle (Japan) [T-En by Rocket Robz &amp; Sidier v2.0] [i]">
+		<category>Games</category>
+		<description>FabStyle (Japan) [T-En by Rocket Robz &amp; Sidier v2.0] [i]</description>
+		<rom name="FabStyle (Japan) [T-En by Rocket Robz &amp; Sidier v2.0] [i].nds" size="248404132" crc="dc19dc0e" sha1="da27bc03f1fd91b1c601779795c49163646c0651"/>
+	</game>
+	<game name="Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [n]">
+		<category>Games</category>
+		<description>Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [n]</description>
+		<rom name="Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [n].nds" size="134217728" crc="889be26f" sha1="7f62fc579ab46133846126c114234ee8b4bd3b68"/>
+	</game>
+	<game name="Girlish Love Revolution - Love Revo DS (Korea) [T-En by Jjjewel v1.1] [n]">
+		<category>Games</category>
+		<description>Girlish Love Revolution - Love Revo DS (Korea) [T-En by Jjjewel v1.1] [n]</description>
+		<rom name="Girlish Love Revolution - Love Revo DS (Korea) [T-En by Jjjewel v1.1] [n].nds" size="62846332" crc="73cae7b5" sha1="03a52b5021a44c721a0d4b8615871fd9eec353cc"/>
+	</game>
+	<game name="I Will Protect You (Japan) [T-En by Illidan &amp; Phantom v1.2] [n]">
+		<category>Games</category>
+		<description>I Will Protect You (Japan) [T-En by Illidan &amp; Phantom v1.2] [n]</description>
+		<rom name="I Will Protect You (Japan) [T-En by Illidan &amp; Phantom v1.2] [n].nds" size="66141884" crc="e48c440c" sha1="ce69c30132bf2092f28ca292b3c016fc014e8b11"/>
+	</game>
+	<game name="Jump Ultimate Stars (Japan) [T-En by JUS Translation v030508]">
+		<category>Games</category>
+		<description>Jump Ultimate Stars (Japan) [T-En by JUS Translation v030508]</description>
+		<rom name="Jump Ultimate Stars (Japan) [T-En by JUS Translation v030508].nds" size="65942936" crc="4ce9fb94" sha1="05b9ecd657843e56f48644032827641bf22d931a"/>
+	</game>
+	<game name="Ketsui Death Label - Kizuna Jigoku-tachi (Japan) [T-En by Z3tzilla v0.2] [i]">
+		<category>Games</category>
+		<description>Ketsui Death Label - Kizuna Jigoku-tachi (Japan) [T-En by Z3tzilla v0.2] [i]</description>
+		<rom name="Ketsui Death Label - Kizuna Jigoku-tachi (Japan) [T-En by Z3tzilla v0.2] [i].nds" size="117590104" crc="8a6c6671" sha1="529539844f7849ee87d95e777e32f4fdfde3e3b2"/>
+	</game>
+	<game name="Kuroshitsuji - Phantom &amp; Ghost (Japan) [T-En by Phantom &amp; Ghost Team v1.0]">
+		<category>Games</category>
+		<description>Kuroshitsuji - Phantom &amp; Ghost (Japan) [T-En by Phantom &amp; Ghost Team v1.0]</description>
+		<rom name="Kuroshitsuji - Phantom &amp; Ghost (Japan) [T-En by Phantom &amp; Ghost Team v1.0].nds" size="61102152" crc="98fb92d9" sha1="c101d907ce446fec229eb0fb2fcb0178291ba5b3"/>
+	</game>
+	<game name="Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i]">
+		<category>Games</category>
+		<description>Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i]</description>
+		<rom name="Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i] (enter 482500 as password twice).dsv" size="524410" crc="f634ed03" sha1="88cde8fa1cb0f99e788b2e2764ff55074ab63d62"/>
+		<rom name="Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i] (enter 482500 as password twice).sav" size="524288" crc="a6ad0fa1" sha1="52eb13e817ea76cbaa9761984e4b62b2723e7146"/>
+		<rom name="Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i].nds" size="135132091" crc="68fdd133" sha1="2d401312af585b2a9c19f6530350a1a190008234"/>
+	</game>
+	<game name="L - The Prologue to Death Note - Spiraling Trap (Japan) [T-En by Anime Game Translations Team v1.0] [n]">
+		<category>Games</category>
+		<description>L - The Prologue to Death Note - Spiraling Trap (Japan) [T-En by Anime Game Translations Team v1.0] [n]</description>
+		<rom name="L - The Prologue to Death Note - Spiraling Trap (Japan) [T-En by Anime Game Translations Team v1.0] [n].nds" size="66573928" crc="18323e6b" sha1="161fa953abe44e742dd374dcf4fc7ad2bbb8164b"/>
+	</game>
+	<game name="Love Plus (Japan) [T-En by Jjjewel v1.0n]">
+		<category>Games</category>
+		<description>Love Plus (Japan) [T-En by Jjjewel v1.0n]</description>
+		<rom name="Love Plus (Japan) [T-En by Jjjewel v1.0n].nds" size="268435456" crc="e45b1476" sha1="59d04e4f2896faa5bb47d5776a76a75b022faedc"/>
+	</game>
+	<game name="Luminous Arc 3 - Eyes (Japan) [T-En by Asakura &amp; Buster Gundo &amp; CheshireCat &amp; Jaumander &amp; Plasturion v1.0]">
+		<category>Games</category>
+		<description>Luminous Arc 3 - Eyes (Japan) [T-En by Asakura &amp; Buster Gundo &amp; CheshireCat &amp; Jaumander &amp; Plasturion v1.0]</description>
+		<rom name="Luminous Arc 3 - Eyes (Japan) [T-En by Asakura &amp; Buster Gundo &amp; CheshireCat &amp; Jaumander &amp; Plasturion v1.0].nds" size="105454592" crc="caec12b5" sha1="d0e73d1171507fb14d569b15b001a1e9ae77e6d7"/>
+	</game>
+	<game name="MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [n]">
+		<category>Games</category>
+		<description>MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [n]</description>
+		<rom name="MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [n].nds" size="13839956" crc="d4ae1184" sha1="77aaf4efb13a5e46a3e3588ba4e76e782af0bb39"/>
+	</game>
+	<game name="Metal Max 2 - Reloaded (Japan) [T-En by Metal Dreamers v1.0]">
+		<category>Games</category>
+		<description>Metal Max 2 - Reloaded (Japan) [T-En by Metal Dreamers v1.0]</description>
+		<rom name="Metal Max 2 - Reloaded (Japan) [T-En by Metal Dreamers v1.0].nds" size="69011968" crc="5d1a9686" sha1="bcae6cd9cb7eddcfd962fd93ae7ddbc8e60d1c7a"/>
+	</game>
+	<game name="Metal Max 3 (Japan) [T-En by Metal Dreamers v1.0]">
+		<category>Games</category>
+		<description>Metal Max 3 (Japan) [T-En by Metal Dreamers v1.0]</description>
+		<rom name="Metal Max 3 (Japan) [T-En by Metal Dreamers v1.0].nds" size="67108864" crc="f6793e12" sha1="e1b3eff313b24c9975146500689d46af93b822bb"/>
+	</game>
+	<game name="Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan) [T-En by Artema Translations v1.0]">
+		<category>Games</category>
+		<description>Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan) [T-En by Artema Translations v1.0]</description>
+		<rom name="Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan) [T-En by Artema Translations v1.0].nds" size="268435456" crc="853f995e" sha1="bd3b644b9bfab3d4abd139f25f27bc0eddfbd84b"/>
+	</game>
+	<game name="Nameless Game, The (Japan) [T-En by Nagato &amp; Ryusui &amp; Summvs v1.2] [n]">
+		<category>Games</category>
+		<description>Nameless Game, The (Japan) [T-En by Nagato &amp; Ryusui &amp; Summvs v1.2] [n]</description>
+		<rom name="Nameless Game, The (Japan) [T-En by Nagato &amp; Ryusui &amp; Summvs v1.2] [n].nds" size="68743360" crc="90a04d40" sha1="7392e2d25354f77bbd6c3b0a16f3b40eb061b1a1"/>
+	</game>
+	<game name="Nameless Game, The - Eye (Japan) [T-En by Nagato v1.13] [n]">
+		<category>Games</category>
+		<description>Nameless Game, The - Eye (Japan) [T-En by Nagato v1.13] [n]</description>
+		<rom name="Nameless Game, The - Eye (Japan) [T-En by Nagato v1.13] [n].nds" size="63459956" crc="8321a8ca" sha1="2eb2eba44d54fb0e0091e57311bf49231dabf817"/>
+	</game>
+	<game name="Ni No Kuni - The Jet Black Mage (Japan) [T-En by Anjiera v1.0] [n]">
+		<category>Games</category>
+		<description>Ni No Kuni - The Jet Black Mage (Japan) [T-En by Anjiera v1.0] [n]</description>
+		<rom name="Ni No Kuni - The Jet Black Mage (Japan) [T-En by Anjiera v1.0] [n].nds" size="536870912" crc="1ae820ef" sha1="1d3a1366427f31480aa939521c1c8bac5bbb9f86"/>
+	</game>
+	<game name="Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) [T-En by Nora Project v0.3d-1] [AP fix]">
+		<category>Games</category>
+		<description>Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) [T-En by Nora Project v0.3d-1] [AP fix]</description>
+		<rom name="Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) [T-En by Nora Project v0.3d-1] [AP fix].nds" size="250017084" crc="080afe3d" sha1="2fe29d4f98d78b7273ed4ee45dc13fc017fd35c1"/>
+	</game>
+	<game name="Petit Eva - Evangelion@Game (Japan) [T-En by ScenikEight v1.0]">
+		<category>Games</category>
+		<description>Petit Eva - Evangelion@Game (Japan) [T-En by ScenikEight v1.0]</description>
+		<rom name="Petit Eva - Evangelion@Game (Japan) [T-En by ScenikEight v1.0].nds" size="33554432" crc="c1d160b2" sha1="74ec33fb84712bac3979e81e6fb76a34dd145b6f"/>
+	</game>
+	<game name="Prince of Tennis, The - Princes of Doubles - Girls, Be Gracious! (Japan) [T-En by AmuletCross v3] [n]">
+		<category>Games</category>
+		<description>Prince of Tennis, The - Princes of Doubles - Girls, Be Gracious! (Japan) [T-En by AmuletCross v3] [n]</description>
+		<rom name="Prince of Tennis, The - Princes of Doubles - Girls, Be Gracious! (Japan) [T-En by AmuletCross v3] [n].nds" size="130652604" crc="1634d4ef" sha1="174fce29c357660de8485bd5a1fe7432102d2870"/>
+	</game>
+	<game name="Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0]">
+		<category>Games</category>
+		<description>Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0]</description>
+		<rom name="Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0].nds" size="53480032" crc="9124c276" sha1="2d27c6b1c5876c1c96f42fb94c46e6fdfe8c7631"/>
+	</game>
+	<game name="Puyo Puyo! - 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2] [n]">
+		<category>Games</category>
+		<description>Puyo Puyo! - 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2] [n]</description>
+		<rom name="Puyo Puyo! - 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2] [n].nds" size="30067188" crc="16b1d8d4" sha1="ede0be55d730b12361353c75ada540d0eb3bd7b2"/>
+	</game>
+	<game name="Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v1.2] [n]">
+		<category>Games</category>
+		<description>Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v1.2] [n]</description>
+		<rom name="Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v1.2] [n].nds" size="52049844" crc="2a71ce78" sha1="a003fdefdb665400c663f41f9f048d8672ce79d8"/>
+	</game>
+	<game name="Puzzle Series Vol. 12 - Akari (Japan) [T-En T-Tudor v1.0] [n]">
+		<category>Games</category>
+		<description>Puzzle Series Vol. 12 - Akari (Japan) [T-En T-Tudor v1.0] [n]</description>
+		<rom name="Puzzle Series Vol. 12 - Akari (Japan) [T-En T-Tudor v1.0] [n].nds" size="8388608" crc="83f85087" sha1="d9ac5687c54403e01bb6c7d72c4bcd0fa1bc8d99"/>
+	</game>
+	<game name="Puzzle Series Vol. 5 - Slither Link (Japan) [T-En by T-Tudor v0.7]">
+		<category>Games</category>
+		<description>Puzzle Series Vol. 5 - Slither Link (Japan) [T-En by T-Tudor v0.7]</description>
+		<rom name="Puzzle Series Vol. 5 - Slither Link (Japan) [T-En by T-Tudor v0.7].nds" size="8388608" crc="8bf4a2ea" sha1="c2f27dc432b5f2d9935b8c7d2bb71a354052beed"/>
+	</game>
+	<game name="Retro Game Challenge 2 (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.51] [n]">
+		<category>Games</category>
+		<description>Retro Game Challenge 2 (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.51] [n]</description>
+		<rom name="Retro Game Challenge 2 (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.51] [n].nds" size="67108864" crc="9eeb0bee" sha1="84beaaef47bbc1d515efbd75c991d78e84a72ec3"/>
+	</game>
+	<game name="Ripened Tingle's Balloon Trip of Love (Japan) [T-En by Team Tingle v1.1] [n]">
+		<category>Games</category>
+		<description>Ripened Tingle's Balloon Trip of Love (Japan) [T-En by Team Tingle v1.1] [n]</description>
+		<rom name="Ripened Tingle's Balloon Trip of Love (Japan) [T-En by Team Tingle v1.1] [n].nds" size="76248200" crc="ce27be97" sha1="8d7cbf9bb3006a215e6f8aba7615bee5f413227e"/>
+	</game>
+	<game name="Rosario + Vampire - Tanabata's Miss Yokai Academy (Japan) [T-En by Jjewel v20150515] [n]">
+		<category>Games</category>
+		<description>Rosario + Vampire - Tanabata's Miss Yokai Academy (Japan) [T-En by Jjewel v20150515] [n]</description>
+		<rom name="Rosario + Vampire - Tanabata's Miss Yokai Academy (Japan) [T-En by Jjewel v20150515] [n].nds" size="39800508" crc="d5e597a9" sha1="9c13099d49bd4a26793edbe83f391c514a434f93"/>
+	</game>
+	<game name="SaGa 2 - Legend of the Relics - Goddess of Destiny (Japan) [T-En by Crimson Nocturnal v2.12] [n]">
+		<category>Games</category>
+		<description>SaGa 2 - Legend of the Relics - Goddess of Destiny (Japan) [T-En by Crimson Nocturnal v2.12] [n]</description>
+		<rom name="SaGa 2 - Legend of the Relics - Goddess of Destiny (Japan) [T-En by Crimson Nocturnal v2.12] [n].nds" size="125207004" crc="984ef5fb" sha1="41bf7f7d912e686d9219117f21184e58a1569040"/>
+	</game>
+	<game name="SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain &amp; Easton West v2.0.830 Beta] [n]">
+		<category>Games</category>
+		<description>SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain &amp; Easton West v2.0.830 Beta] [n]</description>
+		<rom name="SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain &amp; Easton West v2.0.830 Beta] [n].nds" size="123213056" crc="2af5af5a" sha1="781a73bb0d75c0ded12edadcf9fca858c6e0c400"/>
+	</game>
+	<game name="Sailor Moon - The Shining Moon (Italy) [T-En by Jonko &amp; Tokko Tomcat &amp; Lizmelo &amp; Sailor Moon Italy v1.0] [n]">
+		<category>Games</category>
+		<description>Sailor Moon - The Shining Moon (Italy) [T-En by Jonko &amp; Tokko Tomcat &amp; Lizmelo &amp; Sailor Moon Italy v1.0] [n]</description>
+		<rom name="Sailor Moon - The Shining Moon (Italy) [T-En by Jonko &amp; Tokko Tomcat &amp; Lizmelo &amp; Sailor Moon Italy v1.0] [n].nds" size="16777216" crc="d575ac94" sha1="8cb351b13ce0b768deb5714f211d80fcc1dfe3e9"/>
+	</game>
+	<game name="Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [voice subs] [i] [n]">
+		<category>Games</category>
+		<description>Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [voice subs] [i] [n]</description>
+		<rom name="Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [voice subs] [i] [n].nds" size="118891364" crc="5db287e5" sha1="7dcf8e486be9de658b2ba0aafd418cd4abece25e"/>
+	</game>
+	<game name="Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan) [T-En by Pearse Hillock v0.90] [i]">
+		<category>Games</category>
+		<description>Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan) [T-En by Pearse Hillock v0.90] [i]</description>
+		<rom name="Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan) [T-En by Pearse Hillock v0.90] [i].nds" size="268435456" crc="4e296c3f" sha1="9eb3c659f1d74966e31810c531fd4ac57849a47d"/>
+	</game>
+	<game name="Soma Bringer (Japan) [T-En by DarthNemesis v2009.02.02]">
+		<category>Games</category>
+		<description>Soma Bringer (Japan) [T-En by DarthNemesis v2009.02.02]</description>
+		<rom name="Soma Bringer (Japan) [T-En by DarthNemesis v2009.02.02].nds" size="128235920" crc="f63cc5c4" sha1="879ea6a67f635d7188240dc583afed55a2c5e6d1"/>
+	</game>
+	<game name="Soul Eater - Medusa's Plot (Japan) [T-En by Anime Game Translations Team v1.2] [n]">
+		<category>Games</category>
+		<description>Soul Eater - Medusa's Plot (Japan) [T-En by Anime Game Translations Team v1.2] [n]</description>
+		<rom name="Soul Eater - Medusa's Plot (Japan) [T-En by Anime Game Translations Team v1.2] [n].nds" size="63619108" crc="52a69b26" sha1="7ce53e6238319fa11ed1540e25ba016920393bd4"/>
+	</game>
+	<game name="Spice &amp; Wolf - My Year with Holo (Japan) [T-En by Anime Game Translations Team v1.3] [n]">
+		<category>Games</category>
+		<description>Spice &amp; Wolf - My Year with Holo (Japan) [T-En by Anime Game Translations Team v1.3] [n]</description>
+		<rom name="Spice &amp; Wolf - My Year with Holo (Japan) [T-En by Anime Game Translations Team v1.3] [n].nds" size="107340308" crc="d1b8baf5" sha1="6c1f2bbc615c395e1208b708c2543aace9c427e8"/>
+	</game>
+	<game name="Spice &amp; Wolf - The Wind that spans the Sea (Japan) [T-En by Anime Game Translations Team v1.0] [n]">
+		<category>Games</category>
+		<description>Spice &amp; Wolf - The Wind that spans the Sea (Japan) [T-En by Anime Game Translations Team v1.0] [n]</description>
+		<rom name="Spice &amp; Wolf - The Wind that spans the Sea (Japan) [T-En by Anime Game Translations Team v1.0] [n].nds" size="253119820" crc="8f322093" sha1="b3105f9d4b4e14ebe69ec763192860f4c583e9d1"/>
+	</game>
+	<game name="Summon Night X - Tears Crown (Japan) [T-En by Englishsubs4all v0.951] [i]">
+		<category>Games</category>
+		<description>Summon Night X - Tears Crown (Japan) [T-En by Englishsubs4all v0.951] [i]</description>
+		<rom name="Summon Night X - Tears Crown (Japan) [T-En by Englishsubs4all v0.951] [i].nds" size="268435456" crc="d9cdef28" sha1="3bae18d36191d74e49d5ceb85230f542ef8a4023"/>
+	</game>
+	<game name="Super Control Mecha MG (Japan) [T-En by Supper v1.1] [n]">
+		<category>Games</category>
+		<description>Super Control Mecha MG (Japan) [T-En by Supper v1.1] [n]</description>
+		<rom name="Super Control Mecha MG (Japan) [T-En by Supper v1.1] [n].nds" size="57592656" crc="8b74cbcd" sha1="23d9fcb29c911b8fbf8e88b0792e4bb68516b8c4"/>
+	</game>
+	<game name="Super Robot Wars W (Japan) [T-En by Brunom1 &amp; Fei &amp; Kingcom v1.1] [n]">
+		<category>Games</category>
+		<description>Super Robot Wars W (Japan) [T-En by Brunom1 &amp; Fei &amp; Kingcom v1.1] [n]</description>
+		<rom name="Super Robot Wars W (Japan) [T-En by Brunom1 &amp; Fei &amp; Kingcom v1.1] [n].nds" size="67108864" crc="7e13d74d" sha1="2a31c4118d6ebe908239a01136aaec3d23c7d65d"/>
+	</game>
+	<game name="Tales of Innocence (Japan) [T-En by Absolute Zero v1.0]">
+		<category>Games</category>
+		<description>Tales of Innocence (Japan) [T-En by Absolute Zero v1.0]</description>
+		<rom name="Tales of Innocence (Japan) [T-En by Absolute Zero v1.0].nds" size="134217728" crc="186d0370" sha1="750ebfc067e0d3147361c0e752fb2951212ed52b"/>
+	</game>
+	<game name="Tales of the Tempest (Japan) [T-En by Absolute Zero v1.0]">
+		<category>Games</category>
+		<description>Tales of the Tempest (Japan) [T-En by Absolute Zero v1.0]</description>
+		<rom name="Tales of the Tempest (Japan) [T-En by Absolute Zero v1.0].nds" size="134217728" crc="61cba2a0" sha1="344020485943c50f7c40d8e7f442aecc8454ec71"/>
+	</game>
+	<game name="Tengen Toppa Gurren Lagann (Japan) [T-En by Anime Game Translations Team v1.0]">
+		<category>Games</category>
+		<description>Tengen Toppa Gurren Lagann (Japan) [T-En by Anime Game Translations Team v1.0]</description>
+		<rom name="Tengen Toppa Gurren Lagann (Japan) [T-En by Anime Game Translations Team v1.0].nds" size="130463440" crc="01c44fcb" sha1="860ebb35f4faa5dcbe2c42cb700605ba4c6ea0bf"/>
+	</game>
+	<game name="Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by TMGS1 Translation Team v1.0]">
+		<category>Games</category>
+		<description>Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by TMGS1 Translation Team v1.0]</description>
+		<rom name="Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by TMGS1 Translation Team v1.0].nds" size="207547876" crc="102156ec" sha1="e49886460195a0c476993c8b91b60c484fda7a89"/>
+	</game>
+	<game name="Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6]">
+		<category>Games</category>
+		<description>Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6]</description>
+		<rom name="Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6].nds" size="257902496" crc="006fdda8" sha1="e0e8afaca944737f92ec76122d71ee122eaae5c9"/>
+	</game>
+	<game name="Tokimeki Memorial Girl's Side - 3rd Story (Japan) [T-En by Jjjewel v2.00]">
+		<category>Games</category>
+		<description>Tokimeki Memorial Girl's Side - 3rd Story (Japan) [T-En by Jjjewel v2.00]</description>
+		<rom name="Tokimeki Memorial Girl's Side - 3rd Story (Japan) [T-En by Jjjewel v2.00].nds" size="514760272" crc="409193cd" sha1="a87d2b42ed82b070e1085dc4f366efda13bacb0a"/>
+	</game>
+	<game name="Tomodachi Collection (Japan) (Rev 1) [T-En by Jjjewel v0.80] [i]">
+		<category>Games</category>
+		<description>Tomodachi Collection (Japan) (Rev 1) [T-En by Jjjewel v0.80] [i]</description>
+		<rom name="Tomodachi Collection (Japan) (Rev 1) [T-En by Jjjewel v0.80] [i].nds" size="67108864" crc="d229701a" sha1="29b80f0da6ebe53c1a9ce4b91a0049c9234d1e2e"/>
+	</game>
+	<game name="Vampire Knight DS (Japan) [T-En by Anime Game Translations Team v1.0]">
+		<category>Games</category>
+		<description>Vampire Knight DS (Japan) [T-En by Anime Game Translations Team v1.0]</description>
+		<rom name="Vampire Knight DS (Japan) [T-En by Anime Game Translations Team v1.0].nds" size="208509664" crc="e9e5ef26" sha1="7e33954a94fc711dfa9fe67b13d7951006a9cf49"/>
+	</game>
+	<game name="Wizardry - Inochi no Kusabi (Japan) [T-En by Faramir v30102015] [i]">
+		<category>Games</category>
+		<description>Wizardry - Inochi no Kusabi (Japan) [T-En by Faramir v30102015] [i]</description>
+		<rom name="Wizardry - Inochi no Kusabi (Japan) [T-En by Faramir v30102015] [i].nds" size="42093056" crc="c49b450a" sha1="bcbb48871624214e701504233f71967c4967cf1f"/>
+	</game>
+	<game name="Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Snowboundmage v1.3] [i]">
+		<category>Games</category>
+		<description>Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Snowboundmage v1.3] [i]</description>
+		<rom name="Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Snowboundmage v1.3] [i].nds" size="15703192" crc="9ec03a7a" sha1="e8b2b28a6f394cf231688dcb14a68d1eb71e8cb5"/>
+	</game>
+</datafile>

@@ -1,0 +1,38 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Zoids Vs. III (Japan) [T-En by Traceytrace v1.00]
+  - Zoids Vs. III (Japan) [T-En by Traceytrace v1.00] [Textures]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n]
++ Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1]
++ Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i]
++ Kururin Squash! (Japan) [T-En by DOL-Translations v20231002]
++ Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n]
++ Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i]
++ Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n]
++ Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n]
++ World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i]
++ Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic & XZatchBellGamerX v1.0] [n]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Nintendo GameCube [T-En] Docs

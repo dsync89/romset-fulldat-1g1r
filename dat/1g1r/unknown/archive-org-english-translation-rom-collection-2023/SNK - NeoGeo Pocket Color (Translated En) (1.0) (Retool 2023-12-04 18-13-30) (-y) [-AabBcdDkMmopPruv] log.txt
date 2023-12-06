@@ -1,0 +1,28 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+
+
+TITLES WITH CLONES
+==================
+
++ Rockman - Battle & Fighters (Japan) [T-En by Marc_max v1.0] [i]
+  - Rockman - Battle & Fighters (Japan) [T-En by marc_max v0.9] [i]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Cool Cool Jam (Japan) [T-En by WyndCrosser v0.01] [i]
++ Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan) [T-En by WyndCrosser v0.38] [i]
++ Mizuki Shigeru no Youkai Shashinkan (Japan) [T-En by WyndCrosser v0.01] [i]
++ Nige-ron-pa (Japan) [T-En by Loïc v0.9]
++ Ogre Battle Gaiden - The Prince of Zenobia (Japan) [T-En by FFaddic v1.0] [i] [n]
++ SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20170125]
++ _SNK Neo Geo Pocket Color [T-En] Docs

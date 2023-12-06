@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega - Master System (Translated En) (Retool)</name>
+		<description>Sega - Master System (Translated En) (10) (-y) [-aAbBcdDkmMopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 18-05-10</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Final Bubble Bobble (Japan) [T-En by Brad Smith v1.0]">
+		<category>Games</category>
+		<description>Final Bubble Bobble (Japan) [T-En by Brad Smith v1.0]</description>
+		<rom name="Final Bubble Bobble (Japan) [T-En by Brad Smith v1.0].sms" size="262144" crc="98c66fe5" sha1="5269d3d4cd29420c55cda85a5a99994187bd30ae"/>
+	</game>
+	<game name="Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n]">
+		<category>Games</category>
+		<description>Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n]</description>
+		<rom name="Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n].sms" size="131072" crc="77171dae" sha1="01789ca1d56243608af0ecf75077e1f225fe5047"/>
+	</game>
+	<game name="Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [n]">
+		<category>Games</category>
+		<description>Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [n]</description>
+		<rom name="Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [n].sms" size="131072" crc="b2e19aa4" sha1="7bf304a79490eab9258a22d24fdb948b266d3326"/>
+	</game>
+	<game name="Genius Bakabon, The (Japan) [T-En by Cccmar &amp; FCandChill &amp; TheMajinZenki v1.2] [n]">
+		<category>Games</category>
+		<description>Genius Bakabon, The (Japan) [T-En by Cccmar &amp; FCandChill &amp; TheMajinZenki v1.2] [n]</description>
+		<rom name="Genius Bakabon, The (Japan) [T-En by Cccmar &amp; FCandChill &amp; TheMajinZenki v1.2] [n].sms" size="262144" crc="7d0d2d4d" sha1="4faeb7d33c6339659cc48a098e29a80172fff8be"/>
+	</game>
+	<game name="Highschool! Kimengumi (Japan) [T-En by SMS Power! v1.00] [n]">
+		<category>Games</category>
+		<description>Highschool! Kimengumi (Japan) [T-En by SMS Power! v1.00] [n]</description>
+		<rom name="Highschool! Kimengumi (Japan) [T-En by SMS Power! v1.00] [n].sms" size="131072" crc="8a296a3e" sha1="f4350a41ec6cd685e21b09ce471c3456646d6904"/>
+	</game>
+	<game name="Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Literal]">
+		<category>Games</category>
+		<description>Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Literal]</description>
+		<rom name="Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Literal].sms" size="524288" crc="17f0be05" sha1="41cb4871997d9478a6628b81fe48844922f5c931"/>
+	</game>
+	<game name="Rygar - Legendary Warrior (Japan) [T-En by Psyklax v1.0] [n]">
+		<category>Games</category>
+		<description>Rygar - Legendary Warrior (Japan) [T-En by Psyklax v1.0] [n]</description>
+		<rom name="Rygar - Legendary Warrior (Japan) [T-En by Psyklax v1.0] [n].sms" size="147456" crc="bfa371fd" sha1="c44257545f388bcd8bc6803fafe8b35a27f7f83e"/>
+	</game>
+	<game name="Solomon's Key - Tears of Princess Lihita (Japan) [T-En by FlashPV v1.0] [n]">
+		<category>Games</category>
+		<description>Solomon's Key - Tears of Princess Lihita (Japan) [T-En by FlashPV v1.0] [n]</description>
+		<rom name="Solomon's Key - Tears of Princess Lihita (Japan) [T-En by FlashPV v1.0] [n].sms" size="131072" crc="aa59a39e" sha1="5ad65e6325ddd5d7e4b2e0d40ffef4ba9d2c8121"/>
+	</game>
+	<game name="Story of Mio (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n]">
+		<category>Games</category>
+		<description>Story of Mio (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n]</description>
+		<rom name="Story of Mio (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n].sms" size="262144" crc="938ce4eb" sha1="a161ae0685ba1cf2200bd0f033957ca18f5d9ef6"/>
+	</game>
+	<game name="Sukeban Deka II (Japan) [T-En by Enigmaopoeia &amp; SSTranslations v1.0] [n]">
+		<category>Games</category>
+		<description>Sukeban Deka II (Japan) [T-En by Enigmaopoeia &amp; SSTranslations v1.0] [n]</description>
+		<rom name="Sukeban Deka II (Japan) [T-En by Enigmaopoeia &amp; SSTranslations v1.0] [n].sms" size="262144" crc="3b6fe6d1" sha1="07a5afcf82052938a5e4f79016e06b65cd8799cc"/>
+	</game>
+</datafile>

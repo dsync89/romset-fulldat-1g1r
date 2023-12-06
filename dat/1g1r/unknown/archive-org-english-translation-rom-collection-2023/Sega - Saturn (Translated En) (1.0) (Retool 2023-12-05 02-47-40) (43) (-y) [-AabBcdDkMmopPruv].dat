@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega - Saturn (Translated En) (Retool)</name>
+		<description>Sega - Saturn (Translated En) (43) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-05 02-47-40</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Baroque (Japan) [T-En by Plissken v1.0.0]">
+		<category>Games</category>
+		<description>Baroque (Japan) [T-En by Plissken v1.0.0]</description>
+		<rom name="Baroque (Japan) [T-En by Plissken v1.0.0].chd" size="289321758" crc="bd0d69ee" sha1="85a1f9f0ae7ddbac76a385563d9b572e07362ca7"/>
+	</game>
+	<game name="Bulk Slash (Japan) [T-En by Bulk Slash English Localization Team v1.001] [Undub]">
+		<category>Games</category>
+		<description>Bulk Slash (Japan) [T-En by Bulk Slash English Localization Team v1.001] [Undub]</description>
+		<rom name="Bulk Slash (Japan) [T-En by Bulk Slash English Localization Team v1.001] [Undub].chd" size="84274996" crc="819ed33a" sha1="a62cdd94c22e51032a1c35eecfe72bcd594a5d64"/>
+	</game>
+	<game name="Castlevania - Symphony of the Night (Japan) (2M) [T-En by Knight0fDragon v1.021+hotfix] [n]">
+		<category>Games</category>
+		<description>Castlevania - Symphony of the Night (Japan) (2M) [T-En by Knight0fDragon v1.021+hotfix] [n]</description>
+		<rom name="Castlevania - Symphony of the Night (Japan) (2M) [T-En by Knight0fDragon v1.021+hotfix] [n].chd" size="330998989" crc="fad35bce" sha1="aceb03b85e14e2aff2b1d5839e4ac75892c24ef1"/>
+	</game>
+	<game name="DeathMask (Japan) [T-En by A Murder of Crows and ShadowMask v0.2j RC]">
+		<category>Games</category>
+		<description>DeathMask (Japan) [T-En by A Murder of Crows and ShadowMask v0.2j RC]</description>
+		<rom name="DeathMask (Japan) (Disc 1) [T-En by A Murder of Crows &amp; ShadowMask v0.2j RC].chd" size="281369166" crc="0edaa4ff" sha1="1913881a73fe5e32a50e124910cfd2515ce56850"/>
+		<rom name="DeathMask (Japan) (Disc 2) [T-En by A Murder of Crows &amp; ShadowMask v0.2j RC].chd" size="355550658" crc="f8feafc7" sha1="ffd5c3f8a81404532cdaa106825756b1c8d4182a"/>
+		<rom name="DeathMask (Japan) (Disc 3) [T-En by A Murder of Crows &amp; ShadowMask v0.2j RC].chd" size="321381631" crc="fb470edb" sha1="ef4e39e18954ad129ab16708a2e42d93b8d3c80a"/>
+	</game>
+	<game name="Dracula X - Nocturne in the Moonlight (Japan) [T-En by Paul_met v1.5] [i] [n]">
+		<category>Games</category>
+		<description>Dracula X - Nocturne in the Moonlight (Japan) [T-En by Paul_met v1.5] [i] [n]</description>
+		<rom name="Dracula X - Nocturne in the Moonlight (Japan) [T-En by Paul_met v1.5] [i] [n].chd" size="337500390" crc="739b7f3b" sha1="749b067c0b76af2c6a64541e4d6a72ddb45caa87"/>
+	</game>
+	<game name="Dragon Force II - The Godforsaken Land (Japan) [T-En by Verve Fanworks v1.04] [n]">
+		<category>Games</category>
+		<description>Dragon Force II - The Godforsaken Land (Japan) [T-En by Verve Fanworks v1.04] [n]</description>
+		<rom name="Dragon Force II - The Godforsaken Land (Japan) [T-En by Verve Fanworks v1.04] [n].chd" size="431420218" crc="bd656b45" sha1="2364f07586d52b7e0f29acd0a5498037f51598db"/>
+	</game>
+	<game name="Dungeon Master Nexus (Japan) [T-En by ChristopheF v1.0]">
+		<category>Games</category>
+		<description>Dungeon Master Nexus (Japan) [T-En by ChristopheF v1.0]</description>
+		<rom name="Dungeon Master Nexus (Japan) [T-En by ChristopheF v1.0].chd" size="118944358" crc="cdacabcd" sha1="64ef2a49b1f6aed3898d39c17ca740b677e9132e"/>
+	</game>
+	<game name="EGWord Ver 2.00 (Japan) [T-En by Retrodadandmodernlad v0.9]">
+		<category>Games</category>
+		<description>EGWord Ver 2.00 (Japan) [T-En by Retrodadandmodernlad v0.9]</description>
+		<rom name="EGWord Ver 2.00 (Japan) [T-En by Retrodadandmodernlad v0.9].chd" size="9382170" crc="692593d2" sha1="f38c25fb7ec7c054a4aaae6d71c533a67083cc53"/>
+	</game>
+	<game name="Falcom Classics (Japan) [T-En by Murzik &amp; CrawdKenny v0.763] [Ancient Ys Vanished Omen] [i]">
+		<category>Games</category>
+		<description>Falcom Classics (Japan) [T-En by Murzik &amp; CrawdKenny v0.763] [Ancient Ys Vanished Omen] [i]</description>
+		<rom name="Falcom Classics (Japan) [T-En by Murzik &amp; CrawdKenny v0.763] [Ancient Ys Vanished Omen] [i].chd" size="327538961" crc="14bdf83b" sha1="99031efbad38228058d971d799a284a0f9c26c5c"/>
+	</game>
+	<game name="Fire Pro Gaiden Blazing Tornado (Japan) [T-En by Malenko v0.91] [i]">
+		<category>Games</category>
+		<description>Fire Pro Gaiden Blazing Tornado (Japan) [T-En by Malenko v0.91] [i]</description>
+		<rom name="Fire Pro Gaiden Blazing Tornado (Japan) [T-En by Malenko v0.91] [i].chd" size="436711586" crc="23562be8" sha1="7d3594487924f1f2e4bd5a35c3bdc71d71b38031"/>
+	</game>
+	<game name="Fire Prowrestling S - 6Men Scramble (Japan) [T-En by Malenko v0.91] [i]">
+		<category>Games</category>
+		<description>Fire Prowrestling S - 6Men Scramble (Japan) [T-En by Malenko v0.91] [i]</description>
+		<rom name="Fire Prowrestling S - 6Men Scramble (Japan) [T-En by Malenko v0.91] [i].chd" size="297411174" crc="1569f425" sha1="16f8de401c3878894d20bbbf05f5b6641242fb58"/>
+	</game>
+	<game name="Grandia (Japan) [T-En by TrekkiesUnite118 v1.1.1]">
+		<category>Games</category>
+		<description>Grandia (Japan) [T-En by TrekkiesUnite118 v1.1.1]</description>
+		<rom name="Grandia (Japan) (Disc 1) [T-En by TrekkiesUnite118 v1.1.1].chd" size="437775711" crc="47af3661" sha1="a2fb9df30bee55474b8b0af89a07000794d4cdc2"/>
+		<rom name="Grandia (Japan) (Disc 2) [T-En by TrekkiesUnite118 v1.1.1].chd" size="406672053" crc="2c42714f" sha1="b23db5529f31fb92250049ec3873e498ca19fd9e"/>
+	</game>
+	<game name="Gungriffon II (Japan) [T-En by Gungriffon II Localization Team v0.97.5] [i]">
+		<category>Games</category>
+		<description>Gungriffon II (Japan) [T-En by Gungriffon II Localization Team v0.97.5] [i]</description>
+		<rom name="Gungriffon II (Japan) [T-En by Gungriffon II Localization Team v0.97.5] [i].chd" size="344230233" crc="2bd0df16" sha1="687e1c86aec51a961c54ae521c074b4e7d27bb60"/>
+	</game>
+	<game name="J. B. Harold - Blue Chicago Blues (Japan) [T-En by Collin ''Arjak'' Pierce &amp; Kate ''MossstarMoon'' Pierce v1.00]">
+		<category>Games</category>
+		<description>J. B. Harold - Blue Chicago Blues (Japan) [T-En by Collin ''Arjak'' Pierce &amp; Kate ''MossstarMoon'' Pierce v1.00]</description>
+		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1) [T-En by Collin ''Arjak'' Pierce &amp; Kate ''MossstarMoon'' Pierce v1.00].chd" size="419606562" crc="ac549c0c" sha1="7a262b549e4440f0ee66b105e6d9e96150e0f387"/>
+		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2) [T-En by Collin ''Arjak'' Pierce &amp; Kate ''MossstarMoon'' Pierce v1.00].chd" size="435415388" crc="4934cdd2" sha1="915dbdfb2d52d0d620e854ce1828d6d778e129ed"/>
+	</game>
+	<game name="Langrisser III (Japan) [T-En by Cyber Warrior X v0.2] [i]">
+		<category>Games</category>
+		<description>Langrisser III (Japan) [T-En by Cyber Warrior X v0.2] [i]</description>
+		<rom name="Langrisser III (Japan) [T-En by Cyber Warrior X v0.2] [i].chd" size="267640777" crc="a0ffe3c7" sha1="bc0f997f47b8fb2913e560216076119cec344cf1"/>
+	</game>
+	<game name="Linkle Liver Story (Japan) [T-En by Aishsha v1.0]">
+		<category>Games</category>
+		<description>Linkle Liver Story (Japan) [T-En by Aishsha v1.0]</description>
+		<rom name="Linkle Liver Story (Japan) [T-En by Aishsha v1.0].chd" size="80369401" crc="09e24265" sha1="5a511c53b693d275a92b28f184a6d3ccdc55e587"/>
+	</game>
+	<game name="Lunar - Silver Star Story (Japan) [T-En by TrekkiesUnite118 v1.5.1] [Sub Edition]">
+		<category>Games</category>
+		<description>Lunar - Silver Star Story (Japan) [T-En by TrekkiesUnite118 v1.5.1] [Sub Edition]</description>
+		<rom name="Lunar - Silver Star Story (Japan) [T-En by TrekkiesUnite118 v1.5.1] [Sub Edition].chd" size="403401189" crc="e34990c3" sha1="83c417221cb6e6b8cf6bc480686fd4eb8f57964d"/>
+	</game>
+	<game name="Lunar - Silver Star Story Complete (Japan) [T-En by Mr Conan v0.75] [req Video CD Card]">
+		<category>Games</category>
+		<description>Lunar - Silver Star Story Complete (Japan) [T-En by Mr Conan v0.75] [req Video CD Card]</description>
+		<rom name="Lunar - Silver Star Story Complete (Japan) [T-En by Mr Conan v0.75] [req Video CD Card].chd" size="495921858" crc="4df6a475" sha1="d07db3d662d4fcd9cfdc2c85e0740b45403c5cb2"/>
+	</game>
+	<game name="Lunar 2 - Eternal Blue (Japan) [T-En by Mr Conan v0.19b] [i]">
+		<category>Games</category>
+		<description>Lunar 2 - Eternal Blue (Japan) [T-En by Mr Conan v0.19b] [i]</description>
+		<rom name="Lunar 2 - Eternal Blue (Japan) (Disc 1) [T-En by Mr Conan v0.19b] [i].chd" size="438804033" crc="9f5613f9" sha1="db49da21312e4624e594c2c55b163ff6474210b1"/>
+		<rom name="Lunar 2 - Eternal Blue (Japan) (Disc 2) [T-En by Mr Conan v0.19b] [i].chd" size="454762164" crc="f1eba874" sha1="d491bdbe43e3a711c70d36abee9b5a1f41929cc1"/>
+	</game>
+	<game name="Magic Knight Rayearth (USA) [Un-Worked Design by Supper v0 (15-03-2017)]">
+		<category>Games</category>
+		<description>Magic Knight Rayearth (USA) [Un-Worked Design by Supper v0 (15-03-2017)]</description>
+		<rom name="Magic Knight Rayearth (USA) [Un-Worked Design by Supper v0 (15-03-2017)].chd" size="401990905" crc="82d7017e" sha1="acff27af27725a265b05435b69ff0d1b6325a37f"/>
+	</game>
+	<game name="Magical Night Dreams - Cotton 2 (Japan) [T-En by Nanashi v0.9]">
+		<category>Games</category>
+		<description>Magical Night Dreams - Cotton 2 (Japan) [T-En by Nanashi v0.9]</description>
+		<rom name="Magical Night Dreams - Cotton 2 (Japan) [T-En by Nanashi v0.9].chd" size="18014347" crc="a3af8646" sha1="9f8355b42e05da5980fb2a130b59a22c67005ac4"/>
+	</game>
+	<game name="Mobile Suit Gundam (Japan) [T-En by ShadowMask v0.2] [i]">
+		<category>Games</category>
+		<description>Mobile Suit Gundam (Japan) [T-En by ShadowMask v0.2] [i]</description>
+		<rom name="Mobile Suit Gundam (Japan) [T-En by ShadowMask v0.2] [i].chd" size="236158954" crc="5126fc38" sha1="d3c8a7d89af3e2d9cae74a14cbef437b5e0611a3"/>
+	</game>
+	<game name="Ninja Penguin Manmaru (Japan) [T-En by Alex Kid and Darkfalzx and Simon Fang v2022-01-20b] [n]">
+		<category>Games</category>
+		<description>Ninja Penguin Manmaru (Japan) [T-En by Alex Kid and Darkfalzx and Simon Fang v2022-01-20b] [n]</description>
+		<rom name="Ninja Penguin Manmaru (Japan) [T-En by Alex Kid &amp; Darkfalzx &amp; Simon Fang v2022-01-20b] [n].chd" size="39057403" crc="eb2a671d" sha1="47387c34ac87689e31e672a36b5e9aa99b99e6b6"/>
+	</game>
+	<game name="Ogre Battle - The March of the Black Queen (Japan) [T-En by Aishsha &amp; Paul_met &amp; Stardust Crusaders v1.3.1] [n]">
+		<category>Games</category>
+		<description>Ogre Battle - The March of the Black Queen (Japan) [T-En by Aishsha &amp; Paul_met &amp; Stardust Crusaders v1.3.1] [n]</description>
+		<rom name="Ogre Battle - The March of the Black Queen (Japan) [T-En by Aishsha &amp; Paul_met &amp; Stardust Crusaders v1.3.1] [n].chd" size="295010404" crc="9e6d9743" sha1="384ac810861a544a6ae803ca069b0fdc6bf2a76c"/>
+	</game>
+	<game name="Phantasmagoria (Japan) [T-En by Delta-Islands Team v1.50 final revu] [n]">
+		<category>Games</category>
+		<description>Phantasmagoria (Japan) [T-En by Delta-Islands Team v1.50 final revu] [n]</description>
+		<rom name="Phantasmagoria (Japan) (Disc 1) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="206823742" crc="acf0ccdd" sha1="1b64a0c61c2ffba776e70e5768d06fbe075bba8b"/>
+		<rom name="Phantasmagoria (Japan) (Disc 2) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="181574169" crc="4e376674" sha1="c0066b759af28187f3e4220420a83cce47383c51"/>
+		<rom name="Phantasmagoria (Japan) (Disc 3) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="255559080" crc="29e9cffa" sha1="5b679aa075bdaa81a2489b7e22140b00dd62bab9"/>
+		<rom name="Phantasmagoria (Japan) (Disc 4) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="208381728" crc="7a12bf34" sha1="c120d18da285953ceaffcbf4aa9da7db539c59bf"/>
+		<rom name="Phantasmagoria (Japan) (Disc 5) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="186625295" crc="fdd198ae" sha1="0e244e20e93c746d652da4a7e11a6735f1e31d29"/>
+		<rom name="Phantasmagoria (Japan) (Disc 6) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="272747999" crc="42310a63" sha1="74e96686db5a77febb951755d9c6a97427965af1"/>
+		<rom name="Phantasmagoria (Japan) (Disc 7) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="189677459" crc="ab1f8ff0" sha1="f1b7ec53c6863e9fb18a8cafcc254ffcecbb82b5"/>
+		<rom name="Phantasmagoria (Japan) (Disc 8) [T-En by Delta-Islands Team v1.50 final revu] [n].chd" size="270989608" crc="e303298b" sha1="d0655385767061913a99e97bd5e22ccf5f652ae8"/>
+	</game>
+	<game name="Policenauts (Japan) [T-En by JunkerHQ v1.0.1]">
+		<category>Games</category>
+		<description>Policenauts (Japan) [T-En by JunkerHQ v1.0.1]</description>
+		<rom name="Policenauts (Disc 1) (Japan) [T-En by JunkerHQ v1.0.1].chd" size="388444426" crc="9f6f7a9b" sha1="27de099591e232dde77e380274254973577ace90"/>
+		<rom name="Policenauts (Disc 2) (Japan) [T-En by JunkerHQ v1.0.1].chd" size="391066484" crc="e20406b5" sha1="1d30615b83215462d2a7cccb7281f52fa5e27dce"/>
+		<rom name="Policenauts (Disc 3) (Japan) [T-En by JunkerHQ v1.0.1].chd" size="371133510" crc="6ed2a2c5" sha1="0f1405264c17852859f5f2782c8d371e999973c6"/>
+	</game>
+	<game name="Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0.1]">
+		<category>Games</category>
+		<description>Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0.1]</description>
+		<rom name="Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0.1].chd" size="166035653" crc="85e02f2e" sha1="3347a2baa7db27565493b624ce3208b21716cec4"/>
+	</game>
+	<game name="RMJ - The Mystery Hospital (Japan) [T-En by Kitchen34 v1.10] [i]">
+		<category>Games</category>
+		<description>RMJ - The Mystery Hospital (Japan) [T-En by Kitchen34 v1.10] [i]</description>
+		<rom name="RMJ - The Mystery Hospital (Japan) [T-En by Kitchen34 v1.10] [i].chd" size="425500403" crc="226b5316" sha1="8a866658b8ce5308f06ef2e5c00b910fc0877549"/>
+	</game>
+	<game name="Sakura Wars (Japan) [T-En by Sakura Wars Translation Project v2.01] [n]">
+		<category>Games</category>
+		<description>Sakura Wars (Japan) [T-En by Sakura Wars Translation Project v2.01] [n]</description>
+		<rom name="Sakura Wars (Japan) (Disc 1) [T-En by Sakura Wars Translation Project v2.01] [n].chd" size="386095788" crc="e0274533" sha1="e20668b8f783094605f5d9deb9e6955d78c6168c"/>
+		<rom name="Sakura Wars (Japan) (Disc 2) [T-En by Sakura Wars Translation Project v2.01] [n].chd" size="378099895" crc="95d508ba" sha1="ef953f11d118688c016223e7feada2683fe7f888"/>
+	</game>
+	<game name="Sega Ages - Castle of Illusion Starring Mickey Mouse &amp; QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]">
+		<category>Games</category>
+		<description>Sega Ages - Castle of Illusion Starring Mickey Mouse &amp; QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]</description>
+		<rom name="Sega Ages - Castle of Illusion Starring Mickey Mouse &amp; QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n].chd" size="82525568" crc="f71f154d" sha1="fe3bc2efba1461b9e1f8823b909d2b01a3353e69"/>
+	</game>
+	<game name="Sega Ages - Castle of Illusion Starring Mickey Mouse and QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]">
+		<category>Games</category>
+		<description>Sega Ages - Castle of Illusion Starring Mickey Mouse and QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]</description>
+		<rom name="Sega Ages - Castle of Illusion Starring Mickey Mouse &amp; QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n].chd" size="82328632" crc="37fd8f1f" sha1="8ad90c45e3e38b9ab5732f1cb3be10cafe89f792"/>
+	</game>
+	<game name="SegaSaturn FDD Operator (Japan) [T-En by TrekkiesUnite118 v1.0]">
+		<category>Games</category>
+		<description>SegaSaturn FDD Operator (Japan) [T-En by TrekkiesUnite118 v1.0]</description>
+		<rom name="SegaSaturn FDD Operator (Japan) [T-En by TrekkiesUnite118 v1.0].chd" size="969035" crc="3461dfe6" sha1="49688bb5e527985e52d677dade1062607ceb393e"/>
+	</game>
+	<game name="Shining Force III (Japan) [T-En by Shining Force III Translation Project v24]">
+		<category>Games</category>
+		<description>Shining Force III (Japan) [T-En by Shining Force III Translation Project v24]</description>
+		<rom name="Shining Force III - Scenario 1 - The Titan of Aspia (USA) [T-En by Shining Force III Translation Project v24] [n].chd" size="138848891" crc="573e2aca" sha1="fdf2e5b58598b84436500787edc88115a748322e"/>
+		<rom name="Shining Force III - Scenario 2 - Target - Child of God (Japan) [T-En by Shining Force III Translation Project v24] [n].chd" size="178160783" crc="1160106a" sha1="7cbc65d4355d49f8714fec2f50e25f24f6526da9"/>
+		<rom name="Shining Force III - Scenario 3 - Bulzome Rising (Japan) [T-En by Shining Force III Translation Project v24] [n].chd" size="301500229" crc="e8bb0b9a" sha1="a63f5950907bc5768fce7d25b8dc8c9502118d06"/>
+		<rom name="Shining Force III Premium Disc (Japan) [T-En by Shining Force III Translation Project v24].chd" size="333021301" crc="b592b7ee" sha1="1d719eecaf3bc744f2a45c6b2c4115db3c218bc5"/>
+	</game>
+	<game name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) [T-En by In the Rose Garden v1.04]">
+		<category>Games</category>
+		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) [T-En by In the Rose Garden v1.04]</description>
+		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1) [T-En by In the Rose Garden v1.04].chd" size="335436098" crc="6f06c3b4" sha1="dc6cea7b95b1ecededf03e9bbd56f1da43e2713a"/>
+		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2) [T-En by In the Rose Garden v1.04].chd" size="396700500" crc="463f6a44" sha1="b4ea241c62f0fbd9a0642391468c25249ef2c04f"/>
+	</game>
+	<game name="Silhouette Mirage (Japan) [T-En by Rasputin3000 v0.99b]">
+		<category>Games</category>
+		<description>Silhouette Mirage (Japan) [T-En by Rasputin3000 v0.99b]</description>
+		<rom name="Silhouette Mirage (Japan) [T-En by Rasputin3000 v0.99b].chd" size="385848691" crc="b7b614df" sha1="f10e7bd7cc42e88cb5dafed30c11a3ef89657971"/>
+	</game>
+	<game name="Stellar Assault SS (Japan) [T-En by Stellar Assault SS Localization Team v1.0]">
+		<category>Games</category>
+		<description>Stellar Assault SS (Japan) [T-En by Stellar Assault SS Localization Team v1.0]</description>
+		<rom name="Stellar Assault SS (Japan) [T-En by Stellar Assault SS Localization Team v1.0].chd" size="231958569" crc="b9ee43f8" sha1="a78048a14104c96cfcc7630662c837d6f056c815"/>
+	</game>
+	<game name="Tactics Ogre - Let Us Cling Together (Japan) [T-En by Aishsha &amp; Paul_met &amp; Pennywise v1.0.1]">
+		<category>Games</category>
+		<description>Tactics Ogre - Let Us Cling Together (Japan) [T-En by Aishsha &amp; Paul_met &amp; Pennywise v1.0.1]</description>
+		<rom name="Tactics Ogre - Let Us Cling Together (Japan) [T-En by Aishsha &amp; Paul_met &amp; Pennywise v1.0.1].chd" size="245990330" crc="3a066f2c" sha1="03fff91e7e373f689fde59c80dd4ca6a2b11e2d6"/>
+	</game>
+	<game name="Tokyo Highway Battle '97 (Japan) [T-En by Malenko v1.02] [n]">
+		<category>Games</category>
+		<description>Tokyo Highway Battle '97 (Japan) [T-En by Malenko v1.02] [n]</description>
+		<rom name="Tokyo Highway Battle '97 (Japan) [T-En by Malenko v1.02] [n].chd" size="411967958" crc="9153675f" sha1="8f317c62c25e4b9d0ef0d6835ce6f56a2cfccfbc"/>
+	</game>
+	<game name="Valhollian (Japan) [T-En by Paul_Met and Aishsha and Pennywise v1.3] [n]">
+		<category>Games</category>
+		<description>Valhollian (Japan) [T-En by Paul_Met and Aishsha and Pennywise v1.3] [n]</description>
+		<rom name="Valhollian (Japan) [T-En by Paul_Met &amp; Aishsha &amp; Pennywise v1.3] [n].chd" size="270695062" crc="6ed25537" sha1="f9ff703f45eb9a06b3fb1038e78c8fc633d4ad93"/>
+	</game>
+	<game name="Vampire Savior (Japan) [T-En by Paul_met v1.0]">
+		<category>Games</category>
+		<description>Vampire Savior (Japan) [T-En by Paul_met v1.0]</description>
+		<rom name="Vampire Savior (Japan) [T-En by Paul_met v1.0].chd" size="413243717" crc="297589bd" sha1="43e48017afaaee5ef26945b645ce457a5c13b9ac"/>
+	</game>
+	<game name="Vandal Hearts - The Lost Civilization (Japan) [T-En by Paul_met and Stardust Crusaders v1.5] [n]">
+		<category>Games</category>
+		<description>Vandal Hearts - The Lost Civilization (Japan) [T-En by Paul_met and Stardust Crusaders v1.5] [n]</description>
+		<rom name="Vandal Hearts - The Lost Civilization (Japan) [T-En by Paul_met &amp; Stardust Crusaders v1.5] [n].chd" size="329648068" crc="afc398d3" sha1="b93f7eb8e51931b8a6926fcf869d3eaa984e9746"/>
+	</game>
+	<game name="Wachenroeder (Japan) [T-En by Knight0fDragon v0.49] [i]">
+		<category>Games</category>
+		<description>Wachenroeder (Japan) [T-En by Knight0fDragon v0.49] [i]</description>
+		<rom name="Wachenroeder (Japan) [T-En by Knight0fDragon v0.49] [i].chd" size="426576182" crc="6152a595" sha1="16cd0992e130d919c3ed73aaf3c38effaa9c5d1a"/>
+	</game>
+	<game name="Yumimi Mix Remix (Japan) [T-En by Supper v1.0]">
+		<category>Games</category>
+		<description>Yumimi Mix Remix (Japan) [T-En by Supper v1.0]</description>
+		<rom name="Yumimi Mix Remix (Japan) [T-En by Supper v1.0].chd" size="293583349" crc="782122ba" sha1="34134b5d2b6ee6e37700a43f57fa644c5ce831ca"/>
+	</game>
+</datafile>

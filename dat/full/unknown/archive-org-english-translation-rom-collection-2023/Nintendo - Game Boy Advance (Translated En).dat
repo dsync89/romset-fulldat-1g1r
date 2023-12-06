@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - Game Boy Advance (Translated En)</name>
+		<description>Nintendo - Game Boy Advance (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>4 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo Game Boy Advance [T-En] Docs">
+		<description>_Nintendo Game Boy Advance [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Aigle de Guerre, L' (France) [T-En by Mkol103 v1.0].txt" size="617" crc="f780523f" md5="95d32c5502fc03813edbceef64ad4843" sha1="0917a7a470ee180ba9c1f9d5aeae3cc8d793c180"/>
+		<rom name="Chocobo Land - A Game of Dice (Japan) [T-En by Nezz v1.0].txt" size="853" crc="c7ac7c3b" md5="6dbec90adb0ef70b3a7e79042ceacba7" sha1="9d65a6e37a3a248bf5c70a15336336b026476b01"/>
+		<rom name="Di Gi Charat - DigiCommunication (Japan) [T-En by JegHegy v0.1] [i].txt" size="925" crc="07a9a5b9" md5="ea1ce854c2c5302ead5322e10f4d09ce" sha1="f8e05bab007e584d6182f692dc28c549cf1374f0"/>
+		<rom name="Dragon Quest Monsters - Caravan Heart (Japan) [T-En by The Translation Team v1.0].txt" size="12317" crc="7cad66e5" md5="bf64686148d2aaccf6993979a0dc292f" sha1="a45ee1c91e6d423bfb9d7c505a0283243663f10e"/>
+		<rom name="F-Zero - Climax (Japan) [T-En by F-Zero Climax Translation Project Team v1.1].txt" size="1135" crc="4cadecd7" md5="8f67051993284fe15e4aeaa7e18728c7" sha1="6e444f3aacb3dd21021dc12c0b367b93f3dfaca6"/>
+		<rom name="Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan) [T-En by Fat Dave Beta 1] [i].txt" size="717" crc="e0e9297c" md5="19876b38a18b55ab6c0808aff1bef04c" sha1="4ec1ed6671c59157fbb823380aada7c67ad5e6d2"/>
+		<rom name="Flashback Legends (France) (Proto) [T-En by VanishedOne v1.0].txt" size="5523" crc="157e1bd9" md5="f1d5b2fa92f43c579a8cc3ab54fbafdf" sha1="8e4904026117272067bcf07066dc56b60df256c6"/>
+		<rom name="Fullmetal Alchemist - Sonata of Memories (Japan) [T-En by Iredc v1.0] [n].txt" size="452" crc="5d18ec27" md5="f0b6ec8aef4de4f39ca3faefab790241" sha1="2d0df0c0801cc9bfc290994d32c96368e8f597b1"/>
+		<rom name="Fullmetal Alchemist - Stray Rondo (Japan) [T-En by Mz v0.02] [n].txt" size="370" crc="270b20e0" md5="88ec60da560bf3f7f965721f9dd865b4" sha1="57787be673d3849764845eda3ec12a3514b411f6"/>
+		<rom name="Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0].txt" size="4438" crc="d09628a6" md5="8632035f938861309a779c361d024c11" sha1="d9ce6f5e5d5cfe2be6c635bd4bdac31cdf927c3f"/>
+		<rom name="Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n].txt" size="7608" crc="d4d94697" md5="8c0eb6072b5c5707249ea241381f5abf" sha1="6737b81fb05eb4dea38cccc25cd9264b932c779c"/>
+		<rom name="Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [n].txt" size="2487" crc="490d1544" md5="6a95bf4c2c0b5eb49cbdc0b3e10726bf" sha1="e43b41cbfbf827bf4be940f2a13852f8c214a0f4"/>
+		<rom name="Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [i].txt" size="4931" crc="5dcae0e8" md5="9264d1913873dc7453ff488142e07ed5" sha1="ecd464b3f36bcd423790b486b72976ba2e8f982a"/>
+		<rom name="Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [n].html" size="833587" crc="154e949a" md5="446ba481e519ff235d15c3912491ddd4" sha1="d65adde17ecf5e06e3d6c06aa4b794cc4c11c819"/>
+		<rom name="Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [n].txt" size="2759" crc="3823a3af" md5="001d2805b6681f12540beac15392f224" sha1="855c05a3c9b9c1f3cfbef3e55a70244cbb432033"/>
+		<rom name="Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [n].txt" size="1041" crc="356ec5ab" md5="6182df1f7c43d83f0b73fd0764f098ce" sha1="051d59a2508389b38cd44d4e819c502b8f7d1b4e"/>
+		<rom name="Megaman - Battle Network 2 (USA) [T-En by Vgperson v1.01] [Relocalized].txt" size="6503" crc="0015821e" md5="8eec3918c437ca9651c8d1d89b3195e7" sha1="de79df6fbe21871f715cf0574ded4bc24d3c0b7f"/>
+		<rom name="Megaman - Battle Network 3 - Blue Version (USA) [T-En by Vgperson v1.0] [Relocalized].txt" size="6175" crc="fe1f9738" md5="80c25e4dafb43e357553c437654b2128" sha1="16de9fe8db3099749ddbf589e8999161fe551829"/>
+		<rom name="Megaman - Battle Network 3 - White Version (USA) [T-En by Vgperson v1.0] [Relocalized].txt" size="6175" crc="fe1f9738" md5="80c25e4dafb43e357553c437654b2128" sha1="16de9fe8db3099749ddbf589e8999161fe551829"/>
+		<rom name="Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized].txt" size="8810" crc="031fc039" md5="9ebcd39cc57822013788f7d723d96f40" sha1="f6a806fcb3a5780b4a82c2d7cb2fbc91c72e92e1"/>
+		<rom name="Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized].txt" size="8810" crc="031fc039" md5="9ebcd39cc57822013788f7d723d96f40" sha1="f6a806fcb3a5780b4a82c2d7cb2fbc91c72e92e1"/>
+		<rom name="Mobile Phone Beast Telefang 2 - Power (Japan) [T-En by Telefang 2 English Translation Project v20130505] [n].txt" size="1401" crc="8aed5dd0" md5="f84bfc77010a347c973b944f88ecbd3e" sha1="4eac04b624c985a999933cc9c3f59ff8d6d3ff77"/>
+		<rom name="Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9 &amp; Vague Rant v1.01].txt" size="2842" crc="73b1904a" md5="0addd6ff39040e8e28e69fe57e6a34f0" sha1="70b5d4b39311ccffab49cea5b795ee0688775899"/>
+		<rom name="Mother 1+2 (Japan) [T-En by Jeffman &amp; Tomato v1.01].txt" size="19388" crc="499136d8" md5="3685ccefed45719c6604034341161dcd" sha1="84fadf2db0921a3ed29f94605d6b341118f91498"/>
+		<rom name="Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a] [HQ audio mix by MusicTheorist].txt" size="1864" crc="a64d9086" md5="54d4afec736316a9937d4398408d85c5" sha1="eb59a7bc2905c0e143ea72848c8d21c76e559905"/>
+		<rom name="Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a].txt" size="70187" crc="62cd3a71" md5="81ef9bdbdbcd91584b4ab77373164071" sha1="1778cd0f8f7353d6b34a4690327cb9f818157b4d"/>
+		<rom name="Mr. Driller A - Fushigi na Pacteria (Japan) [T-En by Keep Smiling International v1.0] [i].nfo" size="2207" crc="60a7e6e1" md5="9ca35288f82bfb64b59f1ea4f13a0502" sha1="cecc139477b188ae81bea2e7b6f068bd2bc5eb63"/>
+		<rom name="Nekketsu Monogatari Advance (Japan) (Demo) (Unl) [T-En by Jaz v1.0].txt" size="314" crc="c4b29673" md5="bd58ff964814a1648c3219a7e04cc89c" sha1="bc53c18b36d5f8925db5a4e925d31546aff2eae1"/>
+		<rom name="Oriental Blue - Ao no Tengai (Japan) [T-En by The Romhacking Aerie v1.0].txt" size="9418" crc="54c7b6a2" md5="b33d1f290e502e9f7c37dab68c1fc930" sha1="90d0c4fbb6ac1081786be94b8bc047e9644278c2"/>
+		<rom name="Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It) [T-En by Tasos500 v1.0] [Relocalized].txt" size="986" crc="731e7a38" md5="bc06a8c507ba8184a751bac30d2f049a" sha1="84866a32ed6a90b8cabd2a7965c4351b70fec588"/>
+		<rom name="Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by DarthNemesis &amp; Lordhuffnpuff &amp; SpikeMan v0.7b] [i].txt" size="2703" crc="6aeff2cb" md5="e9e5df8fa5453776290bfe96972af6b1" sha1="de185f8ba9e8f3b9fb62d651cb6e5e65f6fb203d"/>
+		<rom name="Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized].txt" size="2111" crc="baf9c948" md5="966bc3257b768b11541c41bb822ded9b" sha1="15b04c1a8e6c74b250225b7cdc032f410808db76"/>
+		<rom name="Suikoden Card Stories (Japan) [T-En by Pokeytax v1.00] [n].txt" size="12795" crc="1c56e2ea" md5="7abee253beac0287095a84bde154f05b" sha1="db044766e437ae93befb893c9cef31b3515bfa90"/>
+		<rom name="Super Robot Taisen D (Japan) [T-En by Snesmaster40 v0.5] [i].txt" size="1312" crc="b7d75e9a" md5="1d00fa943802e0a9f46056bd790cf520" sha1="3752a28550bf90ffdfb70e8239de7b958c189d08"/>
+		<rom name="Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i].txt" size="1773" crc="660187e2" md5="4888ce32bd5a9d5923836cdb83211571" sha1="653ef7c5bd8aeebd4016c22f4b37b502ca22c2f4"/>
+		<rom name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [n].txt" size="7896" crc="56c8e01d" md5="f94fa8455303536e086c83a0818df843" sha1="2ec24f42bc4f900bc176a0299ffab98e965d1853"/>
+		<rom name="Super Robot Wars J (Japan) [T-En by The Romhacking Aerie v1.0] [n].txt" size="10318" crc="df27ad27" md5="7c3711ff6be092337eaa4ef262394207" sha1="364871d23f494658ac2a3abca848acdb87b0eadc"/>
+		<rom name="Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [i].txt" size="19698" crc="1cf37c15" md5="ec652fd5bb257536563cb103c1faec29" sha1="511c98b17a529344a23a1ad8e7b7b0279ee3a1b9"/>
+		<rom name="Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [i].txt" size="12226" crc="81ecb6c6" md5="cb3f539572daa37cf3bf3f9e074f7eae" sha1="de2b1e9bf47c72816f97087ceb7e2f811483a4de"/>
+		<rom name="Tomato Adventure (Japan) [T-En by Unknown W. Brackets v1.1.1].txt" size="4387" crc="f2f8b113" md5="f85161238c757d878db3ac516493a60d" sha1="a3c53a851a82dfdfef5af878881e96221209b08c"/>
+		<rom name="Ui-Ire - World Soccer Winning Eleven (Japan) [T-En by knighTeen87 v0.99].txt" size="257" crc="2a068462" md5="f1877337c89e93b2a8cb28719cb5270c" sha1="c233c56a16092503771b58e270cf6ba97967df1d"/>
+	</game>
+	<game name="Aigle de Guerre, L' (France) [T-En by Mkol103 v1.0]">
+		<description>Aigle de Guerre, L' (France) [T-En by Mkol103 v1.0]</description>
+		<year>????</year>
+		<rom name="Aigle de Guerre, L' (France) [T-En by Mkol103 v1.0].gba" size="8388608" crc="a9ba0a11" md5="9703b3d78d3492241ef353876ca40bba" sha1="87efaa6dfa9d1fd7bf007a0d5d49556867822ade"/>
+	</game>
+	<game name="Black Matrix Zero (Japan) [T-En by Chris Judah v1.0] [i]">
+		<description>Black Matrix Zero (Japan) [T-En by Chris Judah v1.0] [i]</description>
+		<year>????</year>
+		<rom name="Black Matrix Zero (Japan) [T-En by Chris Judah v1.0] [i].gba" size="8388608" crc="73209c82" md5="282eb6b9ee0da66e6acd1e03a8992d8f" sha1="cac598d25a64ed00f49df20a14fcfec7f3df22ce"/>
+	</game>
+	<game name="Chocobo Land - A Game of Dice (Japan) [T-En by Nezz v1.0]">
+		<description>Chocobo Land - A Game of Dice (Japan) [T-En by Nezz v1.0]</description>
+		<year>????</year>
+		<rom name="Chocobo Land - A Game of Dice (Japan) [T-En by Nezz v1.0].gba" size="8388608" crc="ce54d1d4" md5="7b5f62775f7c63e8d93f0106de3eb261" sha1="c22467736bd84299d2afe2085ca292e8b686859b"/>
+	</game>
+	<game name="Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [n]">
+		<description>Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [n]</description>
+		<year>????</year>
+		<rom name="Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [n].gba" size="8524548" crc="4ed57d52" md5="311ed2fc91a3febc9740ee25e7f82c77" sha1="88f8d359e22a60f6e3c08240f775e97fb92c2314"/>
+	</game>
+	<game name="Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [US title theme] [n]">
+		<description>Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [US title theme] [n]</description>
+		<year>????</year>
+		<rom name="Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [US title theme] [n].gba" size="8524548" crc="9677cdd1" md5="8fc0755bd35a032890f4e90a1e55747f" sha1="3270ad94160db4bb8b1519607713396a1c509062"/>
+	</game>
+	<game name="Di Gi Charat - DigiCommunication (Japan) [T-En by JegHegy v0.1] [i]">
+		<description>Di Gi Charat - DigiCommunication (Japan) [T-En by JegHegy v0.1] [i]</description>
+		<year>????</year>
+		<rom name="Di Gi Charat - DigiCommunication (Japan) [T-En by JegHegy v0.1] [i].gba" size="8388608" crc="685b9be8" md5="851d2563b7f1ec2ceddc0afc3475dc01" sha1="b15459d3bd593f50e8e9f526601f0f09e354cbb2"/>
+	</game>
+	<game name="Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon (Japan) [T-En by Sam Steel v0.05] [i]">
+		<description>Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon (Japan) [T-En by Sam Steel v0.05] [i]</description>
+		<year>????</year>
+		<rom name="Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon (Japan) [T-En by Sam Steel v0.05] [i].gba" size="16777216" crc="3912000f" md5="7d6b2b69bd15e99a825f47fc35211fae" sha1="6d51e509ab76c8323fd1bdf2c6b50174f5b27f2b"/>
+	</game>
+	<game name="Dragon Quest Monsters - Caravan Heart (Japan) [T-En by The Translation Team v1.0]">
+		<description>Dragon Quest Monsters - Caravan Heart (Japan) [T-En by The Translation Team v1.0]</description>
+		<year>????</year>
+		<rom name="Dragon Quest Monsters - Caravan Heart (Japan) [T-En by The Translation Team v1.0].gba" size="8388608" crc="5b925fc9" md5="a57a5ea8c43957ee5974dd02ae305d1f" sha1="0aa4fd4808260af2c8a7531b07ed301eee1bb50a"/>
+	</game>
+	<game name="F-Zero - Climax (Japan) [T-En by F-Zero Climax Translation Project Team v1.1]">
+		<description>F-Zero - Climax (Japan) [T-En by F-Zero Climax Translation Project Team v1.1]</description>
+		<year>????</year>
+		<rom name="F-Zero - Climax (Japan) [T-En by F-Zero Climax Translation Project Team v1.1].gba" size="16777216" crc="80366a0a" md5="2e9179020a3d50a12f300f2dc7bf0231" sha1="4a5f9d4074eee79dd5ea3787f087a67012654866"/>
+	</game>
+	<game name="F-Zero - Climax (Japan) [T-En by Normmatt v1.0] [i]">
+		<description>F-Zero - Climax (Japan) [T-En by Normmatt v1.0] [i]</description>
+		<year>????</year>
+		<rom name="F-Zero - Climax (Japan) [T-En by Normmatt v1.0] [i].gba" size="16777216" crc="35602080" md5="a455005a850ce6e136bd1d0e0dd50d2c" sha1="537a2b096b913cb81193da2171762bcfe633355d"/>
+	</game>
+	<game name="Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan) [T-En by Fat Dave Beta 1] [i]">
+		<description>Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan) [T-En by Fat Dave Beta 1] [i]</description>
+		<year>????</year>
+		<rom name="Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan) [T-En by Fat Dave Beta 1] [i].gba" size="16777216" crc="22799fc7" md5="3e382a5f71e5fe803993b60a25dc48dd" sha1="6895e0d0d03fc228b174510d8f2801da36c0b624"/>
+	</game>
+	<game name="Fire Emblem - The Binding Blade (Japan) [T-En by Dark Twilkitri Net Translation Division v2.1] [Add by Gringe v1.1.3] [n]">
+		<description>Fire Emblem - The Binding Blade (Japan) [T-En by Dark Twilkitri Net Translation Division v2.1] [Add by Gringe v1.1.3] [n]</description>
+		<year>????</year>
+		<rom name="Fire Emblem - The Binding Blade (Japan) [T-En by Dark Twilkitri Net Translation Division v2.1] [Add by Gringe v1.1.3] [n].gba" size="8587268" crc="c5ccd529" md5="29ad914b997289c99118978d240b29b3" sha1="d2b9c2a1cab6896e34524b0883abb25b3e6b09b7"/>
+	</game>
+	<game name="Flashback Legends (France) (Proto) [T-En by VanishedOne v1.0]">
+		<description>Flashback Legends (France) (Proto) [T-En by VanishedOne v1.0]</description>
+		<year>????</year>
+		<rom name="Flashback Legends (France) (Proto) [T-En by VanishedOne v1.0].gba" size="3955244" crc="ffcbdd27" md5="a700fb72ae6f779ca8d1a09dbc0ea151" sha1="15389ee7a49391b61d0bbeee8f1b82202e99c608"/>
+	</game>
+	<game name="Fullmetal Alchemist - Sonata of Memories (Japan) [T-En by Iredc v1.0] [n]">
+		<description>Fullmetal Alchemist - Sonata of Memories (Japan) [T-En by Iredc v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Fullmetal Alchemist - Sonata of Memories (Japan) [T-En by Iredc v1.0] [n].gba" size="9127040" crc="08be6ed0" md5="ad77704e57f00d568f0ce1809936ab62" sha1="7dc8bfa23c6d4ca5ade2b8eefec928e671a8c543"/>
+	</game>
+	<game name="Fullmetal Alchemist - Stray Rondo (Japan) [T-En by Mz v0.02] [n]">
+		<description>Fullmetal Alchemist - Stray Rondo (Japan) [T-En by Mz v0.02] [n]</description>
+		<year>????</year>
+		<rom name="Fullmetal Alchemist - Stray Rondo (Japan) [T-En by Mz v0.02] [n].gba" size="16777216" crc="bc3f79b5" md5="70dd13d5d0cb840ecdee29ea78e5e013" sha1="0e53d1b7c6a413f18e13f0b87e302b7838f8dbe1"/>
+	</game>
+	<game name="Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0]">
+		<description>Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0]</description>
+		<year>????</year>
+		<rom name="Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0].gba" size="8388608" crc="5130a355" md5="e33de4139d69d016394a26119cdeba32" sha1="106301fecaf19f026385e281f9da881b6c38d058"/>
+	</game>
+	<game name="Hikaru no Go (Japan) [T-En by Ricardo Bittencourt v0.3] [i]">
+		<description>Hikaru no Go (Japan) [T-En by Ricardo Bittencourt v0.3] [i]</description>
+		<year>????</year>
+		<rom name="Hikaru no Go (Japan) [T-En by Ricardo Bittencourt v0.3] [i].gba" size="8388608" crc="8ec93109" md5="a999560912f6f9b98bfc52d39c74df6f" sha1="6fa52f27afcdaa9b8427d20be0a0661ce8fec931"/>
+	</game>
+	<game name="Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n]">
+		<description>Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n]</description>
+		<year>????</year>
+		<rom name="Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n].gba" size="33554432" crc="44b96764" md5="214fd38f121edda327979dbeef76c008" sha1="02dfc796c7227782ec7e47107ea86fb67669bf1e"/>
+	</game>
+	<game name="Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n] [SRAM version]">
+		<description>Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n] [SRAM version]</description>
+		<year>????</year>
+		<rom name="Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n] [SRAM version].gba" size="33554432" crc="bffc92b8" md5="d6cef4cc50c1ae10ee95211714fc4755" sha1="7eb4fbee205961fce166a4f44f84046ecbfc2491"/>
+	</game>
+	<game name="Kururin Paradise (Japan) [T-En by DigitalZero Domain v0.5] [i]">
+		<description>Kururin Paradise (Japan) [T-En by DigitalZero Domain v0.5] [i]</description>
+		<year>????</year>
+		<rom name="Kururin Paradise (Japan) [T-En by DigitalZero Domain v0.5] [i].gba" size="12582912" crc="2f4354f0" md5="e1ca79e0a3c3f05a0c7eb27640cb472d" sha1="e18533f68954d393530b71a23031606ab53272dd"/>
+	</game>
+	<game name="Legendary Starfy Origins, The (Japan) [T-En by Starfy Translation Team v1.1] [n]">
+		<description>Legendary Starfy Origins, The (Japan) [T-En by Starfy Translation Team v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Legendary Starfy Origins, The (Japan) [T-En by Starfy Translation Team v1.1] [n].gba" size="8388608" crc="f7cb8ee3" md5="43c29e64c16e26f3f0dae33120c9430d" sha1="79c4f1847dace4efceecff0a211cf341ad372808"/>
+	</game>
+	<game name="Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [n]">
+		<description>Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [n].gba" size="8388608" crc="e324050c" md5="366f654175a8cd855aeb4605e0bce5f5" sha1="6b2e8f7a63e5db86dff2a68e5996197a3d76cef8"/>
+	</game>
+	<game name="Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [Original Japanese names] [n]">
+		<description>Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [Original Japanese names] [n]</description>
+		<year>????</year>
+		<rom name="Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [Original Japanese names] [n].gba" size="8388608" crc="a047b091" md5="349184896e3c3f9b61545434da425647" sha1="2e1d1ae854dca23a2135f29945afacea2f8bb70c"/>
+	</game>
+	<game name="Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [Alt Font] [i]">
+		<description>Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [Alt Font] [i]</description>
+		<year>????</year>
+		<rom name="Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [Alt Font] [i].gba" size="8388608" crc="fc6744af" md5="9029326a45e051b43e1480d8f1cb9136" sha1="2ddf1a83e72dab983978fc9ce2db0843fd07cbaf"/>
+	</game>
+	<game name="Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [i]">
+		<description>Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [i]</description>
+		<year>????</year>
+		<rom name="Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [i].gba" size="8388608" crc="c4d0e5f5" md5="4f1e7c60d4fe54fea13aacb135ab745a" sha1="15a765d0d1fc11a2450b7655e0f6083691d5e933"/>
+	</game>
+	<game name="Magi Nation (Japan) [T-En by Aplier v1.01]">
+		<description>Magi Nation (Japan) [T-En by Aplier v1.01]</description>
+		<year>????</year>
+		<rom name="Magi Nation (Japan) [T-En by Aplier v1.01].gba" size="8388608" crc="2770dde0" md5="8ffee6a133c9d2b8e49209fe2b5b3276" sha1="35788b0e26c77d1431426ed000c615b6b7afab15"/>
+	</game>
+	<game name="Magical Vacation (Japan) [T-En by Magicalpatcher v1.0]">
+		<description>Magical Vacation (Japan) [T-En by Magicalpatcher v1.0]</description>
+		<year>????</year>
+		<rom name="Magical Vacation (Japan) [T-En by Magicalpatcher v1.0].gba" size="9043968" crc="98fbbd9a" md5="7bc82e72f6b9f734766f6cd9faf43e66" sha1="f928f9ca70ce76c19abbe50077f2c0d06efe6cfe"/>
+	</game>
+	<game name="Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [EU] [n]">
+		<description>Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [EU] [n]</description>
+		<year>????</year>
+		<rom name="Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [EU] [n].gba" size="8388608" crc="769119f3" md5="58ba9fcfdfd673c2cec7c0728b83aa93" sha1="f49cac3a3e9003e203eeffc6e45c3038e5cde96a"/>
+	</game>
+	<game name="Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [NA] [n]">
+		<description>Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [NA] [n]</description>
+		<year>????</year>
+		<rom name="Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [NA] [n].gba" size="8388608" crc="0a7d0372" md5="f4fff1f4668e73f3c10aa4fd45702164" sha1="c8dcc3957df44011fcc3616028e23cb031c01363"/>
+	</game>
+	<game name="Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [n]">
+		<description>Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [n]</description>
+		<year>????</year>
+		<rom name="Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [n].gba" size="16777216" crc="b956aff8" md5="199543739f6c9113df9ced6b98feea01" sha1="747e317eb8303f01ffee700ee99519c21a9dd204"/>
+	</game>
+	<game name="Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [Wii U features] [n]">
+		<description>Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [Wii U features] [n]</description>
+		<year>????</year>
+		<rom name="Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [Wii U features] [n].gba" size="16777216" crc="adb441aa" md5="dcefc6591e58d545c91107bd415579cb" sha1="e6a06ec0b22653f2042884a0ae1434c61ed72222"/>
+	</game>
+	<game name="Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [n]">
+		<description>Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [n].gba" size="16777216" crc="1234616a" md5="734d1cc470ce6823d29d600c6032bc44" sha1="33dfad3e735b9b893f47393926b07a603266e52b"/>
+	</game>
+	<game name="Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [Wii U features] [n]">
+		<description>Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [Wii U features] [n]</description>
+		<year>????</year>
+		<rom name="Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [Wii U features] [n].gba" size="16777216" crc="d4b8b057" md5="410c6df8eaef7b9e13853abf46dc689b" sha1="5fbcd9a2e1814cebe808ad6fc1a2df8d5b3c0721"/>
+	</game>
+	<game name="Megaman - Battle Network 2 (USA) [T-En by Vgperson v1.01] [Relocalized]">
+		<description>Megaman - Battle Network 2 (USA) [T-En by Vgperson v1.01] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Megaman - Battle Network 2 (USA) [T-En by Vgperson v1.01] [Relocalized].gba" size="16777216" crc="9822e4d1" md5="f3690309d6cbce3a74ada3d5dfcae89c" sha1="0242e6b928bd133c2a800afe4e2db0b64d7f2dee"/>
+	</game>
+	<game name="Megaman - Battle Network 3 - Blue Version (USA) [T-En by Vgperson v1.0] [Relocalized]">
+		<description>Megaman - Battle Network 3 - Blue Version (USA) [T-En by Vgperson v1.0] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Megaman - Battle Network 3 - Blue Version (USA) [T-En by Vgperson v1.0] [Relocalized].gba" size="16777216" crc="438b5af2" md5="71935c11b89fe341ba3ccc07ac4f3df8" sha1="3d82d8f4f39fea43714f1d829456bac9030b6d6b"/>
+	</game>
+	<game name="Megaman - Battle Network 3 - White Version (USA) [T-En by Vgperson v1.0] [Relocalized]">
+		<description>Megaman - Battle Network 3 - White Version (USA) [T-En by Vgperson v1.0] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Megaman - Battle Network 3 - White Version (USA) [T-En by Vgperson v1.0] [Relocalized].gba" size="16777216" crc="7bd0be86" md5="4e1fc7b2690b24de8298f5ffe8bd30d8" sha1="24faec46d08c9dc18ffaa2cf94e2debf6ab421cc"/>
+	</game>
+	<game name="Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized]">
+		<description>Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized].gba" size="16777216" crc="27f33331" md5="753d7571b4752305edb56294be1803b5" sha1="246a62743bf2d1f6c2cdb1ca979e793952f9f160"/>
+	</game>
+	<game name="Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs]">
+		<description>Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs]</description>
+		<year>????</year>
+		<rom name="Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs].gba" size="16777216" crc="eb36b1ea" md5="8294cd942a0903c33e81f7e35fb31610" sha1="f5ae09686f87ef4bdd0e081e6798848fecee77a9"/>
+	</game>
+	<game name="Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized]">
+		<description>Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized].gba" size="16777216" crc="246fd121" md5="3b42fcdf610e91b845018b15aef8480f" sha1="1ef105d1df68e8799c604ea7a57138c814348a1c"/>
+	</game>
+	<game name="Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs]">
+		<description>Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs]</description>
+		<year>????</year>
+		<rom name="Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs].gba" size="16777216" crc="4af5c637" md5="5d169811bbea8c1d38d5e21819a6f35b" sha1="83f1818a5f12a6f4f3f9c8b19da7f808ebeb8515"/>
+	</game>
+	<game name="Mobile Phone Beast Telefang 2 - Power (Japan) [T-En by Telefang 2 English Translation Project v20130505] [n]">
+		<description>Mobile Phone Beast Telefang 2 - Power (Japan) [T-En by Telefang 2 English Translation Project v20130505] [n]</description>
+		<year>????</year>
+		<rom name="Mobile Phone Beast Telefang 2 - Power (Japan) [T-En by Telefang 2 English Translation Project v20130505] [n].gba" size="9226487" crc="febd5b10" md5="f32907ae1c441d4c1674ae2f25379a3f" sha1="08241740566d90893f52791fd996622b74ff2caa"/>
+	</game>
+	<game name="Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9 &amp; Vague Rant v1.01]">
+		<description>Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9 &amp; Vague Rant v1.01]</description>
+		<year>????</year>
+		<rom name="Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9 &amp; Vague Rant v1.01].gba" size="4194304" crc="9778c78a" md5="24f59551c49fc42b68a197500ed52801" sha1="8e05b5785ff3f5e9f7f6a0db22d8e8919a54b9c0"/>
+	</game>
+	<game name="Mother 1+2 (Japan) [T-En by Jeffman &amp; Tomato v1.01]">
+		<description>Mother 1+2 (Japan) [T-En by Jeffman &amp; Tomato v1.01]</description>
+		<year>????</year>
+		<rom name="Mother 1+2 (Japan) [T-En by Jeffman &amp; Tomato v1.01].gba" size="16777216" crc="7b1ff152" md5="68806f7e40e1f082b21a8b920e8982db" sha1="e377a23de3411fd47b0d1ad3923d731ab0c127ac"/>
+	</game>
+	<game name="Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a]">
+		<description>Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a]</description>
+		<year>????</year>
+		<rom name="Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a].gba" size="33554432" crc="e73b0f7d" md5="0dbbd6df8d2611cd00768dc067d5a0e3" sha1="29a9a370e2996e5378ffd1220a783692bbd8a4b0"/>
+	</game>
+	<game name="Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a] [HQ audio mix by MusicTheorist]">
+		<description>Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a] [HQ audio mix by MusicTheorist]</description>
+		<year>????</year>
+		<rom name="Mother 3 (Japan) [T-En by Chewy &amp; Jeffman &amp; Tomato v1.3a] [HQ audio mix by MusicTheorist].gba" size="33554432" crc="789605cd" md5="259db0337da6eb6f91bb16fc0d569b56" sha1="2fe2c0190c648e6f6753f0ec28d19ea03206d1fa"/>
+	</game>
+	<game name="Mr. Driller A - Fushigi na Pacteria (Japan) [T-En by Keep Smiling International v1.0] [i]">
+		<description>Mr. Driller A - Fushigi na Pacteria (Japan) [T-En by Keep Smiling International v1.0] [i]</description>
+		<year>????</year>
+		<rom name="Mr. Driller A - Fushigi na Pacteria (Japan) [T-En by Keep Smiling International v1.0] [i].gba" size="8388608" crc="be6bf727" md5="3c1061b284c5550f0ad27421716c7a62" sha1="04746ac86140a09995ca228c2f02392b02b06c7c"/>
+	</game>
+	<game name="Nekketsu Monogatari Advance (Japan) (Demo) (Unl) [T-En by Jaz v1.0]">
+		<description>Nekketsu Monogatari Advance (Japan) (Demo) (Unl) [T-En by Jaz v1.0]</description>
+		<year>????</year>
+		<rom name="Nekketsu Monogatari Advance (Japan) (Demo) (Unl) [T-En by Jaz v1.0].gba" size="508972" crc="2ebe32a5" md5="6035757c4147b228ddb2ab966b147755" sha1="48857339b8088471ba0d87220ec320b3cc91340f"/>
+	</game>
+	<game name="Oriental Blue - Ao no Tengai (Japan) [T-En by The Romhacking Aerie v1.0]">
+		<description>Oriental Blue - Ao no Tengai (Japan) [T-En by The Romhacking Aerie v1.0]</description>
+		<year>????</year>
+		<rom name="Oriental Blue - Ao no Tengai (Japan) [T-En by The Romhacking Aerie v1.0].gba" size="16777216" crc="8a850da7" md5="0fe6daf45e3460cc865ee50029988f3a" sha1="95c4e8b78d7e66e28451e4f6780d3f0fd9e687d2"/>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney (Japan) [T-En by H3rmit &amp; Spazzery v006] [n]">
+		<description>Phoenix Wright - Ace Attorney (Japan) [T-En by H3rmit &amp; Spazzery v006] [n]</description>
+		<year>????</year>
+		<rom name="Phoenix Wright - Ace Attorney (Japan) [T-En by H3rmit &amp; Spazzery v006] [n].gba" size="8701052" crc="4fe9e995" md5="834f3d54a784a9e2be8a1d729f89a523" sha1="f72d6681d7a39725e56a8219e4e614c87d098d95"/>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney – Trials and Tribulations (Japan) [T-En by H3rmit v015.8] [n]">
+		<description>Phoenix Wright - Ace Attorney – Trials and Tribulations (Japan) [T-En by H3rmit v015.8] [n]</description>
+		<year>????</year>
+		<rom name="Phoenix Wright - Ace Attorney – Trials and Tribulations (Japan) [T-En by H3rmit v015.8] [n].gba" size="12805236" crc="ac456caa" md5="4ef304a3503a90579246ef7dae85e78a" sha1="a733e689f5b91642470034e42bfc3612d089a25d"/>
+	</game>
+	<game name="Play Novel - Silent Hill (Japan) [T-En by 07151129 v0.1]">
+		<description>Play Novel - Silent Hill (Japan) [T-En by 07151129 v0.1]</description>
+		<year>????</year>
+		<rom name="Play Novel - Silent Hill (Japan) [T-En by 07151129 v0.1].gba" size="12210176" crc="a8c9892e" md5="9a2269e62d38e4784309314cb41bc9f7" sha1="24d9ba2fc89c13ab5c1c76ffdd74c12a3390f7e4"/>
+	</game>
+	<game name="Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It) [T-En by Tasos500 v1.0] [Relocalized]">
+		<description>Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It) [T-En by Tasos500 v1.0] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It) [T-En by Tasos500 v1.0] [Relocalized].gba" size="8388608" crc="4db3829f" md5="678cbc2af2b824ebc3680515ae816197" sha1="ae37f32abfe2e7ad13cad9b228d1d21095e58122"/>
+	</game>
+	<game name="Rhythm Heaven Silver (Japan) [T-En by ShaffySwitcher Beta 14] [n]">
+		<description>Rhythm Heaven Silver (Japan) [T-En by ShaffySwitcher Beta 14] [n]</description>
+		<year>????</year>
+		<rom name="Rhythm Heaven Silver (Japan) [T-En by ShaffySwitcher Beta 14] [n].gba" size="16777216" crc="bf10b2a7" md5="61dc3c62e286ebbb0bb01864f3356719" sha1="aebde68851e55fd4c5bcef1bdbbcd3d66877a4e8"/>
+	</game>
+	<game name="Rhythm Heaven Silver (Japan) [T-En by W hat Beta 13a] [n]">
+		<description>Rhythm Heaven Silver (Japan) [T-En by W hat Beta 13a] [n]</description>
+		<year>????</year>
+		<rom name="Rhythm Heaven Silver (Japan) [T-En by W hat Beta 13a] [n].gba" size="16777216" crc="baf7ffd2" md5="3c29922b367de3f58587a8f92d1280b7" sha1="e79563406966a66958b280c9b70cdc6c49c35f54"/>
+	</game>
+	<game name="Rhythm Tengoku (Japan) [T-En by ShaffySwitcher v20230620] [i]">
+		<description>Rhythm Tengoku (Japan) [T-En by ShaffySwitcher v20230620] [i]</description>
+		<year>????</year>
+		<rom name="Rhythm Tengoku (Japan) [T-En by ShaffySwitcher v20230620] [i].gba" size="16777216" crc="960ca613" md5="e0e1317b670592fc8565cb3d73230dc4" sha1="41d9a3a32e2c63aa527e6ff8356a2f2e3f35ccbb"/>
+	</game>
+	<game name="Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by DarthNemesis &amp; Lordhuffnpuff &amp; SpikeMan v0.7b] [i]">
+		<description>Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by DarthNemesis &amp; Lordhuffnpuff &amp; SpikeMan v0.7b] [i]</description>
+		<year>????</year>
+		<rom name="Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by DarthNemesis &amp; Lordhuffnpuff &amp; SpikeMan v0.7b] [i].gba" size="16777216" crc="1266101a" md5="6c9979dc4888883d123e97587a8b4ab5" sha1="adf5e8ea861a2fb53f04fe673e54b5ac7b4e22ee"/>
+	</game>
+	<game name="Shin chan - Adventures in Cinema-Land (Spain) [T-En by LeonarthCG v1.0] [n]">
+		<description>Shin chan - Adventures in Cinema-Land (Spain) [T-En by LeonarthCG v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Shin chan - Adventures in Cinema-Land (Spain) [T-En by LeonarthCG v1.0] [n].gba" size="17359992" crc="4c5ffba8" md5="34d50b2e3fa34a53632f631b0605170a" sha1="cf588ec3a435eafc28fcb86c59ad39d3b5d59fa8"/>
+	</game>
+	<game name="Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized]">
+		<description>Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized]</description>
+		<year>????</year>
+		<rom name="Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized].gba" size="16777216" crc="f74db49f" md5="5cfd19f0fdd9912bc0e1163235d9951c" sha1="6942225755bba4c0b9d3c42b5a8ec699697cee5e"/>
+	</game>
+	<game name="Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized] [Font Hack]">
+		<description>Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized] [Font Hack]</description>
+		<year>????</year>
+		<rom name="Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized] [Font Hack].gba" size="16777216" crc="2050b471" md5="883319bdc8ab902259c980477dea7c7c" sha1="27601e69582b6352467aa38bb2f174208edc3e4f"/>
+	</game>
+	<game name="Spyro - Season of Ice (Japan) [T-En by Cornholio309 &amp; RayCarrot v1.0] [Add by Cornholio309 &amp; RayCarrot v1.01] [n]">
+		<description>Spyro - Season of Ice (Japan) [T-En by Cornholio309 &amp; RayCarrot v1.0] [Add by Cornholio309 &amp; RayCarrot v1.01] [n]</description>
+		<year>????</year>
+		<rom name="Spyro - Season of Ice (Japan) [T-En by Cornholio309 &amp; RayCarrot v1.0] [Add by Cornholio309 &amp; RayCarrot v1.01] [n].gba" size="16777216" crc="b254df00" md5="3fe15193a944260b24e37634f47d3295" sha1="ad6a4b0653115173cce32233f1e117315b95900d"/>
+	</game>
+	<game name="Spyro - Season of Ice (Japan) [T-En by Cornholio309 &amp; RayCarrot v1.0] [n]">
+		<description>Spyro - Season of Ice (Japan) [T-En by Cornholio309 &amp; RayCarrot v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Spyro - Season of Ice (Japan) [T-En by Cornholio309 &amp; RayCarrot v1.0] [n].gba" size="16777216" crc="04c00328" md5="ec494c8bd214ef0bf0d57dcde40e5ca7" sha1="6279d715f808d3af5c495dc13e5aefca7aebd2b0"/>
+	</game>
+	<game name="Suikoden Card Stories (Japan) [T-En by Pokeytax v1.00] [n]">
+		<description>Suikoden Card Stories (Japan) [T-En by Pokeytax v1.00] [n]</description>
+		<year>????</year>
+		<rom name="Suikoden Card Stories (Japan) [T-En by Pokeytax v1.00] [n].gba" size="4194304" crc="dafac900" md5="1e2ed077d1db255c44cd6c653067750c" sha1="343b4dc9e897133f26dc8f04a70c1ea752d26cdd"/>
+	</game>
+	<game name="Summon Night - Swordcraft Story 3 - The Stone of Beginnings (Japan) [T-En by Higsby &amp; Normmatt &amp; Teod &amp; Unknownbrackets v0.9] [i] [n]">
+		<description>Summon Night - Swordcraft Story 3 - The Stone of Beginnings (Japan) [T-En by Higsby &amp; Normmatt &amp; Teod &amp; Unknownbrackets v0.9] [i] [n]</description>
+		<year>????</year>
+		<rom name="Summon Night - Swordcraft Story 3 - The Stone of Beginnings (Japan) [T-En by Higsby &amp; Normmatt &amp; Teod &amp; Unknownbrackets v0.9] [i] [n].gba" size="33554432" crc="a8f22fca" md5="aa22a332bc843e3c8f3eef28d6b0b2e3" sha1="bb2eebf98deb59bb6218442c2308bb5033ae2915"/>
+	</game>
+	<game name="Super Robot Taisen D (Japan) [T-En by Snesmaster40 v0.5] [i]">
+		<description>Super Robot Taisen D (Japan) [T-En by Snesmaster40 v0.5] [i]</description>
+		<year>????</year>
+		<rom name="Super Robot Taisen D (Japan) [T-En by Snesmaster40 v0.5] [i].gba" size="8388608" crc="11ddcae7" md5="d6d19c4b1aef95094c5985295e54de76" sha1="5b04bdf54fa5c462de582ccbbef28b6078288d6c"/>
+	</game>
+	<game name="Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i]">
+		<description>Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i]</description>
+		<year>????</year>
+		<rom name="Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i].gba" size="8388608" crc="51ab5ae6" md5="1249e6491b9b8bc6f6b9a3098d305e6d" sha1="140e930dfa0212959f148d3bb9564aae443a9068"/>
+	</game>
+	<game name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [Music Persistance] [n]">
+		<description>Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [Music Persistance] [n]</description>
+		<year>????</year>
+		<rom name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [Music Persistance] [n].gba" size="4194304" crc="cc4fda84" md5="778cbe0cd0d270cf7d436e4a85121fe6" sha1="0a05eaf5ca16bd9dd9490e83b20a330afc2a240f"/>
+	</game>
+	<game name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [n]">
+		<description>Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [n]</description>
+		<year>????</year>
+		<rom name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [n].gba" size="4194304" crc="5b6285e0" md5="06618a55ff344b48bda4911110c2b8cc" sha1="1cfec4e59b3b29b8197a85d3c1dfefdcbd873479"/>
+	</game>
+	<game name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Music Persistance] [n]">
+		<description>Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Music Persistance] [n]</description>
+		<year>????</year>
+		<rom name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Music Persistance] [n].gba" size="4194304" crc="f24793e2" md5="cb17d85fcba63feb86f39a712f1082be" sha1="78f791de312915d8d83a1669b38f018876ee4e3e"/>
+	</game>
+	<game name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [n]">
+		<description>Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [n]</description>
+		<year>????</year>
+		<rom name="Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [n].gba" size="4194304" crc="656acc86" md5="d705138087091941d5507d41eb0aa8a0" sha1="71c7d0134e43005d47d09e76610774812fbe92be"/>
+	</game>
+	<game name="Super Robot Wars J (Japan) [T-En by The Romhacking Aerie v1.0] [n]">
+		<description>Super Robot Wars J (Japan) [T-En by The Romhacking Aerie v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Super Robot Wars J (Japan) [T-En by The Romhacking Aerie v1.0] [n].gba" size="16777216" crc="3b3cd715" md5="6caff32286c768d3bf9f7986d535ef7b" sha1="0ef65670fec4f655536d15b7a954a1deda192855"/>
+	</game>
+	<game name="Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [i]">
+		<description>Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [i]</description>
+		<year>????</year>
+		<rom name="Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [i].gba" size="8650272" crc="f4066d67" md5="9e252895e3e3aaa905d775429ea92f5d" sha1="c9e9426578190b851e84ff0f6ea4870b4f376c81"/>
+	</game>
+	<game name="Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [SRAM fix] [i]">
+		<description>Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [SRAM fix] [i]</description>
+		<year>????</year>
+		<rom name="Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [SRAM fix] [i].gba" size="8650272" crc="17677c42" md5="b03eba45c3e7d805dbcd4272ba48804a" sha1="adfa900becf77bb6f269123e87f9722733bacf9f"/>
+	</game>
+	<game name="Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [All Bosses Monster List] [i]">
+		<description>Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [All Bosses Monster List] [i]</description>
+		<year>????</year>
+		<rom name="Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [All Bosses Monster List] [i].gba" size="16777216" crc="0f8fd3c7" md5="d5aa5525c228d4fdb3c61217dfbf29fa" sha1="74b005bc838aa7d1528031249105de601614802c"/>
+	</game>
+	<game name="Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [i]">
+		<description>Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [i]</description>
+		<year>????</year>
+		<rom name="Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [i].gba" size="16777216" crc="e4ea6f60" md5="46d9e88df487f032161286d3fba17005" sha1="b49c3ac90d0b78f8ae3bc370fe0d53d14deaf548"/>
+	</game>
+	<game name="Tomato Adventure (Japan) [T-En by Unknown W. Brackets v1.1.1]">
+		<description>Tomato Adventure (Japan) [T-En by Unknown W. Brackets v1.1.1]</description>
+		<year>????</year>
+		<rom name="Tomato Adventure (Japan) [T-En by Unknown W. Brackets v1.1.1].gba" size="8388608" crc="a9bb7cd7" md5="959c714ade4039b56e5c0227330fe1d2" sha1="8c0866db299daf6787b63cbebb50d537e5a70821"/>
+	</game>
+	<game name="Ui-Ire - World Soccer Winning Eleven (Japan) [T-En by knighTeen87 v0.99]">
+		<description>Ui-Ire - World Soccer Winning Eleven (Japan) [T-En by knighTeen87 v0.99]</description>
+		<year>????</year>
+		<rom name="Ui-Ire - World Soccer Winning Eleven (Japan) [T-En by knighTeen87 v0.99].gba" size="8388608" crc="47986403" md5="84bcc02ab4ca331e09ce30183aba24cf" sha1="78080bd86e00fcade6e07334c6a565408a3d1f98"/>
+	</game>
+	<game name="Zoids Saga - Fuzors (Japan) [T-En by Gared531 v20210831] [i]">
+		<description>Zoids Saga - Fuzors (Japan) [T-En by Gared531 v20210831] [i]</description>
+		<year>????</year>
+		<rom name="Zoids Saga - Fuzors (Japan) [T-En by Gared531 v20210831] [i].gba" size="8388608" crc="7f5b7be4" md5="28e695614a2a9d32daf42de115a4ab02" sha1="ef64b8823a2ec9d87f740f2221086d69b934323b"/>
+	</game>
+</datafile>

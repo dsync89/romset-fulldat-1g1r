@@ -1,0 +1,94 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Ai & Haruka]
+  - Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Rihoko & Sae]
+  - Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Tsukasa & Kaoru]
+  - Amagami (Japan) [T-En by Ni-shi-shi Translations v0.92] [Ai & Haruka]
+  - Amagami (Japan) [T-En by Ni-shi-shi Translations v0.92] [Rihoko & Sae]
+  - Amagami (Japan) [T-En by Ni-shi-shi Translations v0.92] [Tsukasa & Kaoru]
++ Battle Stadium D.O.N (Japan) [T-En by Lord Izen v20230906] [Japanese voices]
+  - Battle Stadium D.O.N (Japan) [T-En by Lord Izen v20230906]
++ Blood Will Tell - Tezuka Osamu's Dororo (USA) [Undub by Kristian Zdunek v1.0]
+  - Blood Will Tell - Tezuka Osamu's Dororo (Europe) (En,Fr,De,Es,It) [Undub by Kristian Zdunek v1.0]
++ Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by DQ Translations v1.2] [Dragon Quest VIII Style Names]
+  - Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by DQ Translations v1.2] [Dragon Warrior Style Names]
++ Echo Night - Beyond (USA) [English fixes by IlDucci v1.0]
+  - Echo Night - Beyond (Europe) [English fixes by IlDucci v1.0]
++ Front Mission 5 - Scars of the War (Japan) [T-En by Front Mission 5 Team v4b] [Add by Swosho v1.0]
+  - Front Mission 5 - Scars of the War (Japan) [T-En by Front Mission 5 Team v4b]
++ Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan) [T-En by Goldenboy v2f] (CD)
+  - Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan) [T-En by Kyence v0.8b] (CD)
++ Yakuza (USA) [Undub by Kristian Zdunek v1.0] [PS3 fix v2]
+  - Yakuza (USA) [Undub by Kristian Zdunek v1.0]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Ar tonelico II - Melody of Metafalica (USA) [T-En by Project Metafalica v1.0] [Relocalized]
++ Atelier Marie+Elie - The Alchemists of Salburg - Episodes 1 & 2 [T-En by Atelier Traduction v1.01] [n]
++ Berserk - Millennium Falcon Arc - Falcon of the Millenium Empire - Chapter of the Holy Demon War (Japan) [T-En by Wesker90 v1.1] [n]
++ Boku no Natsuyasumi 2 - Adventure by the Sea (Japan) [T-En by Hilltop v1.1] [n]
++ Bujingai - Swordmaster (Europe) (En,Fr,De,Es,It) [Undub by Swosho v1.0] [NTSC 60Hz mode only]
++ Dog of Bay (Japan) [T-En by Hilltop v1.0] (CD)
++ Dot Hack Fraegment (Japan) [T-En by Dothackers v3.7] [i]
++ Dragon Quest & Final Fantasy in Fortune Street Special (Japan) [T-En by Choppasmith v3.01] [n]
++ Final Fantasy X-2 International + Last Mission (Japan) [T-En by Pbirdman v1.5] [i]
++ Final Fantasy XII International - Zodiac Job System (Japan) [T-En by ffgriever v0.23]
++ Fire Pro Wrestling Z (Japan) [T-En by Fatman Dave v0.5b] [i] (CD)
++ Growlanser VI - Precarious World (Japan) [T-En by Risae v2023-08-27]
++ Initial D - Special Stage (Japan) [T-En by Alexvgz v1.3] [i]
++ J. League Winning Eleven 10 + Europe League '06-'07 (Japan) (v1.03) [T-En by Fernando fk v2.70]
++ JoJo's Bizarre Adventure - Golden Wind (Japan) [T-En by Hudgyn Sasdarl v3.003] [n]
++ JoJo's Bizarre Adventure - Phantom Blood (Japan) [T-En by Penguino & Hudgyn Sasdarl v1.1] [n]
++ Jojo no Kimyou na Bouken - Ougon no Kaze (Japan) [T-En by JoJo's Colored Adventure v1.0]
++ Kenka Banchou 2 - Full Throttle (Japan) [T-En by TransGen v1.0alpha] [i]
++ Kingdom Hearts II - Final Mix (Japan) [T-En by Crazycatz00 v0.99.15222.0425r]
++ Monster Hunter 2 (Japan) [T-En by Break Arts v1.02]
++ Mystic Nights (Korea) [T-En by Jeremy De Cola-David v1.1.0]
++ Namco x Capcom (Japan) [T-En by TransGen Final Version A]
++ OutRun 2 SP (Japan) [T-En by SolidSnake11] [i]
++ Piposaru 2001 (Japan) [T-En by BmanRulesYou21 v1.1] (CD)
++ Rogue Hearts Dungeon (Japan) [T-En by TransGen v1.1 beta]
++ Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1 (Japan) [T-En by Kyence v2.10] (CD)
++ Shadow Tower Abyss (Japan) [T-En by Mord of Swoonlight v1.0]
++ Shin Master of Monsters Final EX (Japan) [T-En by Nebelwurfer HQ v0.50] [i]
++ Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) [T-En by E.F Jang & Krisan Thyme v1.1.3]
++ Simple 2000 Series Vol. 105 - The Maid Uniform & Machinegun (Japan) [T-En by Cargodin & Hilltop v1.0] [n] (CD)
++ Soul Eater - Battle Resonance (Japan) [T-En by Anime Game Translations Team v1.1]
++ Standard Daisenryaku - Ushinawareta Shouri (Japan) [T-En by Nebelwurfer HQ v0.60] [i]
++ Super Robot Wars OG - Original Generations (Japan) [T-En by Black & Dewgrass & Kingcom & Ngram Prisken v1.2] [n]
++ SuperLite 2000 Vol. 34 - Akai Ito (Japan) [T-En by Shizuka & Nanashi3 & Zohar v20170115] [i]
++ Tales of Destiny - Director's Cut (Japan, Asia) [T-En by Life Bottle Productions v0.1.244]
++ Tales of Destiny 2 (Japan) [T-En by Cless v062808 Pre-Alpha] [i]
++ TearRing Saga - Berwick Saga - Lazberia Chronicle - Chapter 174 (Japan) [T-En by Aethin v2.3] [n]
++ Vampire Panic (Japan) [T-En by TransGen v1.0 Beta] (CD)
++ World Soccer Winning Eleven 10 (Japan) [T-En by Fernando fk v5]
++ World Soccer Winning Eleven 9 (Japan) [T-En by Fernando fk v5]
++ Zill O'll Infinite (Japan) [T-En by TransGen v1.0]
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Football Kingdom - Trial Edition (Japan) [T-En by Fernando fk v0.4] [i] (CD)
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sony PlayStation 2 [T-En] Docs

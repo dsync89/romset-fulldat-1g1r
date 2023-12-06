@@ -1,0 +1,28 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Drihoo (Japan) [T-En by ShawnS v1.1]
++ Kikou Heidan J-Phoenix + (Japan) [T-En by MrRichard999 v0.15] [i]
++ Metal Wolf Chaos (Japan) [T-En by NemsMole v1.0]
++ OutRun 2 (Japan) [T-En by Justin Gibbins v1.0]
++ Thousand Land (Japan) [T-En by MrRichard999 v0.992b]
++ Touge R (Japan) [T-En by MrRichard999 v1.0]
++ Wild Rings, The (Japan) [T-En by MrRichard999 v0.95]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Microsoft - XBOX [T-En] Docs

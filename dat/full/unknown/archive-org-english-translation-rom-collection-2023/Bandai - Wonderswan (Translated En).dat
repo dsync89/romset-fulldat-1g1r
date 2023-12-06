@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai - WonderSwan (Translated En)</name>
+		<description>Bandai - WonderSwan (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>4 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Bandai WonderSwan [T-En] Docs">
+		<description>_Bandai WonderSwan [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1].txt" size="2093" crc="e45c5185" sha1="af0eec04f6fe64aef31558e6a6e30e98fdfb9837"/>
+		<rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [DigiCode Chart].png" size="17724" crc="41a769e0" sha1="07ccc5cba3e4936a1dd25a42a835164a4902bda7"/>
+		<rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Full Credits].txt" size="973" crc="97a3b97b" sha1="5cb3887329e038616322b173664766d36cd8261e"/>
+		<rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n].txt" size="8311" crc="ea85d70c" sha1="605800a4c30cc3cf8610bd9a007a3c2d677c03b1"/>
+		<rom name="Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i].txt" size="18916" crc="db740fa5" sha1="8db5bb06b859502dc472cb41c5d5c3a85583c6d5"/>
+		<rom name="Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n].txt" size="1830" crc="3d22420d" sha1="fe9c5c220b4713f88cfb488f1f04507035bfbdae"/>
+		<rom name="Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n].txt" size="2347" crc="d2f8503f" sha1="b0f2cd33e3dbb2e62496cec1330a089479d4c4f4"/>
+		<rom name="Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n].txt" size="2190" crc="304ec68d" sha1="0d628d7b4676c77ea9a3ec2abb1154948573a76b"/>
+		<rom name="Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0].txt" size="2671" crc="96f90ef4" sha1="5e22dbd29a97cdebb9ebecd7680d2cf0961b29f4"/>
+		<rom name="Rockman &amp; Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n].txt" size="2347" crc="d2f8503f" sha1="b0f2cd33e3dbb2e62496cec1330a089479d4c4f4"/>
+	</game>
+	<game name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1]">
+		<description>Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1]</description>
+		<year>????</year>
+		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1].ws" size="2097152" crc="6e8ca148" sha1="fb502d4c1fb2409b2e62fc7bd6920908cdc92379"/>
+	</game>
+	<game name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n]">
+		<description>Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n]</description>
+		<year>????</year>
+		<rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n].ws" size="2097152" crc="d5ea2ae2" sha1="abe5e4f80e1a27dee509d18b6e61375e36b76613"/>
+	</game>
+	<game name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon]">
+		<description>Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon]</description>
+		<year>????</year>
+		<rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon].ws" size="2097152" crc="b1989dc0" sha1="55be97ecefe02f1044aecef9f9b27e184beacbcb"/>
+	</game>
+	<game name="Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i]">
+		<description>Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i]</description>
+		<year>????</year>
+		<rom name="Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i].ws" size="1048576" crc="7a981de3" sha1="982b82fd0d96bc89c8eb08488b7240226f8958e6"/>
+	</game>
+	<game name="Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n]">
+		<description>Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n].ws" size="1048576" crc="30b66f34" sha1="2d32c99b588d65248e78dfa25a34075c533fb690"/>
+	</game>
+	<game name="Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]">
+		<description>Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]</description>
+		<year>????</year>
+		<rom name="Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n].ws" size="2097152" crc="a950654b" sha1="d6e94050b750b9c0df1ebc0a02ec2e7301ecc817"/>
+	</game>
+	<game name="Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n]">
+		<description>Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n].ws" size="2097152" crc="189b7610" sha1="5a60622180a132b01c88c83683c7bc454dc9d513"/>
+	</game>
+	<game name="Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0]">
+		<description>Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0]</description>
+		<year>????</year>
+		<rom name="Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0].ws" size="2097152" crc="30a866cd" sha1="09a11f0058f1decf0c2e1e0627a22e669ab49ca9"/>
+	</game>
+	<game name="Rockman &amp; Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]">
+		<description>Rockman &amp; Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]</description>
+		<year>????</year>
+		<rom name="Rockman &amp; Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n].ws" size="2097152" crc="b32d9f0f" sha1="cf093c9b51eec6e09dba0d62917fc3a5d9b69977"/>
+	</game>
+</datafile>

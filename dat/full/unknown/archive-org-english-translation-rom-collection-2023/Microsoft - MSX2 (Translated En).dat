@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Microsoft - MSX2 (Translated En)</name>
+		<description>Microsoft - MSX2 (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>4 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_MSX2 (Cartridge) [T-En] Docs">
+		<description>_MSX2 (Cartridge) [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [n].txt" size="38348" crc="7d1dcea8" sha1="22cb640f12a3a2a48ebbfc906c4471c04a26fa2f"/>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n].txt" size="43500" crc="10382385" sha1="42e3e05a16f3147f7d539a2682503d8e52f9f8f4"/>
+		<rom name="AshGuine Story III - Fukushuu no Honoo (Japan) [T-En by Django].pdf" size="302753" crc="fdbaa8a8" sha1="8a22c6e33ad01bee6c5aeae92ed6e5080160ebc7"/>
+		<rom name="Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n].txt" size="14138" crc="4e9c586b" sha1="a240c71471a91424b8b6f2883eda378ff96dc52c"/>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0].txt" size="23814" crc="de5e9590" sha1="3b8d185954dfd1db06f800bfcbe430064bab8f26"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [n] [Manual].pdf" size="63817" crc="07b78d9e" sha1="85d52f831833b0e4ed1cb2a9992d2c5ca51484e8"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [n].txt" size="3490" crc="6a5e1580" sha1="ed6e6df0b3f10d7e34ca13cf872cbcb5945990dc"/>
+		<rom name="Goofy Yaji Kita - Secrets on the Way (Japan) [T-En by Django v202001xx] [n].pdf" size="114295" crc="6fccd962" sha1="fe92f51fa5467eeedebc4596f38d024dfdafa13d"/>
+		<rom name="King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok &amp; Manuel Pazos v20130408] [n].txt" size="4210" crc="0381061e" sha1="e666bb39c61b52faa8d3579142337c17cf99de35"/>
+		<rom name="Labyrinth (Japan) [T-En by Django] [Walkthrough].txt" size="3736" crc="87516464" sha1="9a0a1824b3986fbafa9a083df88fe5e1b5196f96"/>
+		<rom name="Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n].txt" size="9159" crc="d8e6640e" sha1="48a42e941ba57e76e67e7f03c81727ee4a6bca8f"/>
+		<rom name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] [Add by FRS v2].txt" size="3873" crc="ef83a6f7" sha1="66e495f83d5c8b9c37f7906f70aec3bc28a62482"/>
+		<rom name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995].txt" size="10583" crc="be45e547" sha1="46937ba90acff9bbeb9735f845657bb3c63d233f"/>
+		<rom name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] [Add by FRS v2].txt" size="3873" crc="ef83a6f7" sha1="66e495f83d5c8b9c37f7906f70aec3bc28a62482"/>
+		<rom name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a].txt" size="1326" crc="9fc689b3" sha1="418b6254e7803902b26bf7759dc622c2c8f2872d"/>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4].txt" size="95" crc="43e62d53" sha1="8f37df7b1e51baab6e27305a11fdb23d5f7c8c8d"/>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2].txt" size="4794" crc="39992f2c" sha1="38e5f12e59715ac9cdb6b58ce857465bfd9f12ee"/>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [n].txt" size="9777" crc="514e1781" sha1="dcefc8d85cb7b85feb56609abc091e809b8fb186"/>
+		<rom name="Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n].txt" size="8138" crc="8bb38e92" sha1="e80b63a15655fee858c3f25323d524e10fb20c70"/>
+		<rom name="Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n].txt" size="9514" crc="4f59254a" sha1="1b3db6952b45968602087d4c318216ac97bf8813"/>
+		<rom name="Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n].txt" size="12159" crc="feffaf7e" sha1="903ad9d3960cb8fca1bf3de1aea9a0837823752c"/>
+		<rom name="Woody Poco (Japan) [T-En by MSX Translations v1.0.1].txt" size="18288" crc="b0025b88" sha1="4a0b8196e9ecdd899f7152ba786a5eab0be14f2f"/>
+		<rom name="Zombie Hunter (Japan) [T-En by Django v2015xxxx].doc" size="388096" crc="86d092c7" sha1="17c5f6b3925815b7924ac4b82116358eda2eda45"/>
+	</game>
+	<game name="_MSX2 (Floppy) [T-En] Docs">
+		<description>_MSX2 (Floppy) [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Akanbe Dragon (Japan) [T-En by MP83 &amp; Lars the 18th v1.0].txt" size="808" crc="e15446b5" sha1="d9cac04d150423d0bf287a43cae47e0c5b787bf5"/>
+		<rom name="American Success (Japan) [T-En by Django v2.0].pdf" size="33687" crc="8f1921f2" sha1="42a464efb3a6c4ceff38cc24aed6ebaa70d28ef8"/>
+		<rom name="Arcus (Japan) [T-En by Django v201111xx].pdf" size="59893" crc="bcae3a95" sha1="d7877edbf537f7fa96bdd93cefb665062537c7a5"/>
+		<rom name="Crimson II (Japan) [T-En by Django v201812xx].doc" size="69120" crc="407d84f9" sha1="792ef1f87bb2ab617a09732c7b685e838e542070"/>
+		<rom name="Daisenryaku (Japan) [T-En by MSX Translations v1.0.0].txt" size="11616" crc="90847648" sha1="c661c9d6f38f730c4c187f7476090c3232ab8983"/>
+		<rom name="Dios (Japan) [T-En by Django].pdf" size="180627" crc="291799fa" sha1="75400ae7f8fd11ddda29e6c8444ed3c38134a6a6"/>
+		<rom name="Exterlien (Japan) [T-En by Django v2018xxxx].pdf" size="155746" crc="f69d6f2e" sha1="25a369dad50aa84e79e7025350d9ce55f188d28c"/>
+		<rom name="F1 Douchuuki (Japan) [T-En by Django v1.0] [Translation Notes].pdf" size="113582" crc="29778fe1" sha1="929554f553763501e96bc3462b2bba6ac1a73bc3"/>
+		<rom name="F1 Douchuuki (Japan) [T-En by Django v1.0].txt" size="478" crc="29f4972f" sha1="711186b39836b2e75f3df5ffd20d48b7f7ccffea"/>
+		<rom name="Final Fantasy (Japan) [T-En by FCandChill &amp; Her-Saki &amp; TheMajinZenki v1.0] [Manual].pdf" size="3513220" crc="911d6930" sha1="3b7ef3761c16360b76b249f51f3a6b7946409135"/>
+		<rom name="Final Fantasy (Japan) [T-En by FCandChill &amp; Her-Saki &amp; TheMajinZenki v1.0].md" size="10218" crc="21ccbca5" sha1="e12874f12f2bc360cbf27f332a72900e32fe9b70"/>
+		<rom name="Gandhara (Japan) [T-En by Django v201502xx].pdf" size="510873" crc="f238e57a" sha1="13a847fff1e28d4abd34475f0d0046fd8b0775cb"/>
+		<rom name="Great Strategy (Japan) [T-En by MSX Translations v1.0.0] [n].txt" size="11616" crc="90847648" sha1="c661c9d6f38f730c4c187f7476090c3232ab8983"/>
+		<rom name="Kageroh Labyrinth (Japan) [T-En by Django] [i] [n].pdf" size="281972" crc="a1e9f195" sha1="7bde32d8af3c6d96aac2fe069d28bfbfb8e4edf4"/>
+		<rom name="Legendly Nine Gems (Japan) [T-En by Django v201202xx] [n].pdf" size="1168855" crc="3b710c35" sha1="fdb7bc56da77035a08567e9561b2a8ba88dd4a53"/>
+		<rom name="Marcy's Princesses Many (Japan) [T-En by Django v2012xxxx] [n].pdf" size="51033" crc="21e9f851" sha1="25b20d795a7b242081ef15d0a28de44e717d999c"/>
+		<rom name="Maze [T-En by 232 &amp; BiFi] [n].txt" size="1700" crc="644944c9" sha1="0c6b9114f3db8bebc95fb887c05d9af774ef78f0"/>
+		<rom name="Meow Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n].txt" size="1570" crc="c64a9181" sha1="31a0433f26160e9b0bc23eaaacb9eb0a90075327"/>
+		<rom name="Navitune - Dragon Voyage (Japan) [T-En by Django v20201213] [Items] [n].pdf" size="93114" crc="6c3fefa7" sha1="de54e3c5b032e91c0b29a1468b42cbac0c7a806d"/>
+		<rom name="Navitune - Dragon Voyage (Japan) [T-En by Django v20201213] [n].pdf" size="15493" crc="1dd72816" sha1="9dbc1a6bc2f07be49831ff7f4c0ac1c382022117"/>
+		<rom name="Nyan Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n].txt" size="1570" crc="c64a9181" sha1="31a0433f26160e9b0bc23eaaacb9eb0a90075327"/>
+		<rom name="Pleasure Hearts (Japan) [T-En by Yim v1.02].txt" size="3984" crc="f315df3e" sha1="8713a388d0b36a584037910c860aec09568a6501"/>
+		<rom name="Psycho World (Japan) [T-En by Django &amp; FRS v3.0].pdf" size="85713" crc="ff01aa9e" sha1="6053ff46678d5c4ef2c03b12df102b79280af594"/>
+		<rom name="Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2].txt" size="1595" crc="9e6668f7" sha1="c3fbc1277945e1499c0f71d276c4c68ce32faf63"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0].txt" size="2362" crc="066fe565" sha1="9e69c84e8b3e1a7cd524b6ad3d662882390c84d7"/>
+		<rom name="Robo Crush (Japan) [T-En by Django v202104xx] [i].pdf" size="122043" crc="14c4acf3" sha1="0a739263f8b8e43c4ded344b178482c80c3221d8"/>
+		<rom name="Sa-zi-ri (Japan) [T-En by Django v1.0].pdf" size="105765" crc="27f037de" sha1="8e7e4c3a76d31b89918b9e219aec4b144a9cbcce"/>
+		<rom name="SD Snatcher (Japan) [T-En by Ded302 &amp; Oasis v1.01].txt" size="384" crc="25c6c823" sha1="e617631e90ae3412309b40309621efb0ab95a224"/>
+		<rom name="SD Snatcher (Japan) [T-En by Project Melancholia v20140102].txt" size="13972" crc="ec45366a" sha1="8643c25e2825c954968bfaacc07cddc8fd9142d2"/>
+		<rom name="Silviana (Japan) [T-En by M.I.J.E.T. v20091213].txt" size="9606" crc="001081f9" sha1="e2abfaceb6f7f146e89a58857b44fb6c2737f46c"/>
+		<rom name="Snatcher (Japan) [T-En by Fudeba Software v0.6.0].txt" size="10964" crc="1b6e574a" sha1="4ca51c138d0c83e74b48b0debc7e07100ce54fe8"/>
+		<rom name="Sorcerer Lulba (Japan) [T-En by 232 &amp; BiFi] [n].txt" size="1863" crc="d665c20d" sha1="fbfc6016602bdebeae5aac04085215bb7568e64c"/>
+		<rom name="Super Cooks (Japan) [T-En by Django v201501xx].pdf" size="353734" crc="a94f9647" sha1="e395fd3ec6bd4917470085df7089ee162068c4ce"/>
+		<rom name="Super Daisenryaku (Japan) [T-En by Django v1.0].pdf" size="44508" crc="8757062e" sha1="6eb389a93ecf698d27a9e94b519a0fceeb88ecf0"/>
+		<rom name="Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations].txt" size="2366" crc="75cd138e" sha1="cabf4d451f1d45bea66baadf3aba03dae2bede4a"/>
+		<rom name="Tempo Typing (Netherlands) [T-En by 232 &amp; BiFi].txt" size="1980" crc="baeda6d4" sha1="70964ad23c16e8a4be36ec1d09b2efc89982db14"/>
+		<rom name="USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n].txt" size="1435" crc="342b648a" sha1="0291269fdaac1417704a63a341f9479553d11d9c"/>
+		<rom name="Valeur, La (Japan) [T-En by Django v20180130] [Walkthrough].pdf" size="338832" crc="adb6b6c1" sha1="a76f8efcdb731efea6e9f42540e51c3ab593ce88"/>
+		<rom name="Valeur, La (Japan) [T-En by Django v20180130].pdf" size="604905" crc="70778388" sha1="2b2e9c64346d2bba1368a3e0404d17bab34c28d4"/>
+		<rom name="Wings of Arugisu (Japan) [T-En by Django v201903xx].pdf" size="309360" crc="8137386f" sha1="4beba9e65ef8cce34d3c6707aab6e9e6cdcadc92"/>
+		<rom name="XZR II (Japan) [T-En by Django v1.0] [i].txt" size="1425" crc="a2ffa74b" sha1="68b5848acf2d453b8fa7ba57e7db9a767393a378"/>
+		<rom name="Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] [Help Texts Script].doc" size="69120" crc="bf1bb016" sha1="c6cf6fec26f465014b8d2aefdb623daec4cee357"/>
+		<rom name="Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] [Horizontal Enemy Patterns].png" size="8863" crc="82a8a6bd" sha1="3f94e8ff3b023526105803627d68ab0f2c33f40d"/>
+		<rom name="Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] [Vertical Enemy Patterns].png" size="7879" crc="95de13c3" sha1="bcea2840a031d9c047d7a6fbf20d179c120442ea"/>
+		<rom name="Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0].txt" size="7083" crc="5b6d1142" sha1="97d088138f42a6085edad305091affe292dac6c5"/>
+		<rom name="Zoo (Netherlands) [T-En by MRC Users v201703xx].txt" size="452" crc="964f7821" sha1="1d8f87b05d48a1fd52ffc7003e0469ee7d754b82"/>
+	</game>
+	<game name="Adventure of Randar (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy)">
+		<description>Adventure of Randar (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Adventure of Randar (Japan) [T-En by Sargon v2003xxxx] [n].dsk" size="737280" crc="9797ce48" sha1="4f35370c32bafd3c3e812c2ce9a80b50077c45c1"/>
+	</game>
+	<game name="Adventure of Randar II - Revenge of Death (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy)">
+		<description>Adventure of Randar II - Revenge of Death (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Adventure of Randar II - Revenge of Death (Japan) [T-En by Sargon v2003xxxx] [n].dsk" size="737280" crc="e8d6ade3" sha1="0e25a523237e35342bcb489920e62452eb768f7c"/>
+	</game>
+	<game name="Adventure of Randar III (Japan) [T-En by Django] [i] [n] (Floppy)">
+		<description>Adventure of Randar III (Japan) [T-En by Django] [i] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Adventure of Randar III (Japan) (Disk 1) [T-En by Django] [i] [n].dsk" size="737280" crc="07d4bcee" sha1="a67b3487c5d3897ae6cb08bdbe44e21d61f44ea2"/>
+		<rom name="Adventure of Randar III (Japan) (Disk 2) [T-En by Django] [i] [n].dsk" size="737280" crc="27fc0866" sha1="55d74ac99766a51da40e6b8f9d50db91e4e579d9"/>
+		<rom name="Adventure of Randar III (Japan) (Disk 3) [T-En by Django] [i] [n].dsk" size="737280" crc="950aaebc" sha1="f68a7a12206581a2d910392ff8db3652d61fb664"/>
+		<rom name="Adventure of Randar III (Japan) (Disk 4) [T-En by Django] [i] [n].dsk" size="737280" crc="a5e7be84" sha1="3b11ff5c8f50593a37be37f586263864cf70364d"/>
+	</game>
+	<game name="Akanbe Dragon (Japan) [T-En by MP83 &amp; Lars the 18th v1.0] (Floppy)">
+		<description>Akanbe Dragon (Japan) [T-En by MP83 &amp; Lars the 18th v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Akanbe Dragon (Japan) [T-En by MP83 &amp; Lars the 18th v1.0].dsk" size="737280" crc="bdf32ea2" sha1="5f0ea4080628512d0c4519b51e0a0cef8a511019"/>
+	</game>
+	<game name="Aleste (Japan) [T-En by Tsunami v1.0] (Cartridge)">
+		<description>Aleste (Japan) [T-En by Tsunami v1.0] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Aleste (Japan) [T-En by Tsunami v1.0].rom" size="262144" crc="174a01e1" sha1="be2d023f5f1ee4cfbdc712c8ef9eda9d07278d88"/>
+	</game>
+	<game name="Aleste (Japan) [T-En by Tsunami v1.0] (Floppy)">
+		<description>Aleste (Japan) [T-En by Tsunami v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Aleste (Japan) [T-En by Tsunami v1.0].dsk" size="368640" crc="0ada0f34" sha1="48ffd7c57ed5ec521a276edd52cfb9de20ee8930"/>
+	</game>
+	<game name="Aleste (Japan) [T-En by Woomb] (Cartridge)">
+		<description>Aleste (Japan) [T-En by Woomb] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Aleste (Japan) [T-En by Woomb].rom" size="262144" crc="1bf06397" sha1="11b712633bd0e44e8d59ceba5a2d6b1c20a43ef9"/>
+	</game>
+	<game name="Aleste 2 (Japan) [T-En] (Floppy)">
+		<description>Aleste 2 (Japan) [T-En] (Floppy)</description>
+		<year>????</year>
+		<rom name="Aleste 2 (Japan) (Boot Disk) [T-En].dsk" size="737280" crc="319e972b" sha1="b28c70c4d89e0736acc94816f88482da24a78725"/>
+		<rom name="Aleste 2 (Japan) (Game Disk A) [T-En].dsk" size="737280" crc="a14abef6" sha1="3e0e7e4c216337b7997751fb7ddd8305d852948b"/>
+		<rom name="Aleste 2 (Japan) (Game Disk B) [T-En].dsk" size="737280" crc="a332d1d2" sha1="08a20f67d888eb8a07d74eed13c7945c53cadcc8"/>
+	</game>
+	<game name="American Success (Japan) [T-En by Django v2.0] (Floppy)">
+		<description>American Success (Japan) [T-En by Django v2.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="American Success (Japan) (Game Disk) [T-En by Django v2.0].dsk" size="737280" crc="ff6fb346" sha1="aae25ad81f80f2ddf5380c3a65c396745c14a97d"/>
+	</game>
+	<game name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio with samples] [n] (Cartridge)">
+		<description>Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio with samples] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio with samples] [n].rom" size="344064" crc="b1f4c76d" sha1="f050370780e31c4c9276c9cb12729ef0e67bd603"/>
+	</game>
+	<game name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio without samples] [n] (Cartridge)">
+		<description>Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio without samples] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio without samples] [n].rom" size="311296" crc="54ac119b" sha1="694226684a4dc15ae98dcb6dcdd23ce34e0fcfdf"/>
+	</game>
+	<game name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [PSG Audio] [n] (Cartridge)">
+		<description>Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [PSG Audio] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [PSG Audio] [n].rom" size="311296" crc="602e919a" sha1="40ad6cd31327376b97eab0adfa06f05c97dd7278"/>
+	</game>
+	<game name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio with samples] [n] (Cartridge)">
+		<description>Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio with samples] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio with samples] [n].rom" size="344064" crc="3f8f6620" sha1="d6f5822f7fc102f28c89afc1d416a5fce2a2d58f"/>
+	</game>
+	<game name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio without samples] [n] (Cartridge)">
+		<description>Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio without samples] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio without samples] [n].rom" size="311296" crc="3504a7cf" sha1="565192c617982e66b910de59bbfb0f65ecc003ce"/>
+	</game>
+	<game name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [PSG Audio] [n] (Cartridge)">
+		<description>Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [PSG Audio] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [PSG Audio] [n].rom" size="311296" crc="018627ce" sha1="63ee1e034b0fea113d36021d5ab5060164ab4134"/>
+	</game>
+	<game name="Arcus (Japan) [T-En by Django v201111xx] (Floppy)">
+		<description>Arcus (Japan) [T-En by Django v201111xx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Arcus (Japan) (Disk 1) (Intro).dsk" size="737280" crc="cb45ca79" sha1="af9668541e5ab80f68d363a8ad2ad788041dc777"/>
+		<rom name="Arcus (Japan) (Disk 2) [T-En by Django v201111xx].dsk" size="737280" crc="e3a94e33" sha1="855faffd70f1ef0a1cb6bb0ce3465cf9cc1bbf72"/>
+		<rom name="Arcus (Japan) (Disk 3) [T-En by Django v201111xx].dsk" size="737280" crc="6735d7e3" sha1="be6898f46b172520f2c8b75eb550ede9cbfbdf92"/>
+	</game>
+	<game name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 AS] [n] (Cartridge)">
+		<description>AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 AS] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 AS] [n].rom" size="294912" crc="f6faf943" sha1="28354d2ac06789d6b2cc88b40e79e378a9d97f16"/>
+	</game>
+	<game name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MA] [n] (Cartridge)">
+		<description>AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MA] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MA] [n].rom" size="262144" crc="af74eb12" sha1="3967d78ad31b827ef6b8fe3fd6caf17299fea1c8"/>
+	</game>
+	<game name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MM] [n] (Cartridge)">
+		<description>AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MM] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MM] [n].rom" size="262144" crc="461b7a3d" sha1="23a2267b8e851850d2c5d88a2f0d3d9201a525e5"/>
+	</game>
+	<game name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] [n] (Cartridge)">
+		<description>AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] [n].rom" size="262144" crc="a50c9193" sha1="ef11f46e12c3604327e30508060ca4c4e30fa0dd"/>
+	</game>
+	<game name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)">
+		<description>AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n].rom" size="262144" crc="52ed4884" sha1="00c577c2f57a1029876ddda85c4f8ef1f7b69d2b"/>
+	</game>
+	<game name="AshGuine Story III - Fukushuu no Honoo (Japan) [T-En by Django] (Cartridge)">
+		<description>AshGuine Story III - Fukushuu no Honoo (Japan) [T-En by Django] (Cartridge)</description>
+		<year>????</year>
+		<rom name="AshGuine Story III - Fukushuu no Honoo (Japan) [T-En by Django].rom" size="262144" crc="ac54ec25" sha1="ac13f74dfade8eea59d8ed9bc3d642d3e8adf6ae"/>
+	</game>
+	<game name="Chuka Taisen (Japan) [T-En by Django] (Floppy)">
+		<description>Chuka Taisen (Japan) [T-En by Django] (Floppy)</description>
+		<year>????</year>
+		<rom name="Chuka Taisen (Japan) [T-En by Django].dsk" size="368640" crc="fb0694d2" sha1="8231ae2195ce92393165c9571cb020bf1ba889ec"/>
+	</game>
+	<game name="Crimson II (Japan) [T-En by Django v201812xx] (Floppy)">
+		<description>Crimson II (Japan) [T-En by Django v201812xx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Crimson II (Japan) (Game Disk) [T-En by Django v201812xx].dsk" size="737280" crc="5def83d4" sha1="13b3e4afe17d3cb134d10dc02ad9c961c2006b35"/>
+		<rom name="Crimson II (Japan) (Main Disk) [T-En by Django v201812xx].dsk" size="737280" crc="d244b0ab" sha1="c8d61c4a274df540c1f9c54dde645c9510c80abe"/>
+	</game>
+	<game name="Daikoukai Jidai (Japan) [T-En by Django] (Cartridge)">
+		<description>Daikoukai Jidai (Japan) [T-En by Django] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Daikoukai Jidai (Japan) [T-En by Django].rom" size="524288" crc="00d42ffd" sha1="42ae6b95823b98f8ea7d10864545f99d57365899"/>
+	</game>
+	<game name="Daisenryaku (Japan) [T-En by MSX Translations v1.0.0] (Floppy)">
+		<description>Daisenryaku (Japan) [T-En by MSX Translations v1.0.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Daisenryaku (Japan) [T-En by MSX Translations v1.0.0].dsk" size="368640" crc="8e76c64e" sha1="7d8160a1b0dc93dde9d572fc35d1911b53e7fc58"/>
+	</game>
+	<game name="Daisenryaku II - Campaign Version (Japan) [T-En by Takamichi Suzukawa &amp; Trunks &amp; Victor Martinez v1.0] (Floppy)">
+		<description>Daisenryaku II - Campaign Version (Japan) [T-En by Takamichi Suzukawa &amp; Trunks &amp; Victor Martinez v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Daisenryaku II - Campaign Version (Japan) (Data Disk) [T-En by Takamichi Suzukawa &amp; Trunks &amp; Victor Martinez v1.0].dsk" size="737280" crc="d2c65c30" sha1="cc7093f95b85a3b997d15d53ecc62f6256af5979"/>
+		<rom name="Daisenryaku II - Campaign Version (Japan) (Game Disk) [T-En by Takamichi Suzukawa &amp; Trunks &amp; Victor Martinez v1.0].dsk" size="737280" crc="89965fcc" sha1="f3acd477ec6ab087c3e2ff910694c1e9193d1bdd"/>
+	</game>
+	<game name="Daiva Story 4 - Asura's Bloodfeud &amp; Daiva Story 5 - The Cup of Soma (Japan) [T-En by Tsunami &amp; Sargon v2004xxxx] [n] (Floppy)">
+		<description>Daiva Story 4 - Asura's Bloodfeud &amp; Daiva Story 5 - The Cup of Soma (Japan) [T-En by Tsunami &amp; Sargon v2004xxxx] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Daiva Story 4 - Asura's Bloodfeud &amp; Daiva Story 5 - The Cup of Soma (Japan) [T-En by Tsunami &amp; Sargon v2004xxxx] [n].dsk" size="737280" crc="515c6ac6" sha1="5448048de00fb62a11dbfcb237de2e42ca3f8211"/>
+		<rom name="Daiva Story 5 - The Cup of Soma (Japan) (Save Disk).dsk" size="737280" crc="e707f188" sha1="dd3efc32a28d1f11e8f8f132620330b1a8d3801f"/>
+	</game>
+	<game name="Dead of the Brain (Japan) [T-En by Manuel Pazos v20200630] (Floppy)">
+		<description>Dead of the Brain (Japan) [T-En by Manuel Pazos v20200630] (Floppy)</description>
+		<year>????</year>
+		<rom name="Dead of the Brain (Japan) (Disk 1) [T-En by Manuel Pazos v20200630].dsk" size="737280" crc="d7e1d104" sha1="605217e4aca8812dbc86af06e6c1b3f79a70b3db"/>
+		<rom name="Dead of the Brain (Japan) (Disk 2) [T-En by Manuel Pazos v20200630].dsk" size="737280" crc="30697cea" sha1="b9d3eca819516851d7519fcfc0c0db9d75aae2d7"/>
+		<rom name="Dead of the Brain (Japan) (Disk 3) [T-En by Manuel Pazos v20200630].dsk" size="737280" crc="4e656efd" sha1="c05bbd395423fc3a12c166f2479cc630a4b12d75"/>
+	</game>
+	<game name="Deep Forest (Japan) [T-En by Django v1.0] (Cartridge)">
+		<description>Deep Forest (Japan) [T-En by Django v1.0] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Deep Forest (Japan) [T-En by Django v1.0].rom" size="131072" crc="4bb80bf6" sha1="ca61bf034c03c78897b2057b95aebe900d4d92b2"/>
+	</game>
+	<game name="Deep Forest (Japan) [T-En by Django v1.0] (Floppy)">
+		<description>Deep Forest (Japan) [T-En by Django v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Deep Forest (Japan) [T-En by Django v1.0].dsk" size="737280" crc="f26780ec" sha1="0708513c35d3de9245342353fd1c9c3994bc9792"/>
+	</game>
+	<game name="Dios (Japan) [T-En by Django] (Floppy)">
+		<description>Dios (Japan) [T-En by Django] (Floppy)</description>
+		<year>????</year>
+		<rom name="Dios (Japan) (Disk A) [T-En by Django].dsk" size="737280" crc="0e5e8d8c" sha1="3fdaca8e046c3dd1b045be371f30d8ff2e4c26ea"/>
+		<rom name="Dios (Japan) (Disk B) [T-En by Django].dsk" size="737280" crc="06dc1227" sha1="68019832d30f38df393700d58752daa5bc8ea90e"/>
+		<rom name="Dios (Japan) (Disk C) [T-En by Django].dsk" size="737280" crc="75f8ba77" sha1="4d04122d296f14366a03b58bc151672af7e88fc1"/>
+		<rom name="Dios (Japan) (Disk D) [T-En by Django].dsk" size="737280" crc="406049dc" sha1="fe06774e6e86cd58a081e452fb131fbe1ec9b52c"/>
+		<rom name="Dios (Japan) (User Disk).dsk" size="737280" crc="bb05d0bc" sha1="4a45477338d3168bfb4852e2d1b4aa2a344ecfb8"/>
+	</game>
+	<game name="Dragon Quest (Japan) [T-En by Django v201804xx] [i] (Cartridge)">
+		<description>Dragon Quest (Japan) [T-En by Django v201804xx] [i] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Dragon Quest (Japan) [T-En by Django v201804xx] [i].rom" size="131072" crc="37e616f3" sha1="cae1f38614fac53c414bd515d8c7a6be29a81525"/>
+	</game>
+	<game name="Dragon Slayer - The Legend of Heroes (Japan) [T-En by Oasis &amp; Randam v1.0] (Floppy)">
+		<description>Dragon Slayer - The Legend of Heroes (Japan) [T-En by Oasis &amp; Randam v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Dragon Slayer - The Legend of Heroes (Japan) (Game Disk) [T-En by Oasis &amp; Randam v1.0].dsk" size="737280" crc="d9ad79fd" sha1="f7a3626a84da4a6e0bc34c03ba1367bf0bfc49bf"/>
+		<rom name="Dragon Slayer - The Legend of Heroes (Japan) (Scenario 1 Disk) [T-En by Oasis &amp; Randam v1.0].dsk" size="737280" crc="bacf70ff" sha1="22d21946f358f6f0d539a750e8b916154640b695"/>
+		<rom name="Dragon Slayer - The Legend of Heroes (Japan) (Scenario 2 Disk) [T-En by Oasis &amp; Randam v1.0].dsk" size="737280" crc="dc57290f" sha1="990ab134a171c83f3f9d93368e0360091a1eded7"/>
+		<rom name="Dragon Slayer - The Legend of Heroes (Japan) (Scenario 3 Disk) [T-En by Oasis &amp; Randam v1.0].dsk" size="737280" crc="828c7b0b" sha1="b755e209d12c4e22dde896003eb16e9225e30a27"/>
+	</game>
+	<game name="Dragon Slayer IV - Draslay Family (Japan) (Alt 1) [T-En by MSX Translations v1.0.0] [n] (Cartridge)">
+		<description>Dragon Slayer IV - Draslay Family (Japan) (Alt 1) [T-En by MSX Translations v1.0.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Dragon Slayer IV - Draslay Family (Japan) (Alt 1) [T-En by MSX Translations v1.0.0] [n].rom" size="262144" crc="00cbc6db" sha1="806020de7d645b148674186782e59435b07f6675"/>
+	</game>
+	<game name="Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)">
+		<description>Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n].rom" size="262144" crc="cbd4a235" sha1="9bdd6b4212468e07be25bd43e94b50d2ea1fe9dc"/>
+	</game>
+	<game name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] (Cartridge)">
+		<description>Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0].rom" size="131072" crc="c5cad9a3" sha1="daa7e84447605aa9d90c1ece2a3052acc74b82bd"/>
+	</game>
+	<game name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] (Cartridge)">
+		<description>Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer].rom" size="131072" crc="d301bd38" sha1="cef3021e3f909f1db4f8342f60716d01a1daa10f"/>
+	</game>
+	<game name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [Speed Booster] (Cartridge)">
+		<description>Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [Speed Booster] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [Speed Booster].rom" size="131072" crc="49415d51" sha1="00614a2dde5d87eba79e6a787100e3d6c9ff03c7"/>
+	</game>
+	<game name="Dragon Slayer V - Sorcerian (Japan) [T-En by Delta Soft v1.0] (Floppy)">
+		<description>Dragon Slayer V - Sorcerian (Japan) [T-En by Delta Soft v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Dragon Slayer V - Sorcerian (Japan) (Game Disk) [T-En by Delta Soft v1.0].dsk" size="737280" crc="7c7eb3b1" sha1="f6048303e01de072ebe0c568ba797696e0c4db0b"/>
+		<rom name="Dragon Slayer V - Sorcerian (Japan) (Scenario 1 Disk) [T-En by Delta Soft v1.0].dsk" size="737280" crc="1154df59" sha1="5e2ebebb030b14d46cdca8cacac24f0414eab76e"/>
+		<rom name="Dragon Slayer V - Sorcerian (Japan) (Scenario 2 Disk) [T-En by Delta Soft v1.0].dsk" size="737280" crc="0ec62efe" sha1="22215ccfd79335723f651f61de0816c8a7b773fa"/>
+		<rom name="Dragon Slayer V - Sorcerian (Japan) (Scenario 3 Disk) [T-En by Delta Soft v1.0].dsk" size="737280" crc="b0e9169b" sha1="d8d0fe9da9134a36aac9c6245683ad1452b77665"/>
+		<rom name="Dragon Slayer V - Sorcerian (Japan) (User Disk).dsk" size="737280" crc="5a477665" sha1="40fd7b0a72a9344b33f5e5f6d0b4c621e9ad9435"/>
+	</game>
+	<game name="Dungeon Wanderer (Japan) [T-En by Django] (Floppy)">
+		<description>Dungeon Wanderer (Japan) [T-En by Django] (Floppy)</description>
+		<year>????</year>
+		<rom name="Dungeon Wanderer (Japan) [T-En by Django].dsk" size="737280" crc="310c64a9" sha1="608edbc71bb7d7ec27a1e9a076e520aa768ba76f"/>
+	</game>
+	<game name="Exterlien (Japan) [T-En by Django v2018xxxx] (Floppy)">
+		<description>Exterlien (Japan) [T-En by Django v2018xxxx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Exterlien (Japan) (Disk 1) [T-En by Django v2018xxxx].dsk" size="737280" crc="3933cac0" sha1="91ac357d64a55127a6002dc2f185a24f3517ee25"/>
+		<rom name="Exterlien (Japan) (Disk 2).dsk" size="737280" crc="4cece50e" sha1="714a726f3f5c1f942fbc36ea3bd64487aaa0fbf1"/>
+		<rom name="Exterlien (Japan) (Disk 3).dsk" size="737280" crc="1a314110" sha1="2a743dc8036bee9ff164c3ae88d245525ba3a840"/>
+	</game>
+	<game name="F1 Douchuuki (Japan) [T-En by Django v1.0] (Floppy)">
+		<description>F1 Douchuuki (Japan) [T-En by Django v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="F1 Douchuuki (Japan) [T-En by Django v1.0].dsk" size="737280" crc="53e56dcf" sha1="264e4d5d65d43dcd3ee073ef8aab00c9dffd48a4"/>
+	</game>
+	<game name="Famicle Parodic (Japan) [T-En by Django v1.0] (Cartridge)">
+		<description>Famicle Parodic (Japan) [T-En by Django v1.0] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Famicle Parodic (Japan) [T-En by Django v1.0].rom" size="262144" crc="399d6ff9" sha1="53e0a20b69457d2d97f8420a6f478f7425a06f33"/>
+	</game>
+	<game name="Feedback (Japan) [T-En by Delta Soft v1.0] (Floppy)">
+		<description>Feedback (Japan) [T-En by Delta Soft v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Feedback (Japan) [T-En by Delta Soft v1.0].dsk" size="737280" crc="d096deb5" sha1="527f5f0cfbce879d1866536e76879c4d79cdabb4"/>
+	</game>
+	<game name="Final Fantasy (Japan) [T-En by FCandChill &amp; Her-Saki &amp; TheMajinZenki v1.0] (Floppy)">
+		<description>Final Fantasy (Japan) [T-En by FCandChill &amp; Her-Saki &amp; TheMajinZenki v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Final Fantasy (Japan) (Disk 1) [T-En by FCandChill &amp; Her-Saki &amp; TheMajinZenki v1.0].dsk" size="737280" crc="909121ff" sha1="67ebadcc59684b936a6627a9caad24b5b41e6a22"/>
+		<rom name="Final Fantasy (Japan) (Disk 2) (User Disk).dsk" size="737280" crc="fea8dc8d" sha1="d7076c40b5b74b6a8714aa98c38fb85ab060fca5"/>
+	</game>
+	<game name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [King Kong 2 SRAMdisk] [n] (Cartridge)">
+		<description>Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [King Kong 2 SRAMdisk] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [King Kong 2 SRAMdisk] [n].rom" size="131072" crc="96475c13" sha1="4522f6994dd1c29631f34cb5e82545122064b794"/>
+	</game>
+	<game name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [n] (Cartridge)">
+		<description>Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [n].rom" size="131072" crc="96475c13" sha1="4522f6994dd1c29631f34cb5e82545122064b794"/>
+	</game>
+	<game name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [Turbo Patch] [n] (Cartridge)">
+		<description>Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [Turbo Patch] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [Turbo Patch] [n].rom" size="131072" crc="f84c41cb" sha1="063f243d697bfe7595f396235133c05961afcbbb"/>
+	</game>
+	<game name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [n] (Cartridge)">
+		<description>Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [n].rom" size="131072" crc="96475c13" sha1="4522f6994dd1c29631f34cb5e82545122064b794"/>
+	</game>
+	<game name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [Turbo Patch] [n] (Cartridge)">
+		<description>Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [Turbo Patch] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [Turbo Patch] [n].rom" size="131072" crc="81852e28" sha1="c57a4e7017d7c06ea36646fd24589050f46587ff"/>
+	</game>
+	<game name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [n] (Cartridge)">
+		<description>Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [n].rom" size="131072" crc="6aa2737b" sha1="7b0b379c6f46552a6f5a0408b8182e8e79540f7f"/>
+	</game>
+	<game name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Turbo Patch] [n] (Cartridge)">
+		<description>Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Turbo Patch] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Turbo Patch] [n].rom" size="131072" crc="04a96ea3" sha1="60b994d6edd687f23cec163a679cc7ba734cb2ff"/>
+	</game>
+	<game name="Fray - In Magical Adventure (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Fray - In Magical Adventure (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Fray - In Magical Adventure (Japan) (Disk 1) [T-En by Oasis v1.0].dsk" size="737280" crc="735f01c2" sha1="a0bd6d35c89fbf5edc438fac72b626c1f7d5983e"/>
+		<rom name="Fray - In Magical Adventure (Japan) (Disk 2) [T-En by Oasis v1.0].dsk" size="737280" crc="34bca240" sha1="0adcfca1ade6ce66ea3ad655f949d9940d181cad"/>
+		<rom name="Fray - In Magical Adventure (Japan) (Disk 3) [T-En by Oasis v1.0].dsk" size="737280" crc="a7047634" sha1="c6bdfbc94c460f8964985d61285bfd1e559bbcb3"/>
+		<rom name="Fray - In Magical Adventure (Japan) (Disk 4) [T-En by Oasis v1.0].dsk" size="737280" crc="c7d675e6" sha1="ea55d4feea9c1e45cc63ffb1b4f0aeb551acdbf3"/>
+	</game>
+	<game name="Galaxy - Card &amp; Puzzle Collection - Ginga (Japan) [T-En by Django] (Floppy)">
+		<description>Galaxy - Card &amp; Puzzle Collection - Ginga (Japan) [T-En by Django] (Floppy)</description>
+		<year>????</year>
+		<rom name="Galaxy - Card &amp; Puzzle Collection - Ginga (Japan) [T-En by Django].dsk" size="368640" crc="510fdbc2" sha1="57ee4a386aebf87abc709d66eee342b933509738"/>
+	</game>
+	<game name="Galmoon (Japan) [T-En by Django v1.0] (Floppy)">
+		<description>Galmoon (Japan) [T-En by Django v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Galmoon (Japan) [T-En by Django v1.0].dsk" size="737280" crc="f8d23ee3" sha1="44900dfa37f7249b2294648918cc39bf6588abdb"/>
+	</game>
+	<game name="Gandhara (Japan) [T-En by Django v201502xx] (Floppy)">
+		<description>Gandhara (Japan) [T-En by Django v201502xx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Gandhara (Japan) (Disk A) [T-En by Django v201502xx].dsk" size="737280" crc="5e9eb0a8" sha1="2c50fe8329bdb34d5b27774af487674a9039fb71"/>
+		<rom name="Gandhara (Japan) (Disk B) [T-En by Django v201502xx].dsk" size="737280" crc="313e5a79" sha1="b5329112de4e86680cac6e9201f94b133e852994"/>
+	</game>
+	<game name="Gekitotsu Pennant Race 2 (Japan) [T-En by Victor Martinez v1.0] (Cartridge)">
+		<description>Gekitotsu Pennant Race 2 (Japan) [T-En by Victor Martinez v1.0] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Gekitotsu Pennant Race 2 (Japan) [T-En by Victor Martinez v1.0].rom" size="131072" crc="e92fc432" sha1="dbed87a53c604f7140577d6707ca0fc8490463a6"/>
+	</game>
+	<game name="Golvellius II (Japan) [T-En by Woomb] (Floppy)">
+		<description>Golvellius II (Japan) [T-En by Woomb] (Floppy)</description>
+		<year>????</year>
+		<rom name="Golvellius II (Japan) (Data Disk) [T-En by Woomb].dsk" size="737280" crc="60abd4f2" sha1="507f040278be2c5040c99a9e467634f7bd930dcc"/>
+		<rom name="Golvellius II (Japan) (Game Disk) [T-En by Woomb].dsk" size="737280" crc="a76817e4" sha1="8b318d439180f59730aba404cd5b9e21c4b058d6"/>
+		<rom name="Golvellius II (Japan) (Opening Disk) [T-En by Woomb].dsk" size="737280" crc="4e15b878" sha1="89d878369c4f9aed67133773f58811cb4aba6def"/>
+	</game>
+	<game name="Goofy Yaji Kita - Secrets on the Way (Japan) [T-En by Django v202001xx] [n] (Cartridge)">
+		<description>Goofy Yaji Kita - Secrets on the Way (Japan) [T-En by Django v202001xx] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Goofy Yaji Kita - Secrets on the Way (Japan) [T-En by Django v202001xx] [n].rom" size="131072" crc="28271485" sha1="757b07b197f56f34b15263262c4953036771dd56"/>
+	</game>
+	<game name="Great Strategy (Japan) [T-En by MSX Translations v1.0.0] [n] (Floppy)">
+		<description>Great Strategy (Japan) [T-En by MSX Translations v1.0.0] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Great Strategy (Japan) [T-En by MSX Translations v1.0.0] [n].dsk" size="368640" crc="21dc3087" sha1="52e007a61434d92c6f2662f9fa1c3d0be95ed271"/>
+	</game>
+	<game name="Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Cartridge)">
+		<description>Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n].rom" size="131072" crc="d2003cef" sha1="a828bbe7386ed9184334ed645b6c46b3501b4872"/>
+	</game>
+	<game name="Hinotori - Firebird Phoenix (Japan) [T-En by Django v2.0] [n] (Cartridge)">
+		<description>Hinotori - Firebird Phoenix (Japan) [T-En by Django v2.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Hinotori - Firebird Phoenix (Japan) [T-En by Django v2.0] [n].rom" size="131072" crc="27ce545d" sha1="a0a49baa3755dfeddb993f978efd2fdb7d1e2c79"/>
+	</game>
+	<game name="Hydefos (Japan) [T-En by Django &amp; Victor Martinez v1.01] (Floppy)">
+		<description>Hydefos (Japan) [T-En by Django &amp; Victor Martinez v1.01] (Floppy)</description>
+		<year>????</year>
+		<rom name="Hydefos (Japan) (Disk 1) [T-En by Django &amp; Victor Martinez v1.01].dsk" size="737280" crc="ec9559db" sha1="4b80e67bb9bc308f7b9ef504b04410d5ade99573"/>
+		<rom name="Hydefos (Japan) (Disk 2) [T-En by Django &amp; Victor Martinez v1.01].dsk" size="737280" crc="8899b41d" sha1="5d4417a36026736ee13f01c968fe58804c774f7e"/>
+	</game>
+	<game name="Hydlide 3 - The Space Memories (Japan) [T-En by Woomb] (Cartridge)">
+		<description>Hydlide 3 - The Space Memories (Japan) [T-En by Woomb] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Hydlide 3 - The Space Memories (Japan) [T-En by Woomb].rom" size="524288" crc="2eddf082" sha1="e10f5d2e622dd7dfe7df2e15d209edd3025adba7"/>
+	</game>
+	<game name="Kageroh Labyrinth (Japan) [T-En by Django] [i] [n] (Floppy)">
+		<description>Kageroh Labyrinth (Japan) [T-En by Django] [i] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Kageroh Labyrinth (Japan) (Disk A) [T-En by Django] [i] [n].dsk" size="737280" crc="cac3ff14" sha1="b2c32632e7f3d8cae82e13c24c2a7a35a724bc67"/>
+		<rom name="Kageroh Labyrinth (Japan) (Disk B) [n].dsk" size="737280" crc="19e34871" sha1="464c628287ab8d67c7fcaef34f5e02bded1d79d0"/>
+	</game>
+	<game name="King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok &amp; Manuel Pazos v20130408] [n] (Cartridge)">
+		<description>King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok &amp; Manuel Pazos v20130408] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok &amp; Manuel Pazos v20130408] [n].rom" size="139264" crc="b6a11678" sha1="13e4e5f03f04d4429197170d3cf3e59a27aa6056"/>
+	</game>
+	<game name="Labyrinth (Japan) [T-En by Django] (Cartridge)">
+		<description>Labyrinth (Japan) [T-En by Django] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Labyrinth (Japan) [T-En by Django].rom" size="262144" crc="3c8dbde3" sha1="b7129a5612ef5c6c76569c274219207a7ca30de8"/>
+	</game>
+	<game name="Legend of Shonan, The (Japan) [T-En by Django v2021xxxx] (Floppy)">
+		<description>Legend of Shonan, The (Japan) [T-En by Django v2021xxxx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Legend of Shonan, The (Japan) (User Disk).dsk" size="737280" crc="72c32d11" sha1="02bad68a75b3ec9ba019f744d4120708223e65c8"/>
+		<rom name="Legend of Shonan, The (Japan) [T-En by Django v2021xxxx].dsk" size="737280" crc="d7752da5" sha1="fb55559dd68cbbc62bf4af4d5a5b102a92db5ca0"/>
+	</game>
+	<game name="Legendly Nine Gems (Japan) [T-En by Django v201202xx] [n] (Floppy)">
+		<description>Legendly Nine Gems (Japan) [T-En by Django v201202xx] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Legendly Nine Gems (Japan) [T-En by Django v201202xx] [n].dsk" size="737280" crc="708e0fca" sha1="b480e0aa91bf20208ad7d87c3b74a53d7a4801e4"/>
+	</game>
+	<game name="Lupin III - Babylon's Gold Legend (Japan) [T-En by Django] [Use ASCII 8 mapper] [n] (Cartridge)">
+		<description>Lupin III - Babylon's Gold Legend (Japan) [T-En by Django] [Use ASCII 8 mapper] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Lupin III - Babylon's Gold Legend (Japan) [T-En by Django] [Use ASCII 8 mapper] [n].rom" size="131072" crc="f27008ff" sha1="33b66cb2d808e0fbd85be09165934663395675db"/>
+	</game>
+	<game name="Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [+2 Trainer] [n] (Cartridge)">
+		<description>Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [+2 Trainer] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [+2 Trainer] [n].rom" size="131072" crc="f036a8b9" sha1="e037d30f2ee96375a35885d3f9ac09cc8bab60f1"/>
+	</game>
+	<game name="Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)">
+		<description>Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n].rom" size="131072" crc="9dddfb85" sha1="68dad7093530ba2b78b9c059e469831416e44576"/>
+	</game>
+	<game name="Marcy's Princesses Many (Japan) [T-En by Django v2012xxxx] [n] (Floppy)">
+		<description>Marcy's Princesses Many (Japan) [T-En by Django v2012xxxx] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Marcy's Princesses Many (Japan) [T-En by Django v2012xxxx] [n].dsk" size="737280" crc="42136ca3" sha1="a344d94e39f49d817a486d0c9df696613dfd57f6"/>
+	</game>
+	<game name="Master of Monsters (Japan) [T-En by Django v2.0] (Floppy)">
+		<description>Master of Monsters (Japan) [T-En by Django v2.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Master of Monsters (Japan) (Game Disk) [T-En by Django v2.0].dsk" size="737280" crc="251c081f" sha1="0d582c3cbc5fb59bc7f58e9b276b1eb64e43a31b"/>
+	</game>
+	<game name="Maze [T-En by 232 &amp; BiFi] [n] (Floppy)">
+		<description>Maze [T-En by 232 &amp; BiFi] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Maze [T-En by 232 &amp; BiFi] [n].dsk" size="737280" crc="0be45c66" sha1="045d15b27086cf68079922d68bd6b329a069bc13"/>
+	</game>
+	<game name="Meow Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n] (Floppy)">
+		<description>Meow Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Meow Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n].dsk" size="737280" crc="66e4e819" sha1="8bbb0fd8422a479a1d07f78cb59ec5416854d01e"/>
+	</game>
+	<game name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] (Cartridge)">
+		<description>Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995].rom" size="131072" crc="1f5803d5" sha1="836ce9432d7625aa4af6c95d87c38a00910186b7"/>
+	</game>
+	<game name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] [Add by FRS v2] (Cartridge)">
+		<description>Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] [Add by FRS v2] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] [Add by FRS v2].rom" size="163840" crc="0694b93d" sha1="111e73b545c7893f69b270be847e22103eb5fd30"/>
+	</game>
+	<game name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] (Cartridge)">
+		<description>Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a].rom" size="131072" crc="8477c6f3" sha1="242b695ff183d72856453b7188ebabf3b233fce5"/>
+	</game>
+	<game name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] [Add by FRS v2] (Cartridge)">
+		<description>Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] [Add by FRS v2] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] [Add by FRS v2].rom" size="163840" crc="ca7f257d" sha1="d4761818ac8a25d4a149955fdaf798de7e7905b1"/>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan) (Demo) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4] (Cartridge)">
+		<description>Metal Gear 2 - Solid Snake (Japan) (Demo) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) (Demo) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4].rom" size="131072" crc="fc57504a" sha1="5844f14e297b2c93c59cc5e52c005d3296e7a949"/>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] (Cartridge)">
+		<description>Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2].rom" size="524288" crc="5c4f98d9" sha1="a7b196f7e934faa76602c8c00bd2f6e6d2d70787"/>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4] (Cartridge)">
+		<description>Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4].rom" size="524288" crc="09a5bbc6" sha1="7681b0dde4d2c40512e33afe9abc72b7ef591294"/>
+	</game>
+	<game name="Microsoft - MSX2 [T-En] Collection (22-11-2023)">
+		<description>Microsoft - MSX2 [T-En] Collection (22-11-2023)</description>
+		<year>????</year>
+		<rom name="_MSX2 (Cartridge) [T-En] Docs.zip" size="810427" crc="ccb51abe" sha1="e7b26bedb82daece5a95c91b4990c77c3f04f5ae"/>
+		<rom name="_MSX2 (Floppy) [T-En] Docs.zip" size="7664469" crc="e6831540" sha1="39d3780be4af31d5facd30c653ae22a0cc8c347f"/>
+		<rom name="Adventure of Randar (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy).zip" size="106758" crc="3a8a3b70" sha1="702436d7339b2deba7608bec6e0f39b84e3c4d62"/>
+		<rom name="Adventure of Randar II - Revenge of Death (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy).zip" size="296860" crc="95fd5c96" sha1="5dc3998fdad1a63e5ab294add33c991c91b0a0c0"/>
+		<rom name="Adventure of Randar III (Japan) [T-En by Django] [i] [n] (Floppy).zip" size="1274288" crc="6df232ea" sha1="d8cebdf4431915347b1dc54b2e00aa818b565f56"/>
+		<rom name="Akanbe Dragon (Japan) [T-En by MP83 &amp; Lars the 18th v1.0] (Floppy).zip" size="171428" crc="a031482c" sha1="4590cd31aa1ab591cc71f7e7486c53968da20957"/>
+		<rom name="Aleste (Japan) [T-En by Tsunami v1.0] (Cartridge).zip" size="115459" crc="7399c208" sha1="fd59e0144a3d88b29e24144730ede7f096ebeaff"/>
+		<rom name="Aleste (Japan) [T-En by Tsunami v1.0] (Floppy).zip" size="116646" crc="7138cfae" sha1="07aa436e9a0a33ad06244547d626e680fe8ff333"/>
+		<rom name="Aleste (Japan) [T-En by Woomb] (Cartridge).zip" size="116177" crc="f2a857a5" sha1="16ea0c76cd10d4c31dba73970fddcbc9e51103d7"/>
+		<rom name="Aleste 2 (Japan) [T-En] (Floppy).zip" size="741693" crc="164f0bf8" sha1="aa731847f7ed0ec24917a93e29738bf697143df3"/>
+		<rom name="American Success (Japan) [T-En by Django v2.0] (Floppy).zip" size="114869" crc="fffe802f" sha1="57df69e775a1e70d527f803f91dab72f73e0bef6"/>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio with samples] [n] (Cartridge).zip" size="228554" crc="4c084d90" sha1="d189a1b0e8843ccfb02c5b868ecbca181a63fabd"/>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio without samples] [n] (Cartridge).zip" size="199732" crc="036b961d" sha1="2f8d29087ad7cfe6ced60c87b573b03fd29fcabc"/>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [PSG Audio] [n] (Cartridge).zip" size="189980" crc="56af0d7c" sha1="48fd45d8311f17de4e73fd072631d8ec5a7b9d59"/>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio with samples] [n] (Cartridge).zip" size="228575" crc="8ad82803" sha1="a15decf29f99391cca0dde996a4e3a3e8d0e98f0"/>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio without samples] [n] (Cartridge).zip" size="199752" crc="e632317b" sha1="dc621caf7b9e9216105c9d2f4dcb2a293fbcb0c9"/>
+		<rom name="Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [PSG Audio] [n] (Cartridge).zip" size="190000" crc="688da3c0" sha1="89d1f4673ea2cc0d444b3414d4b502e49519ad4a"/>
+		<rom name="Arcus (Japan) [T-En by Django v201111xx] (Floppy).zip" size="799877" crc="0bf16967" sha1="b774efa94a3cdd6969ac0cc7d73820c5077d7037"/>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 AS] [n] (Cartridge).zip" size="170739" crc="00be90ef" sha1="7435a01a9468d58a7fa063bafd94b8a5717e6f3c"/>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MA] [n] (Cartridge).zip" size="140110" crc="f01ee2e8" sha1="aafdf7862bcad82626960b2306925d624806b294"/>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MM] [n] (Cartridge).zip" size="140106" crc="60eee3c1" sha1="24f66cc16925b9a58966f1544bfc67ac16ff2270"/>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] [n] (Cartridge).zip" size="130868" crc="027f1a25" sha1="6acb77194a336229d4b8ddf265bcb9a1bca67b52"/>
+		<rom name="AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge).zip" size="130838" crc="d23c6185" sha1="f9403fcd4a714380c9e4790abe27549c8fd1fd01"/>
+		<rom name="AshGuine Story III - Fukushuu no Honoo (Japan) [T-En by Django] (Cartridge).zip" size="124435" crc="e1d82ced" sha1="dc780de53857eda785bf7f74b13979dd41557802"/>
+		<rom name="Chuka Taisen (Japan) [T-En by Django] (Floppy).zip" size="137476" crc="4515cd0e" sha1="da1ba1b712f495e13acd06c7991c2877aa733475"/>
+		<rom name="Crimson II (Japan) [T-En by Django v201812xx] (Floppy).zip" size="503051" crc="40cf6a2c" sha1="fb781f6ced2d503acb9c3603f61e89e1a5594e17"/>
+		<rom name="Daikoukai Jidai (Japan) [T-En by Django] (Cartridge).zip" size="266340" crc="d7f17cda" sha1="57975fea639807a2f897cf917d187f22ba052296"/>
+		<rom name="Daisenryaku (Japan) [T-En by MSX Translations v1.0.0] (Floppy).zip" size="65799" crc="45788e93" sha1="79d34476b71ad333905f4a2e46ed3c603a7312cf"/>
+		<rom name="Daisenryaku II - Campaign Version (Japan) [T-En by Takamichi Suzukawa &amp; Trunks &amp; Victor Martinez v1.0] (Floppy).zip" size="417809" crc="2d4b3fd4" sha1="4c0cc1953c38633b0a542e41304838b6250cffc2"/>
+		<rom name="Daiva Story 4 - Asura's Bloodfeud &amp; Daiva Story 5 - The Cup of Soma (Japan) [T-En by Tsunami &amp; Sargon v2004xxxx] [n] (Floppy).zip" size="324774" crc="eb8c40fb" sha1="5c37094fa6c15f7b620b4dbd54f51b1076d2d466"/>
+		<rom name="Dead of the Brain (Japan) [T-En by Manuel Pazos v20200630] (Floppy).zip" size="1326453" crc="5ea494ab" sha1="fe80170ddcf05b120071c74345fe5b04b4a85ea5"/>
+		<rom name="Deep Forest (Japan) [T-En by Django v1.0] (Cartridge).zip" size="46655" crc="3c51a469" sha1="8917b98797dca15d0f2d9f7eeeccea99026904fd"/>
+		<rom name="Deep Forest (Japan) [T-En by Django v1.0] (Floppy).zip" size="49696" crc="9f9d3f36" sha1="7473c1a20d5369f1c21094e9bccde759532c6315"/>
+		<rom name="Dios (Japan) [T-En by Django] (Floppy).zip" size="493053" crc="a5f037f0" sha1="7d63da0b50ac63069df0229bb1d8a4fd8c4f2197"/>
+		<rom name="Dragon Quest (Japan) [T-En by Django v201804xx] [i] (Cartridge).zip" size="57337" crc="d061f06f" sha1="f010e96ecd24a5e94048aa51361a3b9395a797aa"/>
+		<rom name="Dragon Slayer - The Legend of Heroes (Japan) [T-En by Oasis &amp; Randam v1.0] (Floppy).zip" size="1030166" crc="15acc0de" sha1="bc9e8f6e154b9e0a72ae0820cdc756927d265db6"/>
+		<rom name="Dragon Slayer IV - Draslay Family (Japan) (Alt 1) [T-En by MSX Translations v1.0.0] [n] (Cartridge).zip" size="112365" crc="f303e785" sha1="f76df15eaaa09da850a96ea52981bda8c0f2f83d"/>
+		<rom name="Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge).zip" size="112149" crc="d8449532" sha1="0049277c22be10fa9b04038d0c6c2aee030c4932"/>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] (Cartridge).zip" size="68870" crc="47c5e8ad" sha1="0ee375aaee892c56f5e6c3417c2c724cff0ce584"/>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] (Cartridge).zip" size="68896" crc="8bee7829" sha1="9954f4c3ffd29f037d62ae96f6fa4ff8761d0882"/>
+		<rom name="Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [Speed Booster] (Cartridge).zip" size="68895" crc="0abdea07" sha1="45047bea13f69af110ed79d454636f37231b8e6b"/>
+		<rom name="Dragon Slayer V - Sorcerian (Japan) [T-En by Delta Soft v1.0] (Floppy).zip" size="569103" crc="6202d90d" sha1="160eb8ab1903c8a83df08c29acc4ad64c4450861"/>
+		<rom name="Dungeon Wanderer (Japan) [T-En by Django] (Floppy).zip" size="8552" crc="5b6b09b9" sha1="640d916a6c07b8b284a2bcb49bc7f141d917b8ae"/>
+		<rom name="Exterlien (Japan) [T-En by Django v2018xxxx] (Floppy).zip" size="788221" crc="25cc9a39" sha1="5f55fd403d3ef2beb8cadd4eaaabb0c829970052"/>
+		<rom name="F1 Douchuuki (Japan) [T-En by Django v1.0] (Floppy).zip" size="155010" crc="67f19568" sha1="7ca09b6ec06afd29954606f06e0bb984dc18671e"/>
+		<rom name="Famicle Parodic (Japan) [T-En by Django v1.0] (Cartridge).zip" size="120751" crc="4dcd1d65" sha1="53529975f6c35e712b92032b2f6e6898524b2368"/>
+		<rom name="Feedback (Japan) [T-En by Delta Soft v1.0] (Floppy).zip" size="197768" crc="02334c5f" sha1="b0194c81046529d7e1bdb12ab40a4be2f77d01a2"/>
+		<rom name="Final Fantasy (Japan) [T-En by FCandChill &amp; Her-Saki &amp; TheMajinZenki v1.0] (Floppy).zip" size="229231" crc="dd670fc2" sha1="68405bca3981f062519159df2da7f007b9ef85b3"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [King Kong 2 SRAMdisk] [n] (Cartridge).zip" size="91923" crc="df01573a" sha1="0ea75015b5d5cadd71bb155491494be474f43afe"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [n] (Cartridge).zip" size="91877" crc="6a91bbd3" sha1="10e7e35196d13aa54a27164984f5d684e49b3829"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Boss 4 tablet fix] [Turbo Patch] [n] (Cartridge).zip" size="91926" crc="bffba6c8" sha1="1762d3683f34d957abdb3438e3bf0e46e0d54dba"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [n] (Cartridge).zip" size="91883" crc="15552205" sha1="f0756c4ead0af8e45ba666156aba0a03c48024ab"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [King Kong 2 SRAMdisk] [Turbo Patch] [n] (Cartridge).zip" size="92040" crc="497734cb" sha1="777dcf914780a4cfeb8f39b37c4bec33e7d9054f"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [n] (Cartridge).zip" size="91782" crc="b040c08e" sha1="bb48a3c72b5c2ae6078d53cb63b89a55a84636e9"/>
+		<rom name="Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 &amp; BiFi v1.0] [Turbo Patch] [n] (Cartridge).zip" size="91834" crc="247c6e83" sha1="9082f53c54b1977a64b7cc107e857a460b347860"/>
+		<rom name="Fray - In Magical Adventure (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="1236189" crc="00498e37" sha1="b79634f4e652b1f3f9f9b6f61cd0872866ac6540"/>
+		<rom name="Galaxy - Card &amp; Puzzle Collection - Ginga (Japan) [T-En by Django] (Floppy).zip" size="62513" crc="9e48678b" sha1="0392d05d8830580021d1b891237ceff7abda1f54"/>
+		<rom name="Galmoon (Japan) [T-En by Django v1.0] (Floppy).zip" size="108778" crc="39941da5" sha1="a2cf1b39546371400c503152c00533074659299b"/>
+		<rom name="Gandhara (Japan) [T-En by Django v201502xx] (Floppy).zip" size="634313" crc="ba681c52" sha1="aa690c631560b974e47263e956866326b8a3c025"/>
+		<rom name="Gekitotsu Pennant Race 2 (Japan) [T-En by Victor Martinez v1.0] (Cartridge).zip" size="89989" crc="81d36ed1" sha1="b7a6d73ff5e66720c47e6adb40b676204baf6fef"/>
+		<rom name="Golvellius II (Japan) [T-En by Woomb] (Floppy).zip" size="632966" crc="21e5abf5" sha1="232bf4207ef8315ee744fc3cc4b8eaceebff0ce2"/>
+		<rom name="Goofy Yaji Kita - Secrets on the Way (Japan) [T-En by Django v202001xx] [n] (Cartridge).zip" size="52754" crc="434fa921" sha1="eedb872c7138c2a501513cadce0833c4ebba140d"/>
+		<rom name="Great Strategy (Japan) [T-En by MSX Translations v1.0.0] [n] (Floppy).zip" size="65900" crc="31e6d933" sha1="6415c335026277e6606d32ec61e0fc890f1ec3d4"/>
+		<rom name="Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Cartridge).zip" size="82472" crc="23515178" sha1="87a2133a2653548c03ac4b1c4009f8f72dc4af9d"/>
+		<rom name="Hinotori - Firebird Phoenix (Japan) [T-En by Django v2.0] [n] (Cartridge).zip" size="90959" crc="38751020" sha1="dfba5121891a459a468fa67fbe6005edcd640294"/>
+		<rom name="Hydefos (Japan) [T-En by Django &amp; Victor Martinez v1.01] (Floppy).zip" size="351532" crc="39ee6dcd" sha1="97c39162777bb9c7f941e2b7edef84d7d96d930f"/>
+		<rom name="Hydlide 3 - The Space Memories (Japan) [T-En by Woomb] (Cartridge).zip" size="243288" crc="808b8214" sha1="a0f2ae1c2b42eacf4a9674170417baa17ed5a8cd"/>
+		<rom name="Kageroh Labyrinth (Japan) [T-En by Django] [i] [n] (Floppy).zip" size="351520" crc="5b21dab1" sha1="4756db43f0ed627723a64fb5579502302de5cda8"/>
+		<rom name="King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok &amp; Manuel Pazos v20130408] [n] (Cartridge).zip" size="86263" crc="b3cefbe4" sha1="349e9a76874684a480320dd12c3b2b9afd448019"/>
+		<rom name="Labyrinth (Japan) [T-En by Django] (Cartridge).zip" size="119984" crc="ecddeb9b" sha1="acf7c5f54b96f7a356b1150edf36e7f878656a47"/>
+		<rom name="Legend of Shonan, The (Japan) [T-En by Django v2021xxxx] (Floppy).zip" size="92842" crc="fa860004" sha1="c10300e173ad79952e06b4413396f4c2a38c2d75"/>
+		<rom name="Legendly Nine Gems (Japan) [T-En by Django v201202xx] [n] (Floppy).zip" size="168029" crc="f4a5dfe4" sha1="9caab36c29329edf7e4a69a549f8228ff71cb055"/>
+		<rom name="Lupin III - Babylon's Gold Legend (Japan) [T-En by Django] [Use ASCII 8 mapper] [n] (Cartridge).zip" size="54161" crc="6c9dee7c" sha1="e8ef397bf416bc2bf300e2d0bc10474b69dca287"/>
+		<rom name="Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [+2 Trainer] [n] (Cartridge).zip" size="68903" crc="6d12795e" sha1="2e324481f48fec72064d700cf9c21f261bf05035"/>
+		<rom name="Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge).zip" size="68873" crc="8117a0fe" sha1="0d273093b3d192d1e503032469809b1d6aeb9cd9"/>
+		<rom name="Marcy's Princesses Many (Japan) [T-En by Django v2012xxxx] [n] (Floppy).zip" size="199301" crc="5cfee165" sha1="50a9d962b2d03ca65de87d00f1a651da8c35480f"/>
+		<rom name="Master of Monsters (Japan) [T-En by Django v2.0] (Floppy).zip" size="174606" crc="542cfb4e" sha1="2173fdb267e4256134b7f9898930df0b3bcd991e"/>
+		<rom name="Maze [T-En by 232 &amp; BiFi] [n] (Floppy).zip" size="94869" crc="22990bf9" sha1="8b876a3a29d6f3065874bccd1d23f460eead038b"/>
+		<rom name="Meow Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n] (Floppy).zip" size="99589" crc="2fea6695" sha1="19a72f063e9214e497252171e2c5ab031bdd0f50"/>
+		<rom name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] (Cartridge).zip" size="89127" crc="5e21c886" sha1="22e257aadb08491107dfc4bfa2b3e9b4ed7e15b5"/>
+		<rom name="Metal Gear (Japan) [T-En by Nekura_Hoka &amp; Jon Taylor &amp; Takamichi Suzukawa v1.995] [Add by FRS v2] (Cartridge).zip" size="89677" crc="e3ef50d4" sha1="d10f1b3f4de98764cc5f76ab55551ade4b14440c"/>
+		<rom name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] (Cartridge).zip" size="88703" crc="04d1f891" sha1="a942cf17d52bff8b658568254ea9f7baa2be3d37"/>
+		<rom name="Metal Gear (Japan) [T-En by TyrannoRanger &amp; Mr. Dude v1.0a] [Add by FRS v2] (Cartridge).zip" size="89253" crc="c7b647ca" sha1="7b15559fb32c7644a1bd17c3384f9ce8d17223b1"/>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) (Demo) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4] (Cartridge).zip" size="59722" crc="bb0494d8" sha1="f2bb654cadbdbd8082255a3a8ebca2cb7130ca6f"/>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] (Cartridge).zip" size="325054" crc="05493692" sha1="c2f38daef7b915c6605aade719461ab771280365"/>
+		<rom name="Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne &amp; Takamichi Suzukawa v1.2] [Add by BiFi v1.4] (Cartridge).zip" size="329203" crc="b3cf1784" sha1="d493fbc337995ed1656a62d529ed742c0eb38b02"/>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [n] (Cartridge).zip" size="73802" crc="b3d3dfde" sha1="fe56e4c61f5173185d8b3b93a16ddd6be9e19446"/>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [Trained] [n] (Cartridge).zip" size="73821" crc="0ae02548" sha1="adb13a33308a45ee11864a71751a876e8bea9e92"/>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge).zip" size="73781" crc="e306550f" sha1="daaeb99fbbaa6c751b1cade535456bd7a8468f05"/>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Trained] [n] (Cartridge).zip" size="73800" crc="f7ca9d85" sha1="ffcb768becdbc4a2510df4ee474bb3c68a2667b5"/>
+		<rom name="Navitune - Dragon Voyage (Japan) [T-En by Django v20201213] [n] (Floppy).zip" size="530793" crc="8bf9fe5f" sha1="c9fa5e2c1061786db6b6a00afc036628d184b04c"/>
+		<rom name="Nyan Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n] (Floppy).zip" size="99348" crc="b0a8ceba" sha1="c66ec261106a40761c11e0bcae94c9a4963a3b92"/>
+		<rom name="Nyancle Racing (Japan) [T-En by Tsunami v1.0] (Floppy).zip" size="203813" crc="34143d66" sha1="fea69d62421d62cc782a2e1e287d2b74ebb663ed"/>
+		<rom name="Passagers du Vent, Les (France) [T-En by TheKid] (Floppy).zip" size="156711" crc="ec1bac6f" sha1="837b099dd3e81fbbd2709df4f952849c45be1093"/>
+		<rom name="Peach Up 1 - Trouble Partners - The Great Imperial Capital Operation (Japan) [T-En by Django v202001xx] (Floppy).zip" size="182987" crc="0f9b25a7" sha1="99ce568065877d4f2d0e12103e320c3de9469a6c"/>
+		<rom name="Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n] (Cartridge).zip" size="105795" crc="2f74523d" sha1="360a6a31e8f9b2d7832116b2f9e562575552eeac"/>
+		<rom name="Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [+6 Trainer] [n] (Cartridge).zip" size="89228" crc="79ba47a5" sha1="369598223e48eb8f9a26207044811320fff23206"/>
+		<rom name="Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n] (Cartridge).zip" size="89205" crc="d9f8c1e8" sha1="904f878331d6f6ee0e17f6b3cde8f3741c33c22f"/>
+		<rom name="Pleasure Hearts (Japan) [T-En by Yim v1.02] (Floppy).zip" size="308966" crc="63f452dd" sha1="d8faa8dc6912a37cd7291502ebb6db58a5710daf"/>
+		<rom name="Princess Maker (Japan) [T-En by Teo Lopez del Castillo v1.0] (Floppy).zip" size="3950753" crc="213c8512" sha1="56ecd2313487dd389eecc94b956de86fa6c004cd"/>
+		<rom name="Psycho World (Japan) [T-En by Django &amp; FRS v3.0] (Floppy).zip" size="413118" crc="de126995" sha1="0ba068d2049fbfaaffaf990c1b113214027e5876"/>
+		<rom name="Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2] (Floppy).zip" size="414654" crc="a3d5a399" sha1="2ecc2c1c54b667f1c8eb56fead09eca5d1116613"/>
+		<rom name="Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2] [Add by by Fabio R. Schmidlin] (Floppy).zip" size="414719" crc="e7670919" sha1="3698d8aa3b2c42596f82708a4aae530b3327a621"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] (Floppy).zip" size="112482" crc="40ce716e" sha1="d9f813811205ac4a9909529a31d07f88509af776"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [MoonSound] (Floppy).zip" size="112541" crc="84398970" sha1="7bea21371e771786ed16ed00cd0286fc0a2bddf7"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] (Floppy).zip" size="112742" crc="90aeacd5" sha1="464f9ec1eb27dddd2d3a0352ef840e4f635c8e50"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [MoonSound] (Floppy).zip" size="112782" crc="f6fc6a80" sha1="162b3e9d0bdd2826b8c108fc5a459cd33ae91262"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy).zip" size="112831" crc="79f58332" sha1="3257e940640e5d3029c108b743cc73d871db9e38"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy).zip" size="112591" crc="a648d170" sha1="c14b446384edf1eb3a4c797ece1e7ce495825410"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] (Floppy).zip" size="113094" crc="cbfc54b5" sha1="febdfa8fb53dc8195c2a3dc51dcf8e35447d3af3"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [MoonSound] (Floppy).zip" size="113150" crc="eac0e3db" sha1="d697b4bbbf2c0ce83457aec463398947f557f32e"/>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy).zip" size="113199" crc="6c047af5" sha1="b28783e2bf8c424443ba955878d9d24addeef9b8"/>
+		<rom name="Record of Lodoss War (Japan) [T-En by Django v20210606] [i] (Floppy).zip" size="1038789" crc="5031deb5" sha1="07be3edd220ffa844642b2d94895843a3ed4c857"/>
+		<rom name="Robo Crush (Japan) [T-En by Django v202104xx] [i] (Floppy).zip" size="245272" crc="3818f42a" sha1="d2cd8758a86d5077c650415f08b1ad68dcd43994"/>
+		<rom name="Rune Master (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="170954" crc="1b837c00" sha1="58a6a85450b83f087e7164995c02efad28af805c"/>
+		<rom name="Rune Master II (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="214346" crc="f489f78d" sha1="1be3ecac387df100f447ce471a1ab0b058d84879"/>
+		<rom name="Rune Master III - Sangoku Eiketsuden (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="800745" crc="0fc669f3" sha1="9e2e8e210e72c72725bbe8f6fc227592b71df131"/>
+		<rom name="Sa-zi-ri (Japan) [T-En by Django v1.0] (Floppy).zip" size="252854" crc="6527f60c" sha1="373d59c4cefd1ecffc9e67a3c7a9e84b3f5ee607"/>
+		<rom name="SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0] (Floppy).zip" size="247830" crc="3e898f64" sha1="f66805c6e9d55fe64511944a312abb8ae1206863"/>
+		<rom name="SD Snatcher (Japan) [T-En by Ded302 &amp; Oasis v1.01] (Floppy).zip" size="934879" crc="0d2b34d4" sha1="43d1135c2427ad07e8966c0bc5afc384fbee8555"/>
+		<rom name="SD Snatcher (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="933068" crc="1cc8ef5e" sha1="7834d728d3542ab2102d0bb789aeba77e35a954f"/>
+		<rom name="SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [SCC Sound Cart] (Floppy).zip" size="946244" crc="29111ce1" sha1="af9b94c84cee4784b434c9033c2523c1d5a62726"/>
+		<rom name="SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart] (Floppy).zip" size="944962" crc="51cf3190" sha1="15c594c1e74488702ce59aa16878f85326e9dfbc"/>
+		<rom name="SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart] (Floppy).zip" size="944976" crc="c0d3c332" sha1="0ec5bb3f5c1dfff20c12f0fdc5fbabfd42a90e80"/>
+		<rom name="Seikima II Special - Revenge of the Devil (Japan) [T-En by Django] [n] (Cartridge).zip" size="49505" crc="e36ccdf1" sha1="878f8109f447781905bc281c2a461729a3fbcda0"/>
+		<rom name="Shiryou Sensen 2 - War of the Dead Part 2 (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="347088" crc="75f45e5f" sha1="6e7edcf2cef4bcd4fdc55eef93caefcc3bd3c67b"/>
+		<rom name="Silviana (Japan) [T-En by M.I.J.E.T. v20091213] (Floppy).zip" size="160359" crc="d8912372" sha1="7106b9ad6fbb926b723ca2fab49ca50e1e91f5ce"/>
+		<rom name="Snatcher (Japan) [T-En by Fudeba Software v0.6.0] (Floppy).zip" size="1410654" crc="4188d795" sha1="d7ed7163f4a9da2df731c3b78f4b3706c1227a09"/>
+		<rom name="Solitaire Royale (Japan) [T-En by Django] (Floppy).zip" size="176344" crc="e707c99f" sha1="6f2ec50018be16a8d99e64a27af83caa127f8d4b"/>
+		<rom name="Sorcerer Lulba (Japan) [T-En by 232 &amp; BiFi] [n] (Floppy).zip" size="34980" crc="f9cc6f31" sha1="8d4458342606c612086a7940c4953f7ad98a5b54"/>
+		<rom name="Super Cooks (Japan) [T-En by Django v201501xx] (Floppy).zip" size="326354" crc="7d839f9b" sha1="163f72c8705768cf0ddd079e35c4489b4d03e562"/>
+		<rom name="Super Daisenryaku (Japan) [T-En by Django v1.0] (Floppy).zip" size="211313" crc="65d82f48" sha1="55be02f91b4113b146d653b05eb4336a3187c54b"/>
+		<rom name="Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations] (Floppy).zip" size="279348" crc="fc79e3c9" sha1="8c1abd10ed1e32ab28d98d25f0c3668eb2849e04"/>
+		<rom name="T.D.F. (Japan) [T-En by Django v2012xxxx] (Floppy).zip" size="221729" crc="ae713252" sha1="878edc5f603b8249309d6146cf6d908bd26b922b"/>
+		<rom name="Take the A-Train (Japan) [T-En by Django v1.0] [n] (Cartridge).zip" size="68694" crc="90cf58e6" sha1="dc70ec5b618ae84d0f28b93e5075758e20fd41fa"/>
+		<rom name="Tempo Typing (Netherlands) [T-En by 232 &amp; BiFi] (Floppy).zip" size="16187" crc="76e4b9a1" sha1="0affcf57c405ec5c30852cac41ba9a85acb83530"/>
+		<rom name="Ultima IV - Quest of the Avatar (Japan) [T-En by Django v2009xxxx] (Floppy).zip" size="306431" crc="86bf8c82" sha1="b9e67083ef2f93bf4a08a09910b1d4b55aa70dd1"/>
+		<rom name="USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n] (Floppy).zip" size="87497" crc="52e4d1d0" sha1="14b900d8550110d5f870d108bd03e2b308899f66"/>
+		<rom name="Valeur, La (Japan) [T-En by Django v20180130] (Floppy).zip" size="562850" crc="9e1d47d0" sha1="990cc439ee84d820e37b64dc60f948aaec64bdf1"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) [T-En by Django v2015xxxx] (Floppy).zip" size="1280613" crc="372729b7" sha1="cd3f996fe97c47cd130d156a31115ed7f61dc7cc"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) [T-En by Manuel Pazos &amp; Theo Wilderbeek v20210116] (Floppy).zip" size="1281162" crc="cc2017e2" sha1="0730b8e733e8077fb07e1380c9274c1b6cde9875"/>
+		<rom name="Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [+2 Trainer] [n] (Cartridge).zip" size="54687" crc="165fc0cf" sha1="5e3b674c6186f2975753d8b4c3a4d812b515b8bd"/>
+		<rom name="Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n] (Cartridge).zip" size="54662" crc="963bf9b3" sha1="17a227c754c7435c3812dc0485f0fbacd5daac43"/>
+		<rom name="Wings of Arugisu (Japan) [T-En by Django v201903xx] (Floppy).zip" size="126720" crc="39abda19" sha1="0b0c02c183bd36c3717572cc18bb39a247fd8b53"/>
+		<rom name="Woody Poco (Japan) [T-En by MSX Translations v1.0.1] (Cartridge).zip" size="83722" crc="2a2f44ef" sha1="8b263643dbe4229f8bd47211b75ffec3e004cc69"/>
+		<rom name="Woody Poco (Japan) [T-En by MSX Translations v1.0.1] [+3 Trainer] (Cartridge).zip" size="83749" crc="ebf8f021" sha1="7ab982f9e4e8228ba22fca164b58017d666fbf91"/>
+		<rom name="Xak - The Art of Visual Stage (Japan) [T-En by Delta Soft v1.0] (Floppy).zip" size="901384" crc="9b5235b8" sha1="ef9455f398b37f0f0aaf3fd4b386d29eb4afa145"/>
+		<rom name="Xak - The Art of Visual Stage (Japan) [T-En by Rieks Warendorp Torringa] (Floppy).zip" size="944607" crc="a26d030f" sha1="618f61f32270a624bb6db84351ac4fc68cd6c10e"/>
+		<rom name="Xak II - Rising of the Red Moon (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="1415826" crc="4653309b" sha1="81e4dde012bbe2af5f6e1b5a8ac5d4c3cfba956a"/>
+		<rom name="Xak Precious Package - The Tower of Gazzel (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="1060276" crc="caae4c0d" sha1="42033eee53c27b381efbcbe43fee16d72f3c4f1a"/>
+		<rom name="XZR II (Japan) [T-En by Django v1.0] [i] (Floppy).zip" size="535196" crc="b27fcc99" sha1="0431069426cf1a1c6d219fe32804459077174282"/>
+		<rom name="Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] (Floppy).zip" size="60517" crc="d8351a29" sha1="937a6d4c79aea72f2bf34567e860c057cfb00b96"/>
+		<rom name="Ys - Ancient Ys Vanished Omen (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="236896" crc="1edaeedf" sha1="c6234f22fe89a1d1e36e236867cbc67683048bbc"/>
+		<rom name="Ys II - Ancient Ys Vanished - The Final Chapter (Japan) [T-En by Oasis v1.0] [i] (Floppy).zip" size="574831" crc="ab2cf88d" sha1="8b03d61c67c0ee6abdc1ca456f9b1565c6adee70"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) [T-En by Oasis v1.0] (Floppy).zip" size="649930" crc="3a749706" sha1="240d91af670a32304b5cf6ebab6a6aeac649b99e"/>
+		<rom name="Zombie Hunter (Japan) [T-En by Django v2015xxxx] (Cartridge).zip" size="56611" crc="1a88df20" sha1="c1ecdf06da63733da2192129c2b7a8aed06c2c0c"/>
+		<rom name="Zoo (Netherlands) [T-En by MRC Users v201703xx] (Floppy).zip" size="137820" crc="beed57f9" sha1="3047e007dcadfebed3634a7df3b47570ba555145"/>
+	</game>
+	<game name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [n] (Cartridge)">
+		<description>Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [n].rom" size="262144" crc="4ab134ef" sha1="eb0f0ac78a73655ada27f2c4ab5f77033a6ac7af"/>
+	</game>
+	<game name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [Trained] [n] (Cartridge)">
+		<description>Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [Trained] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [Trained] [n].rom" size="262144" crc="80bd25f5" sha1="6efee5794635d9eee6db6e5942b4e70e34c39bbc"/>
+	</game>
+	<game name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)">
+		<description>Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [n].rom" size="262144" crc="95bb4bf8" sha1="c0d9b7ca46e4c6a96961a18550ef2c71545ac6a5"/>
+	</game>
+	<game name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Trained] [n] (Cartridge)">
+		<description>Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Trained] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Trained] [n].rom" size="262144" crc="5fb75ae2" sha1="45e722488e4ff27bc8243fafc0eda7ad9ce74cb0"/>
+	</game>
+	<game name="Navitune - Dragon Voyage (Japan) [T-En by Django v20201213] [n] (Floppy)">
+		<description>Navitune - Dragon Voyage (Japan) [T-En by Django v20201213] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Navitune - Dragon Voyage (Japan) (Disk A) [T-En by Django v20201213] [n].dsk" size="737280" crc="5e227851" sha1="6d866a709ea44f5856fff8f659621754de415fdf"/>
+		<rom name="Navitune - Dragon Voyage (Japan) (Disk B) [T-En by Django v20201213] [n].dsk" size="737280" crc="f1200d68" sha1="9332ddc6054d0d84b9047805144ee89e0b5d8157"/>
+	</game>
+	<game name="Nyan Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n] (Floppy)">
+		<description>Nyan Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Nyan Puzzle (Japan) [T-En by BiFi &amp; MSX Translations v1.0.0] [n].dsk" size="737280" crc="c869f660" sha1="144005b90f55a8b2ad257468f65a7c7cd7e4b401"/>
+	</game>
+	<game name="Nyancle Racing (Japan) [T-En by Tsunami v1.0] (Floppy)">
+		<description>Nyancle Racing (Japan) [T-En by Tsunami v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Nyancle Racing (Japan) [T-En by Tsunami v1.0].dsk" size="737280" crc="764fbc25" sha1="4898a70bbc66af927db689007531e3ce7684ac92"/>
+	</game>
+	<game name="Passagers du Vent, Les (France) [T-En by TheKid] (Floppy)">
+		<description>Passagers du Vent, Les (France) [T-En by TheKid] (Floppy)</description>
+		<year>????</year>
+		<rom name="Passagers du Vent, Les (France) [T-En by TheKid].dsk" size="368640" crc="302e8244" sha1="a54ae5d9e9dc7fdd5bd218cd09483fea14d41a8b"/>
+	</game>
+	<game name="Peach Up 1 - Trouble Partners - The Great Imperial Capital Operation (Japan) [T-En by Django v202001xx] (Floppy)">
+		<description>Peach Up 1 - Trouble Partners - The Great Imperial Capital Operation (Japan) [T-En by Django v202001xx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Peach Up 1 - Trouble Partners - The Great Imperial Capital Operation (Japan) [T-En by Django v202001xx].dsk" size="737280" crc="65ce78c7" sha1="692821e846ced13329e7f0a0e08f13da0440b1f1"/>
+	</game>
+	<game name="Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n] (Cartridge)">
+		<description>Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n].rom" size="262144" crc="de2b0acd" sha1="9f476f544d1cd5f87d4ca19665ccdbf6ac0f68a0"/>
+	</game>
+	<game name="Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [+6 Trainer] [n] (Cartridge)">
+		<description>Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [+6 Trainer] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [+6 Trainer] [n].rom" size="131072" crc="2af56c56" sha1="e6ebf12b86ab0c280aab128d8faf1c513ea6f7e7"/>
+	</game>
+	<game name="Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n] (Cartridge)">
+		<description>Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n].rom" size="131072" crc="06b213ff" sha1="993a662586b2c27c9a8c76b628d8273e7577d1b4"/>
+	</game>
+	<game name="Pleasure Hearts (Japan) [T-En by Yim v1.02] (Floppy)">
+		<description>Pleasure Hearts (Japan) [T-En by Yim v1.02] (Floppy)</description>
+		<year>????</year>
+		<rom name="Pleasure Hearts (Japan) [T-En by Yim v1.02].dsk" size="737280" crc="d4933b9e" sha1="34c3d5e81fe22b408f58e04656bde041f18fdb6f"/>
+	</game>
+	<game name="Princess Maker (Japan) [T-En by Teo Lopez del Castillo v1.0] (Floppy)">
+		<description>Princess Maker (Japan) [T-En by Teo Lopez del Castillo v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Princess Maker (Japan) (Disk 1) [T-En by Teo Lopez del Castillo v1.0].dsk" size="737280" crc="1da7b4ca" sha1="475fd7261c660a0fb22bc2ac6d8f13623e9decb5"/>
+		<rom name="Princess Maker (Japan) (Disk 2) [T-En by Teo Lopez del Castillo v1.0].dsk" size="737280" crc="2490a3db" sha1="ba38317ab8d0f21b52bb800ef7cdef569720a1d0"/>
+		<rom name="Princess Maker (Japan) (Disk 3) [T-En by Teo Lopez del Castillo v1.0].dsk" size="737280" crc="7835967c" sha1="eab5c3d8a73f095890703d15d8c1d892531c0d43"/>
+		<rom name="Princess Maker (Japan) (Disk 4) [T-En by Teo Lopez del Castillo v1.0].dsk" size="737280" crc="b92f2fb2" sha1="a50503623b9040ff727092a880fcf3ee319d0a98"/>
+		<rom name="Princess Maker (Japan) (Disk 5) [T-En by Teo Lopez del Castillo v1.0].dsk" size="737280" crc="766d43e6" sha1="bf40d2404849e41e0084e950e5c36cb5b5cdd254"/>
+		<rom name="Princess Maker (Japan) (Disk 6) [T-En by Teo Lopez del Castillo v1.0].dsk" size="737280" crc="3ab55228" sha1="dfb2a415da453164f4eafd619e534aeadc0b022e"/>
+		<rom name="Princess Maker (Japan) (Disk 7) [T-En by Teo Lopez del Castillo v1.0].dsk" size="737280" crc="2d2670a3" sha1="e96973c3fc72e2f0be22543623cbf3869a3a578e"/>
+	</game>
+	<game name="Psycho World (Japan) [T-En by Django &amp; FRS v3.0] (Floppy)">
+		<description>Psycho World (Japan) [T-En by Django &amp; FRS v3.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Psycho World (Japan) [T-En by Django &amp; FRS v3.0].dsk" size="737280" crc="689bc588" sha1="eabb3a336c7a7a541705b0570171fe5508bbe7e2"/>
+	</game>
+	<game name="Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2] (Floppy)">
+		<description>Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2] (Floppy)</description>
+		<year>????</year>
+		<rom name="Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2].dsk" size="737280" crc="8959e94a" sha1="e05e1018e2bf65edadc36a30f8ca16daeb6c1263"/>
+	</game>
+	<game name="Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2] [Add by by Fabio R. Schmidlin] (Floppy)">
+		<description>Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2] [Add by by Fabio R. Schmidlin] (Floppy)</description>
+		<year>????</year>
+		<rom name="Psycho World (Japan) [T-En by Ricardo Bittencourt &amp; Rieks Warendorp Torringa &amp; Gilneas2] [Add by by Fabio R. Schmidlin].dsk" size="737280" crc="efb27660" sha1="aa8eb153e2654ecc5b2d002e51e73af123bf6f85"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0].dsk" size="737280" crc="b54ab8e6" sha1="fa3b5323829b596ef4ea94cd95f4501cc2fe72ca"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [MoonSound] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [MoonSound] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [MoonSound].dsk" size="737280" crc="604efdb7" sha1="8fc5cdc1f6f3d0d383937720092985038a9f4252"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo].dsk" size="737280" crc="76dfbe85" sha1="32462d5b6f908d7182b073bfc6d2237dfbad65ab"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [MoonSound] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [MoonSound] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [MoonSound].dsk" size="737280" crc="a3dbfbd4" sha1="4cfd9b4390dd86a96c149415ebce000d62cb1583"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Old Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900].dsk" size="737280" crc="f93ea769" sha1="c0140ef0679e8a8fa075bb22af9208f3f21da72f"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Philips NMS-1205 &amp; Toshiba HX-MU900].dsk" size="737280" crc="3aaba10a" sha1="0c3e51023395199c872a0fc3e77fc3d02153398a"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo].dsk" size="737280" crc="88b2139c" sha1="902caba7488ecd391aa58fa372b7032dcd929da2"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [MoonSound] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [MoonSound] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [MoonSound].dsk" size="737280" crc="5db656cd" sha1="d48c8272f05dd1589410819cd5a90f0b3808ad8f"/>
+	</game>
+	<game name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy)">
+		<description>Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900] (Floppy)</description>
+		<year>????</year>
+		<rom name="Puyo Puyo (Japan) [T-En by 232 &amp; BiFi &amp; GDX v1.0] [Rainbow Logo] [Philips NMS-1205 &amp; Toshiba HX-MU900].dsk" size="737280" crc="07530a70" sha1="5614eb0782963848d09fe3fd083d69df2f70b400"/>
+	</game>
+	<game name="Record of Lodoss War (Japan) [T-En by Django v20210606] [i] (Floppy)">
+		<description>Record of Lodoss War (Japan) [T-En by Django v20210606] [i] (Floppy)</description>
+		<year>????</year>
+		<rom name="Record of Lodoss War (Japan) (Game Disk 1) [T-En by Django v20210606] [i].dsk" size="737280" crc="0c409393" sha1="ef58ebb4c5d08cc0ecab02ca86fb96d0208f3fe9"/>
+		<rom name="Record of Lodoss War (Japan) (Game Disk 2) [T-En by Django v20210606] [i].dsk" size="737280" crc="36469820" sha1="75deadeada0d239dc524594a60ac23d90eb42e0e"/>
+		<rom name="Record of Lodoss War (Japan) (Game Disk 3) [T-En by Django v20210606] [i].dsk" size="737280" crc="db31778f" sha1="1661bb429c9e7f2812cf36dedc0d8f05343772ca"/>
+		<rom name="Record of Lodoss War (Japan) (Opening Disk).dsk" size="737280" crc="4dbf053a" sha1="f4d67fcd9945272df5c446aa58ff1006d130ac46"/>
+		<rom name="Record of Lodoss War (Japan) (User Disk).dsk" size="737280" crc="8623a338" sha1="e1acb3963d5dcf61daebe9c6a4615207b1e4c494"/>
+	</game>
+	<game name="Robo Crush (Japan) [T-En by Django v202104xx] [i] (Floppy)">
+		<description>Robo Crush (Japan) [T-En by Django v202104xx] [i] (Floppy)</description>
+		<year>????</year>
+		<rom name="Robo Crush (Japan) (User Disk).dsk" size="737280" crc="c58fe139" sha1="a271cc0171d5858bdf3b61b951f01441383ce1ef"/>
+		<rom name="Robo Crush (Japan) [T-En by Django v202104xx] [i].dsk" size="737280" crc="7ac6569b" sha1="02939840c6c639a58fe2c798b23ae705a828ccfe"/>
+	</game>
+	<game name="Rune Master (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Rune Master (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Rune Master (Japan) [T-En by Oasis v1.0].dsk" size="737280" crc="9cf2c661" sha1="e1ce41447fc28e6cb00225a812f5cc668230553b"/>
+	</game>
+	<game name="Rune Master II (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Rune Master II (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Rune Master II (Japan) [T-En by Oasis v1.0].dsk" size="737280" crc="4876f3e8" sha1="7d6cbade94b372a5946ec90af9d70754e7c02360"/>
+	</game>
+	<game name="Rune Master III - Sangoku Eiketsuden (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Rune Master III - Sangoku Eiketsuden (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Rune Master III - Sangoku Eiketsuden (Japan) (Disk 1) [T-En by Oasis v1.0].dsk" size="737280" crc="f0fcec76" sha1="ab23b954f84d7a16dcb299458813901dd67f30ae"/>
+		<rom name="Rune Master III - Sangoku Eiketsuden (Japan) (Disk 2) [T-En by Oasis v1.0].dsk" size="737280" crc="119eb7aa" sha1="22a8811f22972afa129e4890e1f49097400ecfdd"/>
+		<rom name="Rune Master III - Sangoku Eiketsuden (Japan) (Disk 3) [T-En by Oasis v1.0].dsk" size="737280" crc="cc8568c4" sha1="27d2ba9af23e69c89a582fd664ea4aa622244ef5"/>
+	</game>
+	<game name="Sa-zi-ri (Japan) [T-En by Django v1.0] (Floppy)">
+		<description>Sa-zi-ri (Japan) [T-En by Django v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Sa-zi-ri (Japan) [T-En by Django v1.0].dsk" size="737280" crc="326c0651" sha1="7973308836c90c71ed24261a7c6eff94124ac709"/>
+	</game>
+	<game name="SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0] (Floppy)">
+		<description>SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0].dsk" size="737280" crc="fd085c13" sha1="d0850856a2097fe42a8c05b38e185319eb58b8d0"/>
+	</game>
+	<game name="SD Snatcher (Japan) [T-En by Ded302 &amp; Oasis v1.01] (Floppy)">
+		<description>SD Snatcher (Japan) [T-En by Ded302 &amp; Oasis v1.01] (Floppy)</description>
+		<year>????</year>
+		<rom name="SD Snatcher (Japan) (Disk 1) [T-En by Ded302 &amp; Oasis v1.01].dsk" size="737280" crc="21f57597" sha1="3e38912c5dcc7f634f99ea3bbb4669a784e3fcb2"/>
+		<rom name="SD Snatcher (Japan) (Disk 2) [T-En by Ded302 &amp; Oasis v1.01].dsk" size="737280" crc="4e4aaa7d" sha1="231153e21cb8d36c3e4a8f2c01b74d6442e8db63"/>
+		<rom name="SD Snatcher (Japan) (Disk 3) [T-En by Ded302 &amp; Oasis v1.01].dsk" size="737280" crc="2e699723" sha1="226fd51dc2118e0fee9a51374efc203b8249a6bc"/>
+	</game>
+	<game name="SD Snatcher (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>SD Snatcher (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="SD Snatcher (Japan) (Disk 1) [T-En by Oasis v1.0].dsk" size="737280" crc="a9633544" sha1="b7b8b50fe05d446741cd39918dbc2577787a48cb"/>
+		<rom name="SD Snatcher (Japan) (Disk 2) [T-En by Oasis v1.0].dsk" size="737280" crc="4e4aaa7d" sha1="231153e21cb8d36c3e4a8f2c01b74d6442e8db63"/>
+		<rom name="SD Snatcher (Japan) (Disk 3) [T-En by Oasis v1.0].dsk" size="737280" crc="08dc0cbe" sha1="2ee581e84d4086f04109db0dc191b3150cc9238f"/>
+	</game>
+	<game name="SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [SCC Sound Cart] (Floppy)">
+		<description>SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [SCC Sound Cart] (Floppy)</description>
+		<year>????</year>
+		<rom name="SD Snatcher (Japan) (Disk 1) [T-En by Project Melancholia v20140102] [SCC Sound Cart].dsk" size="737280" crc="f2bb0609" sha1="df4595e8d16722e49bfacdf2abd855363b936cd8"/>
+		<rom name="SD Snatcher (Japan) (Disk 2) [T-En by Project Melancholia v20140102] [SCC Sound Cart].dsk" size="737280" crc="ac407e31" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
+		<rom name="SD Snatcher (Japan) (Disk 3) [T-En by Project Melancholia v20140102] [SCC Sound Cart].dsk" size="737280" crc="78d82278" sha1="815ce00d94630db9cc732afa01aa8ef1f7f8bc61"/>
+		<rom name="SD Snatcher (Japan) (User Disk).dsk" size="737280" crc="86d32e1e" sha1="ceb1d6f49122dacd3e0208a7e7a54dedf91adeb5"/>
+	</game>
+	<game name="SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart] (Floppy)">
+		<description>SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart] (Floppy)</description>
+		<year>????</year>
+		<rom name="SD Snatcher (Japan) (Disk 1) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart].dsk" size="737280" crc="aacca32d" sha1="ecc8eb5ebeb077dcd27144ec85a629a4d0d25611"/>
+		<rom name="SD Snatcher (Japan) (Disk 2) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart].dsk" size="737280" crc="ac407e31" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
+		<rom name="SD Snatcher (Japan) (Disk 3) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart].dsk" size="737280" crc="b0c14c6b" sha1="be34ce0306e7b888f9d92ff705810f4395f3ff6a"/>
+		<rom name="SD Snatcher (Japan) (User Disk).dsk" size="737280" crc="86d32e1e" sha1="ceb1d6f49122dacd3e0208a7e7a54dedf91adeb5"/>
+	</game>
+	<game name="SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart] (Floppy)">
+		<description>SD Snatcher (Japan) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart] (Floppy)</description>
+		<year>????</year>
+		<rom name="SD Snatcher (Japan) (Disk 1) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart].dsk" size="737280" crc="599be48a" sha1="27b2fd1d23543335224649d22f0eadfd903a8375"/>
+		<rom name="SD Snatcher (Japan) (Disk 2) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart].dsk" size="737280" crc="ac407e31" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
+		<rom name="SD Snatcher (Japan) (Disk 3) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart].dsk" size="737280" crc="b22cda74" sha1="063b71906586e23646b08beac1cab4a6c3445015"/>
+		<rom name="SD Snatcher (Japan) (User Disk).dsk" size="737280" crc="86d32e1e" sha1="ceb1d6f49122dacd3e0208a7e7a54dedf91adeb5"/>
+	</game>
+	<game name="Seikima II Special - Revenge of the Devil (Japan) [T-En by Django] [n] (Cartridge)">
+		<description>Seikima II Special - Revenge of the Devil (Japan) [T-En by Django] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Seikima II Special - Revenge of the Devil (Japan) [T-En by Django] [n].rom" size="131072" crc="56ee5038" sha1="f87e05946a93f59eb20a9eb601aaf543e1291372"/>
+	</game>
+	<game name="Shiryou Sensen 2 - War of the Dead Part 2 (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Shiryou Sensen 2 - War of the Dead Part 2 (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Shiryou Sensen 2 - War of the Dead Part 2 (Japan) (Disk 1) [T-En by Oasis v1.0].dsk" size="737280" crc="04279301" sha1="a35d6a181962b7cdb786999feae9a5028018cbf8"/>
+		<rom name="Shiryou Sensen 2 - War of the Dead Part 2 (Japan) (Disk 2) [T-En by Oasis v1.0].dsk" size="737280" crc="b9ec5ff1" sha1="0c082fb9927103df285166a3b6d7883bdc16763f"/>
+	</game>
+	<game name="Silviana (Japan) [T-En by M.I.J.E.T. v20091213] (Floppy)">
+		<description>Silviana (Japan) [T-En by M.I.J.E.T. v20091213] (Floppy)</description>
+		<year>????</year>
+		<rom name="Silviana (Japan) [T-En by M.I.J.E.T. v20091213].dsk" size="737280" crc="08ce6cfe" sha1="a101ec2517316004e420f21c954599f47f791ef9"/>
+	</game>
+	<game name="Snatcher (Japan) [T-En by Fudeba Software v0.6.0] (Floppy)">
+		<description>Snatcher (Japan) [T-En by Fudeba Software v0.6.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Snatcher (Japan) (Boot Disk) [T-En by Fudeba Software v0.6.0].dsk" size="737280" crc="c2422cca" sha1="434c8b2e222b78ef8266cc4fd87686aa0df6750f"/>
+		<rom name="Snatcher (Japan) (Game Disk 1) [T-En by Fudeba Software v0.6.0].dsk" size="737280" crc="beeac3b3" sha1="419fd17d6475888aa69f272c1b409f90360c05b4"/>
+		<rom name="Snatcher (Japan) (Game Disk 2) [T-En by Fudeba Software v0.6.0].dsk" size="737280" crc="4e342d75" sha1="c05c285c132f6c66bfe79f2db9e510d45638a714"/>
+		<rom name="Snatcher (Japan) (Game Disk 3) [T-En by Fudeba Software v0.6.0].dsk" size="737280" crc="c4349c57" sha1="0f599c65f6d0384d5877cc8fccb1b50b274c802d"/>
+	</game>
+	<game name="Solitaire Royale (Japan) [T-En by Django] (Floppy)">
+		<description>Solitaire Royale (Japan) [T-En by Django] (Floppy)</description>
+		<year>????</year>
+		<rom name="Solitaire Royale (Japan) [T-En by Django].dsk" size="737280" crc="8c2ce7e6" sha1="e32c8d720a5634b6b7de05e516c5bc48eb47d8c5"/>
+	</game>
+	<game name="Sorcerer Lulba (Japan) [T-En by 232 &amp; BiFi] [n] (Floppy)">
+		<description>Sorcerer Lulba (Japan) [T-En by 232 &amp; BiFi] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="Sorcerer Lulba (Japan) [T-En by 232 &amp; BiFi] [n].dsk" size="737280" crc="598952d2" sha1="ef2bcec1ea260d3dde60dd4fb8e7cbda8db2ba0e"/>
+	</game>
+	<game name="Super Cooks (Japan) [T-En by Django v201501xx] (Floppy)">
+		<description>Super Cooks (Japan) [T-En by Django v201501xx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Super Cooks (Japan) (Data Disk) [T-En by Django v201501xx].dsk" size="737280" crc="1d3898a5" sha1="2b5ca1225c748d5458e28f8da2570ded0da9c000"/>
+		<rom name="Super Cooks (Japan) (Game Disk) [T-En by Django v201501xx].dsk" size="737280" crc="ca8b50c4" sha1="907218fbdbd43c079c7d92cad3ddcadee219ef0e"/>
+	</game>
+	<game name="Super Daisenryaku (Japan) [T-En by Django v1.0] (Floppy)">
+		<description>Super Daisenryaku (Japan) [T-En by Django v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Super Daisenryaku (Japan) (Data Disk) [T-En by Django v1.0].dsk" size="737280" crc="c5a18580" sha1="df99d0d48b48146f2485f47d029eea474dc60783"/>
+		<rom name="Super Daisenryaku (Japan) (Game Disk) [T-En by Django v1.0].dsk" size="737280" crc="206a1822" sha1="a5c7fbfb22ddc9fb39b9c01810d27ddf96e9c17f"/>
+	</game>
+	<game name="Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations] (Floppy)">
+		<description>Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations] (Floppy)</description>
+		<year>????</year>
+		<rom name="Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations].dsk" size="737280" crc="83a67437" sha1="5dc4e07f800ee613c0226be815b8c0ac0e246575"/>
+	</game>
+	<game name="T.D.F. (Japan) [T-En by Django v2012xxxx] (Floppy)">
+		<description>T.D.F. (Japan) [T-En by Django v2012xxxx] (Floppy)</description>
+		<year>????</year>
+		<rom name="T.D.F. (Japan) [T-En by Django v2012xxxx].dsk" size="737280" crc="b0db20ca" sha1="7ecd9b49a3d48925bf7f46f4a24ccacb77049a53"/>
+	</game>
+	<game name="Take the A-Train (Japan) [T-En by Django v1.0] [n] (Cartridge)">
+		<description>Take the A-Train (Japan) [T-En by Django v1.0] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Take the A-Train (Japan) [T-En by Django v1.0] [n].rom" size="131072" crc="31417ecb" sha1="68e5af8344fc9db0190b1e0981ed44958a50e7ed"/>
+	</game>
+	<game name="Tempo Typing (Netherlands) [T-En by 232 &amp; BiFi] (Floppy)">
+		<description>Tempo Typing (Netherlands) [T-En by 232 &amp; BiFi] (Floppy)</description>
+		<year>????</year>
+		<rom name="Tempo Typing (Netherlands) [T-En by 232 &amp; BiFi].dsk" size="368640" crc="c0b3f90b" sha1="5e62e13fbb41010e2ec3814057b8d54946c3c2c6"/>
+	</game>
+	<game name="Ultima IV - Quest of the Avatar (Japan) [T-En by Django v2009xxxx] (Floppy)">
+		<description>Ultima IV - Quest of the Avatar (Japan) [T-En by Django v2009xxxx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Ultima IV - Quest of the Avatar (Japan) (Disk 1) [T-En by Django v2009xxxx].dsk" size="737280" crc="9a9dc137" sha1="8613dde3c6fe37e551d59b24fe783887de116507"/>
+		<rom name="Ultima IV - Quest of the Avatar (Japan) (Disk 2).dsk" size="737280" crc="6e7a1784" sha1="1ce762b191bb3cf31272fc8ecbf48df38cb5f9cc"/>
+	</game>
+	<game name="USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n] (Floppy)">
+		<description>USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n] (Floppy)</description>
+		<year>????</year>
+		<rom name="USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n].dsk" size="737280" crc="e897f2f9" sha1="7ade3440ffe7ae22e569c8714e8658556d85cd29"/>
+	</game>
+	<game name="Valeur, La (Japan) [T-En by Django v20180130] (Floppy)">
+		<description>Valeur, La (Japan) [T-En by Django v20180130] (Floppy)</description>
+		<year>????</year>
+		<rom name="Valeur, La (Japan) (Disk A) [T-En by Django v20180130].dsk" size="737280" crc="15938c6a" sha1="8a0accbf39a008edf550e77d3d1cc3deee5df9bd"/>
+		<rom name="Valeur, La (Japan) (Disk B) [T-En by Django v20180130].dsk" size="737280" crc="e5b6d79a" sha1="d95984d4c93629e2ed02e8399ad454666f0460cf"/>
+		<rom name="Valeur, La (Japan) (User Disk).dsk" size="737280" crc="649e8898" sha1="47cda81941b3d6906683e5eb9a5027e663ad411d"/>
+	</game>
+	<game name="Valis - The Fantasm Soldier II (Japan) [T-En by Django v2015xxxx] (Floppy)">
+		<description>Valis - The Fantasm Soldier II (Japan) [T-En by Django v2015xxxx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk A) [T-En by Django v2015xxxx].dsk" size="737280" crc="781e5f9d" sha1="8ccb21e200919203940c5a86ef386be41512c280"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk B).dsk" size="737280" crc="0eddfbcf" sha1="ff6c49ba7431459ec46db240470b1bad6fec889b"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk C).dsk" size="737280" crc="dcd60e00" sha1="92aa30bbbc96ed7a742a07f963c0be04b0c4cf6b"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk D).dsk" size="737280" crc="337fe634" sha1="9da06782e01dba621d131e1c874e886ad559680f"/>
+	</game>
+	<game name="Valis - The Fantasm Soldier II (Japan) [T-En by Manuel Pazos &amp; Theo Wilderbeek v20210116] (Floppy)">
+		<description>Valis - The Fantasm Soldier II (Japan) [T-En by Manuel Pazos &amp; Theo Wilderbeek v20210116] (Floppy)</description>
+		<year>????</year>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk A) [T-En by Manuel Pazos &amp; Theo Wilderbeek v20210116].dsk" size="737280" crc="5cda1b5d" sha1="f876effc6eebec063bad3417ff0fc190d5746bb9"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk B) [T-En by Manuel Pazos &amp; Theo Wilderbeek v20210116].dsk" size="737280" crc="b3b023b8" sha1="43c12ee91407255e4f69c3d9195df3e778532d0c"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk C) [T-En by Manuel Pazos &amp; Theo Wilderbeek v20210116].dsk" size="737280" crc="4450ec27" sha1="4d30e9c23ebc14f65c7583ff1103ef343054b353"/>
+		<rom name="Valis - The Fantasm Soldier II (Japan) (Disk D) [T-En by Manuel Pazos &amp; Theo Wilderbeek v20210116].dsk" size="737280" crc="9950cedd" sha1="c1cc16c542caaec1cee8bd050d9bfdcd2bb71bb8"/>
+	</game>
+	<game name="Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [+2 Trainer] [n] (Cartridge)">
+		<description>Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [+2 Trainer] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [+2 Trainer] [n].rom" size="131072" crc="d759012d" sha1="f194d9d7c632acfcc37b8438854551bfd88c2490"/>
+	</game>
+	<game name="Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n] (Cartridge)">
+		<description>Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n].rom" size="131072" crc="cbde2bf9" sha1="72c3010cdcd6994ce7d15e77e366036c2ece2f5b"/>
+	</game>
+	<game name="Wings of Arugisu (Japan) [T-En by Django v201903xx] (Floppy)">
+		<description>Wings of Arugisu (Japan) [T-En by Django v201903xx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Wings of Arugisu (Japan) [T-En by Django v201903xx].dsk" size="737280" crc="5c2d390d" sha1="03afa2372c44a5e4e56b25d213ff0f574459d9a2"/>
+	</game>
+	<game name="Woody Poco (Japan) [T-En by MSX Translations v1.0.1] (Cartridge)">
+		<description>Woody Poco (Japan) [T-En by MSX Translations v1.0.1] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Woody Poco (Japan) [T-En by MSX Translations v1.0.1].rom" size="131072" crc="ec81ece4" sha1="c8a0b22bcbf070f73904bf4d584256d7c66772f9"/>
+	</game>
+	<game name="Woody Poco (Japan) [T-En by MSX Translations v1.0.1] [+3 Trainer] (Cartridge)">
+		<description>Woody Poco (Japan) [T-En by MSX Translations v1.0.1] [+3 Trainer] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Woody Poco (Japan) [T-En by MSX Translations v1.0.1] [+3 Trainer].rom" size="131072" crc="bae46e44" sha1="9539eec2adee5bc7c2e9adf7ad84454185895fb6"/>
+	</game>
+	<game name="Xak - The Art of Visual Stage (Japan) [T-En by Delta Soft v1.0] (Floppy)">
+		<description>Xak - The Art of Visual Stage (Japan) [T-En by Delta Soft v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Xak - The Art of Visual Stage (Japan) (Game Disk 1) [T-En by Delta Soft v1.0].dsk" size="737280" crc="cea2e15f" sha1="bfab93c55a04adf8e49d211f26b189e5b6eeac2d"/>
+		<rom name="Xak - The Art of Visual Stage (Japan) (Game Disk 2) [T-En by Delta Soft v1.0].dsk" size="737280" crc="7071d288" sha1="a52cb8e05863a7b0892b54ee5ed98c489a954d6b"/>
+		<rom name="Xak - The Art of Visual Stage (Japan) (Opening Disk) [T-En by Delta Soft v1.0].dsk" size="737280" crc="35f434eb" sha1="b2303f80a1f49d81fa74cd04df43455927f8b2b3"/>
+	</game>
+	<game name="Xak - The Art of Visual Stage (Japan) [T-En by Rieks Warendorp Torringa] (Floppy)">
+		<description>Xak - The Art of Visual Stage (Japan) [T-En by Rieks Warendorp Torringa] (Floppy)</description>
+		<year>????</year>
+		<rom name="Xak - The Art of Visual Stage (Japan) (Game Disk 1) [T-En by Rieks Warendorp Torringa].dsk" size="737280" crc="e8bc6958" sha1="e6ca8946a780eb0a8e5dcc594998056be2099165"/>
+		<rom name="Xak - The Art of Visual Stage (Japan) (Game Disk 2) [T-En by Rieks Warendorp Torringa].dsk" size="737280" crc="301c59eb" sha1="aa7c49b32064abb31a4bf83a58af2f312f27bb41"/>
+		<rom name="Xak - The Art of Visual Stage (Japan) (Opening Disk) [T-En by Rieks Warendorp Torringa].dsk" size="737280" crc="6811bfe0" sha1="74365db8a7a479e55d1a2f4263d1232b8c7f4fb6"/>
+	</game>
+	<game name="Xak II - Rising of the Red Moon (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Xak II - Rising of the Red Moon (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Xak II - Rising of the Red Moon (Japan) (Disk 1) [T-En by Oasis v1.0].dsk" size="737280" crc="6536b2e6" sha1="677f5989b53b72564d0ab8d5ee1bfb8f35d4f3d8"/>
+		<rom name="Xak II - Rising of the Red Moon (Japan) (Disk 2) [T-En by Oasis v1.0].dsk" size="737280" crc="03b33132" sha1="4afbe7a103a1a1956ce653762be9b532e7aabc5f"/>
+		<rom name="Xak II - Rising of the Red Moon (Japan) (Disk 3) [T-En by Oasis v1.0].dsk" size="737280" crc="416a4d2c" sha1="de969546243efd6aa3aaca53151cce653574be80"/>
+		<rom name="Xak II - Rising of the Red Moon (Japan) (Disk 4) [T-En by Oasis v1.0].dsk" size="737280" crc="3c463922" sha1="a680c86a2b6bf8890655a50528dda3da98fd0bc8"/>
+		<rom name="Xak II - Rising of the Red Moon (Japan) (Disk 5) [T-En by Oasis v1.0].dsk" size="737280" crc="40c7e431" sha1="c9962d96e6b3f9e0d4311bd7a9d65743b5e84e2b"/>
+	</game>
+	<game name="Xak Precious Package - The Tower of Gazzel (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Xak Precious Package - The Tower of Gazzel (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Xak Precious Package - The Tower of Gazzel (Japan) (Disk 1) [T-En by Oasis v1.0].dsk" size="737280" crc="1227a3a2" sha1="8f5a13d679d2c5cc0bbb0aeaf55468b1f1fe5f28"/>
+		<rom name="Xak Precious Package - The Tower of Gazzel (Japan) (Disk 2) [T-En by Oasis v1.0].dsk" size="737280" crc="9dd095bc" sha1="602549f7be4621c78f4eb05d71e9b67e8b9447f4"/>
+		<rom name="Xak Precious Package - The Tower of Gazzel (Japan) (Disk 3) [T-En by Oasis v1.0].dsk" size="737280" crc="3441ceb8" sha1="d55f91f09441f66abd9ba8f24c7301242c6cb2f0"/>
+		<rom name="Xak Precious Package - The Tower of Gazzel (Japan) (Disk 4) [T-En by Oasis v1.0].dsk" size="737280" crc="5677a222" sha1="ef9a7746ffad24ebf48863a272a999effbf0a28d"/>
+	</game>
+	<game name="XZR II (Japan) [T-En by Django v1.0] [i] (Floppy)">
+		<description>XZR II (Japan) [T-En by Django v1.0] [i] (Floppy)</description>
+		<year>????</year>
+		<rom name="XZR II (Japan) (Disk 1) [T-En by Django v1.0] [i].dsk" size="737280" crc="bb0482bd" sha1="0d82652247bbfca902db22a6f366672700b14b52"/>
+		<rom name="XZR II (Japan) (Disk 2) [T-En by Django v1.0] [i].dsk" size="737280" crc="71371649" sha1="13777e8495ba903e9e25e3e98a59de19669c8766"/>
+	</game>
+	<game name="Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] (Floppy)">
+		<description>Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0].dsk" size="737280" crc="1fe293d4" sha1="2ade247f55507746606a8bce892013304bd02d7e"/>
+	</game>
+	<game name="Ys - Ancient Ys Vanished Omen (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Ys - Ancient Ys Vanished Omen (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Ys - Ancient Ys Vanished Omen (Japan) [T-En by Oasis v1.0].dsk" size="737280" crc="dce166b2" sha1="6c7672ba7602e2e1c7e09309b7fa8776b1b5a904"/>
+	</game>
+	<game name="Ys II - Ancient Ys Vanished - The Final Chapter (Japan) [T-En by Oasis v1.0] [i] (Floppy)">
+		<description>Ys II - Ancient Ys Vanished - The Final Chapter (Japan) [T-En by Oasis v1.0] [i] (Floppy)</description>
+		<year>????</year>
+		<rom name="Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Data Disk) [T-En by Oasis v1.0] [i].dsk" size="737280" crc="923cfb8e" sha1="4d37f5d7d58bde4289424c73bd533ad805a8a613"/>
+		<rom name="Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Game Disk) [T-En by Oasis v1.0] [i].dsk" size="737280" crc="a28f0d9e" sha1="cc099603229873011c7eb5729ee0c6c70f5a6f81"/>
+	</game>
+	<game name="Ys III - Wanderers from Ys (Japan) [T-En by Oasis v1.0] (Floppy)">
+		<description>Ys III - Wanderers from Ys (Japan) [T-En by Oasis v1.0] (Floppy)</description>
+		<year>????</year>
+		<rom name="Ys III - Wanderers from Ys (Japan) (Data 1 Disk) [T-En by Oasis v1.0].dsk" size="737280" crc="16d1b344" sha1="527c5d13320a3638e88f5787130238a780899f13"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (Data 2 Disk) [T-En by Oasis v1.0].dsk" size="737280" crc="c192a648" sha1="0254e6c574033942f46e5d42c93fde2ab209c3c1"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (Data 3 Disk) [T-En by Oasis v1.0].dsk" size="737280" crc="8230ca97" sha1="73976d57c6f366084791c48aa35a9a271f7fed67"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (Game Disk) [T-En by Oasis v1.0].dsk" size="737280" crc="03125047" sha1="b812798828446fb24cc340d2beb30f7a9074f705"/>
+	</game>
+	<game name="Zombie Hunter (Japan) [T-En by Django v2015xxxx] (Cartridge)">
+		<description>Zombie Hunter (Japan) [T-En by Django v2015xxxx] (Cartridge)</description>
+		<year>????</year>
+		<rom name="Zombie Hunter (Japan) [T-En by Django v2015xxxx].rom" size="131072" crc="ebfbb043" sha1="df32775c49fee48c091b6df7faa42f636e525eb3"/>
+	</game>
+	<game name="Zoo (Netherlands) [T-En by MRC Users v201703xx] (Floppy)">
+		<description>Zoo (Netherlands) [T-En by MRC Users v201703xx] (Floppy)</description>
+		<year>????</year>
+		<rom name="Zoo (Netherlands) [T-En by MRC Users v201703xx].dsk" size="737280" crc="da7295c4" sha1="078717d07ba0fff3d5f04ce1bf4a3118b9bafa2f"/>
+	</game>
+</datafile>

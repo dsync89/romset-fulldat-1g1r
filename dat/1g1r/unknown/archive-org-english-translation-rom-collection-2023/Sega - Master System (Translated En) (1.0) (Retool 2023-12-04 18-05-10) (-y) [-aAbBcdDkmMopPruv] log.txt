@@ -1,0 +1,48 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+* PREPRODUCTION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n]
+  - Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title A] [n]
++ Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [n]
+  - Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [Add by FlashPV v1.0] [n]
++ Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Literal]
+  - Phantasy Star (Japan) [T-En by SMS Power! v2.3.1]
+  - Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Add by FlamePurge] [Classic Names]
++ Solomon's Key - Tears of Princess Lihita (Japan) [T-En by FlashPV v1.0] [n]
+  - Solomon's Key - Tears of Princess Lihita (Japan) [T-En Ichigobankai v1.0] [n]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Final Bubble Bobble (Japan) [T-En by Brad Smith v1.0]
++ Genius Bakabon, The (Japan) [T-En by Cccmar & FCandChill & TheMajinZenki v1.2] [n]
++ Highschool! Kimengumi (Japan) [T-En by SMS Power! v1.00] [n]
++ Rygar - Legendary Warrior (Japan) [T-En by Psyklax v1.0] [n]
++ Story of Mio (Japan) [T-En by Filler & SSTranslations v1.0] [n]
++ Sukeban Deka II (Japan) [T-En by Enigmaopoeia & SSTranslations v1.0] [n]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sega - Master System [T-En] Docs
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Let's Check with a Game! - Traffic Safety (Japan) (Proto) [T-En by SMS Power! v1.00] [n]

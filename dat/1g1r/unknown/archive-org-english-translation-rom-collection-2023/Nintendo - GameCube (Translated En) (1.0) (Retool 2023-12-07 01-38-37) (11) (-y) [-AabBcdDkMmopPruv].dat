@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - GameCube (Translated En) (Retool)</name>
+		<description>Nintendo - GameCube (Translated En) (11) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-07 01-38-37</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n]">
+		<category>Games</category>
+		<description>Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n]</description>
+		<rom name="Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n].rvz" size="18137748" crc="2c046f30" sha1="7756f187aa6816245c8c2d6bafdfbd61caf89f29"/>
+	</game>
+	<game name="Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1]">
+		<category>Games</category>
+		<description>Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1]</description>
+		<rom name="Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1].rvz" size="1118824568" crc="3405cf8b" sha1="9e2e9c6f3ec89f603acd6f11386e5a6b757a6356"/>
+	</game>
+	<game name="Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i]">
+		<category>Games</category>
+		<description>Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i]</description>
+		<rom name="Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i].rvz" size="535003768" crc="daf3f932" sha1="9cfad5b1e0711105cec625a30617739d346d2f42"/>
+	</game>
+	<game name="Kururin Squash! (Japan) [T-En by DOL-Translations v20231002]">
+		<category>Games</category>
+		<description>Kururin Squash! (Japan) [T-En by DOL-Translations v20231002]</description>
+		<rom name="Kururin Squash! (Japan) [T-En by DOL-Translations v20231002].rvz" size="108742052" crc="df717afb" sha1="d0575e21a878e189ef35788156bdbb0bd8ced7a7"/>
+	</game>
+	<game name="Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n]">
+		<category>Games</category>
+		<description>Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n]</description>
+		<rom name="Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n].rvz" size="1049846820" crc="6ad4f0c8" sha1="665d6bd5b0c55d027e8c380bc3d977de43bf9f91"/>
+	</game>
+	<game name="Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i]">
+		<category>Games</category>
+		<description>Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i]</description>
+		<rom name="Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i].rvz" size="93938756" crc="37722d7e" sha1="8832ff34e92fb8dc160c5981f1861e4082cbcd69"/>
+	</game>
+	<game name="Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n]">
+		<category>Games</category>
+		<description>Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n]</description>
+		<rom name="Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n].rvz" size="921572428" crc="22604766" sha1="0512ae6492e0ab4f026dc4ae0f528e5d3907c5cc"/>
+	</game>
+	<game name="Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n]">
+		<category>Games</category>
+		<description>Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n]</description>
+		<rom name="Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n].rvz" size="434610824" crc="bc6a3d24" sha1="0296663e58a1ab5070d1dba18f4d6600bbd59206"/>
+	</game>
+	<game name="World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i]">
+		<category>Games</category>
+		<description>World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i]</description>
+		<rom name="World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i].rvz" size="461955836" crc="a8f6337d" sha1="4bd71e94b76a2df1c29ef3f226d46a2191e67384"/>
+	</game>
+	<game name="Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n]">
+		<category>Games</category>
+		<description>Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n]</description>
+		<rom name="Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n].rvz" size="427952096" crc="5fd2acb0" sha1="6fed633a4eb982482a6fdfd74e84a79a2f44d2ff"/>
+	</game>
+	<game name="Zoids Vs. III (Japan) [T-En by Traceytrace v1.00]">
+		<category>Games</category>
+		<description>Zoids Vs. III (Japan) [T-En by Traceytrace v1.00]</description>
+		<rom name="Zoids Vs. III (Japan) [T-En by Traceytrace v1.00].rvz" size="367539452" crc="be26e169" sha1="f81d5c7feef59d192515c73596ba316f2a1c5bfb"/>
+	</game>
+</datafile>

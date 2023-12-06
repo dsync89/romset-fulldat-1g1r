@@ -1,0 +1,29 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Otomedius Gorgeous! (Japan) [T-En by GameStone v1.8] [DLC]
+  - Otomedius Gorgeous! (Japan) [T-En by GameStone v1.8]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Mobile Suit Gundam - Operation - Troy (Japan) [T-En by Yuvi & SnowyAria v1.0]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Microsoft - XBOX 360 [T-En] Docs

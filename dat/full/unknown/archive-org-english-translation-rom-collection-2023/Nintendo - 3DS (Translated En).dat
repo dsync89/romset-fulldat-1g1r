@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - 3DS (Translated En)</name>
+		<description>Nintendo - 3DS (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>5 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo 3DS [T-En] Docs">
+		<description>_Nintendo 3DS [T-En] Docs</description>
+		<year>????</year>
+		<rom name="_READ THIS_.txt" size="729" crc="2c93dc1e" sha1="f90048c5d41290b9d125eb05c59f0a3b20813d4e"/>
+		<rom name="Beyond the Labyrinth (Japan) [T-En by Angular &amp; Nagato &amp; Vodka v1.1] [n].txt" size="2837" crc="693c1583" sha1="595fcdf209aa634c1e8134ea63ace4008964ecbd"/>
+		<rom name="Dragon Quest Monsters - Terry's Wonderland 3D (Japan) [T-En by Team TW3D v1.2] [n].txt" size="8130" crc="9bebced4" sha1="d5640af5b60f3ed1123838f50318cc9734cf8a38"/>
+		<rom name="FabStyle (Japan) [T-En by Rocket Robz &amp; Sidier v2.0] [i].txt" size="3041" crc="efe40641" sha1="ab5d88e9b7bd52765fe77346ee4413264c1dc05a"/>
+	</game>
+	<game name="Beyond the Labyrinth (Japan) [T-En by Angular &amp; Nagato &amp; Vodka v1.1] [n]">
+		<description>Beyond the Labyrinth (Japan) [T-En by Angular &amp; Nagato &amp; Vodka v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Beyond the Labyrinth (Japan) [T-En by Angular &amp; Nagato &amp; Vodka v1.1] [n].3ds" size="756290560" crc="a27d9cd9" sha1="88bc4fdd4648f0ab0641e8e378013a2ed33f4275"/>
+	</game>
+	<game name="Cave Story 3D (USA) [T-En by Aeon Genesis v0.96 RC2] [Relocalized]">
+		<description>Cave Story 3D (USA) [T-En by Aeon Genesis v0.96 RC2] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Cave Story 3D (USA) [T-En by Aeon Genesis v0.96 RC2] [Relocalized].3ds" size="487989760" crc="d866f8a5" sha1="6a7679be0ed9220c8c89068977e2dc6520a4ad32"/>
+	</game>
+	<game name="Dragon Quest Heroes - Rocket Slime 3 (Japan) [T-En by Fan Translators International v1.0 RC1] [n]">
+		<description>Dragon Quest Heroes - Rocket Slime 3 (Japan) [T-En by Fan Translators International v1.0 RC1] [n]</description>
+		<year>????</year>
+		<rom name="Dragon Quest Heroes - Rocket Slime 3 (Japan) [T-En by Fan Translators International v1.0 RC1] [n].cia" size="395903936" crc="31e287b6" sha1="c36c6ee3412c364dc39a6fb7ac703b9ff1eaf7f4"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Effect\Texture\Icon_Enemy_tex.bcres" size="4480" crc="430d2013" sha1="25266d219127a964d523ab694803f083383ecf72"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Effect\Texture\ShipBattleOnly_tex.bcres" size="230144" crc="06528320" sha1="39415aeb4609b28f627004c9c3c0bd71eeb86b8d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Effect\Texture\WM_huki_tex.bcres" size="79104" crc="efc994ac" sha1="5f8a7b633855935c49cf106859c0663f9b9e9f6f"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Common_pic\Icon_item.arc" size="222120" crc="486fc460" sha1="7e260232f074bcf785518dd1b0a8ba67d937b088"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Common_pic\Pic_item\pe_a.arc" size="2856" crc="d27b38e1" sha1="86fde9174bb32adb9aa7b685614b666e0bb595a7"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Common_pic\Pic_item\pe_b.arc" size="2856" crc="da34ae00" sha1="f9930e90630ba28c2d9bdae9edd280ad2b6a8ed6"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Common_pic\Pic_item\pe_c.arc" size="2856" crc="1c282b13" sha1="c0b2f2355541fdb5c84356f5e8642d6bbbe3bf9d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Communications_error.arc" size="28072" crc="d30c416c" sha1="8f219804850fda3a08d28e00ec7858582694c634"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Comu_any.arc" size="672680" crc="d255d9bf" sha1="e7ac315ab6832a4fee8dbfe45fd20ec43fc810ae"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Comu_any_lower.arc" size="45864" crc="f3f8f3e0" sha1="13add6220a6a566550fa089367ef876ad1fea7ea"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Customize\Ship_lower.arc" size="1017768" crc="8996227a" sha1="66b687ae1d9853c42144f23055fce3194c767686"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Customize\Ship_upper.arc" size="65832" crc="7d75787d" sha1="ee26164bc2d8166c30c82ca23998677b1830b19a"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\DrawingSheet.arc" size="432296" crc="03ecb4fe" sha1="63aadd97e64a2c68a4165bf6a26b1ed1889d1e75"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Encount_lower.arc" size="149032" crc="748cb76e" sha1="6626011a38e3428b5f0074a0ad97374224f3c0fa"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Encount_upper.arc" size="146600" crc="72905210" sha1="23352515e5d39672b0d03457a76083fff3264589"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Endroll_lower.arc" size="10775" crc="0843c951" sha1="9fb670e94177eb366b35470b8723f74baf32d5a0"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Endroll_upper.arc" size="4896424" crc="6796cc9f" sha1="444c06f00648e5593b5b2f388de125c1adfee739"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Experience.arc" size="842024" crc="47ebd081" sha1="a4bb790921bbc120ba04f3fb5d4e47d6e9835d37"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Game_over.arc" size="206120" crc="b107f752" sha1="884cbf3bb00a4f1d4d95bd27e7d61d51c544919d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Info_stage.arc" size="480808" crc="e1dfdb78" sha1="741f00f91c442aeb38656d027217b3f8599eee7e"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Info_World.arc" size="190120" crc="d90ed4aa" sha1="119b1879018e8cc0690aec60974a0ae56cbff3ba"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Input_console.arc" size="249256" crc="2fb445d7" sha1="8857e6ac9c8ffd70a6bcbb5a87ac583f6100745a"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Item_lower.arc" size="951592" crc="d876bbf2" sha1="0610b3e0702e19b01f965e6a2d5478a6fb44d51d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Item_upper.arc" size="198824" crc="b427e692" sha1="a7dcae3d34672d21ca9390b37e0294af0dc122dc"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Lower_button.arc" size="166440" crc="902ab538" sha1="8f3cfaa98dec729c2c0e805b9003e5eaf4647808"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Africa.arc" size="2205992" crc="74ec1c7e" sha1="7e3ff4d0bbc948afccdd44157a4390400eaaef97"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\America.arc" size="8558632" crc="687b7475" sha1="4e39e27639e676655f3e9be568b1fb1b8eb150e0"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\AmericaCity.arc" size="267816" crc="712dabcd" sha1="063544ff166b8dfb5f2cf3529b4f4f7e5259f79a"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Australia.arc" size="8558632" crc="dbda6faf" sha1="87e8993a8f2e2d87836de0a47b94145d46777432"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\AustraliaCity.arc" size="268456" crc="4bfee677" sha1="c2dfcedc0e165b582539787deb577b30604b2f77"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Carib.arc" size="1146920" crc="6b5b20e8" sha1="f7dd198174d7d4f775cc74aaf66fc36606985269"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\City_desert.arc" size="267944" crc="454cf8dd" sha1="ed086a111beccd8b00e357c423167dbad0fbf642"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\City_Europe.arc" size="267816" crc="7c3558af" sha1="cda82c4bb5bfd5dd8e25b5177e4969c59ac03378"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\City_Snow.arc" size="267816" crc="90f6bb8c" sha1="2ad871810a24882eb8756cd57b884eb7859229e9"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Egypt.arc" size="8559656" crc="6feb513b" sha1="0080cb5cfb6331fa96a89575e6f1729daf6499a7"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Europe.arc" size="4302632" crc="02ade06c" sha1="6725d01aa791340808557ba62da147ef1b6776f3"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Iceland.arc" size="2261032" crc="85886b01" sha1="006858e33cd00802458bf3eb140c42846f65cd77"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Japan.arc" size="8564520" crc="e09705d5" sha1="fd6c819cb10dddd7d208da853b3ce8e1c9578158"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Japan_boss.arc" size="551336" crc="684acf0a" sha1="b4fa11676b928509fce780dd98962d0e4464a189"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\JapanCity.arc" size="267816" crc="78ad36aa" sha1="aae1e6f9a7ac552ee8a360c01ee622abe4396714"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\MapConsole.arc" size="50344" crc="5dc02345" sha1="ce37d7e63ed5bd3f633c1a0aedc15bdb3caf80b0"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAfrica01.arc" size="292776" crc="790ccb4d" sha1="fb3461c0f7c28356bd4fb6ef9fe32d04e244bc45"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAfrica01Port.arc" size="267944" crc="2587b625" sha1="3c48a8c4cd57113d5517f2438f6ac27d9924fa24"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAfrica02.arc" size="161704" crc="3947b35c" sha1="8a3f7b6bb3bf8c93103b01a348f6248a373075be"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAmerica01.arc" size="161704" crc="d0a1d4bb" sha1="93d7e05a48f1d8234889fd081904b1c3212547a9"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAmerica01Port.arc" size="267944" crc="547a194d" sha1="a925f69d255b32f823ee91eb47155cad2f6b572d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAmerica02.arc" size="161704" crc="39645fcc" sha1="32f9f3d98958d396d2d057b6c03d0b7ed993e2b7"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAndes01.arc" size="161704" crc="101a2a46" sha1="86ee4ab87423579ad9ff1c6c5d970dfdec7ffc5f"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniArabia01.arc" size="161704" crc="86c70448" sha1="841ed2617eac2ebba0a488efc2e49b38a368e272"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAustralia01.arc" size="161704" crc="7d5dd7a7" sha1="609a2ed169eeec632a11a2b4275f62c4c7f18526"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniAustralia01Port.arc" size="267944" crc="fdd7e21c" sha1="1632a24d37e922d44b053dcdc8f349dc3c6f9241"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniEaster01.arc" size="554920" crc="0ea0ab1e" sha1="c7b3c1fa585ad1e40ede6a230bf5553608e39195"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniEurope01.arc" size="161704" crc="93443cf6" sha1="b6bbda250d32d07a454c1c4148316e6f14851c6e"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniEurope01Port.arc" size="267944" crc="07b4c217" sha1="13510dbddf72bbf8e8690a08e23a67588116d9d7"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniEurope02.arc" size="161704" crc="9ff34482" sha1="cea5f5886c7530dd34d1f9011e210c9f5680dff6"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniNorthPole01.arc" size="161704" crc="d2e9a6d1" sha1="6a658a79f99a007a7b27ee9c650f278dd98e65be"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniNorthPole02.arc" size="161832" crc="37f2a4a4" sha1="2d312080c03ab197dd3b819bee45aae576375dcd"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniNorthPole03.arc" size="161832" crc="bde909ba" sha1="8c072525ad593fd9c3b8d15d107c867baa6b0b24"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniRussia01.arc" size="161704" crc="92d924c6" sha1="b01a4bc6288bee4802c69953e2b7d8bf6b977758"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniRussia01Port.arc" size="267944" crc="1b2035b3" sha1="04ee0404705a9740a533a641f680b77cbea3fe49"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniRussia02.arc" size="161704" crc="5de8c1dd" sha1="910f5b9754170bdb52a18eac9c1d1f522dd106a9"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniSouthAmerica01.arc" size="161704" crc="5c588565" sha1="7b138070fabb228bd1268985f1f5591911ce9f78"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniSouthAmerica01Port.arc" size="530216" crc="3c5d0533" sha1="5caf3a8850222c30b7d8a538c6217f2c6c219f32"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniSouthAmerica02.arc" size="161704" crc="009969cc" sha1="aa845cecbc79654b398b7537c169bc2574cf9ef5"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\miniSrilanka01.arc" size="161704" crc="4e5b5fc9" sha1="bd068a1fe5e1f5328472c7962a1f99dc64a25df8"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Nokke.arc" size="622632" crc="71fc4bed" sha1="b96fb8e6ce68e58b9402c86a0e9d8e6077861ee8"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_America.arc" size="267816" crc="942ea601" sha1="abfb76b77dd58748fcd9b7ff3e589c6419cb1645"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_Australia.arc" size="267816" crc="ba5db1dd" sha1="5ffd9f6c48156940158370acfc35da9a41d430c6"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_Carib.arc" size="267944" crc="492166ea" sha1="dfdf441abcd7b8b9d2b56b5d4ac575b27cec1c10"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_desert.arc" size="267816" crc="32d8cd7b" sha1="ac96cbe8a76cc3508d42243419d43c3e84cec87a"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_Europe.arc" size="267944" crc="e4454506" sha1="d2e3b70ee6131ed4473aaa65aa4d1c5ee40ebd71"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_Japan.arc" size="267816" crc="686008da" sha1="559f1d56d8b57d1d450c7de50669aef88905d605"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_Jungle.arc" size="267816" crc="02961bc5" sha1="3dbf3ef550dfc4b4f6aded4692e681a2edb2a971"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_Snow.arc" size="267944" crc="519b07a0" sha1="4a6deb552a01c5e19a3f2eb70367d0333354183e"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Port_Sulan.arc" size="267944" crc="91142369" sha1="88b24f2d00e10db130dbffc6081faac7b3ca2fa6"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Russia.arc" size="8558632" crc="8dc3ca32" sha1="ea172a193d4b79344004c86eeaff0e9ad96d0a8c"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\SouthAmerica.arc" size="8558760" crc="76e13b86" sha1="167550e046597ec05175cc895f7c95c7d97373fe"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\SouthAmericaCity.arc" size="267816" crc="d199c2b5" sha1="f9bdee2d34e0b4f63b8e057b030f2e442e26180d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\Sulan.arc" size="268200" crc="35ee095a" sha1="08604ff32c585e977c43919f977d0a52ab7e7edd"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Map\WestAustralia.arc" size="1147048" crc="9bd962a2" sha1="afd1182c63788894505f794fc2a008746cd75030"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Monster_lower.arc" size="748968" crc="f6e4805c" sha1="c2240f129f84c898bd034c12e19ecdf0db91e95a"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Monster_upper.arc" size="178344" crc="d9c2154f" sha1="78bfd39000ccdeb02492e0d8e01c9854cd37ecbf"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Pause.arc" size="77224" crc="19c0a244" sha1="cd269eeedc8f506c863f5ab550a792aee38f7928"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Quest_lower.arc" size="43304" crc="3e63aad0" sha1="d092fba293750e4014719133edcdbdd4f3a0776c"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Quest_upper.arc" size="426920" crc="05380edd" sha1="f796777a2455275f1ffdc78d659d08cb1f50d306"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Stage.arc" size="693032" crc="fd087a6c" sha1="3a7bb4295e825050bd4e93abf8470adede7e808f"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Menu\Upper_menu.arc" size="147257" crc="c44ca295" sha1="7191914237b5ec85c3bf6e556d348b4fa04e8b53"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Ms_battle.arc" size="38824" crc="063222e4" sha1="6b4e5c8350b82c87df208bcaf73dc52153994e5a"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Ms_normal.arc" size="20264" crc="e4c1aa1b" sha1="e97374aafe3698f591b9ca5c0dd6802617c08cdc"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\PlayerInfo_edit_lower.arc" size="737320" crc="2f954587" sha1="f3401f55fcc0b2de8e6b92446dfea03b7b85dadd"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\PlayerInfo_edit_upper.arc" size="416808" crc="6468703d" sha1="8a4da6bdb4b80c4d0863591a69871aaa3efcc7eb"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Result.arc" size="517672" crc="094b7a09" sha1="8c72411e81aeb136b462b94eb9fcfb26099d7cac"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\SaveLoad.arc" size="133416" crc="588b9bf7" sha1="21b6b22c96116c92de29f67cb1990912f6e30ab1"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\BattleOperationMenu.arc" size="22056" crc="6bcba6a2" sha1="d0ddb1ac6bf15177f00ea2ee81ba34e551a11660"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\BattleResult.arc" size="532776" crc="ae6b2518" sha1="8c26484300735d19598608a4bc194aab139409d6"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\BattleResultDetail.arc" size="3112" crc="21ad8435" sha1="a2a524fe81cc1f92bebf146363889c6f1b30a19d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\BattleResultGold.arc" size="350888" crc="27d7e641" sha1="771c61162f4b7585bdbce67a0b81f9340e051278"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\BattleStart.arc" size="133288" crc="328e72d8" sha1="bd71f5782c248e432d7851ccf39c12899d78a36d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\Level_up.arc" size="36392" crc="5b9a04cb" sha1="b917d84070246316a2d45d9f3d282a4ac030b5f3"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\ShipBattle_timeup.arc" size="132392" crc="6c517a0d" sha1="55ba5d7754ec4767b620b64a99f1d2b84e65815f"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\SlimeDead.arc" size="76840" crc="713edbd8" sha1="1008ae2bc1a1461beb82278ede6dbd90b7019df7"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipBattle\Tactics_guide.arc" size="2728" crc="b7bb165c" sha1="f0c05484f441c36772e4a009233d2d35f94b85a9"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipLevelSelect.arc" size="52520" crc="423bf5cf" sha1="c163356a47445aafee0969544d902733372af9e0"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipLevelup_lower.arc" size="63272" crc="3acc0c49" sha1="7f1b8eca480046ce0ace596e6342209a58aeef45"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\ShipLevelup_upper.arc" size="279592" crc="3e09e7a6" sha1="109907fcb5bfd9b3e6773186b7daa32bda70008d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Shop_lower.arc" size="379560" crc="a801b06d" sha1="a02c9be90688b0e3ca72129a06c7a55e47184126"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Shop_upper.arc" size="511144" crc="c2056c5e" sha1="10cafb057df85fac2a085b4b85c187d72dd62a55"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Africa.arc" size="100392" crc="ccdf7265" sha1="fd8d555c73261ac3e2a9ff9e6a4b88527f69b0c4"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\America.arc" size="100392" crc="97718253" sha1="3471e0576460121a2c919121333a83319fa9053c"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Australia.arc" size="100392" crc="a7370048" sha1="8d05cf4af0145e492fdfc63f27b1f25dfae387a4"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Carib.arc" size="100392" crc="b621e357" sha1="91f1ebc57c422a49b1b51509612a0ec99762e72f"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Europe.arc" size="100392" crc="f581b70a" sha1="a515ee5e2c4b3de352514616501fb7e602b7126c"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Iceland.arc" size="100392" crc="85b58d46" sha1="13c22e471907029ade685d1fd895994a37f089ba"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Japan.arc" size="100392" crc="d258465e" sha1="54c6324e2212badb7f6ce64e51227bfacb1ca849"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Nokke.arc" size="100392" crc="1fedddca" sha1="6f9a3e5a3861a22d5702681d9f7c14867d3d97be"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Pyramid.arc" size="100392" crc="fd7c936c" sha1="ce34b9f799613d7f51d56b718dc28dba79e8de8a"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\Russia.arc" size="100392" crc="1cbf8a8e" sha1="cec19b22978d2080613a1f6bec4000f0769e5af2"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\SouthAmerica.arc" size="100392" crc="dd863a6a" sha1="0171019f86a70cc5bda5e7af826405718cdb4c71"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Stage_title\WestAustralia.arc" size="100417" crc="82357504" sha1="99d33f5792f1796f8848d73abee43db0a94b13b3"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Title_lower.arc" size="864078" crc="45ee598d" sha1="b1f555343fad6edc87814fe21106144b7ecb47b7"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Title_upper.arc" size="788546" crc="66821893" sha1="78e4758b28ab20d01e6b87ab027bcac42a9546ea"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Trade_lower.arc" size="61979" crc="b22069ac" sha1="2319d0fdb695bd0fdea13e8d570535a6cf52bb5d"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Trade_upper.arc" size="189662" crc="7bd4027e" sha1="c9c64570cc35dfe1654a98c2dd80ee3322e76a60"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Tutorial.arc" size="1817358" crc="a239a2c1" sha1="2efe2e286b691ed226831850d6050e14c0fd6116"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Wm_mainConsole.arc" size="40148" crc="3d6d6aeb" sha1="c173baca0812755c8370c2a9b1891034a42089e4"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Wm_op.arc" size="499190" crc="cfcef1bd" sha1="9a17fbbce027182aa12adbdcdfde860d5b8b23a1"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\Wm_wnd.arc" size="137376" crc="18dcc8f6" sha1="ef60729ad20392b26dd9b22a676027c271b4a35e"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Layout\XItemInfo.arc" size="3624" crc="299617f3" sha1="7f01eb5f54e5c07015db107087d4f63281822576"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Message\BtlMsg\Japanese\ShipBattleMessage.bmd" size="63818" crc="956d8daa" sha1="788f5c93e7303fb5a5ee1dcf38b45de9f645c252"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\ShipBattleSub\Icon\pe_a.bcres" size="6656" crc="afae5f39" sha1="16723d6bf61c57f30afdb0d2fa80edc9e239b954"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\ShipBattleSub\Icon\pe_b.bcres" size="6656" crc="c160f149" sha1="275f1f452aa830f7f8d32625618669fca8bf68da"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\ShipBattleSub\Icon\pe_c.bcres" size="6656" crc="1ef87917" sha1="c4c2f5201adae01083068b722582cc6f5aa8a263"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Toy\pe_a\pe_a.xbb" size="16000" crc="2d156465" sha1="588dfd9a7b1ddc996bb1b14a929d5abf4322c5c7"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Toy\pe_b\pe_b.xbb" size="16000" crc="5a6da3a2" sha1="0aab160b59b02642a4045cac8c7367b5f79e923c"/>
+		<rom name="fti\rocket_slime_3ds\data\Game\Toy\pe_c\pe_c.xbb" size="16000" crc="67deb3bd" sha1="c91e801d1ee1707a630cd4f0abf1df95e5d75bc5"/>
+		<rom name="fti\rocket_slime_3ds\tables.bin" size="942610" crc="c24d434d" sha1="7849b46daa037ea16bf3dd34cd650d4ab57b4e30"/>
+	</game>
+	<game name="Dragon Quest Monsters - Terry's Wonderland 3D (Japan) [T-En by Team TW3D v1.2] [n]">
+		<description>Dragon Quest Monsters - Terry's Wonderland 3D (Japan) [T-En by Team TW3D v1.2] [n]</description>
+		<year>????</year>
+		<rom name="Dragon Quest Monsters - Terry's Wonderland 3D (Japan) [T-En by Team TW3D v1.2] [n].3ds" size="788431360" crc="ed2f7fd8" sha1="a2cc57710e8adc5242543f0c53044feaec2f566e"/>
+	</game>
+	<game name="Dragon Quest Monsters 2 - Cobi and Tara's Marvelous Mysterious Key (Japan) [T-En by Dackst &amp; Ich73 v1.2] [n]">
+		<description>Dragon Quest Monsters 2 - Cobi and Tara's Marvelous Mysterious Key (Japan) [T-En by Dackst &amp; Ich73 v1.2] [n]</description>
+		<year>????</year>
+		<rom name="Dragon Quest Monsters 2 - Cobi and Tara's Marvelous Mysterious Key (Japan) [T-En by Dackst &amp; Ich73 v1.2] [n].3ds" size="1936310272" crc="20b5c689" sha1="bd5db564eaaed9d1de7aab99c53865c778e5c75e"/>
+	</game>
+	<game name="E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.0]">
+		<description>E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.0]</description>
+		<year>????</year>
+		<rom name="E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.0].3ds" size="2725315072" crc="fe8f0e96" sha1="98c15fe229742f74c6d1cb38067678c838b6da8f"/>
+	</game>
+	<game name="E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.1]">
+		<description>E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.1]</description>
+		<year>????</year>
+		<rom name="E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.1].3ds" size="2786570752" crc="bceb3063" sha1="fb1b2ceb678e805e254c677342b02cfcfc6b3d6a"/>
+	</game>
+	<game name="FabStyle (Japan) [T-En by Rocket Robz &amp; Sidier v2.0] [i]">
+		<description>FabStyle (Japan) [T-En by Rocket Robz &amp; Sidier v2.0] [i]</description>
+		<year>????</year>
+		<rom name="FabStyle (Japan) [T-En by Rocket Robz &amp; Sidier v2.0] [i].3ds" size="1082897408" crc="8071ce5b" sha1="7038556e320e42cacf60c7a70850bf51692182b4"/>
+	</game>
+	<game name="Fire Emblem If - Anya Oukoku (Japan) [T-En by Team If v4.2]">
+		<description>Fire Emblem If - Anya Oukoku (Japan) [T-En by Team If v4.2]</description>
+		<year>????</year>
+		<rom name="Fire Emblem If - Anya Oukoku (Japan) [T-En by Team If v4.2].3ds" size="1722028032" crc="86bc1066" sha1="64c310305ddb7d5385ed9d2e626fb13e48f3dd86"/>
+	</game>
+	<game name="Fire Emblem If - Byakuya Oukoku (Japan) [T-En by Team If v4.2]">
+		<description>Fire Emblem If - Byakuya Oukoku (Japan) [T-En by Team If v4.2]</description>
+		<year>????</year>
+		<rom name="Fire Emblem If - Byakuya Oukoku (Japan) (DLC) [T-En by Team If v4.2].cia" size="684078208" crc="f821db09" sha1="010d68c62e915d780b9881611fe314eaf4a03a31"/>
+		<rom name="Fire Emblem If - Byakuya Oukoku (Japan) [T-En by Team If v4.2].3ds" size="1711927296" crc="1e13bbd6" sha1="e1c709bf2788956942875b524428cc53b40c937d"/>
+	</game>
+	<game name="Fire Emblem If - Special Edition (Japan) [T-En by Team If v4.2]">
+		<description>Fire Emblem If - Special Edition (Japan) [T-En by Team If v4.2]</description>
+		<year>????</year>
+		<rom name="Fire Emblem If - Special Edition (Japan) [T-En by Team If v4.2].3ds" size="1825312768" crc="898248f5" sha1="b86fe1eac0701bcb01a3edb3c7f5626f822f12a2"/>
+	</game>
+	<game name="MapleStory - The Girl of Destiny (Japan) [T-En by Team Maple v1.03] [n]">
+		<description>MapleStory - The Girl of Destiny (Japan) [T-En by Team Maple v1.03] [n]</description>
+		<year>????</year>
+		<rom name="MapleStory - The Girl of Destiny (Japan) [T-En by Team Maple v1.03] [n].3ds" size="498606080" crc="7aec70e2" sha1="4311556fb4b10885683620c3742a102d8b610d7d"/>
+	</game>
+	<game name="Monster Hunter Stories (Japan) [T-En by Dasding v1.3] [i]">
+		<description>Monster Hunter Stories (Japan) [T-En by Dasding v1.3] [i]</description>
+		<year>????</year>
+		<rom name="Monster Hunter Stories (Japan) (v1.3.0) (Update) [T-En by Dasding v1.3] [i].cia" size="241664960" crc="ebac5021" sha1="e53d8389aff512006ffdd7a2df14a8bf79828780"/>
+		<rom name="Monster Hunter Stories (Japan).3ds" size="1804382208" crc="2104f962" sha1="e09a28dd00f8380a153cbd13a7ace6446cde0e28"/>
+	</game>
+	<game name="Monster Hunter XX - Double Cross (Japan) [T-En by Dasding v5] [Add by Crosshex v2] [i]">
+		<description>Monster Hunter XX - Double Cross (Japan) [T-En by Dasding v5] [Add by Crosshex v2] [i]</description>
+		<year>????</year>
+		<rom name="Monster Hunter XX - Double Cross (Japan) (v1.4.0) (Update) [T-En by Dasding v5] [Add by Crosshex v2] [i].cia" size="36897728" crc="43fae1a9" sha1="aad42559023ce0d49a18f4971289d241db51f2e0"/>
+		<rom name="Monster Hunter XX - Double Cross (Japan).3ds" size="2367942656" crc="dcb15f58" sha1="18c2b07556e5128979f060a456c8dde93200c120"/>
+	</game>
+	<game name="Neko Atsume - Kitty Collector (Japan) [T-En by Nagato &amp; Seikiku &amp; Lycanroc &amp; DarkSynopsis v1.1] [n]">
+		<description>Neko Atsume - Kitty Collector (Japan) [T-En by Nagato &amp; Seikiku &amp; Lycanroc &amp; DarkSynopsis v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Neko Atsume - Kitty Collector (Japan) [T-En by Nagato &amp; Seikiku &amp; Lycanroc &amp; DarkSynopsis v1.1] [n].3ds" size="314908672" crc="d65bbe71" sha1="aefd18755df1c91c92b94bd4a4b96f19d74a7a1f"/>
+	</game>
+	<game name="Taiko Drum Master - Adventures through Time and Space (Japan) [T-En by Team Full Combo! v1.1] [i] [n]">
+		<description>Taiko Drum Master - Adventures through Time and Space (Japan) [T-En by Team Full Combo! v1.1] [i] [n]</description>
+		<year>????</year>
+		<rom name="Taiko Drum Master - Adventures through Time and Space (Japan) [T-En by Team Full Combo! v1.1] [i] [n].3ds" size="462938112" crc="58156168" sha1="4a5050962a3412bad6db50721340ed92d751b632"/>
+	</game>
+	<game name="Touch Detective Rising 3 - Does Fungi Dream of Bananas (Japan) [T-En by Kekkyoku] [n]">
+		<description>Touch Detective Rising 3 - Does Fungi Dream of Bananas (Japan) [T-En by Kekkyoku] [n]</description>
+		<year>????</year>
+		<rom name="Touch Detective Rising 3 - Does Fungi Dream of Bananas (Japan) [T-En by Kekkyoku] [n].3ds" size="150294528" crc="71caae28" sha1="f2d145a22680b6e04d04130c8ad180aefbb8b077"/>
+	</game>
+</datafile>

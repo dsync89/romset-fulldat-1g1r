@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Mega CD &amp; Sega CD (Translated En)</name>
+		<description>Sega - Mega CD - Sega CD (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>7 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sega - Mega CD [T-En] Docs">
+		<description>_Sega - Mega CD [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Game no Kandume Vol. 1 &amp; 2 (Japan) [T-En by M.I.J.E.T. v100711].txt" size="6615" crc="2a335c05" sha1="8e2d050b013ddf983b3cf489da5a3b24159e138a"/>
+		<rom name="Lunar - Eternal Blue (USA) [Un-Worked Design by Supper v3 (24-02-2017)].txt" size="12369" crc="efe4bb22" sha1="d5ab8b7079358f99637e8eb4fec569f98e2e8e56"/>
+		<rom name="Lunar - The Silver Star (USA) [Un-Worked Design by Supper v1 (24-02-2017)].txt" size="12029" crc="228093a4" sha1="9c649375251dcfddc3a18fcf7060d47384861221"/>
+		<rom name="Popful Mail (USA) [Un-Worked Design by Supper v3 (24-02-2017)].txt" size="9014" crc="d4c129a1" sha1="df1212db0a51679ff5dde401a062b776c4b41061"/>
+		<rom name="Vay (USA) [Un-Worked Design by Supper v1 (24-02-2017)].txt" size="9161" crc="8eb7ebe7" sha1="2ff49eba46898e249ecc8cb2f15eefd06048a652"/>
+	</game>
+	<game name="Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe]">
+		<description>Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe]</description>
+		<year>????</year>
+		<rom name="Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe].chd" size="202876174" crc="a503fb70" sha1="309e849b4fedab5da32f642f19244ef89fdbf736"/>
+	</game>
+	<game name="Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan]">
+		<description>Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan]</description>
+		<year>????</year>
+		<rom name="Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan].chd" size="202875121" crc="d02a103c" sha1="717224a657b09644a97b005aa4e43785af722521"/>
+	</game>
+	<game name="Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA]">
+		<description>Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA]</description>
+		<year>????</year>
+		<rom name="Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA].chd" size="202876179" crc="f1189aca" sha1="a43362c70e00e752440e09f86050573e6710315f"/>
+	</game>
+	<game name="Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe]">
+		<description>Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe]</description>
+		<year>????</year>
+		<rom name="Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe].chd" size="244451490" crc="a19e59e5" sha1="e87290eefd746287e76472b1e2be9ff2758321a4"/>
+	</game>
+	<game name="Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan]">
+		<description>Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan]</description>
+		<year>????</year>
+		<rom name="Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan].chd" size="244450437" crc="da5bb108" sha1="2501fc62a4d9f705f6636c9b141c13a39f894875"/>
+	</game>
+	<game name="Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA]">
+		<description>Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA]</description>
+		<year>????</year>
+		<rom name="Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA].chd" size="244451495" crc="c4e36895" sha1="7c50f1b5a2e3c73e05162244619baa32fcff0473"/>
+	</game>
+	<game name="Lunar - Eternal Blue (USA) [Un-Worked Design by Supper v3 (24-02-2017)]">
+		<description>Lunar - Eternal Blue (USA) [Un-Worked Design by Supper v3 (24-02-2017)]</description>
+		<year>????</year>
+		<rom name="Lunar - Eternal Blue (USA) [Un-Worked Design by Supper v3 (24-02-2017)].chd" size="201679776" crc="b951206d" sha1="db2f6ee91849074412cd5188b4d2d2d4aec81580"/>
+	</game>
+	<game name="Lunar - The Silver Star (USA) [Un-Worked Design by Supper v1 (24-02-2017)]">
+		<description>Lunar - The Silver Star (USA) [Un-Worked Design by Supper v1 (24-02-2017)]</description>
+		<year>????</year>
+		<rom name="Lunar - The Silver Star (USA) [Un-Worked Design by Supper v1 (24-02-2017)].chd" size="249124128" crc="5b0dc338" sha1="ddac6d0985c67ea805de5fabb5d35ff359164ffc"/>
+	</game>
+	<game name="Popful Mail (USA) [Un-Worked Design by Supper v3 (24-02-2017)]">
+		<description>Popful Mail (USA) [Un-Worked Design by Supper v3 (24-02-2017)]</description>
+		<year>????</year>
+		<rom name="Popful Mail (USA) [Un-Worked Design by Supper v3 (24-02-2017)].chd" size="209842415" crc="e6c9df61" sha1="b887f9089510383d2b747fb27365e1d897a9f393"/>
+	</game>
+	<game name="Vay (USA) [Un-Worked Design by Supper v1 (24-02-2017)]">
+		<description>Vay (USA) [Un-Worked Design by Supper v1 (24-02-2017)]</description>
+		<year>????</year>
+		<rom name="Vay (USA) [Un-Worked Design by Supper v1 (24-02-2017)].chd" size="231025360" crc="38548aa1" sha1="edf1aea49425471184b1d63d5fcb8648946b7450"/>
+	</game>
+</datafile>

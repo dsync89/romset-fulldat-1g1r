@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Dreamcast (Translated En)</name>
+		<description>Sega - Dreamcast (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>5 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sega - Dreamcast [T-En] Docs">
+		<description>_Sega - Dreamcast [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer HQ v0.95] [i].txt" size="5581" crc="cfd02d9a" sha1="72559f3bfc9f9c1eb47e32fe220b48d00dca92fd"/>
+		<rom name="Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Japan) [T-En by Catasplurge &amp; Vimiani &amp; Gem v1.1] [n].txt" size="7476" crc="24886428" sha1="a56d6d162a3e1ae5432cd80c98114d1468970795"/>
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) [T-En by Rolly &amp; RafaGam &amp; Esperknight B6] [n].pdf" size="457626" crc="0a8e28e1" sha1="08cdc81f0ccf297647d787f9debab5387d9a4a1b"/>
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) [T-En by Rolly &amp; RafaGam &amp; Esperknight B6] [n].txt" size="4949" crc="fa8e0fc2" sha1="30c917a943ba27be2ff6de7dfafd071200768912"/>
+		<rom name="Chaos Field (Japan) [T-En by Derek Pascarella v1.0].txt" size="3301" crc="d71651a6" sha1="68963907a4dcd81a5762db0995213f2ce19ba049"/>
+		<rom name="Dance Dance Revolution - Club Version - Dreamcast Edition (Japan) [T-En by Topping Translations v1.0] [i].txt" size="1221" crc="cd7fa2c3" sha1="7306250b8b5f73401d55a5d923a88b9bd4c57dc0"/>
+		<rom name="Fire Pro Wrestling D (Japan) [T-En by Irvgotti452].txt" size="3700" crc="080c8963" sha1="a59110c6ae0df17bbc9bca01049239dc14f19464"/>
+		<rom name="Fish Life in Amazon (Japan) [T-En by Rolly v20190713].txt" size="1615" crc="9e43910e" sha1="aa314c2b24a06a80e92c93b503d222913f265c4b"/>
+		<rom name="Frame Gride (Japan) [T-En by DCHQ Final] [GDI credits].txt" size="3094" crc="fe03c788" sha1="b3934c6f5693efb4ca0ad2ae710b4b82c5c870ff"/>
+		<rom name="Frame Gride (Japan) [T-En by DCHQ Final].nfo" size="3774" crc="775893af" sha1="ed24894f059b5860ec7b16f6391ba61552a17860"/>
+		<rom name="Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan) [T-En by SharkSnack v0.16] [i].txt" size="1319" crc="bbd36add" sha1="0281a17a610695da95b8b279b827af14602e7634"/>
+		<rom name="Karous (Japan) [T-En by Rolly &amp; RafaGam v1.0] [GDI credits].txt" size="3304" crc="871ebdac" sha1="3d1ba5c9440a4df3eb12227f7f4a43c7083fd635"/>
+		<rom name="Karous (Japan) [T-En by Rolly &amp; RafaGam v1.0].txt" size="3392" crc="4ef2c621" sha1="1bb371b8b0c7423eda5af40be1e15e3f8df0b3f2"/>
+		<rom name="L.O.L. - Lack of Love (Japan) [T-En by Rolly &amp; RafaGam v1.1] [GDI credits].txt" size="3562" crc="d40c8f82" sha1="bbf4f0903b2b7cdfaa06bcfa1a3f9b438764af0a"/>
+		<rom name="L.O.L. - Lack of Love (Japan) [T-En by Rolly &amp; RafaGam v1.1].txt" size="4421" crc="d1148baa" sha1="c5cd6ff657fefb89db772a2c15dbe8ae3f19e33f"/>
+		<rom name="Lost Golem, The (Japan) [T-En by Rolly &amp; RafaGam &amp; Cargodin v1.0] [n].txt" size="4600" crc="0d3af192" sha1="0f3e483ddfe2e8d1acbcafbefa0ba5b90fde890d"/>
+		<rom name="Napple Tale - Arsia in Daydream (Japan) [T-En by Cargodin v1.0] [GDI credits].txt" size="2411" crc="a6e5a88f" sha1="ca1a94f211a9a0ad7032dd60ad6c40fba7e73e56"/>
+		<rom name="Napple Tale - Arsia in Daydream (Japan) [T-En by Cargodin v1.0].txt" size="10460" crc="071eda13" sha1="0c404e324487d50097c455a9ca26a845be1da25d"/>
+		<rom name="Neon Genesis Evangelion - Typing Project Advanced (Japan) [T-En by Derek Pascarella v1.0] [n].txt" size="4407" crc="9fcd05a8" sha1="acd227db6b02f9a31f0f0d267ff7c64732a56e60"/>
+		<rom name="Neon Genesis Evangelion - Typing Project E (Japan) [T-En by Derek Pascarella v2.0] [n].txt" size="14422" crc="30a933e2" sha1="fd872dedec1d14105493ee8e99ee0eb749576862"/>
+		<rom name="Puyo Puyo 4 (Japan) [T-En by Precise Museum v1.0] [n].txt" size="2511" crc="41d9972f" sha1="b028fc0091ac6da5a39278999357b9315bdb7499"/>
+		<rom name="Radirgy (Japan) [T-En by Wiredcrackpot v1.0].txt" size="4745" crc="d9762abd" sha1="faa8358d736d44460575b243cef5aff82192c569"/>
+		<rom name="Rent a Hero No.1 (Japan) [T-En by Rent-A-Modders Team v1.0].txt" size="7352" crc="079df58f" sha1="6bd82761a098cfc87f36f32d7d5ae1b0e879363b"/>
+		<rom name="Run=Dim as Black Soul (Japan) [T-En by EsperKnight &amp; RafaMGam &amp; Rolly v1.0].txt" size="4489" crc="bbeb549c" sha1="cd99b061b0f842f35de54d5253ac69833e8ffca8"/>
+		<rom name="Sakura Wars - Columns 2 (Japan) [T-En by Derek Pascarella v1.2] [n].txt" size="26930" crc="4a2fc30e" sha1="048a1f7ddc74de8aded328786f6d342fa4b458f2"/>
+		<rom name="Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.3] [n] [GDI credits].txt" size="3490" crc="a7b4ddb2" sha1="6ef28180590b15aac7e576c3d701c63d04e3267f"/>
+		<rom name="Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.3] [n].txt" size="2408" crc="33630fa3" sha1="b7c94ec14f346c5da7837959780957a95b72cf5b"/>
+		<rom name="Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.4] [Forced VGA] [n].txt" size="2898" crc="688dbcb0" sha1="9ed52526ba9a8649d2b4cdf01e5ce863a5e12faf"/>
+		<rom name="Space Channel 5 Part 2 (Japan) [T-En by BrAzE v20110418] [GDI credits].txt" size="2241" crc="90eca6ab" sha1="37c727b5b9d3e2af8eca173259dcef01c3c62bff"/>
+		<rom name="Space Channel 5 Part 2 (Japan) [T-En by BrAzE v20110418].txt" size="1384" crc="ba2716ad" sha1="cb032f8214fe3ef173b7e0f95fcfa79b58cd2040"/>
+		<rom name="Taxi 2 - The Game (France) [T-En by Derek Pascarella v1.0] [n].txt" size="3979" crc="91c46893" sha1="982925bc4c404f9b60272103c442f10009427d04"/>
+		<rom name="What's Shenmue (Japan) [T-En by Shenmue Dojo v1.0.4].txt" size="7341" crc="86be978c" sha1="7bb42f06f967a801cf460f18e7a50338672edefc"/>
+		<rom name="Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight &amp; Mr. Nobody &amp; SnowyAria v1.0] [i].txt" size="3165" crc="8fbe8c63" sha1="1646bb43926e8a87b86515edbbda75f466851f88"/>
+	</game>
+	<game name="Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer HQ v0.95] [i]">
+		<description>Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer HQ v0.95] [i]</description>
+		<year>????</year>
+		<rom name="Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer HQ v0.95] [i].chd" size="482847667" crc="351391c0" sha1="d809d4b10c1d6119441f951aac4b8cd283768e20"/>
+	</game>
+	<game name="Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Japan) [T-En by Catasplurge &amp; Vimiani &amp; Gem v1.1] [n]">
+		<description>Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Japan) [T-En by Catasplurge &amp; Vimiani &amp; Gem v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Japan) [T-En by Catasplurge &amp; Vimiani &amp; Gem v1.1] [n].chd" size="708797349" crc="3431af63" sha1="d57f4a7d5c529ce13e4c18c878f4cd39ce29fce6"/>
+	</game>
+	<game name="Blue Submarine No. 6 - Time and Tide (Japan) [T-En by Rolly and RafaGam and Esperknight B6] [n]">
+		<description>Blue Submarine No. 6 - Time and Tide (Japan) [T-En by Rolly and RafaGam and Esperknight B6] [n]</description>
+		<year>????</year>
+		<rom name="Blue Submarine No. 6 - Time and Tide (Japan) [T-En by Rolly &amp; RafaGam &amp; Esperknight B6] [n].chd" size="410504197" crc="99597c9f" sha1="64f55e1d3f6f21ae1e6460441fd03b6dcf5df1e6"/>
+	</game>
+	<game name="Boko Dream Master (Japan) [T-En by AnimatedAF v1] [i] [n]">
+		<description>Boko Dream Master (Japan) [T-En by AnimatedAF v1] [i] [n]</description>
+		<year>????</year>
+		<rom name="Boko Dream Master (Japan) [T-En by AnimatedAF v1] [i] [n].chd" size="842422760" crc="924be4ba" sha1="3856af6b62fd2defce0486f78fe9024888a01732"/>
+	</game>
+	<game name="Chaos Field (Japan) [T-En by Derek Pascarella v1.0]">
+		<description>Chaos Field (Japan) [T-En by Derek Pascarella v1.0]</description>
+		<year>????</year>
+		<rom name="Chaos Field (Japan) [T-En by Derek Pascarella v1.0].chd" size="102421965" crc="881f0f68" sha1="1b7860dddab30cd8707fcc304445ed54b8c9b045"/>
+	</game>
+	<game name="Cool Cool Toon (Japan) [T-En by Derek Pascarella v1.1]">
+		<description>Cool Cool Toon (Japan) [T-En by Derek Pascarella v1.1]</description>
+		<year>????</year>
+		<rom name="Cool Cool Toon (Japan) [T-En by Derek Pascarella v1.1].chd" size="524517836" crc="c60f311c" sha1="7f169ca3d110f01f34c1e304c7001444ac7ae8e2"/>
+	</game>
+	<game name="Dance Dance Revolution - Club Version - Dreamcast Edition (Japan) [T-En by Topping Translations v1.0] [i]">
+		<description>Dance Dance Revolution - Club Version - Dreamcast Edition (Japan) [T-En by Topping Translations v1.0] [i]</description>
+		<year>????</year>
+		<rom name="Dance Dance Revolution - Club Version - Dreamcast Edition (Japan) [T-En by Topping Translations v1.0] [i].chd" size="860483273" crc="79bcf285" sha1="072e27fb1b70e643c06a1f3c0bd8e45a4d1c5216"/>
+	</game>
+	<game name="Fire Pro Wrestling D (Japan) [T-En by Irvgotti452]">
+		<description>Fire Pro Wrestling D (Japan) [T-En by Irvgotti452]</description>
+		<year>????</year>
+		<rom name="Fire Pro Wrestling D (Japan) [T-En by Irvgotti452].chd" size="687914902" crc="87baf22b" sha1="7d8381f682d1c2866aed4f71386618022dbf3bc3"/>
+	</game>
+	<game name="Fish Life in Amazon (Japan) [T-En by Rolly v20190713]">
+		<description>Fish Life in Amazon (Japan) [T-En by Rolly v20190713]</description>
+		<year>????</year>
+		<rom name="Fish Life in Amazon (Japan) [T-En by Rolly v20190713].chd" size="15936089" crc="48d2a986" sha1="263236d7ebc1eaa3bc162de71d790029df501c33"/>
+	</game>
+	<game name="Frame Gride (Japan) [T-En by DCHQ Final]">
+		<description>Frame Gride (Japan) [T-En by DCHQ Final]</description>
+		<year>????</year>
+		<rom name="Frame Gride (Japan) [T-En by DCHQ Final].chd" size="302974314" crc="39d9dc12" sha1="767dc6c88802f3740fba0b99cc7097a9befcdfa1"/>
+	</game>
+	<game name="Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan) [T-En by SharkSnack v0.16] [i]">
+		<description>Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan) [T-En by SharkSnack v0.16] [i]</description>
+		<year>????</year>
+		<rom name="Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan) [T-En by SharkSnack v0.16] [i].chd" size="414991841" crc="17a7ab88" sha1="cf74b27fce20be5e1a8a43c7d36ac42a093db866"/>
+	</game>
+	<game name="Karous (Japan) [T-En by Rolly and RafaGam v1.0]">
+		<description>Karous (Japan) [T-En by Rolly and RafaGam v1.0]</description>
+		<year>????</year>
+		<rom name="Karous (Japan) [T-En by Rolly &amp; RafaGam v1.0].chd" size="94194624" crc="ab127078" sha1="ac3976c586e31f56e72d84af8ff441991df19bab"/>
+	</game>
+	<game name="L.O.L. - Lack of Love (Japan) [T-En by Rolly and RafaGam v1.1]">
+		<description>L.O.L. - Lack of Love (Japan) [T-En by Rolly and RafaGam v1.1]</description>
+		<year>????</year>
+		<rom name="L.O.L. - Lack of Love (Japan) [T-En by Rolly &amp; RafaGam v1.1].chd" size="472533969" crc="0a79f00a" sha1="35f648750e942712da47e5470c4211c904a243f7"/>
+	</game>
+	<game name="Lost Golem, The (Japan) [T-En by Rolly and RafaGam and Cargodin v1.0] [n]">
+		<description>Lost Golem, The (Japan) [T-En by Rolly and RafaGam and Cargodin v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Lost Golem, The (Japan) [T-En by Rolly &amp; RafaGam &amp; Cargodin v1.0] [n].chd" size="193174338" crc="07db950f" sha1="2b2df953565eeffce42c1aaabc9d5de68eb54096"/>
+	</game>
+	<game name="Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.0] [Bonus Disc] [n]">
+		<description>Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.0] [Bonus Disc] [n]</description>
+		<year>????</year>
+		<rom name="Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.0] [Bonus Disc] [n].chd" size="491355518" crc="18493ad5" sha1="96acf6c3aaa3ad4c51ad27466d774ea56c2195b5"/>
+	</game>
+	<game name="Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.2] [n]">
+		<description>Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.2] [n]</description>
+		<year>????</year>
+		<rom name="Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.2] [n].chd" size="316064402" crc="bfa7279c" sha1="c7065544b022b9326514d1882b6b407d8d5ab0ef"/>
+	</game>
+	<game name="Napple Tale - Arsia in Daydream (Japan) [T-En by Cargodin v1.0]">
+		<description>Napple Tale - Arsia in Daydream (Japan) [T-En by Cargodin v1.0]</description>
+		<year>????</year>
+		<rom name="Napple Tale - Arsia in Daydream (Japan) [T-En by Cargodin v1.0].chd" size="594054691" crc="9319cdbd" sha1="ad4e9dccc0be699b906c0b4f75f5fd8fae7aaeac"/>
+	</game>
+	<game name="Neon Genesis Evangelion - Typing Project Advanced (Japan) [T-En by Derek Pascarella v1.0] [n]">
+		<description>Neon Genesis Evangelion - Typing Project Advanced (Japan) [T-En by Derek Pascarella v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Neon Genesis Evangelion - Typing Project Advanced (Japan) [T-En by Derek Pascarella v1.0] [n].chd" size="31539246" crc="64aa9480" sha1="caf9941170625a1ded45fb00921e09b0bdf9192f"/>
+	</game>
+	<game name="Neon Genesis Evangelion - Typing Project E (Japan) [T-En by Derek Pascarella v2.0] [n]">
+		<description>Neon Genesis Evangelion - Typing Project E (Japan) [T-En by Derek Pascarella v2.0] [n]</description>
+		<year>????</year>
+		<rom name="Neon Genesis Evangelion - Typing Project E (Japan) [T-En by Derek Pascarella v2.0] [n].chd" size="27923051" crc="80c9f229" sha1="004571dcd4a567a37cdc4b95ff9d059689192eb4"/>
+	</game>
+	<game name="Panzer Front (Japan) [T-En by DerPlayer and PhilYeahz v1.0]">
+		<description>Panzer Front (Japan) [T-En by DerPlayer and PhilYeahz v1.0]</description>
+		<year>????</year>
+		<rom name="Panzer Front (Japan) [T-En by DerPlayer &amp; PhilYeahz v1.0].chd" size="143201318" crc="05257d3f" sha1="1e75878af34822f8571608ebb4880729fe536aa7"/>
+	</game>
+	<game name="Puyo Pop Fever (Japan) [T-En by Derek Pascarella v1.0] [n]">
+		<description>Puyo Pop Fever (Japan) [T-En by Derek Pascarella v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Puyo Pop Fever (Japan) [T-En by Derek Pascarella v1.0] [n].chd" size="160300868" crc="b2d50de2" sha1="616dae45bce3bf73218b83fd7331ca892df04027"/>
+	</game>
+	<game name="Puyo Puyo 4 (Japan) [T-En by Precise Museum v1.0] [n]">
+		<description>Puyo Puyo 4 (Japan) [T-En by Precise Museum v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Puyo Puyo 4 (Japan) [T-En by Precise Museum v1.0] [n].chd" size="570241364" crc="4bafa679" sha1="3b264ae28754651324a09210417ba96939ce5b76"/>
+	</game>
+	<game name="Radirgy (Japan) [T-En by Wiredcrackpot v1.0]">
+		<description>Radirgy (Japan) [T-En by Wiredcrackpot v1.0]</description>
+		<year>????</year>
+		<rom name="Radirgy (Japan) [T-En by Wiredcrackpot v1.0].chd" size="92001160" crc="7ef52cec" sha1="7e6e4f0b31cdbc9fc13f7d6af5c67d96d90a4a68"/>
+	</game>
+	<game name="Rainbow Cotton (Japan) [T-En by Derek Pascarella v1.0]">
+		<description>Rainbow Cotton (Japan) [T-En by Derek Pascarella v1.0]</description>
+		<year>????</year>
+		<rom name="Rainbow Cotton (Japan) [T-En by Derek Pascarella v1.0].chd" size="765591929" crc="e85ed4d2" sha1="1bab7113d89a444d9ee3d1ac72fc68bebef1db26"/>
+	</game>
+	<game name="Rent a Hero No.1 (Japan) [T-En by Rent-A-Modders Team v1.0]">
+		<description>Rent a Hero No.1 (Japan) [T-En by Rent-A-Modders Team v1.0]</description>
+		<year>????</year>
+		<rom name="Rent a Hero No.1 (Japan) [T-En by Rent-A-Modders Team v1.0].chd" size="173468044" crc="9d22cba9" sha1="7aa07a24d8913ca07b70c8091ab85a5933ce6e9c"/>
+	</game>
+	<game name="Resident Evil - Code Veronica X (Japan) [T-En by Truemaster1] [n]">
+		<description>Resident Evil - Code Veronica X (Japan) [T-En by Truemaster1] [n]</description>
+		<year>????</year>
+		<rom name="Resident Evil - Code Veronica X (Japan) (Disc 1) [T-En by Truemaster1] [n].chd" size="576815291" crc="de279186" sha1="b4ff798b8320ae94c92205ee273b885297015a30"/>
+		<rom name="Resident Evil - Code Veronica X (Japan) (Disc 2) [T-En by Truemaster1] [n].chd" size="746453359" crc="7d1cb416" sha1="742e279ca501746b6a4d0e0025f508315d350eed"/>
+	</game>
+	<game name="Resident Evil - Code Veronica X (Japan) [T-En by Truemaster1] [n] [Clone GDEMU bug fix by YZB]">
+		<description>Resident Evil - Code Veronica X (Japan) [T-En by Truemaster1] [n] [Clone GDEMU bug fix by YZB]</description>
+		<year>????</year>
+		<rom name="Resident Evil - Code Veronica X (Japan) (Disc 1) [T-En by Truemaster1] [n] [Clone GDEMU bug fix by YZB].chd" size="576853333" crc="d03a2d1b" sha1="a4d672bf880a4974c5e9f9c314eaa44cbf22bc49"/>
+		<rom name="Resident Evil - Code Veronica X (Japan) (Disc 2) [T-En by Truemaster1] [n] [Clone GDEMU bug fix by YZB].chd" size="746498269" crc="170633fe" sha1="bc1549525888f6cc425f03a0a6daeade8a140b2b"/>
+	</game>
+	<game name="Run=Dim as Black Soul (Japan) [T-En by EsperKnight &amp; RafaMGam &amp; Rolly v1.0]">
+		<description>Run=Dim as Black Soul (Japan) [T-En by EsperKnight &amp; RafaMGam &amp; Rolly v1.0]</description>
+		<year>????</year>
+		<rom name="Run=Dim as Black Soul (Japan) [T-En by EsperKnight &amp; RafaMGam &amp; Rolly v1.0].chd" size="271878777" crc="b761316b" sha1="02324cbd6dda43f696eec6807bdc929f06aca2c6"/>
+	</game>
+	<game name="Sakura Wars - Columns 2 (Japan) [T-En by Derek Pascarella v1.2] [n]">
+		<description>Sakura Wars - Columns 2 (Japan) [T-En by Derek Pascarella v1.2] [n]</description>
+		<year>????</year>
+		<rom name="Sakura Wars - Columns 2 (Japan) [T-En by Derek Pascarella v1.2] [n].chd" size="444703558" crc="64e2146e" sha1="55dc411535574f68dcb87269afcf7e613cb432f8"/>
+	</game>
+	<game name="Samba de Amigo Ver. 2000 (Japan) [T-En by Dukeblooders v0.9.1]">
+		<description>Samba de Amigo Ver. 2000 (Japan) [T-En by Dukeblooders v0.9.1]</description>
+		<year>????</year>
+		<rom name="Samba de Amigo Ver. 2000 (Japan) [T-En by Dukeblooders v0.9.1].chd" size="970704374" crc="03ef9af3" sha1="c35833d3256298ad19d7e78637d7c50333310d56"/>
+	</game>
+	<game name="Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.3] [n]">
+		<description>Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.3] [n]</description>
+		<year>????</year>
+		<rom name="Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.3] [n].chd" size="810777086" crc="f0ecaed6" sha1="64feb1ac3bf7c5c8f31ec1bf8af2e7152410fd0e"/>
+	</game>
+	<game name="Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.4] [Forced VGA] [n]">
+		<description>Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.4] [Forced VGA] [n]</description>
+		<year>????</year>
+		<rom name="Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria &amp; MrNobody v1.4] [Forced VGA] [n].chd" size="811148022" crc="3124a8a4" sha1="329d268e9b8ee7e6823ed60f58bd75584fc70c23"/>
+	</game>
+	<game name="Shenmue (Europe) [Undub Definitive Edition by Shenmue Master and Phantom River Stone]">
+		<description>Shenmue (Europe) [Undub Definitive Edition by Shenmue Master and Phantom River Stone]</description>
+		<year>????</year>
+		<rom name="Shenmue (Europe) (Disc 1) [Undub Definitive Edition by Shenmue Master &amp; Phantom River Stone].chd" size="437312787" crc="9f3e2d7d" sha1="0324c889a4c1766e932a43a6e175bb47dd67276e"/>
+		<rom name="Shenmue (Europe) (Disc 2) [Undub Definitive Edition by Shenmue Master &amp; Phantom River Stone].chd" size="442505868" crc="5ae7d709" sha1="f6ac2e841fc3b2fe3e9f92e2fcfbf0ae8cb5dbb8"/>
+		<rom name="Shenmue (Europe) (Disc 3) [Undub Definitive Edition by Shenmue Master &amp; Phantom River Stone].chd" size="442037433" crc="d1c91d72" sha1="835dcd656b79e34b9e3268bc6a188cca4d5c2723"/>
+	</game>
+	<game name="Shenmue II (Europe) [Xbox dub by Fafadou]">
+		<description>Shenmue II (Europe) [Xbox dub by Fafadou]</description>
+		<year>????</year>
+		<rom name="Shenmue II (Europe) (Disc 1) [Xbox dub by Fafadou].chd" size="617527985" crc="1a13aead" sha1="00479f82343a1004e347d03fb00fb838c51474e6"/>
+		<rom name="Shenmue II (Europe) (Disc 2) [Xbox dub by Fafadou].chd" size="671764639" crc="2e5d3e2e" sha1="890adeaa3d5fe3cfeb3ad5e2082d4f246a96b8c6"/>
+		<rom name="Shenmue II (Europe) (Disc 3) [Xbox dub by Fafadou].chd" size="640102905" crc="38f80383" sha1="f6e51c14b05eed22c2419af5857e8386ef7428c9"/>
+		<rom name="Shenmue II (Europe) (Disc 4) [Xbox dub by Fafadou].chd" size="704452962" crc="448c945f" sha1="bc7c87a45cb7c598a04fcbd375344e20ebf38aac"/>
+	</game>
+	<game name="Shutokou Battle 2 (Japan) [T-En by SGGG v20221128] [i]">
+		<description>Shutokou Battle 2 (Japan) [T-En by SGGG v20221128] [i]</description>
+		<year>????</year>
+		<rom name="Shutokou Battle 2 (Japan) [T-En by SGGG v20221128] [i].chd" size="383026620" crc="e0fa5590" sha1="49345c09be70193ad05915d2910dde8a8af9400d"/>
+	</game>
+	<game name="Space Channel 5 Part 2 (Japan) [T-En by BrAzE v20110418]">
+		<description>Space Channel 5 Part 2 (Japan) [T-En by BrAzE v20110418]</description>
+		<year>????</year>
+		<rom name="Space Channel 5 Part 2 (Japan) [T-En by BrAzE v20110418].chd" size="515281882" crc="02486ea3" sha1="9e8604fde05f13c5c558b92e190b77f9202b5c71"/>
+	</game>
+	<game name="Super Puzzle Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Add by Derek Pascarella v1.1]">
+		<description>Super Puzzle Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Add by Derek Pascarella v1.1]</description>
+		<year>????</year>
+		<rom name="Super Puzzle Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Add by Derek Pascarella v1.1].chd" size="114569712" crc="38065fe4" sha1="52b2a997c12cfc77c55f9465912b7a6a9d009881"/>
+	</game>
+	<game name="Super Puzzle Fighter II X for Matching Service (Japan) [T-En by Unknown Hero] [i]">
+		<description>Super Puzzle Fighter II X for Matching Service (Japan) [T-En by Unknown Hero] [i]</description>
+		<year>????</year>
+		<rom name="Super Puzzle Fighter II X for Matching Service (Japan) [T-En by Unknown Hero] [i].chd" size="114522274" crc="3700d7a0" sha1="d1646cc1c42bdaacf08c69c701675a0243424b8a"/>
+	</game>
+	<game name="Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky]">
+		<description>Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky]</description>
+		<year>????</year>
+		<rom name="Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky].chd" size="130858406" crc="204aa8ef" sha1="f6ed9d74f5a1266fdc2517edda623a1c2b212a2a"/>
+	</game>
+	<game name="Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Remixed]">
+		<description>Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Remixed]</description>
+		<year>????</year>
+		<rom name="Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Remixed].chd" size="294781352" crc="d752eaba" sha1="aeaa38bf4d09a66ad7909b0aa356859baa864531"/>
+	</game>
+	<game name="Taxi 2 - The Game (France) [T-En by Derek Pascarella v1.0] [n]">
+		<description>Taxi 2 - The Game (France) [T-En by Derek Pascarella v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Taxi 2 - The Game (France) [T-En by Derek Pascarella v1.0] [n].chd" size="377630035" crc="263b564b" sha1="8181b6e20b3846554c14362ecbbe028350bb4ab6"/>
+	</game>
+	<game name="Trizeal (Japan) [T-En by Derek Pascarella v1.0]">
+		<description>Trizeal (Japan) [T-En by Derek Pascarella v1.0]</description>
+		<year>????</year>
+		<rom name="Trizeal (Japan) [T-En by Derek Pascarella v1.0].chd" size="84152862" crc="bbacad01" sha1="3f2924a578afc8625708cb35c96d8b0ba8d7d435"/>
+	</game>
+	<game name="Under Defeat (Japan) [T-En by TapamN v1.0]">
+		<description>Under Defeat (Japan) [T-En by TapamN v1.0]</description>
+		<year>????</year>
+		<rom name="Under Defeat (Japan) [T-En by TapamN v1.0].chd" size="210176212" crc="0929e1b5" sha1="911c6acf3e05fe5f941c5eb2143baac963371142"/>
+	</game>
+	<game name="What's Shenmue (Japan) [T-En by Shenmue Dojo v1.0.4]">
+		<description>What's Shenmue (Japan) [T-En by Shenmue Dojo v1.0.4]</description>
+		<year>????</year>
+		<rom name="What's Shenmue (Japan) [T-En by Shenmue Dojo v1.0.4].chd" size="203997490" crc="d9ee81b5" sha1="4e6587a50c9d4e52819c3ca4cdf694b140b9a8f0"/>
+	</game>
+	<game name="Yu Suzuki Game Works Vol. 1 (Japan) [T-En by Shenmue Dojo v20201208]">
+		<description>Yu Suzuki Game Works Vol. 1 (Japan) [T-En by Shenmue Dojo v20201208]</description>
+		<year>????</year>
+		<rom name="Yu Suzuki Game Works Vol. 1 (Japan) [T-En by Shenmue Dojo v20201208].chd" size="180959486" crc="2709bd49" sha1="c6e8911c9218b8e8a092b8cb417959d95802c63c"/>
+	</game>
+	<game name="Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight &amp; Mr. Nobody &amp; SnowyAria v1.0] [i]">
+		<description>Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight &amp; Mr. Nobody &amp; SnowyAria v1.0] [i]</description>
+		<year>????</year>
+		<rom name="Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight &amp; Mr. Nobody &amp; SnowyAria v1.0] [i].chd" size="8378529" crc="69981966" sha1="5bdebe5bdf61d9cbe8585f37d926fd60e391414c"/>
+	</game>
+	<game name="Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight &amp; Mr. Nobody &amp; SnowyAria v1.0] [i] [Max VMU Score]">
+		<description>Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight &amp; Mr. Nobody &amp; SnowyAria v1.0] [i] [Max VMU Score]</description>
+		<year>????</year>
+		<rom name="Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight &amp; Mr. Nobody &amp; SnowyAria v1.0] [i] [Max VMU Score].chd" size="8378555" crc="e4576202" sha1="b1fc1c5d10502fc6bedcae2d6a56cb3268372386"/>
+	</game>
+</datafile>

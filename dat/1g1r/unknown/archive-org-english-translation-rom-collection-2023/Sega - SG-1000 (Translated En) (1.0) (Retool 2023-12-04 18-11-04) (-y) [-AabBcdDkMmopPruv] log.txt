@@ -1,0 +1,31 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Black Onyx, The (Japan) [T-En by SSTranslations v1.0] [Enhanced]
+  - Black Onyx, The (Japan) [T-En by SSTranslations v1.0]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Chack'n Pop (Japan) [T-En by Goldenband v1.02]
++ Ninja Princess (Japan) [T-En by Goldenband v1.0]
++ Soukoban (Japan) [T-En by Maurice Kaltofen v1.0]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sega SG-1000 [T-En] Docs

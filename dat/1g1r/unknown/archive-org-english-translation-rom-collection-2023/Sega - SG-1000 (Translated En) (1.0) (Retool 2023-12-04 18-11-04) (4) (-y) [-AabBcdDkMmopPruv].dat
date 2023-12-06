@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega - SG-1000 (Translated En) (Retool)</name>
+		<description>Sega - SG-1000 (Translated En) (4) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 18-11-04</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Black Onyx, The (Japan) [T-En by SSTranslations v1.0] [Enhanced]">
+		<category>Games</category>
+		<description>Black Onyx, The (Japan) [T-En by SSTranslations v1.0] [Enhanced]</description>
+		<rom name="Black Onyx, The (Japan) [T-En by SSTranslations v1.0] [Enhanced].sg" size="65535" crc="3003d9bd" sha1="5c46089a417add0f00a3cebf01dc59f53465d47b"/>
+	</game>
+	<game name="Chack'n Pop (Japan) [T-En by Goldenband v1.02]">
+		<category>Games</category>
+		<description>Chack'n Pop (Japan) [T-En by Goldenband v1.02]</description>
+		<rom name="Chack'n Pop (Japan) [T-En by Goldenband v1.02].sg" size="32768" crc="c106c923" sha1="c81b116de04468cd605078c78dbd17124556c8a5"/>
+	</game>
+	<game name="Ninja Princess (Japan) [T-En by Goldenband v1.0]">
+		<category>Games</category>
+		<description>Ninja Princess (Japan) [T-En by Goldenband v1.0]</description>
+		<rom name="Ninja Princess (Japan) [T-En by Goldenband v1.0].sg" size="32768" crc="bdb6cf0e" sha1="0473f6ca89948f08f504c634e00cf2cf72f94fc6"/>
+	</game>
+	<game name="Soukoban (Japan) [T-En by Maurice Kaltofen v1.0]">
+		<category>Games</category>
+		<description>Soukoban (Japan) [T-En by Maurice Kaltofen v1.0]</description>
+		<rom name="Soukoban (Japan) [T-En by Maurice Kaltofen v1.0].sg" size="32768" crc="467acb8f" sha1="a9dfd3d4deb4aac3775cd6bfae35f5f993b7c08a"/>
+	</game>
+</datafile>

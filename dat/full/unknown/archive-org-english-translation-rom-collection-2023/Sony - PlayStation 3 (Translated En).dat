@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sony - PlayStation 3 (Translated En)</name>
+		<description>Sony - PlayStation 3 (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>7 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="_Sony PlayStation 3 [T-En] Docs">
+		<description>_Sony PlayStation 3 [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Initial D - Extreme Stage (Japan) [T-En by Froid_san v1.0] [i].txt" size="1350" crc="b709a2af" sha1="a538d11c18dc1e76292fce1a17f21cfc8bd99a56"/>
+		<rom name="Sengoku Basara 4 (Japan, Asia) [T-En by Sengoku Basara Team v0.85].pdf" size="565549" crc="fdeccd0a" sha1="2252fff64e934fb36baff8cf6aa1ea8390361dff"/>
+		<rom name="Sengoku Basara 4 (Japan, Asia) [T-En by Sengoku Basara Team v0.85].txt" size="4082" crc="bb561f51" sha1="9cd8a844aa79f71774ae670e0307d11942cdb06a"/>
+		<rom name="Star Ocean - Integrity and Faithlessness (Japan) [T-En by RikuKH3 &amp; Haxxxen v18-09-2020].txt" size="1121" crc="040c6a23" sha1="42b2967c2c553742dec35363f55dd02a178d5dfe"/>
+		<rom name="Tales of Berseria (Japan) [T-En by Temple of Tale translations v1.2].txt" size="4008" crc="3fe8093b" sha1="9ae3421897e0ea40f416e7da2135e81b90acd1ee"/>
+		<rom name="Tales of Vesperia (Japan) [T-En by Pikachu025 v1.0].txt" size="6929" crc="3cc4e78d" sha1="40aaef7185c717c6cfd734264e5c69daaaf55ae5"/>
+	</machine>
+	<machine name="Atelier Ayesha - The Alchemist of Dusk (USA) [Undub by Hien v1.01]">
+		<description>Atelier Ayesha - The Alchemist of Dusk (USA) [Undub by Hien v1.01]</description>
+		<year>????</year>
+		<rom name="BLUS-31152.iso" size="16459929600" crc="cb3cb239" sha1="393c513050dd6125fc1bd2cead0886f73078c433"/>
+	</machine>
+	<machine name="Catherine (USA) [Undub by NKS subs]">
+		<description>Catherine (USA) [Undub by NKS subs]</description>
+		<year>????</year>
+		<rom name="BLUS-30428.iso" size="10602616832" crc="e0eb23ee" sha1="46f9e42d266124a90ce873e9bfe7528031d2b688"/>
+	</machine>
+	<machine name="Dengeki Bunko - Fighting Climax Ignition (Japan) [T-En by Tsukimori v1.03]">
+		<description>Dengeki Bunko - Fighting Climax Ignition (Japan) [T-En by Tsukimori v1.03]</description>
+		<year>????</year>
+		<rom name="BLJM-61322 (install this pkg).pkg" size="174834240" crc="efaf3619" sha1="e49dc73fe5edd04ed063a09de3a6e593015a7c44"/>
+		<rom name="BLJM-61322.iso" size="1496926208" crc="41726e0f" sha1="786b740155f5e86f58e4a9a2b9c360eb546d0705"/>
+	</machine>
+	<machine name="Dynasty Warriors - Strikeforce (Europe) (En,Fr,De) [Undub by Swosho v1.0]">
+		<description>Dynasty Warriors - Strikeforce (Europe) (En,Fr,De) [Undub by Swosho v1.0]</description>
+		<year>????</year>
+		<rom name="BLES-00825.iso" size="9158803456" crc="253e699b" sha1="ad6a485389494e2e969babd0d70f24a373993535"/>
+	</machine>
+	<machine name="Dynasty Warriors - Strikeforce (USA) (En,Fr) [Undub by Swosho v1.0]">
+		<description>Dynasty Warriors - Strikeforce (USA) (En,Fr) [Undub by Swosho v1.0]</description>
+		<year>????</year>
+		<rom name="BLUS-30471.iso" size="9158803456" crc="7bf89ebc" sha1="42497fef75a0e093f909bdbe37f1bd6e5804c99c"/>
+	</machine>
+	<machine name="E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.1]">
+		<description>E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.1]</description>
+		<year>????</year>
+		<rom name="BLJM-60528.iso" size="14743900160" crc="03a1bedc" sha1="7cfbfa1331865d9027d63dbee2681983914dfaa0"/>
+		<rom name="BLJM60528SAVE0\DATA0.DAT" size="21424" crc="b3f02a33" sha1="8e519b9d354c33edd0ed395d99c7bb5f292065ca"/>
+		<rom name="BLJM60528SAVE0\ICON0.PNG" size="26519" crc="f3699c5b" sha1="77c6d9541ea5b3720bbf9d4cf4b41d8d7f34cd7e"/>
+		<rom name="BLJM60528SAVE0\PARAM.PFD" size="32768" crc="35be3f89" sha1="a10b348ceb42688c491da33f64196594f9d61411"/>
+		<rom name="BLJM60528SAVE0\PARAM.SFO" size="2736" crc="43af3760" sha1="05354364644094b5b21dea0230addd86fb068fc8"/>
+		<rom name="BLJM60528SAVE0\PIC1.PNG" size="451924" crc="afaf9538" sha1="0ad64ad2c11ee26046d374a9f2b4c879740c9d7e"/>
+	</machine>
+	<machine name="Initial D - Extreme Stage (Japan) [T-En by Froid_san v1.0] [i]">
+		<description>Initial D - Extreme Stage (Japan) [T-En by Froid_san v1.0] [i]</description>
+		<year>????</year>
+		<rom name="BLJM-60055.iso" size="6492555264" crc="67dc6846" sha1="4196e636a47258fe8b7170169d3305483253b3e6"/>
+	</machine>
+	<machine name="Lost Dimension (USA) [Undub by Canzah]">
+		<description>Lost Dimension (USA) [Undub by Canzah]</description>
+		<year>????</year>
+		<rom name="BLUS-31554.iso" size="1081927680" crc="9615e1ea" sha1="891345ad97d38b433980037ca72ed9bd35a1081e"/>
+	</machine>
+	<machine name="Rune Factory - Oceans (Europe) (En,Fr,De) [Undub by Hien]">
+		<description>Rune Factory - Oceans (Europe) (En,Fr,De) [Undub by Hien]</description>
+		<year>????</year>
+		<rom name="BLES-01550.iso" size="2930989056" crc="69b6c931" sha1="39e0dba505fe67890f360b7f33b3e5e11de5e2ae"/>
+	</machine>
+	<machine name="Sengoku Basara 4 (Japan, Asia) [T-En by Sengoku Basara Team v0.85]">
+		<description>Sengoku Basara 4 (Japan, Asia) [T-En by Sengoku Basara Team v0.85]</description>
+		<year>????</year>
+		<rom name="BLJM-61248 Update v1.02.pkg" size="10712544" crc="d7448693" sha1="6dc68bf5e22d02fc3b5191d3bc7332f585f60fcf"/>
+		<rom name="BLJM-61248.iso" size="18762551296" crc="98521412" sha1="353ad5bd79a32c71bdb7afaff0d05be3c6757049"/>
+		<rom name="DLC\BLJM-61063 BGM DLC Pack 70 Songs.pkg" size="144179360" crc="f54b61cd" sha1="a37b04acdf8b3f0cd701d01e143005cc24be16fd"/>
+		<rom name="DLC\BLJM-61063 Old DLC Costumes v2.pkg" size="63725968" crc="9d2a389d" sha1="a3e220422c5492d34d5dda5d5f99d63ba7fad5ef"/>
+		<rom name="DLC\BLJM-61063 Old DLC Weapons Bundle.pkg" size="3532752" crc="056c74d5" sha1="f1235e306b90684402a08acf6e6720b6b6075cc2"/>
+		<rom name="DLC\BLJM-61248 DLC Fix.pkg" size="3716784" crc="c83cfadd" sha1="da04e09d1a5467fefb74327b9125d81a689a02b4"/>
+		<rom name="DLC\BLJM-61248 DLC Pack v2.pkg" size="440494640" crc="6c0b320c" sha1="a96bd2e7ce38e4633d6861b84039d53eb8a51d88"/>
+	</machine>
+	<machine name="Star Ocean - Integrity and Faithlessness (Japan) [T-En by RikuKH3 &amp; Haxxxen v18-09-2020]">
+		<description>Star Ocean - Integrity and Faithlessness (Japan) [T-En by RikuKH3 &amp; Haxxxen v18-09-2020]</description>
+		<year>????</year>
+		<rom name="BLJM-61325.iso" size="12393758720" crc="05f57bfc" sha1="10dc58e483646bd97aac53888c1e94f46579162b"/>
+	</machine>
+	<machine name="Tales of Berseria (Japan) [T-En by Temple of Tale translations v1.2]">
+		<description>Tales of Berseria (Japan) [T-En by Temple of Tale translations v1.2]</description>
+		<year>????</year>
+		<rom name="BLJS-10330.iso" size="9401364480" crc="ef0adf5b" sha1="1f87611834df3a6c6ca7f037e7c479503450f3b1"/>
+	</machine>
+	<machine name="Tales of Graces f (USA) [Undub by Mamu]">
+		<description>Tales of Graces f (USA) [Undub by Mamu]</description>
+		<year>????</year>
+		<rom name="BLUS-30903.iso" size="7080712192" crc="c900124b" sha1="82adf1a059fa0cbb1f0f30edcd47394c240b3137"/>
+	</machine>
+	<machine name="Tales of Vesperia (Japan) [T-En by Pikachu025 v1.0]">
+		<description>Tales of Vesperia (Japan) [T-En by Pikachu025 v1.0]</description>
+		<year>????</year>
+		<rom name="BLJS-10053.iso" size="8853280768" crc="d2f41c1a" sha1="bebf07e2afd9155a2742425187d0e41fedd925f2"/>
+	</machine>
+	<machine name="Tales of Xillia (Europe) (En,Fr,De,Es,It) [Undub by Somebody Special v1.01]">
+		<description>Tales of Xillia (Europe) (En,Fr,De,Es,It) [Undub by Somebody Special v1.01]</description>
+		<year>????</year>
+		<rom name="BLES-01815.iso" size="6704164864" crc="da61caf8" sha1="8d2e3da73b24282cbec9f133267acb927140b542"/>
+	</machine>
+	<machine name="Tales of Xillia 2 (USA) (En,Fr,Es) [Undub by 2ndFire]">
+		<description>Tales of Xillia 2 (USA) (En,Fr,Es) [Undub by 2ndFire]</description>
+		<year>????</year>
+		<rom name="BLUS-31397.iso" size="5501009920" crc="f7eca144" sha1="f35f46d489b1bcc0030d48c8a6e185addb329709"/>
+	</machine>
+</datafile>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>NEC - PC Engine CD TurboGrafx-CD (Translated En) (Retool)</name>
+		<description>NEC - PC Engine CD TurboGrafx-CD (Translated En) (17) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 23-31-52</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Bazar de Gozarre's Puzzle Game (Japan) [T-En by Dave Shadoff &amp; Diogo Ribeiro &amp; MooZ v1.0] [n]">
+		<category>Games</category>
+		<description>Bazar de Gozarre's Puzzle Game (Japan) [T-En by Dave Shadoff &amp; Diogo Ribeiro &amp; MooZ v1.0] [n]</description>
+		<rom name="Bazar de Gozarre's Puzzle Game (Japan) [T-En by Dave Shadoff &amp; Diogo Ribeiro &amp; MooZ v1.0] [n].chd" size="167576540" crc="eaea9d23" sha1="5eb56f5975287b18725ef3dfa9d4f6a4b34f0ed7"/>
+	</game>
+	<game name="Bishoujo Senshi Sailor Moon (Japan) [T-En by Supper &amp; TheMajinZenki v1.1] [Honorifics]">
+		<category>Games</category>
+		<description>Bishoujo Senshi Sailor Moon (Japan) [T-En by Supper &amp; TheMajinZenki v1.1] [Honorifics]</description>
+		<rom name="Bishoujo Senshi Sailor Moon (Japan) [T-En by Supper &amp; TheMajinZenki v1.1] [Honorifics].chd" size="211943090" crc="aa316e7c" sha1="630c1a3a9bb7a5a5abe279b7ff12fb6e876e6a9e"/>
+	</game>
+	<game name="Castlevania - Rondo of Blood (Japan) [T-En by Burnt Lasagna &amp; Cubanraul v1.01] [n]">
+		<category>Games</category>
+		<description>Castlevania - Rondo of Blood (Japan) [T-En by Burnt Lasagna &amp; Cubanraul v1.01] [n]</description>
+		<rom name="Castlevania - Rondo of Blood (Japan) [T-En by Burnt Lasagna &amp; Cubanraul v1.01] [n].chd" size="299544800" crc="3aa0ff4b" sha1="1e9e55d8b8275d18137c64cbe6e612c2e749730b"/>
+	</game>
+	<game name="Cosmic Fantasy 2 (USA) [Un-Worked Design by Supper v0 (21-03-2017)]">
+		<category>Games</category>
+		<description>Cosmic Fantasy 2 (USA) [Un-Worked Design by Supper v0 (21-03-2017)]</description>
+		<rom name="Cosmic Fantasy 2 (USA) [Un-Worked Design by Supper v0 (21-03-2017)].chd" size="243364555" crc="15204af2" sha1="1ebaf91dfbbc2824223ccfa680dfbf806ec89c4f"/>
+	</game>
+	<game name="Dead of the Brain 1&amp;2 (Japan) [T-En by Dave Shadoff v1.0E] [DOTB1 only]">
+		<category>Games</category>
+		<description>Dead of the Brain 1&amp;2 (Japan) [T-En by Dave Shadoff v1.0E] [DOTB1 only]</description>
+		<rom name="Dead of the Brain 1&amp;2 (Japan) [T-En by Dave Shadoff v1.0E] [DOTB1 only].chd" size="197354842" crc="96ca2902" sha1="e0b77b11c1d37e83a9c67808816e655b322ebec9"/>
+	</game>
+	<game name="Exile (USA) [Un-Worked Design by Supper v0 (28-01-2017)]">
+		<category>Games</category>
+		<description>Exile (USA) [Un-Worked Design by Supper v0 (28-01-2017)]</description>
+		<rom name="Exile (USA) [Un-Worked Design by Supper v0 (28-01-2017)].chd" size="238731583" crc="bf80ae0f" sha1="ed9b58bb912da72a882101e94217f6233c89b546"/>
+	</game>
+	<game name="Exile - Wicked Phenomenon (USA) [Un-Worked Design by Supper v1 (09-02-2017)]">
+		<category>Games</category>
+		<description>Exile - Wicked Phenomenon (USA) [Un-Worked Design by Supper v1 (09-02-2017)]</description>
+		<rom name="Exile - Wicked Phenomenon (USA) [Un-Worked Design by Supper v1 (09-02-2017)].chd" size="285397894" crc="9d605b58" sha1="852198cfc165fa98f59241ed6a28c97386a57ae4"/>
+	</game>
+	<game name="Galaxy Fraulein Yuna (Japan) [T-En by Supper &amp; Mafoo343 v1.2] [n]">
+		<category>Games</category>
+		<description>Galaxy Fraulein Yuna (Japan) [T-En by Supper &amp; Mafoo343 v1.2] [n]</description>
+		<rom name="Galaxy Fraulein Yuna (Japan) [T-En by Supper &amp; Mafoo343 v1.2] [n].chd" size="263524753" crc="e02926c4" sha1="b3ab6de7b33cc4439d113212b5cf33f350ab69ca"/>
+	</game>
+	<game name="Galaxy Fraulein Yuna 2 - The Eternal Princess (Japan) [T-En by Supper &amp; Mafoo343 &amp; TheMajinZenki v1.1] [n]">
+		<category>Games</category>
+		<description>Galaxy Fraulein Yuna 2 - The Eternal Princess (Japan) [T-En by Supper &amp; Mafoo343 &amp; TheMajinZenki v1.1] [n]</description>
+		<rom name="Galaxy Fraulein Yuna 2 - The Eternal Princess (Japan) [T-En by Supper &amp; Mafoo343 &amp; TheMajinZenki v1.1] [n].chd" size="375820688" crc="fd266670" sha1="a0f49c9ae42cb097c71c5970bab59f696e653d78"/>
+	</game>
+	<game name="Might and Magic (Japan) [T-En by TiCoKH v20230918] [Req NuFont BIOS]">
+		<category>Games</category>
+		<description>Might and Magic (Japan) [T-En by TiCoKH v20230918] [Req NuFont BIOS]</description>
+		<rom name="Might and Magic (Japan) [T-En by TiCoKH v20230918] [Req NuFont BIOS].chd" size="109859712" crc="74c6cec7" sha1="e49c7edea4ebffbc6bd6e6608ffdb7a2fbb86830"/>
+	</game>
+	<game name="Motteke Tamago (Japan) [T-En by Dave Shadoff v1.0]">
+		<category>Games</category>
+		<description>Motteke Tamago (Japan) [T-En by Dave Shadoff v1.0]</description>
+		<rom name="Motteke Tamago (Japan) [T-En by Dave Shadoff v1.0].chd" size="248544071" crc="cc13d6f8" sha1="ddc95b0c25fc987faede429d2079dbff099c707c"/>
+	</game>
+	<game name="Private Eye dol (Japan) [T-En by Supper v1.0]">
+		<category>Games</category>
+		<description>Private Eye dol (Japan) [T-En by Supper v1.0]</description>
+		<rom name="Private Eye dol (Japan) [T-En by Supper v1.0].chd" size="357558502" crc="b1b781bc" sha1="98a7db62863734a966525e6ea2830faa701a105c"/>
+	</game>
+	<game name="Sorcery Saga I - The Fiery Kindergarten Graduation (Japan) [T-En by LIPEMCO! Translations v1.0] [n]">
+		<category>Games</category>
+		<description>Sorcery Saga I - The Fiery Kindergarten Graduation (Japan) [T-En by LIPEMCO! Translations v1.0] [n]</description>
+		<rom name="Sorcery Saga I - The Fiery Kindergarten Graduation (Japan) [T-En by LIPEMCO! Translations v1.0] [n].chd" size="232999729" crc="0268eade" sha1="1f22c8f250fe51844bafc75136eed77e02bfa8d6"/>
+	</game>
+	<game name="Startling Odyssey II - Maryuu Sensou (Japan) [T-En by TruMisery v20100331]">
+		<category>Games</category>
+		<description>Startling Odyssey II - Maryuu Sensou (Japan) [T-En by TruMisery v20100331]</description>
+		<rom name="Startling Odyssey II - Maryuu Sensou (Japan) [T-En by TruMisery v20100331].chd" size="357203352" crc="7c6c88f5" sha1="3c452bfd31fc37ac04804a62da227eaff83c9512"/>
+	</game>
+	<game name="Super Daisenryaku (Japan) [T-En by Gaijin Productions v0.99]">
+		<category>Games</category>
+		<description>Super Daisenryaku (Japan) [T-En by Gaijin Productions v0.99]</description>
+		<rom name="Super Daisenryaku (Japan) [T-En by Gaijin Productions v0.99].chd" size="57601879" crc="b7ed2de4" sha1="8ee580dc71a1374740b35b6da3b88aee6997c849"/>
+	</game>
+	<game name="Xak III - The Eternal Recurrence (Japan) [T-En by NightWolve v1.00]">
+		<category>Games</category>
+		<description>Xak III - The Eternal Recurrence (Japan) [T-En by NightWolve v1.00]</description>
+		<rom name="Xak III - The Eternal Recurrence (Japan) [T-En by NightWolve v1.00].chd" size="258740820" crc="fb190fb9" sha1="d6761122851644f41e6345047c77e9387caf57e3"/>
+	</game>
+	<game name="Ys IV - The Dawn of Ys (Japan) [T-En by NightWolve v0.95] [En Dub by Burnt Lasagna v1.1]">
+		<category>Games</category>
+		<description>Ys IV - The Dawn of Ys (Japan) [T-En by NightWolve v0.95] [En Dub by Burnt Lasagna v1.1]</description>
+		<rom name="Ys IV - The Dawn of Ys (Japan) [T-En by NightWolve v0.95] [En Dub by Burnt Lasagna v1.1].chd" size="450151770" crc="d890a192" sha1="d66a98c820db6eb6c68bef0a4e17f70488b70fc0"/>
+	</game>
+</datafile>

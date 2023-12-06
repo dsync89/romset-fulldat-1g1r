@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nintendo - GameCube (Translated En)</name>
+		<description>Nintendo - GameCube (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>7 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Nintendo GameCube [T-En] Docs">
+		<description>_Nintendo GameCube [T-En] Docs</description>
+		<year>????</year>
+		<rom name="Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n].txt" size="4817" crc="bf4993e5" sha1="0e9edd23ae4a744978c1d1ed69ba70b9695c7103"/>
+		<rom name="Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1].txt" size="2611" crc="b99feda5" sha1="8721729972191f37949fda22e4444e18046379db"/>
+		<rom name="Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n].txt" size="5897" crc="1a24c221" sha1="289129fd1965b07c1e3a79d2c0cb7ae86ddf2a6c"/>
+		<rom name="World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i].txt" size="1979" crc="d7125238" sha1="77a5d21ea435fbd454aff8b278853cd8bbcc77bd"/>
+		<rom name="Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n] [Manual].cbz" size="22083844" crc="91c6b6fb" sha1="f6591af07474d3be690185ae8e92cd09b7e49dd8"/>
+		<rom name="Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n].txt" size="5961" crc="14287fdd" sha1="692013d027ed703b0b508cb09c6cae6cb4d757f9"/>
+		<rom name="Zoids Vs. III (Japan) [T-En by Traceytrace v1.00].txt" size="1759" crc="4004e3b1" sha1="71d868d502cdcd32bb47fa00c9a112a2273236d4"/>
+	</game>
+	<game name="Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n]">
+		<description>Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n]</description>
+		<year>????</year>
+		<rom name="Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n].rvz" size="18137748" crc="2c046f30" sha1="7756f187aa6816245c8c2d6bafdfbd61caf89f29"/>
+	</game>
+	<game name="Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1]">
+		<description>Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1]</description>
+		<year>????</year>
+		<rom name="Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1].rvz" size="1118824568" crc="3405cf8b" sha1="9e2e9c6f3ec89f603acd6f11386e5a6b757a6356"/>
+	</game>
+	<game name="Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i]">
+		<description>Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i]</description>
+		<year>????</year>
+		<rom name="Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i].rvz" size="535003768" crc="daf3f932" sha1="9cfad5b1e0711105cec625a30617739d346d2f42"/>
+	</game>
+	<game name="Kururin Squash! (Japan) [T-En by DOL-Translations v20231002]">
+		<description>Kururin Squash! (Japan) [T-En by DOL-Translations v20231002]</description>
+		<year>????</year>
+		<rom name="Kururin Squash! (Japan) [T-En by DOL-Translations v20231002].rvz" size="108742052" crc="df717afb" sha1="d0575e21a878e189ef35788156bdbb0bd8ced7a7"/>
+	</game>
+	<game name="Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n]">
+		<description>Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n]</description>
+		<year>????</year>
+		<rom name="Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n].rvz" size="1049846820" crc="6ad4f0c8" sha1="665d6bd5b0c55d027e8c380bc3d977de43bf9f91"/>
+	</game>
+	<game name="Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i]">
+		<description>Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i]</description>
+		<year>????</year>
+		<rom name="Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i].rvz" size="93938756" crc="37722d7e" sha1="8832ff34e92fb8dc160c5981f1861e4082cbcd69"/>
+	</game>
+	<game name="Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n]">
+		<description>Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n]</description>
+		<year>????</year>
+		<rom name="Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n].rvz" size="921572428" crc="22604766" sha1="0512ae6492e0ab4f026dc4ae0f528e5d3907c5cc"/>
+	</game>
+	<game name="Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n]">
+		<description>Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n]</description>
+		<year>????</year>
+		<rom name="Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n].rvz" size="434610824" crc="bc6a3d24" sha1="0296663e58a1ab5070d1dba18f4d6600bbd59206"/>
+	</game>
+	<game name="World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i]">
+		<description>World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i]</description>
+		<year>????</year>
+		<rom name="World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i].rvz" size="461955836" crc="a8f6337d" sha1="4bd71e94b76a2df1c29ef3f226d46a2191e67384"/>
+	</game>
+	<game name="Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n]">
+		<description>Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic &amp; XZatchBellGamerX v1.0] [n].rvz" size="427952096" crc="5fd2acb0" sha1="6fed633a4eb982482a6fdfd74e84a79a2f44d2ff"/>
+	</game>
+	<game name="Zoids Vs. III (Japan) [T-En by Traceytrace v1.00]">
+		<description>Zoids Vs. III (Japan) [T-En by Traceytrace v1.00]</description>
+		<year>????</year>
+		<rom name="Zoids Vs. III (Japan) [T-En by Traceytrace v1.00].rvz" size="367539452" crc="be26e169" sha1="f81d5c7feef59d192515c73596ba316f2a1c5bfb"/>
+	</game>
+	<game name="Zoids Vs. III (Japan) [T-En by Traceytrace v1.00] [Textures]">
+		<description>Zoids Vs. III (Japan) [T-En by Traceytrace v1.00] [Textures]</description>
+		<year>????</year>
+		<rom name="GZVJDA\tex1_128x128_035b17a515665229_1.png" size="22420" crc="97d6b84d" sha1="e1b0a36560bbf9864ee77f280f560b4e1d2c504c"/>
+		<rom name="GZVJDA\tex1_128x128_035b17a515665229_1.xcf" size="77583" crc="da86e7df" sha1="bb807aa6ec068caa1249344ffa788bf9a0be9874"/>
+		<rom name="GZVJDA\tex1_128x64_57e18ef528ed0166_0.png" size="12269" crc="6adfd14d" sha1="c05fc3599aef5062fe05e703102b0036403d808a"/>
+		<rom name="GZVJDA\tex1_256x128_b67e0491e4487760_0.png" size="14295" crc="e9eb2da6" sha1="7c4249b36836be7140d0f78affb47172c6ed0fc6"/>
+		<rom name="GZVJDA\tex1_256x128_b67e0491e4487760_0.xcf" size="26976" crc="8708122e" sha1="f994c8dd4790482666095577b8198d703c8acc72"/>
+		<rom name="GZVJDA\tex1_256x256_8689e45025202177_2.png" size="52514" crc="abd80217" sha1="0454ff6ae6403dc03776bf0d5356056c3c3574da"/>
+		<rom name="GZVJDA\tex1_256x256_8689e45025202177_2.xcf" size="167291" crc="982e8180" sha1="2ee39aa40023cd34fe4fd72543df8f2c1f2a5dc1"/>
+		<rom name="GZVJDA\tex1_512x256_1939a9fdf13dc03e_14.png" size="50954" crc="982d5587" sha1="1f2b2fd3e41a7471deb62883ec9df242b4f28943"/>
+		<rom name="GZVJDA\tex1_512x256_1939a9fdf13dc03e_14.xcf" size="96647" crc="446021a5" sha1="8318727456eb34b1b24828118905dfe7daf23cce"/>
+		<rom name="GZVJDA\tex1_512x256_7229d5af607d7506_14.png" size="69668" crc="3cba1e08" sha1="c4ff5bcc5314306372246edf54054d9014eb8c55"/>
+		<rom name="GZVJDA\tex1_512x256_7229d5af607d7506_14.xcf" size="123447" crc="bf6ad2fe" sha1="6b3988f0b474fea45bab11740b2fe095eba666c5"/>
+		<rom name="GZVJDA\tex1_512x256_9924fe8090690966_14.png" size="70086" crc="ab7f6e07" sha1="ba6e1e3964bb13f73949ca11b87c9501667712dd"/>
+		<rom name="GZVJDA\tex1_512x256_9924fe8090690966_14.xcf" size="121852" crc="53f76858" sha1="777a845a83c66c2668ea967cab2b7713212de646"/>
+		<rom name="GZVJDA\tex1_512x256_a8de954c1b368b90_14.png" size="73048" crc="fd6f5904" sha1="139a87624ef29a6ab6302d540463ffde130c49b5"/>
+		<rom name="GZVJDA\tex1_512x256_a8de954c1b368b90_14.xcf" size="113324" crc="fa29fe3f" sha1="c94c04ab60749aaf25c9a46725bc19ee32a41d76"/>
+		<rom name="GZVJDA\tex1_512x256_cb5ad55f74b12bae_14.png" size="63575" crc="f0ec40ef" sha1="f95338bb96168cdf502c35d6ecc717aa058dc1f3"/>
+		<rom name="GZVJDA\tex1_512x256_cb5ad55f74b12bae_14.xcf" size="105881" crc="70b5a2de" sha1="1a01f1f7365bf73a1d0938d76ed660774345a126"/>
+		<rom name="GZVJDA\tex1_512x512_099f8c42fdfbd967_0.png" size="70807" crc="2ba4e77c" sha1="a830a2bf43683b38714d48f5fd4fc264d59e5109"/>
+		<rom name="GZVJDA\tex1_512x512_099f8c42fdfbd967_0.xcf" size="265653" crc="75254167" sha1="1df085c74b6f1e4ec8cf023d8ca9f15f0a0026ed"/>
+		<rom name="GZVJDA\tex1_64x64_32d88dfb889538fa_0.png" size="10575" crc="11090ebd" sha1="aeb0acde872b436ff9aef96c11bdf4de78f04987"/>
+		<rom name="GZVJDA\tex1_64x64_32d88dfb889538fa_0.xcf" size="19897" crc="44241fdb" sha1="df5c53c54f27f0dc049b43300ed7becaef6a1f3b"/>
+		<rom name="GZVJDA\tex1_64x64_372100c7ed5ee646_0.png" size="7092" crc="bc58642e" sha1="3d27eae50770516907415523db529bb14ce038b3"/>
+		<rom name="GZVJDA\tex1_64x64_372100c7ed5ee646_0.xcf" size="10386" crc="e3f6b8c2" sha1="ad061fa135be414efbbd3c9c667c62cadfadd35b"/>
+		<rom name="GZVJDA\tex1_64x64_cca2045c69c6f2b9_2.png" size="6491" crc="2ac5fb7d" sha1="557d6a6131e284c73cb15b9ec725ca1e6177700c"/>
+		<rom name="GZVJDA\tex1_64x64_cca2045c69c6f2b9_2.xcf" size="10106" crc="d43c5a90" sha1="1eec37a4849a5a041a30fcf1749dc7e5fc0aee1a"/>
+	</game>
+</datafile>

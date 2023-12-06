@@ -1,0 +1,20 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITHOUT CLONES
+
+
+TITLES WITHOUT CLONES
+=====================
+
++ Insmouth Mansion (Japan) [T-En by Thunderstruck v1.0] [n]
++ SD Gundam - Dimension War (Japan) [T-En by Greg Stevens & Benjamin Stevens v1.0]
++ Space Invaders - Virtual Collection (Japan) [T-En by Thunderstruck v1.0]
++ Space Squash (Japan) [T-En by Feel & Greg Stevens & Benjamin Stevens & Thunderstruck v2.0]
++ Virtual Fishing (Japan) [T-En by Benjamin Stevens & Thunderstruck v1.0]
++ Virtual Lab (Japan) [T-En by Thunderstruck v1.0]

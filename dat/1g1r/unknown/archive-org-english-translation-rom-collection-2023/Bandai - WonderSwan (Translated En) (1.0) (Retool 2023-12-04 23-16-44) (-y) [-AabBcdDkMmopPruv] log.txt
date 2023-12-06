@@ -1,0 +1,35 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon]
+  - Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby & SpecialAgentApe v1.1]
++ Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i]
++ Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 & RayCarrot & Rcs709 & StarryScarab v1.1] [n]
++ Megaman & Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]
++ Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n]
++ Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0]
++ Rockman & Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Bandai WonderSwan [T-En] Docs

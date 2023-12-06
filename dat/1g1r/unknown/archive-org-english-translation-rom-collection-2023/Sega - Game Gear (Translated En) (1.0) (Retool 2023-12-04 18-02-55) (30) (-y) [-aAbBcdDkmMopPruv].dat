@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Sega - Game Gear (Translated En) (Retool)</name>
+		<description>Sega - Game Gear (Translated En) (30) (-y) [-aAbBcdDkmMopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 18-02-55</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Buster Ball (Japan) [T-En by Lazermutt4 v1.0]">
+		<category>Games</category>
+		<description>Buster Ball (Japan) [T-En by Lazermutt4 v1.0]</description>
+		<rom name="Buster Ball (Japan) [T-En by Lazermutt4 v1.0].gg" size="131072" crc="691a1587" sha1="1ac7f351e99d389def54f0a1c3fb577204d386ca"/>
+	</game>
+	<game name="Coca-Cola Kid (Japan) [T-En by Filler v1.1]">
+		<category>Games</category>
+		<description>Coca-Cola Kid (Japan) [T-En by Filler v1.1]</description>
+		<rom name="Coca-Cola Kid (Japan) [T-En by Filler v1.1].gg" size="524288" crc="c691dfc8" sha1="2652dc65450673be1819e142d562435316434d3e"/>
+	</game>
+	<game name="Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n]">
+		<category>Games</category>
+		<description>Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n]</description>
+		<rom name="Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n].gg" size="524288" crc="11b1c2f4" sha1="19a3c8b90431ceac3427e1ea0ae4a6a292a7d0d1"/>
+	</game>
+	<game name="Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n]">
+		<category>Games</category>
+		<description>Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n]</description>
+		<rom name="Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n].gg" size="1048576" crc="236639eb" sha1="523447dd9e893b3ee070174da1498971d669f35a"/>
+	</game>
+	<game name="Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0]">
+		<category>Games</category>
+		<description>Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0]</description>
+		<rom name="Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0].gg" size="1048576" crc="dbe0a941" sha1="85671fbd1f729d163554bd8e623ce29bfd3d0a47"/>
+	</game>
+	<game name="Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n]">
+		<category>Games</category>
+		<description>Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n]</description>
+		<rom name="Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n].gg" size="1048576" crc="9a3cd264" sha1="c30a6a5a2a15ceede18134bf6c16f1316b24a473"/>
+	</game>
+	<game name="Head Buster (Japan) [T-En by Chris M. Covell v0.99]">
+		<category>Games</category>
+		<description>Head Buster (Japan) [T-En by Chris M. Covell v0.99]</description>
+		<rom name="Head Buster (Japan) [T-En by Chris M. Covell v0.99].gg" size="131072" crc="4f3f5bec" sha1="edf9880e984ccb48b429fadc1c4791e7e834cd07"/>
+	</game>
+	<game name="Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00]">
+		<category>Games</category>
+		<description>Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00]</description>
+		<rom name="Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00].gg" size="540672" crc="4fb96b01" sha1="d0dd06bd5b924114a65578a88c676d0d1a3cb65e"/>
+	</game>
+	<game name="Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00]">
+		<category>Games</category>
+		<description>Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00]</description>
+		<rom name="Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis &amp; Some Good Shit Translations v1.00].gg" size="1048576" crc="21f2eff8" sha1="0286fe533aaff1a235efb4a44140b9e21a6c257c"/>
+	</game>
+	<game name="Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n]">
+		<category>Games</category>
+		<description>Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n]</description>
+		<rom name="Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [n].gg" size="524288" crc="355142d2" sha1="b3f7bda2b7ce3b568a91139025d07f71898b084c"/>
+	</game>
+	<game name="Magic Knight Rayearth (Japan) [T-En by Filler v1.0]">
+		<category>Games</category>
+		<description>Magic Knight Rayearth (Japan) [T-En by Filler v1.0]</description>
+		<rom name="Magic Knight Rayearth (Japan) [T-En by Filler v1.0].gg" size="524288" crc="9e88edf7" sha1="41742d72ef921cfaaa24ef4364e4948e4dfcbd68"/>
+	</game>
+	<game name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i]">
+		<category>Games</category>
+		<description>Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i]</description>
+		<rom name="Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i].gg" size="524288" crc="3249fa43" sha1="3add58c097d30f37b33d97a2547f187b861d2cd1"/>
+	</game>
+	<game name="Mappy (Japan) [T-En by Maxim &amp; ArugulaZ v1.1]">
+		<category>Games</category>
+		<description>Mappy (Japan) [T-En by Maxim &amp; ArugulaZ v1.1]</description>
+		<rom name="Mappy (Japan) [T-En by Maxim &amp; ArugulaZ v1.1].gg" size="131072" crc="714d82c6" sha1="419b32ed2f6f62a99eae920b9fddb6d092dad62b"/>
+	</game>
+	<game name="Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0]">
+		<category>Games</category>
+		<description>Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0]</description>
+		<rom name="Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0].gg" size="1048576" crc="82dee5b3" sha1="a5e8efe14f4dadb79fa1771790d76d4633c461cf"/>
+	</game>
+	<game name="Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 &amp; SSTranslations &amp; Tom v1.02] [n] [Modded]">
+		<category>Games</category>
+		<description>Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 &amp; SSTranslations &amp; Tom v1.02] [n] [Modded]</description>
+		<rom name="Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 &amp; SSTranslations &amp; Tom v1.02] [n] [Modded].gg" size="524288" crc="b4da1da8" sha1="8bc8f4490b8e1626c81b0c37ecb9ce17d375dc37"/>
+	</game>
+	<game name="Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n]">
+		<category>Games</category>
+		<description>Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n]</description>
+		<rom name="Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n].gg" size="1048576" crc="b36aa234" sha1="3e9993639505240e8c0c7d13b520e79634490a02"/>
+	</game>
+	<game name="Nazo Puyo - Arle no Roux (Japan) [T-En by T-En by TriumphantBass v0.2] [i]">
+		<category>Games</category>
+		<description>Nazo Puyo - Arle no Roux (Japan) [T-En by T-En by TriumphantBass v0.2] [i]</description>
+		<rom name="Nazo Puyo - Arle no Roux (Japan) [T-En by T-En by TriumphantBass v0.2] [i].gg" size="262144" crc="bf14b009" sha1="891432989861f48bda84747bc738a75ccb01cf80"/>
+	</game>
+	<game name="Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i]">
+		<category>Games</category>
+		<description>Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i]</description>
+		<rom name="Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i].gg" size="524288" crc="14737df8" sha1="273ebf4415064a6ba0f6e62a7f2f6a7eb0dba96a"/>
+	</game>
+	<game name="Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00]">
+		<category>Games</category>
+		<description>Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00].gg" size="131072" crc="530636cb" sha1="532f74ae3292a41f38334ccaa6f084dd2e1729ce"/>
+	</game>
+	<game name="Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00] [Original Sega Font]">
+		<category>Games</category>
+		<description>Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00] [Original Sega Font]</description>
+		<rom name="Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00] [Original Sega Font].gg" size="262144" crc="5fa1f7b2" sha1="71a52cfe7da6acdd3cce20a701e71e309b144d1e"/>
+	</game>
+	<game name="Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n]">
+		<category>Games</category>
+		<description>Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n]</description>
+		<rom name="Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n].gg" size="1048576" crc="fa7094ac" sha1="eefca5e6f05205d7abcf34fa5ed077c0257a6644"/>
+	</game>
+	<game name="Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<category>Games</category>
+		<description>Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].gg" size="524288" crc="a1d0aad0" sha1="cc1aac8d0dce685fbff5bcee8236e4f5111c1052"/>
+	</game>
+	<game name="SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99]">
+		<category>Games</category>
+		<description>SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99]</description>
+		<rom name="SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99].gg" size="524288" crc="a791e121" sha1="aa249d0ac354cd12d63d0335acc9a7841451a17d"/>
+	</game>
+	<game name="Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final]">
+		<category>Games</category>
+		<description>Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final]</description>
+		<rom name="Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].gg" size="524288" crc="1b5e482a" sha1="ea4873017ff8aaf75f0358e48b9e37f05730c69f"/>
+	</game>
+	<game name="Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n]">
+		<category>Games</category>
+		<description>Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n]</description>
+		<rom name="Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n].gg" size="1048576" crc="1058c638" sha1="56c037e3baac9c0eb8d2b53572f5577b231c1ce8"/>
+	</game>
+	<game name="Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n]">
+		<category>Games</category>
+		<description>Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n]</description>
+		<rom name="Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler &amp; SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n].gg" size="524288" crc="fcd304c6" sha1="24ce2ac32c55b0b57ab27cf4cc320aad780ef280"/>
+	</game>
+	<game name="Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n]">
+		<category>Games</category>
+		<description>Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n]</description>
+		<rom name="Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n].gg" size="1048576" crc="c5c2d036" sha1="a697f9f69e16d4a5dc0a581623a679fef797269b"/>
+	</game>
+	<game name="Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n]">
+		<category>Games</category>
+		<description>Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n]</description>
+		<rom name="Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n].gg" size="1048576" crc="c0a5804e" sha1="e42d47cd822b73b026e165c08a382e05b637cd94"/>
+	</game>
+	<game name="Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01] [Slab Shrine Music]">
+		<category>Games</category>
+		<description>Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01] [Slab Shrine Music]</description>
+		<rom name="Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01] [Slab Shrine Music].gg" size="524288" crc="963be52c" sha1="c522389f6e4bbd2c4ee4c11d1e075ffe7562ca67"/>
+	</game>
+	<game name="Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n]">
+		<category>Games</category>
+		<description>Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n]</description>
+		<rom name="Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n].gg" size="524288" crc="c80810a7" sha1="bf89310ea5fb2b903444eca0050f3556dade59e2"/>
+	</game>
+</datafile>

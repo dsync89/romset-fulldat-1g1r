@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Game Boy (Translated En) (Retool)</name>
+		<description>Nintendo - Game Boy (Translated En) (70) (-y) [-AabBcDdkMmoPpruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 03-21-41</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Absolute Invincible Raijin-Oh (Japan) [T-En by PentarouZero v1.0] [n]">
+		<category>Games</category>
+		<description>Absolute Invincible Raijin-Oh (Japan) [T-En by PentarouZero v1.0] [n]</description>
+		<rom name="Absolute Invincible Raijin-Oh (Japan) [T-En by PentarouZero v1.0] [n].gb" size="65536" crc="a08a646d" md5="76a240ce95985fe6134389fa035b84bf" sha1="4f3601d34d5f0a8df00f7b9f5dce35a107193ea5"/>
+	</game>
+	<game name="Another Bible (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.01]">
+		<category>Games</category>
+		<description>Another Bible (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.01]</description>
+		<rom name="Another Bible (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.01].gb" size="524288" crc="36f6182a" md5="d3cb26a28fe5faa9a73fc8db442a20e6" sha1="36e1e43f4156bf60e83422102e7a730d360eaed5"/>
+	</game>
+	<game name="Banishing Racer (Japan) [T-En by Stardust Crusaders v1.00]">
+		<category>Games</category>
+		<description>Banishing Racer (Japan) [T-En by Stardust Crusaders v1.00]</description>
+		<rom name="Banishing Racer (Japan) [T-En by Stardust Crusaders v1.00].gb" size="131072" crc="8b803c83" md5="fa8b94ede7e7192c0ccd2fff6c51e948" sha1="06eb16e1f0e51d9f045c7c68318389739b56bf08"/>
+	</game>
+	<game name="Battle of Kingdom (Japan) [T-En by Stardust Crusaders v1.00]">
+		<category>Games</category>
+		<description>Battle of Kingdom (Japan) [T-En by Stardust Crusaders v1.00]</description>
+		<rom name="Battle of Kingdom (Japan) [T-En by Stardust Crusaders v1.00].gb" size="131072" crc="03f1822a" md5="48e4830e4c3bf4c4fc152d821078f9fd" sha1="a01eb1d0c8bb047593b414e70009939c58e816e5"/>
+	</game>
+	<game name="Bishoujo Senshi Sailor Moon (Japan) [T-En by EsperKnight &amp; Some Good Shit Translations v0.95] [i]">
+		<category>Games</category>
+		<description>Bishoujo Senshi Sailor Moon (Japan) [T-En by EsperKnight &amp; Some Good Shit Translations v0.95] [i]</description>
+		<rom name="Bishoujo Senshi Sailor Moon (Japan) [T-En by EsperKnight &amp; Some Good Shit Translations v0.95] [i].gb" size="262144" crc="0b6771c3" md5="3c6a6f2cb4a016cfe92335c9e58e6e5e" sha1="e3e333f9ce814ee6d8b2885efb68a27a3fd98baf"/>
+	</game>
+	<game name="Block Kuzushi GB (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0]">
+		<category>Games</category>
+		<description>Block Kuzushi GB (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0]</description>
+		<rom name="Block Kuzushi GB (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0].gb" size="262144" crc="3eac3273" md5="b4c3e1ecce45d316a60e54f379f6acb1" sha1="6010c4ef610eafc8f3500401264d2a2d46991c0a"/>
+	</game>
+	<game name="Bomber Man GB 3 (Japan) (SGB Enhanced) [T-En by David Mullen &amp; Duke Serkol v1.0] [i]">
+		<category>Games</category>
+		<description>Bomber Man GB 3 (Japan) (SGB Enhanced) [T-En by David Mullen &amp; Duke Serkol v1.0] [i]</description>
+		<rom name="Bomber Man GB 3 (Japan) (SGB Enhanced) [T-En by David Mullen &amp; Duke Serkol v1.0] [i].gb" size="262144" crc="3820011d" md5="4c95ee4dd7aba3fd30a5703914af5ae8" sha1="ced09b74d91312fa2ec93b35b67c7c67ffbbcb84"/>
+	</game>
+	<game name="Booby Boys (Japan) [T-En by HTI v1.00]">
+		<category>Games</category>
+		<description>Booby Boys (Japan) [T-En by HTI v1.00]</description>
+		<rom name="Booby Boys (Japan) [T-En by HTI v1.00].gb" size="262144" crc="c4b8cf30" md5="8446759d6d6a743aaa6e92c28453ee37" sha1="e6a1242872b79b8ed38b37692d1d9be4a73240ea"/>
+	</game>
+	<game name="Brave Fighter of the Sun - Fighbird GB (Japan) [T-En by Zynk Oxhyde v1.0] [n]">
+		<category>Games</category>
+		<description>Brave Fighter of the Sun - Fighbird GB (Japan) [T-En by Zynk Oxhyde v1.0] [n]</description>
+		<rom name="Brave Fighter of the Sun - Fighbird GB (Japan) [T-En by Zynk Oxhyde v1.0] [n].gb" size="131072" crc="142697f5" md5="5bf85d800a7a0179097becb5b0a1a95b" sha1="0cd354d31daa0e0011406f036cd1e9cbd625c02a"/>
+	</game>
+	<game name="Castle of Ayakashi (Japan) [T-En by KingMike's Translations v1.1 Beta] [n]">
+		<category>Games</category>
+		<description>Castle of Ayakashi (Japan) [T-En by KingMike's Translations v1.1 Beta] [n]</description>
+		<rom name="Castle of Ayakashi (Japan) [T-En by KingMike's Translations v1.1 Beta] [n].gb" size="131072" crc="aa7b86bf" md5="501de1b6056bee7aeb0c2bcbb8b3d806" sha1="8c9fad048f2f2a8469ec6877c30a35700f6d3016"/>
+	</game>
+	<game name="Cave Noire (Japan) [T-En by Aeon Genesis v1.00]">
+		<category>Games</category>
+		<description>Cave Noire (Japan) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="Cave Noire (Japan) [T-En by Aeon Genesis v1.00].gb" size="131072" crc="99f27dab" md5="2d476d5f63bdf31b198789822a20aa89" sha1="61f9ccec54d1db2ae7c3cf57371f3cd6bf453835"/>
+	</game>
+	<game name="Chalvo 55 - Super Puzzle Action (Japan) [T-En by Lame Boy v1.0]">
+		<category>Games</category>
+		<description>Chalvo 55 - Super Puzzle Action (Japan) [T-En by Lame Boy v1.0]</description>
+		<rom name="Chalvo 55 - Super Puzzle Action (Japan) [T-En by Lame Boy v1.0].gb" size="524288" crc="6b8c1feb" md5="254e64b81d7eaed6502afd781d909261" sha1="3a796698fc55a11423b94d3a8556ab96b1fd5d82"/>
+	</game>
+	<game name="Daisenryaku (Japan) [T-En by Gaijin Productions v1.0]">
+		<category>Games</category>
+		<description>Daisenryaku (Japan) [T-En by Gaijin Productions v1.0]</description>
+		<rom name="Daisenryaku (Japan) [T-En by Gaijin Productions v1.0].gb" size="131072" crc="c518002d" md5="cccaf1628ad0e51705ee848c1d324a27" sha1="fec8df9f6b7809d1af450b0776e82137b2316555"/>
+	</game>
+	<game name="Doraemon Kart (Japan) (SGB Enhanced) [T-En by Magecraft Translations v1.01] [i]">
+		<category>Games</category>
+		<description>Doraemon Kart (Japan) (SGB Enhanced) [T-En by Magecraft Translations v1.01] [i]</description>
+		<rom name="Doraemon Kart (Japan) (SGB Enhanced) [T-En by Magecraft Translations v1.01] [i].gb" size="262144" crc="15f7911c" md5="c9a4319b388ffc209c2582f129d34f99" sha1="330423a6fcd24587f89dda185567361c20130847"/>
+	</game>
+	<game name="Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) [T-En by Lando v1.0] [i]">
+		<category>Games</category>
+		<description>Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) [T-En by Lando v1.0] [i]</description>
+		<rom name="Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) [T-En by Lando v1.0] [i].gb" size="262144" crc="94d31e85" md5="0bf42853162639db90647ffa18f63f3e" sha1="0313049e4c7fb1eb9f619687aedba06b86985997"/>
+	</game>
+	<game name="Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced) [T-En by WyndCrosser v0.05] [i]">
+		<category>Games</category>
+		<description>Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced) [T-En by WyndCrosser v0.05] [i]</description>
+		<rom name="Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced) [T-En by WyndCrosser v0.05] [i].gb" size="524288" crc="d9ada6c7" md5="7c0aca77b22bd45bc59235e24eb91357" sha1="4dfec1787d3672fd767a3fd51c879fdc84e8d2a7"/>
+	</game>
+	<game name="Firebrand - A Ghosts 'n Goblins Tale (Japan) [T-En by Stardust Crusaders v1.00] [n]">
+		<category>Games</category>
+		<description>Firebrand - A Ghosts 'n Goblins Tale (Japan) [T-En by Stardust Crusaders v1.00] [n]</description>
+		<rom name="Firebrand - A Ghosts 'n Goblins Tale (Japan) [T-En by Stardust Crusaders v1.00] [n].gb" size="262144" crc="f6c6b0b1" md5="8b16938c8474c5ed03903bfb1893b505" sha1="d3bed73399ff585dcdd56fe2a0fe410d4b1b4905"/>
+	</game>
+	<game name="For the Frog the Bell Tolls (Japan) [T-En by Ryanbgstl v1.0] [n]">
+		<category>Games</category>
+		<description>For the Frog the Bell Tolls (Japan) [T-En by Ryanbgstl v1.0] [n]</description>
+		<rom name="For the Frog the Bell Tolls (Japan) [T-En by Ryanbgstl v1.0] [n].gb" size="524288" crc="913980ad" md5="9a9f61ca252982f2797d1c7b1b54ba8a" sha1="53aa0495f967fbe0f88b918f291d37f36cc4cf3c"/>
+	</game>
+	<game name="Fortress of Fury (Japan) [T-En by Stardust Crusaders v1.01] [n]">
+		<category>Games</category>
+		<description>Fortress of Fury (Japan) [T-En by Stardust Crusaders v1.01] [n]</description>
+		<rom name="Fortress of Fury (Japan) [T-En by Stardust Crusaders v1.01] [n].gb" size="131072" crc="db500fae" md5="571929a738d3d88c9875097002afa5ff" sha1="572a01e4ab906d3789e1e8189717e8c3a440c3bb"/>
+	</game>
+	<game name="Fortress of Fury 2 (Japan) [T-En by Stardust Crusaders v1.00] [n]">
+		<category>Games</category>
+		<description>Fortress of Fury 2 (Japan) [T-En by Stardust Crusaders v1.00] [n]</description>
+		<rom name="Fortress of Fury 2 (Japan) [T-En by Stardust Crusaders v1.00] [n].gb" size="131072" crc="25e058af" md5="162d7af328f40daac091d949a658a869" sha1="219bed2a4fc4c73a7907d46021e78ee6b040af5f"/>
+	</game>
+	<game name="Frog for Whom the Bell Tolls, The (Japan) [T-En by Ryanbgstl v1.0] [Add by Hamikon v1.0] [n]">
+		<category>Games</category>
+		<description>Frog for Whom the Bell Tolls, The (Japan) [T-En by Ryanbgstl v1.0] [Add by Hamikon v1.0] [n]</description>
+		<rom name="Frog for Whom the Bell Tolls, The (Japan) [T-En by Ryanbgstl v1.0] [Add by Hamikon v1.0] [n].gb" size="524288" crc="55b50513" md5="d4cfeb4958db49fc19917795f9527850" sha1="89cf3f6458c09950bacba3c721048e163818f576"/>
+	</game>
+	<game name="Game Boy Wars Turbo (Japan) (SGB Enhanced) [T-En by TransBRC v0.91] [i]">
+		<category>Games</category>
+		<description>Game Boy Wars Turbo (Japan) (SGB Enhanced) [T-En by TransBRC v0.91] [i]</description>
+		<rom name="Game Boy Wars Turbo (Japan) (SGB Enhanced) [T-En by TransBRC v0.91] [i].gb" size="524288" crc="73bd62e0" md5="4ff3b2129d632e25942c98ce12c4ac70" sha1="6a5b05bc64df7869f5891252bacdce6518332062"/>
+	</game>
+	<game name="Gamera - The Guardian of the Universe (Japan) (SGB Enhanced) [T-En by Stardust Crusaders v1.01] [n]">
+		<category>Games</category>
+		<description>Gamera - The Guardian of the Universe (Japan) (SGB Enhanced) [T-En by Stardust Crusaders v1.01] [n]</description>
+		<rom name="Gamera - The Guardian of the Universe (Japan) (SGB Enhanced) [T-En by Stardust Crusaders v1.01] [n].gb" size="524288" crc="0f027907" md5="15b20e44676a77bdb0a7d6c56805e7b5" sha1="d249534c158b6c44a56981e9f35d4a9ce6190293"/>
+	</game>
+	<game name="Gargoyle's Quest II - The Demon Darkness (Japan) [T-En by Bailli v1.0] [n]">
+		<category>Games</category>
+		<description>Gargoyle's Quest II - The Demon Darkness (Japan) [T-En by Bailli v1.0] [n]</description>
+		<rom name="Gargoyle's Quest II - The Demon Darkness (Japan) [T-En by Bailli v1.0] [n].gb" size="262144" crc="f8dc27e6" md5="3574c3ae7c83faeb018cb1c05950c25d" sha1="33b855acf8877eabc794eb728aed7b6c458f5dec"/>
+	</game>
+	<game name="Glory of Heracles, The - Snap Story (Japan) [T-En by HTI v1.01] [n]">
+		<category>Games</category>
+		<description>Glory of Heracles, The - Snap Story (Japan) [T-En by HTI v1.01] [n]</description>
+		<rom name="Glory of Heracles, The - Snap Story (Japan) [T-En by HTI v1.01] [n].gb" size="262144" crc="c91338b9" md5="afacea111f20b86f94e37d47fe4271b9" sha1="afacf6f20a17469161ac53aae015b1854486e608"/>
+	</game>
+	<game name="Glory of Heracles, The - The Olympus Offensive - The Snap-Story (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n]">
+		<category>Games</category>
+		<description>Glory of Heracles, The - The Olympus Offensive - The Snap-Story (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n]</description>
+		<rom name="Glory of Heracles, The - The Olympus Offensive - The Snap-Story (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n].gb" size="262144" crc="7dc15171" md5="e02b768bac90459e95155c2038310859" sha1="3b6f77e0b1ca11ba9bc869593baf3207079b571a"/>
+	</game>
+	<game name="God Medicine - Fukkokuban (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.00]">
+		<category>Games</category>
+		<description>God Medicine - Fukkokuban (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.00]</description>
+		<rom name="God Medicine - Fukkokuban (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.00].gb" size="524288" crc="dc8018b4" md5="c2cc37e8a5c1c6dd5656b501903f9bcd" sha1="80372c8daeb4dff11a58650abf7cd91b7f06c8ae"/>
+	</game>
+	<game name="Hugo 2 (Germany) [T-En by NikcDC v1.0]">
+		<category>Games</category>
+		<description>Hugo 2 (Germany) [T-En by NikcDC v1.0]</description>
+		<rom name="Hugo 2 (Germany) [T-En by NikcDC v1.0].gb" size="131072" crc="f937137e" md5="91a6db22cb486daff35b183e43b338f7" sha1="38866b0e4ed123d20f78db0c4372530a18e59bc3"/>
+	</game>
+	<game name="I'm Jajamaru! The Great World Adventure (Japan) [T-En by Stardust Crusaders v1.01] [n]">
+		<category>Games</category>
+		<description>I'm Jajamaru! The Great World Adventure (Japan) [T-En by Stardust Crusaders v1.01] [n]</description>
+		<rom name="I'm Jajamaru! The Great World Adventure (Japan) [T-En by Stardust Crusaders v1.01] [n].gb" size="131072" crc="293fa04b" md5="753f86fc2328eedc1693cfe3176ff254" sha1="8f7901271a9d0d787639b7f993948899fa2c3390"/>
+	</game>
+	<game name="Legend of the Axe - Kintaro Action Edition (Japan) [T-En by FlyingClimber v1.0] [n]">
+		<category>Games</category>
+		<description>Legend of the Axe - Kintaro Action Edition (Japan) [T-En by FlyingClimber v1.0] [n]</description>
+		<rom name="Legend of the Axe - Kintaro Action Edition (Japan) [T-En by FlyingClimber v1.0] [n].gb" size="262144" crc="5bf484cc" md5="e842471b71debfe85d4025a1023ec738" sha1="7ed55a17045f343aa4cdaa8e30eab455d9ba66c4"/>
+	</game>
+	<game name="Little Master - Legend of Richban (Japan) [T-En by Zatos Hacks v1.00] [n]">
+		<category>Games</category>
+		<description>Little Master - Legend of Richban (Japan) [T-En by Zatos Hacks v1.00] [n]</description>
+		<rom name="Little Master - Legend of Richban (Japan) [T-En by Zatos Hacks v1.00] [n].gb" size="131072" crc="b4e2fa58" md5="39f5fee39bb2917aea6be4ebf59a295b" sha1="9d3de3b523582d3199db4702715ee8d12d9b5696"/>
+	</game>
+	<game name="Magic Knight Rayearth (Japan) (SGB Enhanced) [T-En by LIPEMCO! Translations v1.0]">
+		<category>Games</category>
+		<description>Magic Knight Rayearth (Japan) (SGB Enhanced) [T-En by LIPEMCO! Translations v1.0]</description>
+		<rom name="Magic Knight Rayearth (Japan) (SGB Enhanced) [T-En by LIPEMCO! Translations v1.0].gb" size="524288" crc="74f83e6f" md5="a0a6319073d5b4d2d8772b3f18d42311" sha1="515c721e86ec036b92f3464c622b6724faaa8703"/>
+	</game>
+	<game name="Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced) [T-En by Pearse Hillock v0.99] [i]">
+		<category>Games</category>
+		<description>Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced) [T-En by Pearse Hillock v0.99] [i]</description>
+		<rom name="Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced) [T-En by Pearse Hillock v0.99] [i].gb" size="262144" crc="d306d01b" md5="27e380de8d36a6924f3b21e7234ceb67" sha1="4d478cc91712a783ab67964426ab537802681b4b"/>
+	</game>
+	<game name="Magical Painter (Japan) [T-En by Stardust Crusaders v1.00] [n]">
+		<category>Games</category>
+		<description>Magical Painter (Japan) [T-En by Stardust Crusaders v1.00] [n]</description>
+		<rom name="Magical Painter (Japan) [T-En by Stardust Crusaders v1.00] [n].gb" size="65536" crc="3f48d3df" md5="a525502125ed8261145059fa370de775" sha1="f3aee88630e3ae472fc7c8e03689ed3ecfbdf082"/>
+	</game>
+	<game name="Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits]">
+		<category>Games</category>
+		<description>Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits]</description>
+		<rom name="Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits].gb" size="1048576" crc="874fcf38" md5="140c0882f7b411043e6c57f0ee3dc242" sha1="0e1efa53d3eaa2dbc4c41975bb150847bdf83016"/>
+	</game>
+	<game name="Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits]">
+		<category>Games</category>
+		<description>Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits]</description>
+		<rom name="Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits].gb" size="1048576" crc="ae9f2a69" md5="7ffbde321a427200815c38bdb37e69b0" sha1="051bdf0afc2454bf18fb2110f96a3e753dd22e8e"/>
+	</game>
+	<game name="Momotaro Thunderbolt (Japan) [T-En by The Spoony Bard v0.91] [n]">
+		<category>Games</category>
+		<description>Momotaro Thunderbolt (Japan) [T-En by The Spoony Bard v0.91] [n]</description>
+		<rom name="Momotaro Thunderbolt (Japan) [T-En by The Spoony Bard v0.91] [n].gb" size="262144" crc="5d4c54a5" md5="f7572c43cb8b4ddaef69e45f48051d47" sha1="a7d196d0ef585d9fd83cfd6fcaa27fd6ea50b680"/>
+	</game>
+	<game name="Nectaris GB (Japan) (SGB Enhanced) [T-En by TransBRC v1.11]">
+		<category>Games</category>
+		<description>Nectaris GB (Japan) (SGB Enhanced) [T-En by TransBRC v1.11]</description>
+		<rom name="Nectaris GB (Japan) (SGB Enhanced) [T-En by TransBRC v1.11].gb" size="524288" crc="10077418" md5="f1f6500388862ec5e7bc61206d71c772" sha1="d1d1a6a4a8d3a9540623770f4f316ed24dc50f3c"/>
+	</game>
+	<game name="Nekketsu High - Hot Blooded! Kunio Kun's Final Battle (Japan) [T-En by Ice Translations v0.99] [i] [n]">
+		<category>Games</category>
+		<description>Nekketsu High - Hot Blooded! Kunio Kun's Final Battle (Japan) [T-En by Ice Translations v0.99] [i] [n]</description>
+		<rom name="Nekketsu High - Hot Blooded! Kunio Kun's Final Battle (Japan) [T-En by Ice Translations v0.99] [i] [n].gb" size="131072" crc="8c5592ca" md5="d979823108c8eb191bfa92225b3e88bb" sha1="756d2a6d659583ee013c6463a264e4142dc7eab5"/>
+	</game>
+	<game name="Nettou The King of Fighters '96 (Japan) (SGB Enhanced) [T-En by Vice Translations v0.30] [i]">
+		<category>Games</category>
+		<description>Nettou The King of Fighters '96 (Japan) (SGB Enhanced) [T-En by Vice Translations v0.30] [i]</description>
+		<rom name="Nettou The King of Fighters '96 (Japan) (SGB Enhanced) [T-En by Vice Translations v0.30] [i].gb" size="524288" crc="39d74852" md5="8647483d50c2fffec9869ef25c45bb2e" sha1="d0e731c56d5f0d4cc29563256ba2a6737912b371"/>
+	</game>
+	<game name="Noobow (Japan) [T-En by Stardust Crusaders v1.00]">
+		<category>Games</category>
+		<description>Noobow (Japan) [T-En by Stardust Crusaders v1.00]</description>
+		<rom name="Noobow (Japan) [T-En by Stardust Crusaders v1.00].gb" size="262144" crc="da0224e3" md5="15449adf4a457462d59c92ed0ac49d5a" sha1="735015e38e636583c8a433966e09511447f907cb"/>
+	</game>
+	<game name="Oni Chronicles - Genesis (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n]">
+		<category>Games</category>
+		<description>Oni Chronicles - Genesis (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n]</description>
+		<rom name="Oni Chronicles - Genesis (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.01] [n].gb" size="262144" crc="0cb789c1" md5="0e07210b5f62ec8587d270c33a04ed1e" sha1="d3463c84ae0354fb4265d048980996fd605f4bb2"/>
+	</game>
+	<game name="Oni IV - Kijin no Ketsuzoku (Japan) [T-En by Akujin v0.30] [i]">
+		<category>Games</category>
+		<description>Oni IV - Kijin no Ketsuzoku (Japan) [T-En by Akujin v0.30] [i]</description>
+		<rom name="Oni IV - Kijin no Ketsuzoku (Japan) [T-En by Akujin v0.30] [i].gb" size="262144" crc="fc83f7e6" md5="18161101d39e2c552536259792ec41a9" sha1="8d066594efd5e9a36aa48ad0d0a10de518be48c4"/>
+	</game>
+	<game name="Painter Momopie (Japan) [T-En by Stardust Crusaders v1.00]">
+		<category>Games</category>
+		<description>Painter Momopie (Japan) [T-En by Stardust Crusaders v1.00]</description>
+		<rom name="Painter Momopie (Japan) [T-En by Stardust Crusaders v1.00].gb" size="65536" crc="15f3b94d" md5="4a6f95e015e28fd12ea6b8da52cd45e8" sha1="accf292375c4054e7b486253b6c8ba2b926451aa"/>
+	</game>
+	<game name="Panel Ninja - Kesamaru (Japan) [T-En by Zynk Oxhyde v1.0] [n]">
+		<category>Games</category>
+		<description>Panel Ninja - Kesamaru (Japan) [T-En by Zynk Oxhyde v1.0] [n]</description>
+		<rom name="Panel Ninja - Kesamaru (Japan) [T-En by Zynk Oxhyde v1.0] [n].gb" size="65536" crc="c58e5dd5" md5="3ec2d0b303f4006322d9f2a535552ebc" sha1="93a770893b7b967fc7d9e3003f31d7a2d9dda521"/>
+	</game>
+	<game name="Peke &amp; Poko's Daruman Busters (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.00] [n]">
+		<category>Games</category>
+		<description>Peke &amp; Poko's Daruman Busters (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.00] [n]</description>
+		<rom name="Peke &amp; Poko's Daruman Busters (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.00] [n].gb" size="65536" crc="b82d6306" md5="c908283b237622a0fb190aa722f38819" sha1="9ce36528ac676ca48565e42af6da6c8d64b1338a"/>
+	</game>
+	<game name="Penta Dragon (Japan) [T-En by HTI v1.00]">
+		<category>Games</category>
+		<description>Penta Dragon (Japan) [T-En by HTI v1.00]</description>
+		<rom name="Penta Dragon (Japan) [T-En by HTI v1.00].gb" size="262144" crc="c326ecfa" md5="f3c0b44363a9e5e904e165a2d7ef78f2" sha1="6faf9e3a2758fd3f1d2466642e742132659f64b7"/>
+	</game>
+	<game name="Picross 2 (Japan) (SGB Enhanced) [T-En by Zed v1.0]">
+		<category>Games</category>
+		<description>Picross 2 (Japan) (SGB Enhanced) [T-En by Zed v1.0]</description>
+		<rom name="Picross 2 (Japan) (SGB Enhanced) [T-En by Zed v1.0].gb" size="524288" crc="9511f737" md5="6d5ce8847acd4a27190e32207859f467" sha1="46d283768ec50fc5e354bfd8600eb60301ac5adc"/>
+	</game>
+	<game name="Pokemon - Green Version (USA, Europe) (SGB Enhanced) [T-En by Skeetendo Inc. v3.0] [PokeMartSigns] [n]">
+		<category>Games</category>
+		<description>Pokemon - Green Version (USA, Europe) (SGB Enhanced) [T-En by Skeetendo Inc. v3.0] [PokeMartSigns] [n]</description>
+		<rom name="Pokemon - Green Version (USA, Europe) (SGB Enhanced) [T-En by Skeetendo Inc. v3.0] [PokeMartSigns] [n].gb" size="1048576" crc="c7ec1586" md5="57c9c1c5612baba6b1aec8047cd83fa6" sha1="f56263dd579fc3387008af709f7554b588f187a9"/>
+	</game>
+	<game name="Sa-Ga 3 - Champions of Time and Space (Japan) [T-En by Granz v0.5] [i] [n]">
+		<category>Games</category>
+		<description>Sa-Ga 3 - Champions of Time and Space (Japan) [T-En by Granz v0.5] [i] [n]</description>
+		<rom name="Sa-Ga 3 - Champions of Time and Space (Japan) [T-En by Granz v0.5] [i] [n].gb" size="262144" crc="97ecae3c" md5="e9aff10387d4f43cb9025dd8ab6697c0" sha1="d5bedf200d7493500988a943744edb72686464c3"/>
+	</game>
+	<game name="Samurai Lord Musashi, The (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.00] [n]">
+		<category>Games</category>
+		<description>Samurai Lord Musashi, The (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.00] [n]</description>
+		<rom name="Samurai Lord Musashi, The (Japan) [T-En by Aishsha &amp; Stardust Crusaders v1.00] [n].gb" size="131072" crc="f81ed155" md5="ba683fde6480ae150860402c9523aa3d" sha1="655b5db858e82d29a5cda914d849baa9816189c4"/>
+	</game>
+	<game name="Sanrio Carnival (Japan) [T-En by Six Feet Under v1.2]">
+		<category>Games</category>
+		<description>Sanrio Carnival (Japan) [T-En by Six Feet Under v1.2]</description>
+		<rom name="Sanrio Carnival (Japan) [T-En by Six Feet Under v1.2].gb" size="65536" crc="55fdce57" md5="ee7271625f12141925dd1f8edb3a9e63" sha1="b9522c54f711de853279fe6af159496529b40f74"/>
+	</game>
+	<game name="Snoopy's Errand Adventures (Japan) (SGB Enhanced) [T-En by Zynk Oxhyde v1.0] [n]">
+		<category>Games</category>
+		<description>Snoopy's Errand Adventures (Japan) (SGB Enhanced) [T-En by Zynk Oxhyde v1.0] [n]</description>
+		<rom name="Snoopy's Errand Adventures (Japan) (SGB Enhanced) [T-En by Zynk Oxhyde v1.0] [n].gb" size="131072" crc="edbee5af" md5="049551b60b334078d482b78304513581" sha1="8552ed33130b4c3ca94ffc778ec3d5ef87a77238"/>
+	</game>
+	<game name="Southern Boy Papuwa - Ambition of Ganma (Japan) [T-En by Adventurous Translations v1.00] [n]">
+		<category>Games</category>
+		<description>Southern Boy Papuwa - Ambition of Ganma (Japan) [T-En by Adventurous Translations v1.00] [n]</description>
+		<rom name="Southern Boy Papuwa - Ambition of Ganma (Japan) [T-En by Adventurous Translations v1.00] [n].gb" size="131072" crc="9fb9ce3f" md5="3f306a8ab6f57aa1021f2dcf7af74aae" sha1="b755022c99bc9129d29b8aed7b3ac875924750ca"/>
+	</game>
+	<game name="Sunshine Angel Marlowe - Panic in Bloomland! (Japan) [T-En by Stardust Crusaders v1.01] [n]">
+		<category>Games</category>
+		<description>Sunshine Angel Marlowe - Panic in Bloomland! (Japan) [T-En by Stardust Crusaders v1.01] [n]</description>
+		<rom name="Sunshine Angel Marlowe - Panic in Bloomland! (Japan) [T-En by Stardust Crusaders v1.01] [n].gb" size="262144" crc="0d8200aa" md5="2290f43bb5fc2c827070abadabd11d8b" sha1="098b08540ea314eec36c8b2fec0690f20472dbf5"/>
+	</game>
+	<game name="Super Bikkuriman - The Legendary Tablet (Japan) [T-En by Eien Ni Hen &amp; PentarouZero v1.0] [n]">
+		<category>Games</category>
+		<description>Super Bikkuriman - The Legendary Tablet (Japan) [T-En by Eien Ni Hen &amp; PentarouZero v1.0] [n]</description>
+		<rom name="Super Bikkuriman - The Legendary Tablet (Japan) [T-En by Eien Ni Hen &amp; PentarouZero v1.0] [n].gb" size="262144" crc="55aeac24" md5="8a57ce73b10f55bb392d461f9a1ca5d6" sha1="c24624f590474cca4302979379f3489cc2ea0ea3"/>
+	</game>
+	<game name="Super Robot Wars (Japan) [T-En by Aeon Genesis v1.00] [n]">
+		<category>Games</category>
+		<description>Super Robot Wars (Japan) [T-En by Aeon Genesis v1.00] [n]</description>
+		<rom name="Super Robot Wars (Japan) [T-En by Aeon Genesis v1.00] [n].gb" size="131072" crc="d8f8b104" md5="d05a4c81821a4627d56d08e08f9449d4" sha1="89873fddc4250f3eeb96667017ac78f18f96c8b0"/>
+	</game>
+	<game name="Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic (Japan) [T-En by Silenthal v1.0]">
+		<category>Games</category>
+		<description>Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic (Japan) [T-En by Silenthal v1.0]</description>
+		<rom name="Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic (Japan) [T-En by Silenthal v1.0].gb" size="262144" crc="3f333907" md5="531ce7689e9094d88e09b772e3fff698" sha1="966d44c99aeb861a3b1a4942dc16b3b943595bca"/>
+	</game>
+	<game name="Tenjin Kaisen (Japan) [T-En by Stardust Crusaders v1.00]">
+		<category>Games</category>
+		<description>Tenjin Kaisen (Japan) [T-En by Stardust Crusaders v1.00]</description>
+		<rom name="Tenjin Kaisen (Japan) [T-En by Stardust Crusaders v1.00].gb" size="131072" crc="4c29d139" md5="0738676ccec75b243b20d2ea9261adfb" sha1="b6879602c0002c23957d7bb71ba96de6c88bb833"/>
+	</game>
+	<game name="Uchuu no Kishi Tekkaman Blade (Japan) [T-En by Strag0 v0.99] [i]">
+		<category>Games</category>
+		<description>Uchuu no Kishi Tekkaman Blade (Japan) [T-En by Strag0 v0.99] [i]</description>
+		<rom name="Uchuu no Kishi Tekkaman Blade (Japan) [T-En by Strag0 v0.99] [i].gb" size="131072" crc="83d7e1f6" md5="403515b14d773c62d535968930ec20a7" sha1="01ff8a233707f90c33462ed5071da3b56210653c"/>
+	</game>
+	<game name="Ultraman - Legend of the Super Warrior (Japan) (SGB Enhanced) [T-En by Gorgyrip v1.0] [n]">
+		<category>Games</category>
+		<description>Ultraman - Legend of the Super Warrior (Japan) (SGB Enhanced) [T-En by Gorgyrip v1.0] [n]</description>
+		<rom name="Ultraman - Legend of the Super Warrior (Japan) (SGB Enhanced) [T-En by Gorgyrip v1.0] [n].gb" size="262144" crc="e0564f60" md5="dab3d8dad09934fd55ab11ca1cea4792" sha1="b963dd8d71339dfd3561133af4445fe5922f1981"/>
+	</game>
+	<game name="Ultraman Ball (Japan) (SGB Enhanced) [T-En by Suicidal Translations v0.99] [i]">
+		<category>Games</category>
+		<description>Ultraman Ball (Japan) (SGB Enhanced) [T-En by Suicidal Translations v0.99] [i]</description>
+		<rom name="Ultraman Ball (Japan) (SGB Enhanced) [T-En by Suicidal Translations v0.99] [i].gb" size="131072" crc="e0606ced" md5="bc977605b3db8aeab9d60289e6b7e361" sha1="7f8065c817f578d031f8f646f4eca533f1dee851"/>
+	</game>
+	<game name="Urusei Yatsura - Miss Tomobiki o Sagase! (Japan) [T-En by Razor-X Translations v0.05] [i]">
+		<category>Games</category>
+		<description>Urusei Yatsura - Miss Tomobiki o Sagase! (Japan) [T-En by Razor-X Translations v0.05] [i]</description>
+		<rom name="Urusei Yatsura - Miss Tomobiki o Sagase! (Japan) [T-En by Razor-X Translations v0.05] [i].gb" size="262144" crc="badc1ae4" md5="bd8e52663feae37638925f07bff53309" sha1="5c716a099fb797a072b869cf7192825e6d041148"/>
+	</game>
+	<game name="Wizardry Gaiden - Suffering of the Queen (Japan) [T-En by Tangyi_Chang v1.1] [n]">
+		<category>Games</category>
+		<description>Wizardry Gaiden - Suffering of the Queen (Japan) [T-En by Tangyi_Chang v1.1] [n]</description>
+		<rom name="Wizardry Gaiden - Suffering of the Queen (Japan) [T-En by Tangyi_Chang v1.1] [n].gb" size="262144" crc="5467d713" md5="883853031c9927ac6731b35da593519d" sha1="984c8cc40e33feed1ed7afb7741300170312b3c1"/>
+	</game>
+	<game name="Wizardry Gaiden II - Curse of the Ancient Emperor (Japan) [T-En by MrRichard999 &amp; Tangyi_Chang v1.1] [n]">
+		<category>Games</category>
+		<description>Wizardry Gaiden II - Curse of the Ancient Emperor (Japan) [T-En by MrRichard999 &amp; Tangyi_Chang v1.1] [n]</description>
+		<rom name="Wizardry Gaiden II - Curse of the Ancient Emperor (Japan) [T-En by MrRichard999 &amp; Tangyi_Chang v1.1] [n].gb" size="262144" crc="5e5a2bc0" md5="4108a2fdbb7bab5062ad98ff4a2a116e" sha1="239d4a16ed4cc606ac389ff47dfdf45499886d77"/>
+	</game>
+	<game name="Wizardry Gaiden III - Scripture of the Dark (Japan) [T-En by Tangyi_Chang v1.03] [n]">
+		<category>Games</category>
+		<description>Wizardry Gaiden III - Scripture of the Dark (Japan) [T-En by Tangyi_Chang v1.03] [n]</description>
+		<rom name="Wizardry Gaiden III - Scripture of the Dark (Japan) [T-En by Tangyi_Chang v1.03] [n].gb" size="524288" crc="2b5f326f" md5="1f9bb7947016c41696ef3866c6adf7ff" sha1="477fd4c39619f3c857b4dca6b4e382751639cdd7"/>
+	</game>
+	<game name="X (Japan) [T-En by Anthropogon v0.9]">
+		<category>Games</category>
+		<description>X (Japan) [T-En by Anthropogon v0.9]</description>
+		<rom name="X (Japan) [T-En by Anthropogon v0.9].gb" size="262144" crc="8b3289ad" md5="b2ba81e5ee70de094a72875eb4041e74" sha1="87a2de321f336e0ea0e59e38831d5f19ac633cd1"/>
+	</game>
+	<game name="Yakuman (Japan) [T-En by Marvo v1.2]">
+		<category>Games</category>
+		<description>Yakuman (Japan) [T-En by Marvo v1.2]</description>
+		<rom name="Yakuman (Japan) [T-En by Marvo v1.2].gb" size="32768" crc="6948a6a3" md5="837a9e13b7f378bcb94bf1ed294312a0" sha1="a315688a2c5c735d8c52a553c6d3a9a8d9f3ab2d"/>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced) [T-En by Darrman v1.0]">
+		<category>Games</category>
+		<description>Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced) [T-En by Darrman v1.0]</description>
+		<rom name="Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced) [T-En by Darrman v1.0].gb" size="1048576" crc="5e8143ac" md5="dea982111cc284f28ec4c161e921bbcf" sha1="1bb5f02609592e0e9f6f77aced78f00eb61afd3d"/>
+	</game>
+	<game name="Zoids Legends (Japan) [T-En by MrRichard999 v1.0] [n]">
+		<category>Games</category>
+		<description>Zoids Legends (Japan) [T-En by MrRichard999 v1.0] [n]</description>
+		<rom name="Zoids Legends (Japan) [T-En by MrRichard999 v1.0] [n].gb" size="65536" crc="437a32a3" md5="7f31ce151cd7f8b57a025b483e299fda" sha1="3b6c2c10dc2e53408db9b46e5c6b2d63348e8f79"/>
+	</game>
+</datafile>

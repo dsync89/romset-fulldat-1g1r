@@ -1,0 +1,99 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1] [AP fix]
+  - Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1]
++ Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [n]
+  - Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [Add by Darrman v2.0] [n]
+  - Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [Add by Joesteve1914 Beta 2] [n]
++ MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [n]
+  - MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [Add by Cirosan v1.0] [n]
++ Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) [T-En by Nora Project v0.3d-1] [AP fix]
+  - Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) [T-En by Nora Project v0.3d-1]
++ Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v1.2] [n]
+  - Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v1.2] [Add by Runis Dauphin v0.5] [n]
++ Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [voice subs] [i] [n]
+  - Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [no voice subs] [i] [n]
+  - Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [subs] [no voice subs] [i] [n]
+  - Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [subs] [voice subs] [i] [n]
++ Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Snowboundmage v1.3] [i]
+  - Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Traceytrace v1.0.3] [i]
+
+TITLES WITHOUT CLONES
+=====================
+
++ 7th Dragon (Japan) [T-En by Geoff Embree v1.01]
++ ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b]
++ Ace Attorney Investigations - Miles Edgeworth - Prosecutor's Path (Japan) [T-En by Auryn v20022015] [n]
++ Blood of Bahamut (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.07]
++ Chibi-Robo! - Clean Sweep! (Japan) [T-En by Cjuub v1.1] [n]
++ Culdcept DS (Japan) [T-En by Theli v1.0]
++ D.Gray-Man - The Apostles of God (Japan) [T-En by Phantom & Supper v1.0] [n]
++ Death Note - Kira Game (Japan) [T-En by Anime Game Translations Team v1.2]
++ Detective Conan & Kindaichi Case Files - Chance Encounter of 2 Great Detectives (Japan) [T-En by DCTP v1.0] [n]
++ Dragon Quest IV - Michibikareshi Mono-tachi (Japan) [T-En by Concreted v20210703]
++ Dungeon of Windaria (Japan) [T-En by Rastsan v0.1]
++ FabStyle (Japan) [T-En by Rocket Robz & Sidier v2.0] [i]
++ Girlish Love Revolution - Love Revo DS (Korea) [T-En by Jjjewel v1.1] [n]
++ I Will Protect You (Japan) [T-En by Illidan & Phantom v1.2] [n]
++ Jump Ultimate Stars (Japan) [T-En by JUS Translation v030508]
++ Ketsui Death Label - Kizuna Jigoku-tachi (Japan) [T-En by Z3tzilla v0.2] [i]
++ Kuroshitsuji - Phantom & Ghost (Japan) [T-En by Phantom & Ghost Team v1.0]
++ Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i]
++ L - The Prologue to Death Note - Spiraling Trap (Japan) [T-En by Anime Game Translations Team v1.0] [n]
++ Love Plus (Japan) [T-En by Jjjewel v1.0n]
++ Luminous Arc 3 - Eyes (Japan) [T-En by Asakura & Buster Gundo & CheshireCat & Jaumander & Plasturion v1.0]
++ Metal Max 2 - Reloaded (Japan) [T-En by Metal Dreamers v1.0]
++ Metal Max 3 (Japan) [T-En by Metal Dreamers v1.0]
++ Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan) [T-En by Artema Translations v1.0]
++ Nameless Game, The (Japan) [T-En by Nagato & Ryusui & Summvs v1.2] [n]
++ Nameless Game, The - Eye (Japan) [T-En by Nagato v1.13] [n]
++ Ni No Kuni - The Jet Black Mage (Japan) [T-En by Anjiera v1.0] [n]
++ Petit Eva - Evangelion@Game (Japan) [T-En by ScenikEight v1.0]
++ Prince of Tennis, The - Princes of Doubles - Girls, Be Gracious! (Japan) [T-En by AmuletCross v3] [n]
++ Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0]
++ Puyo Puyo! - 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2] [n]
++ Puzzle Series Vol. 12 - Akari (Japan) [T-En T-Tudor v1.0] [n]
++ Puzzle Series Vol. 5 - Slither Link (Japan) [T-En by T-Tudor v0.7]
++ Retro Game Challenge 2 (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.51] [n]
++ Ripened Tingle's Balloon Trip of Love (Japan) [T-En by Team Tingle v1.1] [n]
++ Rosario + Vampire - Tanabata's Miss Yokai Academy (Japan) [T-En by Jjewel v20150515] [n]
++ SaGa 2 - Legend of the Relics - Goddess of Destiny (Japan) [T-En by Crimson Nocturnal v2.12] [n]
++ SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain & Easton West v2.0.830 Beta] [n]
++ Sailor Moon - The Shining Moon (Italy) [T-En by Jonko & Tokko Tomcat & Lizmelo & Sailor Moon Italy v1.0] [n]
++ Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan) [T-En by Pearse Hillock v0.90] [i]
++ Soma Bringer (Japan) [T-En by DarthNemesis v2009.02.02]
++ Soul Eater - Medusa's Plot (Japan) [T-En by Anime Game Translations Team v1.2] [n]
++ Spice & Wolf - My Year with Holo (Japan) [T-En by Anime Game Translations Team v1.3] [n]
++ Spice & Wolf - The Wind that spans the Sea (Japan) [T-En by Anime Game Translations Team v1.0] [n]
++ Summon Night X - Tears Crown (Japan) [T-En by Englishsubs4all v0.951] [i]
++ Super Control Mecha MG (Japan) [T-En by Supper v1.1] [n]
++ Super Robot Wars W (Japan) [T-En by Brunom1 & Fei & Kingcom v1.1] [n]
++ Tales of Innocence (Japan) [T-En by Absolute Zero v1.0]
++ Tales of the Tempest (Japan) [T-En by Absolute Zero v1.0]
++ Tengen Toppa Gurren Lagann (Japan) [T-En by Anime Game Translations Team v1.0]
++ Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by TMGS1 Translation Team v1.0]
++ Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6]
++ Tokimeki Memorial Girl's Side - 3rd Story (Japan) [T-En by Jjjewel v2.00]
++ Tomodachi Collection (Japan) (Rev 1) [T-En by Jjjewel v0.80] [i]
++ Vampire Knight DS (Japan) [T-En by Anime Game Translations Team v1.0]
++ Wizardry - Inochi no Kusabi (Japan) [T-En by Faramir v30102015] [i]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Nintendo DS [T-En] Docs

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Bandai - WonderSwan Color (Translated En) (Retool)</name>
+		<description>Bandai - WonderSwan Color (Translated En) (13) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 23-21-02</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Dicing Knight">
+		<category>Games</category>
+		<description>Dicing Knight</description>
+		<rom name="Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].wsc" size="524288" crc="0c7ebc6f" sha1="17fa529fdfceaad4ea501542c6e250f6b11ada93"/>
+	</game>
+	<game name="Digimon 02 - D1 Tamers">
+		<category>Games</category>
+		<description>Digimon 02 - D1 Tamers</description>
+		<rom name="Digimon 02 - D1 Tamers (Japan) [T-En by NikcDC v0.97] [n].wsc" size="4194304" crc="ed5f9d6b" sha1="acc636fbd17eb14278ee959b514d8fc8fb2b843d"/>
+	</game>
+	<game name="Digimon Adventure 02 - D1 Tamers">
+		<category>Games</category>
+		<description>Digimon Adventure 02 - D1 Tamers</description>
+		<rom name="Digimon Adventure 02 - D1 Tamers (Japan) [T-En by PmHacks v0.05] [i].wsc" size="4194304" crc="d934ae66" sha1="6ef3d8fda5398bbaf1a4012f600123e848c419ea"/>
+	</game>
+	<game name="Digimon Tamers - Battle Spirit Ver. 1">
+		<category>Games</category>
+		<description>Digimon Tamers - Battle Spirit Ver. 1</description>
+		<rom name="Digimon Tamers - Battle Spirit Ver. 1.5 (Japan) [T-En by Ashley &amp; Buckwheat v1.0] [i].wsc" size="8388608" crc="d3d0c04c" sha1="ee605cc455ee8c36f4d320ff4e3d1e7810715a22"/>
+	</game>
+	<game name="Digital Monster Card Game - Ver">
+		<category>Games</category>
+		<description>Digital Monster Card Game - Ver</description>
+		<rom name="Digital Monster Card Game - Ver. WonderSwan Color (Japan) [T-En by Kaiisen &amp; Wazzpinator v1.1] [i].wsc" size="4194304" crc="3d1fde74" sha1="c1acd20d73b4eed51bd5c976915c5ad3bcc9aba1"/>
+	</game>
+	<game name="Final Fantasy">
+		<category>Games</category>
+		<description>Final Fantasy</description>
+		<rom name="Final Fantasy (Japan) [T-En by Kalas v0.91] [i].wsc" size="4194304" crc="df94a149" sha1="08e70b98918df5e5cf2fe057908ce5e8a69e05fe"/>
+	</game>
+	<game name="Final Fantasy II">
+		<category>Games</category>
+		<description>Final Fantasy II</description>
+		<rom name="Final Fantasy II (Japan) [T-En by RPGOne v0.97].wsc" size="4194304" crc="08db7026" sha1="b232085dc3710e3bd01391bc4c7fe2904fff1725"/>
+	</game>
+	<game name="Final Fantasy IV">
+		<category>Games</category>
+		<description>Final Fantasy IV</description>
+		<rom name="Final Fantasy IV (Japan) [T-En by MottZilla v0.5] [i].wsc" size="4194304" crc="24f9e90b" sha1="66b755a8e75404b81a7b85fb58b6ce698ac4ebb9"/>
+	</game>
+	<game name="Mega Man Battle Network WS">
+		<category>Games</category>
+		<description>Mega Man Battle Network WS</description>
+		<rom name="Mega Man Battle Network WS (Japan) [T-En by Boco &amp; Greiga Master &amp; Megarockexe v1.0] [n].wsc" size="4194304" crc="829e6b6e" sha1="3134856bcd572c2d89e4736c89368d6c22fd6bb8"/>
+	</game>
+	<game name="Mr. Driller">
+		<category>Games</category>
+		<description>Mr. Driller</description>
+		<rom name="Mr. Driller (Japan) [T-En by PmHacks v0.70] [i].wsc" size="2097152" crc="8526989d" sha1="5e4d9b002fb7a7b15f87dec27a66b6753c0361e3"/>
+	</game>
+	<game name="Spirit World Tower Warrior Sa-Ga">
+		<category>Games</category>
+		<description>Spirit World Tower Warrior Sa-Ga</description>
+		<rom name="Spirit World Tower Warrior Sa-Ga (Japan) [T-En by Tower Reversed v1.3] [n].wsc" size="4194304" crc="3c39180d" sha1="eb6dfdbcf5b4092f038b0be428022d71382a27c9"/>
+	</game>
+	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord">
+		<category>Games</category>
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord</description>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) [T-En by Hengki Kusuma Adi v1.1].wsc" size="2097152" crc="5870ef48" sha1="563ff95519837156a1e8bba583032e1d69bef661"/>
+	</game>
+	<game name="Working Chocobo">
+		<category>Games</category>
+		<description>Working Chocobo</description>
+		<rom name="Working Chocobo (Japan) [T-En by Higsby &amp; SpecialAgentApe &amp; Sliter v1.01] [n].wsc" size="1048576" crc="11257c88" sha1="fe927109700598bc07e9209cd3e259d1fc8569f0"/>
+	</game>
+</datafile>

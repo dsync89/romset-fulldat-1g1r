@@ -1,0 +1,63 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+* PREPRODUCTION REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [n]
+  - Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [Old Art] [n]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Aleck Bordon Adventure - 4th Story - Tower & Shaft (Japan) (Aleck 64) [T-En by Zoinkity v1.0]
++ Animal Forest (Japan) [T-En by Zoinkity v021210] [i] [n]
++ Bomberman 64 (Japan) [T-En by Zoinkity v1.3]
++ Chameleon Twist (Japan) [T-En by Zoinkity v1.0]
++ Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan) [T-En by Zoinkity v1.0]
++ Custom Robo (Japan) [T-En by Star Trinket v1.0]
++ Densha de Go! 64 (Japan) [T-En by Zoinkity v1.01]
++ Doshin the Giant 1 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v2018-06] [i] [n]
++ F-Zero X - Expansion Kit (Japan) (64DD) [Hack by Zoinkity v2] [T-En by LuigiBlood v2]
++ J.League Dynamite Soccer 64 (Japan) [T-En by Zoinkity v1.0]
++ J.League Live 64 (Japan) [T-En by Zoinkity v1.0]
++ Last Legion UX (Japan) [T-En by Zoinkity v1.0]
++ Magical Tetris Challenge (Japan) (Aleck 64) [T-En by Zoinkity v1.1] [n]
++ Mario Artist - Paint Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood & Cauterize v2.1]
++ Mario Artist - Polygon Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood v3.0]
++ Mario Artist - Talent Studio (Japan) (64DD) [T-En by LuigiBlood v2.1]
++ Masters '98 - Augusta National Golf Club (Japan) [T-En by Zoinkity v1.0] [n]
++ Ninja Boy Rantarou 64 Game Gallery (Japan) [T-En by Zoinkity v1.0] [n]
++ Puyo Puyo Sun 64 (Japan) [T-En by Zoinkity v1.1]
++ Shiren the Wanderer 2 - Oni Invasion! Shiren Castle! (Japan) [T-En by SharkSnack & Ozidual & KmbTos v1.02] [n]
++ SimCity 64 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v0.6.38]
++ St. Andrews Old Course (Japan) [T-En by Zoinkity v1.0] [n]
++ Tsumi to Batsu - Hoshi no Keishousha (Japan) [T-En by Zoinkity v1.0]
++ Virtual Pro Wrestling 2 - Oudou Keishou (Japan) [T-En by VPW 2 Dojo Beta 3]
++ Virtual Pro Wrestling 64 (Japan) [T-En by Star Trinket v1.77 beta]
++ Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition) [T-En by Zoinkity v1.1]
++ Wonder Project J2 - Koruro no Mori no Jozet (Japan) [T-En by Ryu v1.0]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Nintendo 64 [T-En] Docs
+
+PREPRODUCTION REMOVES
+=====================
+These titles were removed because the user excluded preproduction titles.
+
+- Cubivore (Japan) (Proto) [T-En by Zoinkity v1.0] [n]
+- Viewpoint 2064 (Japan) (Proto) [T-En by Zoinkity v1.1]

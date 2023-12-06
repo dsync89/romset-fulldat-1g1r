@@ -1,0 +1,90 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* UNLICENSED REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Super Fantasy Zone (Japan) [T-En by Saulfabreg v1.0]
+  - Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0]
+
+TITLES WITHOUT CLONES
+=====================
+
++ A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 & AgentOrange & FlashPV v0.99] [n]
++ Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023]
++ Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i]
++ Bare Knuckle III (Japan) [T-En by Twilight Translations v1.0]
++ Battle Golfer Yui (Japan) [T-En by Filler v0.9]
++ Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029]
++ Beyond Oasis (USA) [T-En by Eien Ni Hen & Husky v1.0]
++ Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n]
++ Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n]
++ Demon Genesis (Japan) [T-En by Tashi.moe v03a] [n]
++ Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A]
++ Dyna Brothers (Japan) [T-En by Tybis v0.1] [i]
++ Dynamite Headdy (Japan) [T-En by M.I.J.E.T. v070428]
++ F1 Circus MD (Japan) [T-En by MrRichard999 & AgentOrange & TheMajinZenki v0.95b]
++ Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i]
++ Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n]
++ Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701]
++ Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n]
++ Magical Hat's Turbo Flying Adventure! (Japan) [T-En by Aqualung & Lazermutt4 & Midna & Tryphon v0.1] [n]
++ Magical Kid Taruruto (Japan) (En,Fr,Ja) [T-En by Akualung & Ghanmi & JumpingRyle & Tryphon alpha-ml] [n]
++ Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2]
++ Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1]
++ Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1] [Virtual Console Font]
++ Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen & KingMike v1.1] [n]
++ Panorama Cotton (Japan) [T-En by Malias v1.0.1]
++ Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign & Rebecca Capowski v18]
++ Phantasy Star II (USA, Europe) (Rev A) [T-En by Tanner v1.0] [Relocalized]
++ Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]
++ Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]
++ Phantasy Star II - Eusis's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710] [n]
++ Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]
++ Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]
++ Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]
++ Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]
++ Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]
++ Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n]
++ Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [n]
++ Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Walk Speed Patch] [n]
++ Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [n]
++ Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Purist]
++ Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Working Designs]
++ Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n]
++ Psy-O-Blade (Japan) [T-En by Eien Ni Hen & Tryphon v1.1]
++ Pulseman (Japan) [T-En by M.I.J.E.T. v070226]
++ Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n]
++ Rent a Hero (Japan) [T-En NikcDC v0.98] [Genesis]
++ Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive]
++ Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0]
++ Sonic Eraser (Japan) (SegaNet) [T-En by Roebloz v1.0.0]
++ Sorcerian (Japan) [T-En by SSTranslations v0.5] [i]
++ Sorcery Saga I (Japan) [T-En by Supper v1.1] [n]
++ Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1]
++ Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 & Fire_Pro_Fan & TheMajinZenki & FlashPV v0.99] [n]
++ Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030]
++ Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n]
++ Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328]
++ Undead Line (Japan) [T-En by M.I.J.E.T. v070903]
++ Vixen 357 (Japan) [T-En by Nebulous Translations v1.2]
++ Warsong (USA) [T-En by D v20010219] [Japanese names]
++ Ys III (USA) [T-En by Plombo v1.1] [Relocalized]
++ Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113]
++ _Sega Mega Drive [T-En] Docs
+
+UNLICENSED REMOVES
+==================
+These titles were removed because the user excluded unlicensed titles.
+
+- Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl) (T-En by Djinn v1.0) [n]

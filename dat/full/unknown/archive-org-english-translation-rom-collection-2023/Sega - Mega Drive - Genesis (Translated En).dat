@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Mega Drive - Genesis (Translated En)</name>
+		<description>Sega - Mega Drive - Genesis (Translated En)</description>
+		<category>Standard DatFile</category>
+		<version>1.0</version>
+		<date>4 December 2023</date>
+		<author>dsync89</author>
+		<email>dsync89@yahoo.com</email>
+		<homepage>https://github.com/dsync89</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<comment>DAT for English Translation ROMs Collection (2023) from https://archive.org/details/En-ROMs</comment>
+		<clrmamepro/>
+	</header>
+	<game name="_Sega Mega Drive [T-En] Docs">
+		<description>_Sega Mega Drive [T-En] Docs</description>
+		<year>????</year>
+		<rom name="A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; FlashPV v0.99] [n].txt" size="658" crc="a1da3c95" sha1="2e3972f14d9998ddbd40a4a152ec9cc8ea8383b5"/>
+		<rom name="Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023].txt" size="8822" crc="f17a2dc8" sha1="6789ddfb748555b230fc405f49f26c0871135551"/>
+		<rom name="Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i].txt" size="6070" crc="1d65dda5" sha1="863b347a64fc9cdf6f69b36eec1c0b088cd55ab2"/>
+		<rom name="Bare Knuckle III (Japan) [T-En by Twilight Translations v1.0].txt" size="8890" crc="ebd83b84" sha1="461c7a244ee533958b5657730639a72f09dcf5e9"/>
+		<rom name="Battle Golfer Yui (Japan) [T-En by Filler v0.9].txt" size="16197" crc="92e624ca" sha1="9ad9d80d6923d368a9d771184ba351e954b3174e"/>
+		<rom name="Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029].txt" size="18191" crc="9a1156c2" sha1="9684e2d4e720427d19a1d9d40fc1c97dd2623f25"/>
+		<rom name="Beyond Oasis (USA) [T-En by Eien Ni Hen &amp; Husky v1.0].txt" size="4067" crc="2e43eb38" sha1="718ed9ae7c8e0941caf8ca60c62cdf86e8959b48"/>
+		<rom name="Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl) (T-En by Djinn v1.0) [n].txt" size="4077" crc="8185c854" sha1="82dd5f8ca30bfefcd171e11176d0f7325d886caf"/>
+		<rom name="Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n].txt" size="1684" crc="13cccd81" sha1="03e5721a26598a5df1f23d46293295014b82be80"/>
+		<rom name="Dyna Brothers (Japan) [T-En by Tybis v0.1] [i].txt" size="1306" crc="f9a9eb55" sha1="04a279a69f70e278c6b319cd4d8312b9dba0365e"/>
+		<rom name="Dynamite Headdy (Japan) [T-En by M.I.J.E.T. v070428].txt" size="4572" crc="04c322be" sha1="a19cc36609f84f2a0cd0f2f5bcb9628c4448b2bf"/>
+		<rom name="F1 Circus MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; TheMajinZenki v0.95b].txt" size="424" crc="8e52e463" sha1="71a1d99b830ccbc474818b41b34e53d62f461f9f"/>
+		<rom name="Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i].txt" size="1484" crc="9eec06a5" sha1="04fdafb7e05f51b70ad680ecb9c9461e48bac65a"/>
+		<rom name="Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n].txt" size="2991" crc="cc5a499e" sha1="3711b28bb9f2dd0e33d67432e95f9feac3a0e2a8"/>
+		<rom name="Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701].txt" size="13252" crc="2f50592a" sha1="b48c3e745d28b92611bb8b0377145212da564f1a"/>
+		<rom name="Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n].txt" size="14582" crc="4e244e8e" sha1="0ad66066b506bd2690fcba34cea505a88afab1f7"/>
+		<rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1].txt" size="539" crc="fae856b5" sha1="07ca4dad0001ee0d12e4f421867f66f4531f0664"/>
+		<rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2].txt" size="1258" crc="b1af87e5" sha1="746542986e0c94616c9b4dd1d357c62b08c9e5f6"/>
+		<rom name="Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen &amp; KingMike v1.1] [n].txt" size="3132" crc="4ba1acf2" sha1="73f4434f7ec8176b65478df8fb22e95532121a48"/>
+		<rom name="Panorama Cotton (Japan) [T-En by Malias v1.0.1].txt" size="1061" crc="bde903c4" sha1="e82df2119541ba7dcec33604bf756ae351b0e406"/>
+		<rom name="Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign &amp; Rebecca Capowski v18].txt" size="2682" crc="67846cd9" sha1="9b3402ffa3edfc4c97a0df49b19be8e7d0064820"/>
+		<rom name="Phantasy Star II (USA, Europe) (Rev A) [T-En by Tanner v1.0] [Relocalized].txt" size="2733" crc="6af4fbd8" sha1="a82e72cc5a99c03b81619683705a7ecd546c03be"/>
+		<rom name="Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].txt" size="4982" crc="19167d63" sha1="e4fad80e5ebca0d96503855b8858177a272ca7b0"/>
+		<rom name="Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].txt" size="5184" crc="e4f1763b" sha1="d2fbd281d6b98114ead6adacc5f5197913883bac"/>
+		<rom name="Phantasy Star II - Eusis's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710] [n].txt" size="5459" crc="d2868a31" sha1="885da59019fb5900d60ce2c5317c7daa2ef28624"/>
+		<rom name="Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].txt" size="5157" crc="82213f0c" sha1="3770889d15f4f3c46cbe2b1ef8a458a8d537634d"/>
+		<rom name="Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].txt" size="5283" crc="fd5456cd" sha1="520c587441f77c0e98b44e3cee5edda7fca3cec2"/>
+		<rom name="Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].txt" size="4980" crc="696862e7" sha1="8195bfa1d1244725f2175847a0be85e27839935a"/>
+		<rom name="Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].txt" size="4986" crc="70b0a684" sha1="921e5af1e5777554c6d4c83637ac7a4291351622"/>
+		<rom name="Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].txt" size="6231" crc="d77e672d" sha1="24aeccf8dd9c76c767678574d84559baa03fc709"/>
+		<rom name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [n].txt" size="6682" crc="e458e8f3" sha1="4f44beff72e66a45bc8f6846d0f769301c161548"/>
+		<rom name="Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Map - Motavia].png" size="2071668" crc="3489aa65" sha1="f743bc90c03d0b915c00a90b85c692e46c2ef544"/>
+		<rom name="Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Technique &amp; Skill List].xlsx" size="20461" crc="837c0232" sha1="83c3955811402e9b1901d84a3cf9a2d3afbbca25"/>
+		<rom name="Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized].txt" size="20476" crc="68964961" sha1="ee3ac8a388f4b21d1de41a2827fc1ee74982a213"/>
+		<rom name="Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n].txt" size="3713" crc="56ddfee2" sha1="c29b36eae081380bd66996370b0e3549ba8300f4"/>
+		<rom name="Psy-O-Blade (Japan) [T-En by Eien Ni Hen &amp; Tryphon v1.1].txt" size="1452" crc="20a0edf1" sha1="57a59976d37e59c61da4433312f25ba5ed792563"/>
+		<rom name="Pulseman (Japan) [T-En by M.I.J.E.T. v070226].txt" size="8973" crc="e658a49e" sha1="41528929cdffff1a50009d9b3452146b53409152"/>
+		<rom name="Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n] [Character Catalog].mht" size="20290736" crc="0b9b273e" sha1="6eeb1c61910dd32a944f89d226867fe6ad10b4f4"/>
+		<rom name="Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n] [Manual].mht" size="4156792" crc="bd78ec0f" sha1="77b3fe3c39a79a78949cf4f2173f0686592d1085"/>
+		<rom name="Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n] [Spoilers].txt" size="5694" crc="fdf4ef72" sha1="46fd5431533959659e264d1358081d125974f4b9"/>
+		<rom name="Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n].txt" size="15807" crc="351f5fba" sha1="dab90ea481e6353526067fdfbfbf6a6a9c72a372"/>
+		<rom name="Rent a Hero (Japan) [T-En NikcDC v0.98].txt" size="3128" crc="79484259" sha1="c09f7c2b24f55e91ae1f6c56c8b66ccd5995d32a"/>
+		<rom name="Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0].txt" size="2318" crc="aca1afc9" sha1="708b3ca61dbc4658348fce1250925dc78fe25ecb"/>
+		<rom name="Sorcery Saga I (Japan) [T-En by Supper v1.1] [n].txt" size="26601" crc="a9913026" sha1="1661d83290237fe01d4f21657d92275ea1470bd5"/>
+		<rom name="Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1].txt" size="15266" crc="168a0af3" sha1="b9f953dfc5d6dc17a6ef16fdb2618ca099a23ff8"/>
+		<rom name="Super Fantasy Zone (Japan) [T-En by Saulfabreg v1.0].txt" size="1735" crc="cf93b797" sha1="8b0f84fc1c038cd19fe919bdc6139a10bcdefa52"/>
+		<rom name="Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0].txt" size="1735" crc="cf93b797" sha1="8b0f84fc1c038cd19fe919bdc6139a10bcdefa52"/>
+		<rom name="Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 &amp; Fire_Pro_Fan &amp; TheMajinZenki &amp; FlashPV v0.99] [n].txt" size="403" crc="8edda529" sha1="3a581595e504aa29278f396d1f44d6e51ab6bedb"/>
+		<rom name="Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030].txt" size="35639" crc="96a53474" sha1="1705a99ad0c00077e45a22b0fb54f0521a01e48b"/>
+		<rom name="Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n].txt" size="18191" crc="9a1156c2" sha1="9684e2d4e720427d19a1d9d40fc1c97dd2623f25"/>
+		<rom name="Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328].txt" size="8307" crc="4f37afaa" sha1="56333f27475283ee707ef5d1f798a34f9f2d3343"/>
+		<rom name="Undead Line (Japan) [T-En by M.I.J.E.T. v070903].txt" size="5029" crc="f6c1cd40" sha1="8b589151c3d14d451126f8270fc10972e89b6a1b"/>
+		<rom name="Vixen 357 (Japan) [T-En by Nebulous Translations v1.2].txt" size="7246" crc="c2d17178" sha1="e4902fcc961e792dc8083e76018cbdce4755d8e0"/>
+		<rom name="Warsong (USA) [T-En by D v20010219] [Japanese names].txt" size="2066" crc="67629d88" sha1="fe2788b03464a48b5ef939e2464307170d6532dc"/>
+		<rom name="Ys III (USA) [T-En by Plombo v1.1] [Relocalized] [Changelog].txt" size="2541" crc="d31d3b6a" sha1="1e5d787c0d42f664cf21d6a604273550af5fc00f"/>
+		<rom name="Ys III (USA) [T-En by Plombo v1.1] [Relocalized].txt" size="2172" crc="fc891105" sha1="96b4e055537dc43079cb68cbf781ee030088a08c"/>
+		<rom name="Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113].txt" size="4696" crc="141c84d2" sha1="0ad41f3c76c29b4ccc212ae2f80f8cd822522f6c"/>
+	</game>
+	<game name="A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; FlashPV v0.99] [n]">
+		<description>A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; FlashPV v0.99] [n]</description>
+		<year>????</year>
+		<rom name="A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; FlashPV v0.99] [n].md" size="524288" crc="a9e73c02" sha1="d5bd4294b932a143d4b3797e52f29b51f086f59e"/>
+	</game>
+	<game name="Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023]">
+		<description>Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023]</description>
+		<year>????</year>
+		<rom name="Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023].md" size="1048576" crc="1b744d15" sha1="80bd2c7c06d45040399418980fae6a557f0574c8"/>
+	</game>
+	<game name="Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i]">
+		<description>Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i]</description>
+		<year>????</year>
+		<rom name="Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i].md" size="1048576" crc="72c5e589" sha1="cdcaf137003e6898e1ac9bf18a8bdc246d108368"/>
+	</game>
+	<game name="Bare Knuckle III (Japan) [T-En by Twilight Translations v1.0]">
+		<description>Bare Knuckle III (Japan) [T-En by Twilight Translations v1.0]</description>
+		<year>????</year>
+		<rom name="Bare Knuckle III (Japan) [T-En by Twilight Translations v1.0].md" size="3145728" crc="68917751" sha1="d1dc85abe0889ff8e880edcaf908a6b195b75952"/>
+	</game>
+	<game name="Battle Golfer Yui (Japan) [T-En by Filler v0.9]">
+		<description>Battle Golfer Yui (Japan) [T-En by Filler v0.9]</description>
+		<year>????</year>
+		<rom name="Battle Golfer Yui (Japan) [T-En by Filler v0.9].md" size="1048576" crc="2d7e868c" sha1="2c6f17f0c212bb51b6ef629b123bae4bd2359816"/>
+	</game>
+	<game name="Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029]">
+		<description>Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029]</description>
+		<year>????</year>
+		<rom name="Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029].md" size="1048576" crc="fab20c39" sha1="89412d9c5408f26a53560d3eb030a5a75ac5e4e7"/>
+	</game>
+	<game name="Beyond Oasis (USA) [T-En by Eien Ni Hen &amp; Husky v1.0]">
+		<description>Beyond Oasis (USA) [T-En by Eien Ni Hen &amp; Husky v1.0]</description>
+		<year>????</year>
+		<rom name="Beyond Oasis (USA) [T-En by Eien Ni Hen &amp; Husky v1.0].md" size="3145728" crc="132fbfd8" sha1="69c9e01a3b7c333ba18464a0b6f1cf0a5d56d2dc"/>
+	</game>
+	<game name="Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl) (T-En by Djinn v1.0) [n]">
+		<description>Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl) (T-En by Djinn v1.0) [n]</description>
+		<year>????</year>
+		<rom name="Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl) (T-En by Djinn v1.0) [n].md" size="2097152" crc="b2853ef5" sha1="ee051da205f84cc24196f3c4ff2f8955027fbfce"/>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n]">
+		<description>Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n].md" size="1048576" crc="c301ae64" sha1="fe84b81ec1d70536348e8f0780247ea0602365d8"/>
+	</game>
+	<game name="Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n]">
+		<description>Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n].md" size="1048576" crc="27f21136" sha1="8fac182fbe26af4bf5246dcd063437220ff44e3f"/>
+	</game>
+	<game name="Demon Genesis (Japan) [T-En by Tashi.moe v03a] [n]">
+		<description>Demon Genesis (Japan) [T-En by Tashi.moe v03a] [n]</description>
+		<year>????</year>
+		<rom name="Demon Genesis (Japan) [T-En by Tashi.moe v03a] [n].md" size="1048576" crc="8cc9b34e" sha1="aff83dee4f25f23692397305d8b9a8ee87c36f12"/>
+	</game>
+	<game name="Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A]">
+		<description>Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A]</description>
+		<year>????</year>
+		<rom name="Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A].md" size="2097152" crc="877b4e2a" sha1="cf7be325e6387e7d27c853a018139db1833434d2"/>
+	</game>
+	<game name="Dyna Brothers (Japan) [T-En by Tybis v0.1] [i]">
+		<description>Dyna Brothers (Japan) [T-En by Tybis v0.1] [i]</description>
+		<year>????</year>
+		<rom name="Dyna Brothers (Japan) [T-En by Tybis v0.1] [i].md" size="1048576" crc="b064285a" sha1="172909647a27664e0380ebe5b45d5b25f612da19"/>
+	</game>
+	<game name="Dynamite Headdy (Japan) [T-En by M.I.J.E.T. v070428]">
+		<description>Dynamite Headdy (Japan) [T-En by M.I.J.E.T. v070428]</description>
+		<year>????</year>
+		<rom name="Dynamite Headdy (Japan) [T-En by M.I.J.E.T. v070428].md" size="2097152" crc="003e54e5" sha1="241d076e6caf02496a916af30c009a5279e0832e"/>
+	</game>
+	<game name="F1 Circus MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; TheMajinZenki v0.95b]">
+		<description>F1 Circus MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; TheMajinZenki v0.95b]</description>
+		<year>????</year>
+		<rom name="F1 Circus MD (Japan) [T-En by MrRichard999 &amp; AgentOrange &amp; TheMajinZenki v0.95b].md" size="524288" crc="9a4f13b8" sha1="cae28f306f263472b8ee871cdfbb3af06eb02d42"/>
+	</game>
+	<game name="Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i]">
+		<description>Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i]</description>
+		<year>????</year>
+		<rom name="Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i].md" size="1572864" crc="ea63a6f4" sha1="1319d18f60bd5ec31ab537b0afa124fcf9c514d2"/>
+	</game>
+	<game name="Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n]">
+		<description>Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n]</description>
+		<year>????</year>
+		<rom name="Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n].md" size="524288" crc="4ee43b4b" sha1="d4f0451691c5e68fffaac02218aca1ed601e6a3c"/>
+	</game>
+	<game name="Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701]">
+		<description>Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701]</description>
+		<year>????</year>
+		<rom name="Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701].md" size="2097152" crc="e8f28522" sha1="fe43c51314ed902c65ce967f3b181dcefad2d59c"/>
+	</game>
+	<game name="Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n]">
+		<description>Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n].md" size="2097152" crc="2a576a01" sha1="c7a29ace8d9925514e9a78cc13386a7baa18940d"/>
+	</game>
+	<game name="Magical Hat's Turbo Flying Adventure! (Japan) [T-En by Aqualung &amp; Lazermutt4 &amp; Midna &amp; Tryphon v0.1] [n]">
+		<description>Magical Hat's Turbo Flying Adventure! (Japan) [T-En by Aqualung &amp; Lazermutt4 &amp; Midna &amp; Tryphon v0.1] [n]</description>
+		<year>????</year>
+		<rom name="Magical Hat's Turbo Flying Adventure! (Japan) [T-En by Aqualung &amp; Lazermutt4 &amp; Midna &amp; Tryphon v0.1] [n].md" size="1048576" crc="f0def788" sha1="b799b43064ff7eff003af791109e1eb61a34f8c5"/>
+	</game>
+	<game name="Magical Kid Taruruto (Japan) (En,Fr,Ja) [T-En by Akualung &amp; Ghanmi &amp; JumpingRyle &amp; Tryphon alpha-ml] [n]">
+		<description>Magical Kid Taruruto (Japan) (En,Fr,Ja) [T-En by Akualung &amp; Ghanmi &amp; JumpingRyle &amp; Tryphon alpha-ml] [n]</description>
+		<year>????</year>
+		<rom name="Magical Kid Taruruto (Japan) (En,Fr,Ja) [T-En by Akualung &amp; Ghanmi &amp; JumpingRyle &amp; Tryphon alpha-ml] [n].md" size="1048576" crc="0248191a" sha1="fcbf2e5852da87a4218f5fb809fa8b5849448d16"/>
+	</game>
+	<game name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2]">
+		<description>Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2]</description>
+		<year>????</year>
+		<rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2].md" size="2097152" crc="c94a35bf" sha1="91bb0c1f54ce68287233e3b36f0ba3c96cc574c6"/>
+	</game>
+	<game name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1]">
+		<description>Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1]</description>
+		<year>????</year>
+		<rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1].md" size="2097152" crc="642f6d4c" sha1="3adaccd904f2549c40827fc59ee50966f3cdcdf6"/>
+	</game>
+	<game name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1] [Virtual Console Font]">
+		<description>Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1] [Virtual Console Font]</description>
+		<year>????</year>
+		<rom name="Monster World IV (Japan) [T-En by DeJap &amp; Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1] [Virtual Console Font].md" size="2097152" crc="08fe0bf8" sha1="da3b4122d13034fbbc0b9352031a2c31eaed91f7"/>
+	</game>
+	<game name="Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen &amp; KingMike v1.1] [n]">
+		<description>Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen &amp; KingMike v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen &amp; KingMike v1.1] [n].md" size="1572864" crc="17a9c865" sha1="093188af3527eb98163224985546db1be084104d"/>
+	</game>
+	<game name="Panorama Cotton (Japan) [T-En by Malias v1.0.1]">
+		<description>Panorama Cotton (Japan) [T-En by Malias v1.0.1]</description>
+		<year>????</year>
+		<rom name="Panorama Cotton (Japan) [T-En by Malias v1.0.1].md" size="2621440" crc="ed7d8f14" sha1="cc4580a855ae032e87c3419dda773fa600397873"/>
+	</game>
+	<game name="Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign &amp; Rebecca Capowski v18]">
+		<description>Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign &amp; Rebecca Capowski v18]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign &amp; Rebecca Capowski v18].md" size="786432" crc="c11b6119" sha1="ceaee5c1efe492f0697b27c0a5646e3f2897da67"/>
+	</game>
+	<game name="Phantasy Star II (USA, Europe) (Rev A) [T-En by Tanner v1.0] [Relocalized]">
+		<description>Phantasy Star II (USA, Europe) (Rev A) [T-En by Tanner v1.0] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II (USA, Europe) (Rev A) [T-En by Tanner v1.0] [Relocalized].md" size="1048576" crc="6f1fc440" sha1="fa7fe18d250a96681f47604df9a72b14aa8b1b44"/>
+	</game>
+	<game name="Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]">
+		<description>Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md" size="262144" crc="7fdb5fe9" sha1="f33e5744f94dc0364bd548bf937e194e4c630666"/>
+	</game>
+	<game name="Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]">
+		<description>Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md" size="262144" crc="355fad11" sha1="46a0e249b9564ed0d3d2df2435e42f0d7bdf3d97"/>
+	</game>
+	<game name="Phantasy Star II - Eusis's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710] [n]">
+		<description>Phantasy Star II - Eusis's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710] [n]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Eusis's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710] [n].md" size="262144" crc="5395a7e2" sha1="437a2d2899f18544af981be64de23583aaaf352b"/>
+	</game>
+	<game name="Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]">
+		<description>Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md" size="262144" crc="db2cce50" sha1="21b06f683d7bc34be61740c0986867f7748ca18e"/>
+	</game>
+	<game name="Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]">
+		<description>Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md" size="262144" crc="e91051e3" sha1="731576ebdc8999417859ca440901d6c521d91477"/>
+	</game>
+	<game name="Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]">
+		<description>Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md" size="262144" crc="b0ce897c" sha1="759ca49ca18a5e1a9f6d55770a50f5bcf3d3fcce"/>
+	</game>
+	<game name="Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]">
+		<description>Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md" size="262144" crc="3cd3bc1c" sha1="3462b67944fa467a616106cf6be3ed2bb282f51e"/>
+	</game>
+	<game name="Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]">
+		<description>Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]</description>
+		<year>????</year>
+		<rom name="Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md" size="262144" crc="76e56009" sha1="b3ea1a8b0e749ad5889a414dd4cf99aee83d63fb"/>
+	</game>
+	<game name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [n]">
+		<description>Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [n]</description>
+		<year>????</year>
+		<rom name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [n].md" size="828012" crc="5288db02" sha1="b00e10a0afce454bc1a95a0d377ec40b6de2d615"/>
+	</game>
+	<game name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [n]">
+		<description>Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [n]</description>
+		<year>????</year>
+		<rom name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [n].md" size="828012" crc="29bd1e5c" sha1="f60bb07ceea733726d0649df1393c385b3ed9ac9"/>
+	</game>
+	<game name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n]">
+		<description>Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n]</description>
+		<year>????</year>
+		<rom name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n].md" size="828012" crc="36874841" sha1="6556094e05b095f082879d83b3f2c3dceb5199b6"/>
+	</game>
+	<game name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Walk Speed Patch] [n]">
+		<description>Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Walk Speed Patch] [n]</description>
+		<year>????</year>
+		<rom name="Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Walk Speed Patch] [n].md" size="828012" crc="4db28d1f" sha1="9abf0d1b6f3eeb0626e96702fbcb3b7664e5c3f6"/>
+	</game>
+	<game name="Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Purist]">
+		<description>Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Purist]</description>
+		<year>????</year>
+		<rom name="Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Purist].md" size="4194304" crc="8ddaadd9" sha1="b5dbfa1aec85770ddcc34f206ab44bf1883d16db"/>
+	</game>
+	<game name="Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Working Designs]">
+		<description>Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Working Designs]</description>
+		<year>????</year>
+		<rom name="Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Working Designs].md" size="4194304" crc="53d73e85" sha1="8873745151f5ea01440bd145d76553a8cf76011d"/>
+	</game>
+	<game name="Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n]">
+		<description>Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n].md" size="4194304" crc="48778add" sha1="4a89848f9442cb47be6d78c8ca66baa535c3f015"/>
+	</game>
+	<game name="Psy-O-Blade (Japan) [T-En by Eien Ni Hen &amp; Tryphon v1.1]">
+		<description>Psy-O-Blade (Japan) [T-En by Eien Ni Hen &amp; Tryphon v1.1]</description>
+		<year>????</year>
+		<rom name="Psy-O-Blade (Japan) [T-En by Eien Ni Hen &amp; Tryphon v1.1].md" size="785184" crc="427f95cd" sha1="1b95f1afba7ce6dd716eaa268427af1018dafd36"/>
+	</game>
+	<game name="Pulseman (Japan) [T-En by M.I.J.E.T. v070226]">
+		<description>Pulseman (Japan) [T-En by M.I.J.E.T. v070226]</description>
+		<year>????</year>
+		<rom name="Pulseman (Japan) [T-En by M.I.J.E.T. v070226].md" size="2097152" crc="a8e0de99" sha1="451cdab2543b229f00d554f3a4aa01ce5a0cc490"/>
+	</game>
+	<game name="Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n]">
+		<description>Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n]</description>
+		<year>????</year>
+		<rom name="Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n].md" size="1048576" crc="89383a55" sha1="e2aa594256428eee348cb63ac654f11c4ba7ffbf"/>
+	</game>
+	<game name="Rent a Hero (Japan) [T-En NikcDC v0.98] [Genesis]">
+		<description>Rent a Hero (Japan) [T-En NikcDC v0.98] [Genesis]</description>
+		<year>????</year>
+		<rom name="Rent a Hero (Japan) [T-En NikcDC v0.98] [Genesis].md" size="1272010" crc="fb8c0353" sha1="f8b55c5d26a3abd151bca9d5af93a296b1d95c8f"/>
+	</game>
+	<game name="Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive]">
+		<description>Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive]</description>
+		<year>????</year>
+		<rom name="Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive].md" size="1272014" crc="74dcc39b" sha1="9d46a23c2d8801a83de72e96a571615426621e48"/>
+	</game>
+	<game name="Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0]">
+		<description>Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0]</description>
+		<year>????</year>
+		<rom name="Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0].md" size="262144" crc="728e73fd" sha1="7691856b7e66ee4d43b9bb2e975ee0ee05f151b2"/>
+	</game>
+	<game name="Sonic Eraser (Japan) (SegaNet) [T-En by Roebloz v1.0.0]">
+		<description>Sonic Eraser (Japan) (SegaNet) [T-En by Roebloz v1.0.0]</description>
+		<year>????</year>
+		<rom name="Sonic Eraser (Japan) (SegaNet) [T-En by Roebloz v1.0.0].md" size="262144" crc="aeca8cc9" sha1="54aa50f74b0c2208a260335f407236111ceb48b1"/>
+	</game>
+	<game name="Sorcerian (Japan) [T-En by SSTranslations v0.5] [i]">
+		<description>Sorcerian (Japan) [T-En by SSTranslations v0.5] [i]</description>
+		<year>????</year>
+		<rom name="Sorcerian (Japan) [T-En by SSTranslations v0.5] [i].md" size="524288" crc="a70fea84" sha1="a2df7f03f7f7c7d37e1283cb7a570017de473088"/>
+	</game>
+	<game name="Sorcery Saga I (Japan) [T-En by Supper v1.1] [n]">
+		<description>Sorcery Saga I (Japan) [T-En by Supper v1.1] [n]</description>
+		<year>????</year>
+		<rom name="Sorcery Saga I (Japan) [T-En by Supper v1.1] [n].md" size="4194304" crc="fac8d75d" sha1="2cb8d4c82025dc9d1ea548a2ea4da994061b4f50"/>
+	</game>
+	<game name="Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1]">
+		<description>Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1]</description>
+		<year>????</year>
+		<rom name="Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1].md" size="786432" crc="97f5b5e2" sha1="fd2d125630325a5a38a991982b675f3fd8f46e61"/>
+	</game>
+	<game name="Super Fantasy Zone (Japan) [T-En by Saulfabreg v1.0]">
+		<description>Super Fantasy Zone (Japan) [T-En by Saulfabreg v1.0]</description>
+		<year>????</year>
+		<rom name="Super Fantasy Zone (Japan) [T-En by Saulfabreg v1.0].md" size="1048576" crc="c6c0371f" sha1="644dc62ad5a4a9e56750b1c7429fd8539969ebd8"/>
+	</game>
+	<game name="Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0]">
+		<description>Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0]</description>
+		<year>????</year>
+		<rom name="Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0].md" size="1048576" crc="69667a46" sha1="1842f871bd102d8633c119f0d1289120450e66b0"/>
+	</game>
+	<game name="Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 &amp; Fire_Pro_Fan &amp; TheMajinZenki &amp; FlashPV v0.99] [n]">
+		<description>Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 &amp; Fire_Pro_Fan &amp; TheMajinZenki &amp; FlashPV v0.99] [n]</description>
+		<year>????</year>
+		<rom name="Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 &amp; Fire_Pro_Fan &amp; TheMajinZenki &amp; FlashPV v0.99] [n].md" size="524288" crc="f1bf25f8" sha1="9aa48c5ab66fabc262b18ab604c5da302a2b1afc"/>
+	</game>
+	<game name="Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030]">
+		<description>Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030]</description>
+		<year>????</year>
+		<rom name="Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030].md" size="1048576" crc="016afd40" sha1="7c397fe46acba156cc428bbe428c6d5cb8121ff4"/>
+	</game>
+	<game name="Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n]">
+		<description>Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n]</description>
+		<year>????</year>
+		<rom name="Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n].md" size="1048576" crc="07ba38f6" sha1="f425db086a2fa2c21ebf0e54fff5a06adc4b48e9"/>
+	</game>
+	<game name="Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328]">
+		<description>Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328]</description>
+		<year>????</year>
+		<rom name="Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328].md" size="1048576" crc="0c43b66b" sha1="e22217a0bdf460c7376fac3d5bed37da00f529a1"/>
+	</game>
+	<game name="Undead Line (Japan) [T-En by M.I.J.E.T. v070903]">
+		<description>Undead Line (Japan) [T-En by M.I.J.E.T. v070903]</description>
+		<year>????</year>
+		<rom name="Undead Line (Japan) [T-En by M.I.J.E.T. v070903].md" size="1048576" crc="53b9e72f" sha1="734a2aea93109a20b805f9255ace5f179adc972e"/>
+	</game>
+	<game name="Vixen 357 (Japan) [T-En by Nebulous Translations v1.2]">
+		<description>Vixen 357 (Japan) [T-En by Nebulous Translations v1.2]</description>
+		<year>????</year>
+		<rom name="Vixen 357 (Japan) [T-En by Nebulous Translations v1.2].md" size="1310720" crc="f8ce2e43" sha1="b32b1af7c2be5709f0822b636fd2bc73fca80540"/>
+	</game>
+	<game name="Warsong (USA) [T-En by D v20010219] [Japanese names]">
+		<description>Warsong (USA) [T-En by D v20010219] [Japanese names]</description>
+		<year>????</year>
+		<rom name="Warsong (USA) [T-En by D v20010219] [Japanese names].md" size="524288" crc="e52f4952" sha1="86cded1aa24465b5e3ccd9f4fb548cd78bf71e53"/>
+	</game>
+	<game name="Ys III (USA) [T-En by Plombo v1.1] [Relocalized]">
+		<description>Ys III (USA) [T-En by Plombo v1.1] [Relocalized]</description>
+		<year>????</year>
+		<rom name="Ys III (USA) [T-En by Plombo v1.1] [Relocalized].md" size="1572864" crc="248acc1d" sha1="5401e6e0488ec082bf92599cd9e7c52aaae88872"/>
+	</game>
+	<game name="Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113]">
+		<description>Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113]</description>
+		<year>????</year>
+		<rom name="Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113].md" size="3145728" crc="0f041d2e" sha1="d881629af139edb6acf36498654401508501ff69"/>
+	</game>
+</datafile>

@@ -1,0 +1,107 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Ai & Haruka]
+  - Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Rihoko & Sae]
+  - Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Tsukasa & Kaoru]
++ Digimon World - Re-Digitize (Japan) [T-En by Operation Decoded v1.1] [Sub version]
+  - Digimon World - Re-Digitize (Japan) [T-En by Operation Decoded v1.1] [Dub version]
++ Hatsune Miku - Project Diva 2nd (Japan) [T-En by Diva Fan Project v3.0]
+  - Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban) [T-En by Diva Fan Project v0.82]
++ Hatsune Miku - Project Diva Extend (Japan) [T-En by Diva Fan Project v2.0 Rev2] [NewStyle]
+  - Hatsune Miku - Project Diva Extend (Japan) [T-En by Diva Fan Project v2.0 Rev2] [Classic]
++ K-ON! After School Live!! (Japan) [T-En by Frain_Breeze & Wxnder & KingSizzle v1.0] [i] [n] [PPSSPP HD version]
+  - K-ON! After School Live!! (Japan) [T-En by Frain_Breeze & Wxnder & KingSizzle v1.0] [i] [n]
++ Monster Hunter Portable 2nd G (Japan) [T-En by Rozalin & ShadyFigure v1.3.1] [Restored DOS Audio]
+  - Monster Hunter Portable 2nd G (Japan) [T-En by Rozalin & ShadyFigure v1.3.1]
++ Monster Hunter Portable 3rd (Japan) [T-En by Team Maverick One v5.0] [PPSSPP HD version]
+  - Monster Hunter Portable 3rd (Japan) [T-En by Team Maverick One v5.0]
++ Nayuta - Endless Trails (Japan) [T-En by Flame v4.15] [Add by Dackst v1.0.8] [n]
+  - Nayuta - Endless Trails (Japan) [T-En by Flame v4.15] [n]
++ Yu-Gi-Oh! 5D's - Tag Force 6 (Japan) [T-En by Clickclaxer01 v2.0] [i]
+  - Yu-Gi-Oh! 5D's - Tag Force 6 (Japan) [T-En by Nzxth2 v1.1]
+
+TITLES WITHOUT CLONES
+=====================
+
++ 7th Dragon 2020 (Japan) [T-En by Geoff Embree v0.91]
++ 7th Dragon 2020-II (Japan) [T-En by Geoff Embree v0.91]
++ AIR (Japan) [T-En by Patr0805 v0.9]
++ Bakemonogatari Portable (Japan) [T-En by Anime Game Translations Team v1.0]
++ Danball Senki Boost (Japan) [T-En by DSB Translation Team v1.0] [i]
++ Danganronpa - Hope's Academy and Despair's Students (Japan) [T-En by Project Zetsubou v1.0] [n]
++ Digimon Adventure (Japan) [T-En by Kazari v1.2]
++ Disaster Report 3 - A Fading City and Her Song (Japan) [T-En by Geo-City Productions v1.1] [n]
++ DotHack-Link (Japan) [T-En by Dothackers v1.0.2]
++ Dragon Quest and Final Fantasy in Itadaki Street Portable (Japan) [T-En by MortoQueiba and Choppasmith Prerelease 3]
++ Echo Night - The First Voyage (Japan) [T-En by Mugi & Tom & Xyz v1.00] [n]
++ Evangelion - Girlfriend of Steel 2nd (Japan) [T-En by Binaryfail & Mugi & Jjjewel v1.02] [n]
++ Evangelion - Girlfriend of Steel Portable (Japan) [T-En by Mugi & Xyz v1.01] [n]
++ Ever17 - The Out of Infinity Premium Edition (Japan) [T-En by MrComputerRevo Beta4]
++ Final Fantasy Reishiki (Japan) [T-En by SkyBladeCloud v2]
++ GA - Geijutsuka Art Design Class - Slapstick Wonder Land (Japan) [T-En by Nodamiki v1.0]
++ God Eater 2 (Japan) [T-En by Gaikoz199 Beta] [i]
++ Grand Knights History (Japan) [T-En by Justfuit v1.16]
++ Hatsune Miku - Project Diva (Japan) [T-En by Diva Fan Project v1.0]
++ Haunted Zone, The (Japan) [T-En by Mugi & Tom & Xyz v1.00] [n]
++ Kingdom Hearts - Birth by Sleep (Japan) (Final Mix) [T-En by Truthkey v1.0.12]
++ Kurohyou - Like a Dragon - New Chapter (Japan) [T-En by Team K4L v1.2] [i] [n]
++ Kurohyou 2 - Ryu ga Gotoku - Ashura Chapter (Japan) [T-En by Team K4L v1.0] [n]
++ Last Ranker (Japan) [T-En by Flame and EnglishSubs4All v1] [i]
++ Legend of Heroes, The - Ao no Kiseki (Japan) [T-En by Flame and Guren v15] [n]
++ Little Busters - Converted Edition (Japan) [T-En by Patr0805 v0.95]
++ Lucky Star - Ryouou Gakuen Outousai Portable (Japan) [T-En by TimepieceMaster v2023-01-23] [i]
++ Mahou Shoujo Lyrical Nanoha A's Portable - The Battle of Aces (Japan) [T-En by Vivid Translations v20180523]
++ Mahou Shoujo Lyrical Nanoha A's Portable - The Gears of Destiny (Japan) [T-En by Vivid Translations v20180523]
++ Mahou Shoujo Madoka Magica Portable (Japan) [T-En by Carlitos & CoyoteMao & Maa9 v3.0] [i]
++ Monster Hunter Freedom Unite (USA) (En,Fr,De,Es,It) [T-En by Amaillo & Sky & Kenta & TeamHGG v1.2] [Dedummyfied]
++ Never7 - The End of Infinity (Japan) [T-En by Jv110 v2]
++ Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai (Japan) [T-En by Rinjinbu Translations v1.0]
++ Persona 2 - Eternal Punishment (Japan) [T-En by DarTisD & Eiowlta & Sayucchi v1.0]
++ Phantasy Star Portable 2 Infinity (Japan) [T-En by JamRules & Weyu v2]
++ Phantom Kingdom Portable (Japan) [T-En by ChepChep and DurableTomb and Ignis00 v0.9.3]
++ Planetarian - The Dream of a Little Star (Japan) [T-En by ShinjiGR v1.0] [n]
++ Pucelle, La - Ragnarok (Japan) [T-En by ChepChep and Hatsubai v1.1.2]
++ Queen's Blade - Spiral Chaos (Japan) [T-En by Leecherboy & JamRules v1.8 BETA] [i]
++ R-Type Tactics II - Operation Bitter Chocolate (Japan) [T-En by Isourou-san v1.1]
++ Remember11 - The Age of Infinity (Japan) [T-En by Dreambottle and TLWiki Team v2.1]
++ SD Gundam - G Generation Over World (Japan) [T-En by Izzul95 v1.1]
++ Samuraidou Portable (Japan) [T-En by Aka Translations v0.02]
++ Shiren the Wanderer 3 (Japan) [T-En by Aka Translations v0.01] [n]
++ Sol Trigger (Japan) [T-En by GareJei and JamRules v0.9] [i]
++ Soul Eater - Battle Resonance (Japan) [T-En by Anime Game Translations Team v1.0]
++ Sound of the Sky - Quintet of Maidens (Japan) [T-En by Okaysubs v1.0] [n]
++ Steins;Gate (Japan) [T-En by HaselLoyance v1.0.1]
++ StormLover Kai!! (Japan) [T-En by Jjjewel and Xyz v0.90]
++ Suikoden - Woven Web of the Centuries (Japan) [T-En by Twisted Phoenix Game Translation v1.0.2] [n]
++ Super Dangan-Ronpa 2 - Sayonara Zetsubou Gakuen (Japan) [T-En by The Porting Dude v0.5a]
++ Super Robot Wars A Portable (Japan) [T-En by Steel Soul v1.01] [n]
++ Suzumiya Haruhi no Yakusoku (Japan) [T-En by EsperKnight and Soywiz and Tom and Zarradeth v1]
++ Tantei Opera Milky Holmes (Japan) [T-En by Desuwa v0.4]
++ Toaru Majutsu no Index (Japan) [T-En by JeruTz v20191912]
++ Tokimeki Memorial Girl's Side Premium - 3rd Story (Japan) [T-En by Jjjewel v1.00]
++ Tora Dora Portable! (Japan) [T-En by Chronoes and Verdelish and Xyz v1.10]
++ Toukiden Kiwami (Japan) [T-En by HoaiTrung97 Fan Translation Team v3.0]
++ Valkyria Chronicles 3 - Extra Edition (Japan) [T-En by Valkyria Chronicles 3 Translation Project v2] [i] [n]
++ Yarudora Portable - Double Cast (Japan) [T-En by Cargodin and Esperknight v1.1]
++ Ys vs. Trails in the Sky - Alternative Saga (Japan) [T-En by The Geofront v1.0.0.21289] [n]
++ Yuusha 30 Second (Japan) [T-En by ChepChep and Ignis00 v1.0.2]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sony - PlayStation Portable [T-En] Docs

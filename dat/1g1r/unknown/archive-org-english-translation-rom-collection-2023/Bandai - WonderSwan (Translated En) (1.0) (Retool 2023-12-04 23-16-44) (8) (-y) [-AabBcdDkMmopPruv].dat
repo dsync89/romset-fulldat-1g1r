@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Bandai - WonderSwan (Translated En) (Retool)</name>
+		<description>Bandai - WonderSwan (Translated En) (8) (-y) [-AabBcdDkMmopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 23-16-44</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1]">
+		<category>Games</category>
+		<description>Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1]</description>
+		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1].ws" size="2097152" crc="6e8ca148" sha1="fb502d4c1fb2409b2e62fc7bd6920908cdc92379"/>
+	</game>
+	<game name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon]">
+		<category>Games</category>
+		<description>Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon]</description>
+		<rom name="Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon].ws" size="2097152" crc="b1989dc0" sha1="55be97ecefe02f1044aecef9f9b27e184beacbcb"/>
+	</game>
+	<game name="Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i]">
+		<category>Games</category>
+		<description>Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i]</description>
+		<rom name="Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i].ws" size="1048576" crc="7a981de3" sha1="982b82fd0d96bc89c8eb08488b7240226f8958e6"/>
+	</game>
+	<game name="Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n]">
+		<category>Games</category>
+		<description>Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n]</description>
+		<rom name="Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n].ws" size="1048576" crc="30b66f34" sha1="2d32c99b588d65248e78dfa25a34075c533fb690"/>
+	</game>
+	<game name="Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]">
+		<category>Games</category>
+		<description>Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]</description>
+		<rom name="Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n].ws" size="2097152" crc="a950654b" sha1="d6e94050b750b9c0df1ebc0a02ec2e7301ecc817"/>
+	</game>
+	<game name="Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n]">
+		<category>Games</category>
+		<description>Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n]</description>
+		<rom name="Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n].ws" size="2097152" crc="189b7610" sha1="5a60622180a132b01c88c83683c7bc454dc9d513"/>
+	</game>
+	<game name="Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0]">
+		<category>Games</category>
+		<description>Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0]</description>
+		<rom name="Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0].ws" size="2097152" crc="30a866cd" sha1="09a11f0058f1decf0c2e1e0627a22e669ab49ca9"/>
+	</game>
+	<game name="Rockman &amp; Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]">
+		<category>Games</category>
+		<description>Rockman &amp; Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]</description>
+		<rom name="Rockman &amp; Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n].ws" size="2097152" crc="b32d9f0f" sha1="cf093c9b51eec6e09dba0d62917fc3a5d9b69977"/>
+	</game>
+</datafile>

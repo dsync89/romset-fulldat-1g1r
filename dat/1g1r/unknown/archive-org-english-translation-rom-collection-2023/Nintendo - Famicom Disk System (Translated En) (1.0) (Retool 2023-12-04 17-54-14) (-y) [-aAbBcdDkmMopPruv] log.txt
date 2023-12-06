@@ -1,0 +1,91 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+* UNLICENSED REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ 19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0] [Regular NES Font]
+  - 19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0]
++ Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [HP Unfix] [n]
+  - Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [n]
++ Mahjong (Japan) [T-En by Psyklax v1.0]
+  - Mahjong (Japan) [T-En by Psyklax v1.0] [Arabic Numerals]
++ Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack] [Add by Jordiway73 v1.1]
+  - Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack]
+
+TITLES WITHOUT CLONES
+=====================
+
++ All Night Nippon Super Mario Brothers (Japan) (Promotion Card) [T-En by Psyklax v1.0]
++ Aspic - Curse of the Snakelord (Japan) [T-En by BlackPaladin v1.0] [n]
++ Boxxle - Warehouse Evening of Tears Special (Japan) [T-En by KingMike's Translations v1.0] [n]
++ Breeder (Japan) [T-En by Psyklax v1.0]
++ Crystal Dragon (Japan) [T-En by Mute v1.0] [n]
++ Cursed Treasure of Cleopatra, The (Japan) [T-En by DvD Translations Rev A] [n]
++ Dandy - The Resurrection of Zeuon (Japan) [T-En by Stardust Crusaders v1.00] [n]
++ Dandy - Zeuon no Fukkatsu (Japan) [T-En by Super Roboprotector v1.2]
++ Dead Zone (Japan) [T-En by Stardust Crusaders v1.00]
++ Deep Dungeon - The Heretic War (Japan) [T-En by KingMike's Translations v1.0] [n]
++ Demonic Castle Dracula (Japan) (Rev 2) (Disk Writer) [T-En by DvD Translations Rev A] [n]
++ Dirty Pair - Project Eden (Japan) [T-En by Stardust Crusaders v1.01]
++ Dream World - Doki Doki Panic! (Japan) [T-En by Vice Translations v1.1] [n]
++ Druid - The Gate of Fear (Japan) [T-En by BlackPaladin v1.0] [n]
++ Egger Land (Japan) [T-En by Necrosaro v1.0]
++ Electrician (Japan) [T-En by KingMike's Translations v1.0]
++ Esper Dream (Japan) (Rev 1) [T-En by Mute v1]
++ Famicom Grand Prix - F1 Race (Japan) [T-En by AgentOrange & MrRichard999 v1.0]
++ Famicom Grand Prix II - 3D Hot Rally (Japan) [T-En by AgentOrange & MrRichard999 v1.0]
++ Gall Force - Eternal Story (Japan) [T-En by Gil Galad v1.0]
++ Ghost Manor (Japan) [T-En by KingMike's Translations v1.0] [n]
++ Ginga Denshou - Galaxy Odyssey (Japan) [T-En by Chris M. Covell v1.0]
++ Gyruss (Japan) [T-En by Stardust Crusaders v1.01]
++ Idol Hotline - Miho Nakayama's Tokimeki High School (Japan) [T-En by FCandChill & Filler & TheMajinZenki & Graphicus v1.0] [n]
++ Ishidou (Japan) (Disk Writer) [T-En by Django v1.0]
++ Kamen Rider Black - The Shadow Moon Showdown (Japan) [T-En by BlackPaladin v1.0] [n]
++ Knight Lore - Majou no Ookami Otoko (Japan) [T-En by Psyklax v1.0]
++ Knight Move (Japan) [T-En by PentarouZero v1.0]
++ Legend of Zelda, The (Japan) (Rev 1) [T-En by Jordiway73 v1.1] [n]
++ Lutter (Japan) (Disk Writer) [T-En by Mute v1.0]
++ Miracle of Almana, The (Japan) [T-En by DvD Translations Rev A] [n]
++ Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [T-En by Stardust Crusaders v1.00]
++ Mysterious Murasame Castle, The (Japan) [T-En by Spinner 8 and friends v1.1] [n]
++ Myth of Light, The - Palutena's Mirror (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n]
++ Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [T-En by Vice Translations v1.0]
++ Puzzle Boys (Japan) (Disk Writer) [T-En by DvD Translations Rev A]
++ Relics - The Dark Fortress (Japan) [T-En by BlackPaladin v1.0] [n]
++ Return of Mario Bros. (Japan) (Disk Writer) [T-En by FCandchill & Her-Saki v1.0] [n]
++ Return of the Mario Bros., The (Japan) (Disk Writer) [T-En by MrRichard999 v0.98] [n]
++ SD Gundam - Gachapon Soldier - Scramble Wars [T-En by MrRichard999 v1.01] [n]
++ Samurai Sword (Japan) [T-En by Mute v1.0]
++ Santa Claus's Toybox (Japan) [T-En by Gil Galad v1.01] [n]
++ Seiken Psycho Calibur (Japan) [T-En by The Spoony Bard v1.0] [n]
++ Silviana - Ai Ippai no Little Angel (Japan) [T-En by Mute v1.0]
++ Sword of Kalin, The (Japan) [T-En by KingMike's Translations v1.0] [n]
++ Temple Labyrinth Dababa (Japan) [T-En by FlashPV v1.0] [n]
++ Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Nintendo - Family Computer Disk System [T-En] Docs
+
+UNLICENSED REMOVES
+==================
+These titles were removed because the user excluded unlicensed titles.
+
+- Bodycon Quest I - Girls Exposed (Japan) (Unl) [T-En by DvD Translations Rev A] [n]
+- Emi-chan no Moero Yakyuuken! (Japan) (Unl) [T-En by Laxidman & Spinner 8 and friends v0.99]
+- Pretty Girl's Sexy Derby (Japan) (Unl) [T-En by Spinner 8 and friends v1.31] [n]
+- Yakyuuken Part II - Gal's Dungeon (Japan) (Unl) [T-En by Spinner 8 and friends v1.0]

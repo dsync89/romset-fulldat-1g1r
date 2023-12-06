@@ -1,0 +1,61 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [n]
+  - Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [Add by Supper v1.0] [n]
++ Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 & SSTranslations & Tom v1.02] [n] [Modded]
+  - Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 & SSTranslations & Tom v1.02] [n]
++ Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00] [Original Sega Font]
+  - Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00]
++ Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n]
+  - Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [Add by Supper v1.0] [n]
++ Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01] [Slab Shrine Music]
+  - Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Buster Ball (Japan) [T-En by Lazermutt4 v1.0]
++ Coca-Cola Kid (Japan) [T-En by Filler v1.1]
++ Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n]
++ Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n]
++ Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0]
++ Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n]
++ Head Buster (Japan) [T-En by Chris M. Covell v0.99]
++ Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00]
++ Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis & Some Good Shit Translations v1.00]
++ Magic Knight Rayearth (Japan) [T-En by Filler v1.0]
++ Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i]
++ Mappy (Japan) [T-En by Maxim & ArugulaZ v1.1]
++ Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0]
++ Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n]
++ Nazo Puyo - Arle no Roux (Japan) [T-En by T-En by TriumphantBass v0.2] [i]
++ Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i]
++ Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00]
++ Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n]
++ Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n]
++ SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99]
++ Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final]
++ Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n]
++ Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n]
++ Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n]
++ Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sega Game Gear [T-En] Docs

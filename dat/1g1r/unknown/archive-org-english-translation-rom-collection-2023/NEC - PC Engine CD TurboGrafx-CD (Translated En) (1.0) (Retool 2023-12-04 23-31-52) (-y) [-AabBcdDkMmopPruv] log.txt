@@ -1,0 +1,53 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* BIOS AND OTHER CHIP REMOVES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Bishoujo Senshi Sailor Moon (Japan) [T-En by Supper & TheMajinZenki v1.1] [Honorifics]
+  - Bishoujo Senshi Sailor Moon (Japan) [T-En by Supper & TheMajinZenki v1.1]
++ Ys IV - The Dawn of Ys (Japan) [T-En by NightWolve v0.95] [En Dub by Burnt Lasagna v1.1]
+  - Ys IV - The Dawn of Ys (Japan) [T-En by NightWolve v0.95]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Bazar de Gozarre's Puzzle Game (Japan) [T-En by Dave Shadoff & Diogo Ribeiro & MooZ v1.0] [n]
++ Castlevania - Rondo of Blood (Japan) [T-En by Burnt Lasagna & Cubanraul v1.01] [n]
++ Cosmic Fantasy 2 (USA) [Un-Worked Design by Supper v0 (21-03-2017)]
++ Dead of the Brain 1&2 (Japan) [T-En by Dave Shadoff v1.0E] [DOTB1 only]
++ Exile (USA) [Un-Worked Design by Supper v0 (28-01-2017)]
++ Exile - Wicked Phenomenon (USA) [Un-Worked Design by Supper v1 (09-02-2017)]
++ Galaxy Fraulein Yuna (Japan) [T-En by Supper & Mafoo343 v1.2] [n]
++ Galaxy Fraulein Yuna 2 - The Eternal Princess (Japan) [T-En by Supper & Mafoo343 & TheMajinZenki v1.1] [n]
++ Might and Magic (Japan) [T-En by TiCoKH v20230918] [Req NuFont BIOS]
++ Motteke Tamago (Japan) [T-En by Dave Shadoff v1.0]
++ Private Eye dol (Japan) [T-En by Supper v1.0]
++ Sorcery Saga I - The Fiery Kindergarten Graduation (Japan) [T-En by LIPEMCO! Translations v1.0] [n]
++ Startling Odyssey II - Maryuu Sensou (Japan) [T-En by TruMisery v20100331]
++ Super Daisenryaku (Japan) [T-En by Gaijin Productions v0.99]
++ Xak III - The Eternal Recurrence (Japan) [T-En by NightWolve v1.00]
+
+BIOS AND OTHER CHIP REMOVES
+===========================
+These titles were removed because the user excluded BIOS and other chip titles.
+
+- [BIOS] Super CD-ROM System (Japan) (v3.0) [NuFont by Dave Shadoff v1
+- [BIOS] TurboGrafx CD Super System Card (USA) (v3.0) [NuFont by Dave Shadoff v1
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _NEC - PC Engine CD [T-En] Docs

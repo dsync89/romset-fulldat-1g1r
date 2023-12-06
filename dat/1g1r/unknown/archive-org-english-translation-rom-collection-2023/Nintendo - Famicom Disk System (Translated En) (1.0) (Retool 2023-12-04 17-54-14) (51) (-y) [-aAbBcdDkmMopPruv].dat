@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Nintendo - Famicom Disk System (Translated En) (Retool)</name>
+		<description>Nintendo - Famicom Disk System (Translated En) (51) (-y) [-aAbBcdDkmMopPruv] (1.0) (Retool 2.01.5)</description>
+		<version>1.0</version>
+		<date>2023-12-04 17-54-14</date>
+		<author>dsync89 &amp; Retool</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://archive.org/details/En-ROMs</url>
+		<clrmamepro/>
+	</header>
+	<game name="19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0] [Regular NES Font]">
+		<category>Games</category>
+		<description>19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0] [Regular NES Font]</description>
+		<rom name="19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0] [Regular NES Font].fds" size="131000" crc="ba79cbc3" sha1="e1b75d821993bcc9f6c5eb1cf93d2e373e8d68d3"/>
+	</game>
+	<game name="All Night Nippon Super Mario Brothers (Japan) (Promotion Card) [T-En by Psyklax v1.0]">
+		<category>Games</category>
+		<description>All Night Nippon Super Mario Brothers (Japan) (Promotion Card) [T-En by Psyklax v1.0]</description>
+		<rom name="All Night Nippon Super Mario Brothers (Japan) (Promotion Card) [T-En by Psyklax v1.0].fds" size="65500" crc="6b94f122" sha1="1de607dfb7f6e01afaf6d32d0e76e6af2f177977"/>
+	</game>
+	<game name="Aspic - Curse of the Snakelord (Japan) [T-En by BlackPaladin v1.0] [n]">
+		<category>Games</category>
+		<description>Aspic - Curse of the Snakelord (Japan) [T-En by BlackPaladin v1.0] [n]</description>
+		<rom name="Aspic - Curse of the Snakelord (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" crc="0420a52c" sha1="49a4776feba47aa76e433ee26adaff96c6dee82f"/>
+	</game>
+	<game name="Boxxle - Warehouse Evening of Tears Special (Japan) [T-En by KingMike's Translations v1.0] [n]">
+		<category>Games</category>
+		<description>Boxxle - Warehouse Evening of Tears Special (Japan) [T-En by KingMike's Translations v1.0] [n]</description>
+		<rom name="Boxxle - Warehouse Evening of Tears Special (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" crc="58b27294" sha1="3d4cc713daca7f1ec33477b305bda56439818604"/>
+	</game>
+	<game name="Breeder (Japan) [T-En by Psyklax v1.0]">
+		<category>Games</category>
+		<description>Breeder (Japan) [T-En by Psyklax v1.0]</description>
+		<rom name="Breeder (Japan) [T-En by Psyklax v1.0].fds" size="131000" crc="59c0f45f" sha1="a4e010d887b9f261502b92b22697ee6c4d23ae71"/>
+	</game>
+	<game name="Crystal Dragon (Japan) [T-En by Mute v1.0] [n]">
+		<category>Games</category>
+		<description>Crystal Dragon (Japan) [T-En by Mute v1.0] [n]</description>
+		<rom name="Crystal Dragon (Japan) [T-En by Mute v1.0] [n].fds" size="131000" crc="c61607b2" sha1="e748b12c37a67c125626389df9bf9401fc3e20d8"/>
+	</game>
+	<game name="Cursed Treasure of Cleopatra, The (Japan) [T-En by DvD Translations Rev A] [n]">
+		<category>Games</category>
+		<description>Cursed Treasure of Cleopatra, The (Japan) [T-En by DvD Translations Rev A] [n]</description>
+		<rom name="Cursed Treasure of Cleopatra, The (Japan) [T-En by DvD Translations Rev A] [n].fds" size="131000" crc="f4fb9b71" sha1="b20b78dfb2b1ad00cc25d5ff9a80a53d5488c0b4"/>
+	</game>
+	<game name="Dandy - The Resurrection of Zeuon (Japan) [T-En by Stardust Crusaders v1.00] [n]">
+		<category>Games</category>
+		<description>Dandy - The Resurrection of Zeuon (Japan) [T-En by Stardust Crusaders v1.00] [n]</description>
+		<rom name="Dandy - The Resurrection of Zeuon (Japan) [T-En by Stardust Crusaders v1.00] [n].fds" size="131000" crc="76eaa739" sha1="f082947863e0292aa62e32d48c80fcca508a03cf"/>
+	</game>
+	<game name="Dandy - Zeuon no Fukkatsu (Japan) [T-En by Super Roboprotector v1.2]">
+		<category>Games</category>
+		<description>Dandy - Zeuon no Fukkatsu (Japan) [T-En by Super Roboprotector v1.2]</description>
+		<rom name="Dandy - Zeuon no Fukkatsu (Japan) [T-En by Super Roboprotector v1.2].fds" size="131000" crc="ee9bdc93" sha1="ab1fc174782bbdeca951ae877bfa65567247a5bb"/>
+	</game>
+	<game name="Dead Zone (Japan) [T-En by Stardust Crusaders v1.00]">
+		<category>Games</category>
+		<description>Dead Zone (Japan) [T-En by Stardust Crusaders v1.00]</description>
+		<rom name="Dead Zone (Japan) [T-En by Stardust Crusaders v1.00].fds" size="131000" crc="1bf2409a" sha1="70a1278a22e084759c33dfd2b85268d1ed96f87d"/>
+	</game>
+	<game name="Deep Dungeon - The Heretic War (Japan) [T-En by KingMike's Translations v1.0] [n]">
+		<category>Games</category>
+		<description>Deep Dungeon - The Heretic War (Japan) [T-En by KingMike's Translations v1.0] [n]</description>
+		<rom name="Deep Dungeon - The Heretic War (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" crc="99671024" sha1="89cc532908417143c63521f232d7890b14f7dc5b"/>
+	</game>
+	<game name="Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [HP Unfix] [n]">
+		<category>Games</category>
+		<description>Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [HP Unfix] [n]</description>
+		<rom name="Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [HP Unfix] [n].fds" size="131000" crc="2bd6b851" sha1="1ede1b1e94c4b330f73746bb790a5e492cbe23b4"/>
+	</game>
+	<game name="Demonic Castle Dracula (Japan) (Rev 2) (Disk Writer) [T-En by DvD Translations Rev A] [n]">
+		<category>Games</category>
+		<description>Demonic Castle Dracula (Japan) (Rev 2) (Disk Writer) [T-En by DvD Translations Rev A] [n]</description>
+		<rom name="Demonic Castle Dracula (Japan) (Rev 2) (Disk Writer) [T-En by DvD Translations Rev A] [n].fds" size="131000" crc="47b0fddd" sha1="9148573fd578333b5e674e3dffd31ca95e65b661"/>
+	</game>
+	<game name="Dirty Pair - Project Eden (Japan) [T-En by Stardust Crusaders v1.01]">
+		<category>Games</category>
+		<description>Dirty Pair - Project Eden (Japan) [T-En by Stardust Crusaders v1.01]</description>
+		<rom name="Dirty Pair - Project Eden (Japan) [T-En by Stardust Crusaders v1.01].fds" size="131000" crc="d7d3d8a8" sha1="5b01f5dcd7145a5367d68eeaaf0d9dd7540fe0a5"/>
+	</game>
+	<game name="Dream World - Doki Doki Panic! (Japan) [T-En by Vice Translations v1.1] [n]">
+		<category>Games</category>
+		<description>Dream World - Doki Doki Panic! (Japan) [T-En by Vice Translations v1.1] [n]</description>
+		<rom name="Dream World - Doki Doki Panic! (Japan) [T-En by Vice Translations v1.1] [n].fds" size="131000" crc="d9e2f346" sha1="a5fd61e12d17218df1a06f3e15f27cb513f6b7f8"/>
+	</game>
+	<game name="Druid - The Gate of Fear (Japan) [T-En by BlackPaladin v1.0] [n]">
+		<category>Games</category>
+		<description>Druid - The Gate of Fear (Japan) [T-En by BlackPaladin v1.0] [n]</description>
+		<rom name="Druid - The Gate of Fear (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" crc="1e9dc522" sha1="9a699cac4f3e5610813a863872bbe773abbad0c4"/>
+	</game>
+	<game name="Egger Land (Japan) [T-En by Necrosaro v1.0]">
+		<category>Games</category>
+		<description>Egger Land (Japan) [T-En by Necrosaro v1.0]</description>
+		<rom name="Egger Land (Japan) [T-En by Necrosaro v1.0].fds" size="131000" crc="605c82ae" sha1="ba4136eb35d37cdef0e95f705f131e5fcc125794"/>
+	</game>
+	<game name="Electrician (Japan) [T-En by KingMike's Translations v1.0]">
+		<category>Games</category>
+		<description>Electrician (Japan) [T-En by KingMike's Translations v1.0]</description>
+		<rom name="Electrician (Japan) [T-En by KingMike's Translations v1.0].fds" size="131000" crc="fa3ac03a" sha1="fb5fc2f1196b372bd38ff09da8945da5b55dc40a"/>
+	</game>
+	<game name="Esper Dream (Japan) (Rev 1) [T-En by Mute v1]">
+		<category>Games</category>
+		<description>Esper Dream (Japan) (Rev 1) [T-En by Mute v1]</description>
+		<rom name="Esper Dream (Japan) (Rev 1) [T-En by Mute v1].fds" size="131000" crc="51d8c9f1" sha1="075c727e983ec6d9b9d7593edfc1f916719f8483"/>
+	</game>
+	<game name="Famicom Grand Prix - F1 Race (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0]">
+		<category>Games</category>
+		<description>Famicom Grand Prix - F1 Race (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0]</description>
+		<rom name="Famicom Grand Prix - F1 Race (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0].fds" size="131000" crc="116a2d81" sha1="9f8796b1e81b36bb7b2c87760246380962b85d15"/>
+	</game>
+	<game name="Famicom Grand Prix II - 3D Hot Rally (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0]">
+		<category>Games</category>
+		<description>Famicom Grand Prix II - 3D Hot Rally (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0]</description>
+		<rom name="Famicom Grand Prix II - 3D Hot Rally (Japan) [T-En by AgentOrange &amp; MrRichard999 v1.0].fds" size="131000" crc="2c82ad13" sha1="b74f48067d4999c3daa3d814b2be5be53098a65a"/>
+	</game>
+	<game name="Gall Force - Eternal Story (Japan) [T-En by Gil Galad v1.0]">
+		<category>Games</category>
+		<description>Gall Force - Eternal Story (Japan) [T-En by Gil Galad v1.0]</description>
+		<rom name="Gall Force - Eternal Story (Japan) [T-En by Gil Galad v1.0].fds" size="131000" crc="d66e007f" sha1="db8efe8be6d336f473cee829f59c7edd7d58dd2a"/>
+	</game>
+	<game name="Ghost Manor (Japan) [T-En by KingMike's Translations v1.0] [n]">
+		<category>Games</category>
+		<description>Ghost Manor (Japan) [T-En by KingMike's Translations v1.0] [n]</description>
+		<rom name="Ghost Manor (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" crc="546589ab" sha1="b8fa3b21e0959e6d409a01bf023127492bec1225"/>
+	</game>
+	<game name="Ginga Denshou - Galaxy Odyssey (Japan) [T-En by Chris M. Covell v1.0]">
+		<category>Games</category>
+		<description>Ginga Denshou - Galaxy Odyssey (Japan) [T-En by Chris M. Covell v1.0]</description>
+		<rom name="Ginga Denshou - Galaxy Odyssey (Japan) [T-En by Chris M. Covell v1.0].fds" size="131000" crc="f9534dda" sha1="3abb511b815169f054cc425f9822fd95ec1e0312"/>
+	</game>
+	<game name="Gyruss (Japan) [T-En by Stardust Crusaders v1.01]">
+		<category>Games</category>
+		<description>Gyruss (Japan) [T-En by Stardust Crusaders v1.01]</description>
+		<rom name="Gyruss (Japan) [T-En by Stardust Crusaders v1.01].fds" size="131000" crc="fc58faf6" sha1="2bc38fae171d3a278e84853c3253355fea7d0bd2"/>
+	</game>
+	<game name="Idol Hotline - Miho Nakayama's Tokimeki High School (Japan) [T-En by FCandChill &amp; Filler &amp; TheMajinZenki &amp; Graphicus v1.0] [n]">
+		<category>Games</category>
+		<description>Idol Hotline - Miho Nakayama's Tokimeki High School (Japan) [T-En by FCandChill &amp; Filler &amp; TheMajinZenki &amp; Graphicus v1.0] [n]</description>
+		<rom name="Idol Hotline - Miho Nakayama's Tokimeki High School (Japan) [T-En by FCandChill &amp; Filler &amp; TheMajinZenki &amp; Graphicus v1.0] [n].fds" size="131000" crc="772a6bcc" sha1="14d8ba1ed4deed5a753542c431e1dd607e0cc0c8"/>
+	</game>
+	<game name="Ishidou (Japan) (Disk Writer) [T-En by Django v1.0]">
+		<category>Games</category>
+		<description>Ishidou (Japan) (Disk Writer) [T-En by Django v1.0]</description>
+		<rom name="Ishidou (Japan) (Disk Writer) [T-En by Django v1.0].fds" size="131000" crc="ebfcf648" sha1="4a796ff7b7c2370efc7a31caec6d2249d292c849"/>
+	</game>
+	<game name="Kamen Rider Black - The Shadow Moon Showdown (Japan) [T-En by BlackPaladin v1.0] [n]">
+		<category>Games</category>
+		<description>Kamen Rider Black - The Shadow Moon Showdown (Japan) [T-En by BlackPaladin v1.0] [n]</description>
+		<rom name="Kamen Rider Black - The Shadow Moon Showdown (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" crc="0ab021fa" sha1="fcf56942c1d2ba7d23c84792582f70c613a016c5"/>
+	</game>
+	<game name="Knight Lore - Majou no Ookami Otoko (Japan) [T-En by Psyklax v1.0]">
+		<category>Games</category>
+		<description>Knight Lore - Majou no Ookami Otoko (Japan) [T-En by Psyklax v1.0]</description>
+		<rom name="Knight Lore - Majou no Ookami Otoko (Japan) [T-En by Psyklax v1.0].fds" size="131000" crc="37e66c25" sha1="df1739149b0df7932ce43fa679f2930d66758c7c"/>
+	</game>
+	<game name="Knight Move (Japan) [T-En by PentarouZero v1.0]">
+		<category>Games</category>
+		<description>Knight Move (Japan) [T-En by PentarouZero v1.0]</description>
+		<rom name="Knight Move (Japan) [T-En by PentarouZero v1.0].fds" size="65500" crc="474b83c4" sha1="0bacf79a62c803c4a2d293a2342a14a4b02c6937"/>
+	</game>
+	<game name="Legend of Zelda, The (Japan) (Rev 1) [T-En by Jordiway73 v1.1] [n]">
+		<category>Games</category>
+		<description>Legend of Zelda, The (Japan) (Rev 1) [T-En by Jordiway73 v1.1] [n]</description>
+		<rom name="Legend of Zelda, The (Japan) (Rev 1) [T-En by Jordiway73 v1.1] [n].fds" size="131000" crc="5e8e7511" sha1="2c752034baaa16c0e54225c477cba31c17b19b28"/>
+	</game>
+	<game name="Lutter (Japan) (Disk Writer) [T-En by Mute v1.0]">
+		<category>Games</category>
+		<description>Lutter (Japan) (Disk Writer) [T-En by Mute v1.0]</description>
+		<rom name="Lutter (Japan) (Disk Writer) [T-En by Mute v1.0].fds" size="131000" crc="23d325e5" sha1="10c4547b5af6ba0055e31262a92db40389c22002"/>
+	</game>
+	<game name="Mahjong (Japan) [T-En by Psyklax v1.0]">
+		<category>Games</category>
+		<description>Mahjong (Japan) [T-En by Psyklax v1.0]</description>
+		<rom name="Mahjong (Japan) [T-En by Psyklax v1.0].fds" size="65500" crc="b97ee79d" sha1="cd0a0213deb043dcd5d0f22bfccfb73a578d00a4"/>
+	</game>
+	<game name="Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack] [Add by Jordiway73 v1.1]">
+		<category>Games</category>
+		<description>Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack] [Add by Jordiway73 v1.1]</description>
+		<rom name="Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack] [Add by Jordiway73 v1.1].fds" size="131000" crc="2711adba" sha1="90ca0c1eb49a9b0ed31e4c73c0725a2f39061d90"/>
+	</game>
+	<game name="Miracle of Almana, The (Japan) [T-En by DvD Translations Rev A] [n]">
+		<category>Games</category>
+		<description>Miracle of Almana, The (Japan) [T-En by DvD Translations Rev A] [n]</description>
+		<rom name="Miracle of Almana, The (Japan) [T-En by DvD Translations Rev A] [n].fds" size="131000" crc="8b61e398" sha1="ce4b7b328bdfb4913a0031225100cba82e1c0754"/>
+	</game>
+	<game name="Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [T-En by Stardust Crusaders v1.00]">
+		<category>Games</category>
+		<description>Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [T-En by Stardust Crusaders v1.00]</description>
+		<rom name="Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [T-En by Stardust Crusaders v1.00].fds" size="131000" crc="abaae342" sha1="aa06b171c1efc95189c60978f3fcf6801de9c999"/>
+	</game>
+	<game name="Mysterious Murasame Castle, The (Japan) [T-En by Spinner 8 and friends v1.1] [n]">
+		<category>Games</category>
+		<description>Mysterious Murasame Castle, The (Japan) [T-En by Spinner 8 and friends v1.1] [n]</description>
+		<rom name="Mysterious Murasame Castle, The (Japan) [T-En by Spinner 8 and friends v1.1] [n].fds" size="131000" crc="5da99951" sha1="a7b612f1943da2d1c4e2eb9328e5825d18563ab5"/>
+	</game>
+	<game name="Myth of Light, The - Palutena's Mirror (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n]">
+		<category>Games</category>
+		<description>Myth of Light, The - Palutena's Mirror (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n]</description>
+		<rom name="Myth of Light, The - Palutena's Mirror (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n].fds" size="131000" crc="78a03745" sha1="8faf292b7f0f840e4860d5bf398a44aefb700270"/>
+	</game>
+	<game name="Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [T-En by Vice Translations v1.0]">
+		<category>Games</category>
+		<description>Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [T-En by Vice Translations v1.0]</description>
+		<rom name="Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [T-En by Vice Translations v1.0].fds" size="131000" crc="2d1de98a" sha1="867bb2201566f0037933091c5113a87e21e64494"/>
+	</game>
+	<game name="Puzzle Boys (Japan) (Disk Writer) [T-En by DvD Translations Rev A]">
+		<category>Games</category>
+		<description>Puzzle Boys (Japan) (Disk Writer) [T-En by DvD Translations Rev A]</description>
+		<rom name="Puzzle Boys (Japan) (Disk Writer) [T-En by DvD Translations Rev A].fds" size="131000" crc="fa03eba9" sha1="b0fe8d3acd2ccc145a5b6d254631076c6e5c5f0d"/>
+	</game>
+	<game name="Relics - The Dark Fortress (Japan) [T-En by BlackPaladin v1.0] [n]">
+		<category>Games</category>
+		<description>Relics - The Dark Fortress (Japan) [T-En by BlackPaladin v1.0] [n]</description>
+		<rom name="Relics - The Dark Fortress (Japan) [T-En by BlackPaladin v1.0] [n].fds" size="131000" crc="389a10ad" sha1="2f9473e6a5b49a1c9c690a926a23018be802aac2"/>
+	</game>
+	<game name="Return of Mario Bros. (Japan) (Disk Writer) [T-En by FCandchill &amp; Her-Saki v1.0] [n]">
+		<category>Games</category>
+		<description>Return of Mario Bros. (Japan) (Disk Writer) [T-En by FCandchill &amp; Her-Saki v1.0] [n]</description>
+		<rom name="Return of Mario Bros. (Japan) (Disk Writer) [T-En by FCandchill &amp; Her-Saki v1.0] [n].fds" size="131000" crc="c3c31d57" sha1="2ba7c1e0cad9452beb113f97f272ca5d69c14311"/>
+	</game>
+	<game name="Return of the Mario Bros., The (Japan) (Disk Writer) [T-En by MrRichard999 v0.98] [n]">
+		<category>Games</category>
+		<description>Return of the Mario Bros., The (Japan) (Disk Writer) [T-En by MrRichard999 v0.98] [n]</description>
+		<rom name="Return of the Mario Bros., The (Japan) (Disk Writer) [T-En by MrRichard999 v0.98] [n].fds" size="131000" crc="098eb1e8" sha1="dea6c9748e4d26c5167f1aa40f00904db5ff8147"/>
+	</game>
+	<game name="SD Gundam - Gachapon Soldier - Scramble Wars [T-En by MrRichard999 v1.01] [n]">
+		<category>Games</category>
+		<description>SD Gundam - Gachapon Soldier - Scramble Wars [T-En by MrRichard999 v1.01] [n]</description>
+		<rom name="SD Gundam - Gachapon Soldier - Scramble Wars [T-En by MrRichard999 v1.01] [n].fds" size="131000" crc="ac33fda2" sha1="49e451094792efba2cc6651ce129ac1962331815"/>
+	</game>
+	<game name="Samurai Sword (Japan) [T-En by Mute v1.0]">
+		<category>Games</category>
+		<description>Samurai Sword (Japan) [T-En by Mute v1.0]</description>
+		<rom name="Samurai Sword (Japan) [T-En by Mute v1.0].fds" size="131000" crc="c350746a" sha1="2303eae83922eac4bee59057160d35a57a8b3830"/>
+	</game>
+	<game name="Santa Claus's Toybox (Japan) [T-En by Gil Galad v1.01] [n]">
+		<category>Games</category>
+		<description>Santa Claus's Toybox (Japan) [T-En by Gil Galad v1.01] [n]</description>
+		<rom name="Santa Claus's Toybox (Japan) [T-En by Gil Galad v1.01] [n].fds" size="131000" crc="d58bb23a" sha1="2ff6bec2ff51f1a94d56a8b9434493da64272b47"/>
+	</game>
+	<game name="Seiken Psycho Calibur (Japan) [T-En by The Spoony Bard v1.0] [n]">
+		<category>Games</category>
+		<description>Seiken Psycho Calibur (Japan) [T-En by The Spoony Bard v1.0] [n]</description>
+		<rom name="Seiken Psycho Calibur (Japan) [T-En by The Spoony Bard v1.0] [n].fds" size="131000" crc="1ec1552b" sha1="16c3bed4e57bfac2d9c8014d4101cd18a94a6bde"/>
+	</game>
+	<game name="Silviana - Ai Ippai no Little Angel (Japan) [T-En by Mute v1.0]">
+		<category>Games</category>
+		<description>Silviana - Ai Ippai no Little Angel (Japan) [T-En by Mute v1.0]</description>
+		<rom name="Silviana - Ai Ippai no Little Angel (Japan) [T-En by Mute v1.0].fds" size="131000" crc="c5b1bff7" sha1="039e978262187a84b6250744288be16053f0d559"/>
+	</game>
+	<game name="Sword of Kalin, The (Japan) [T-En by KingMike's Translations v1.0] [n]">
+		<category>Games</category>
+		<description>Sword of Kalin, The (Japan) [T-En by KingMike's Translations v1.0] [n]</description>
+		<rom name="Sword of Kalin, The (Japan) [T-En by KingMike's Translations v1.0] [n].fds" size="131000" crc="7825c974" sha1="9e7059ff3b10a5156b06e29a5c49aaaa5518c498"/>
+	</game>
+	<game name="Temple Labyrinth Dababa (Japan) [T-En by FlashPV v1.0] [n]">
+		<category>Games</category>
+		<description>Temple Labyrinth Dababa (Japan) [T-En by FlashPV v1.0] [n]</description>
+		<rom name="Temple Labyrinth Dababa (Japan) [T-En by FlashPV v1.0] [n].fds" size="131000" crc="4d13e6b7" sha1="7b07d031d8979a7dd26a2e682b1967df6681e90f"/>
+	</game>
+	<game name="Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n]">
+		<category>Games</category>
+		<description>Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n]</description>
+		<rom name="Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n].fds" size="131000" crc="359d3f2b" sha1="cef65267509a198c1e40f478a3f00c9216d51ae7"/>
+	</game>
+</datafile>

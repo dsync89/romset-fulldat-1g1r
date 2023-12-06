@@ -1,0 +1,80 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* DEMO, KIOSK, AND SAMPLE REMOVES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Bulk Slash (Japan) [T-En by Bulk Slash English Localization Team v1.001] [Undub]
+  - Bulk Slash (Japan) [T-En by Bulk Slash English Localization Team v1.001]
++ Lunar - Silver Star Story (Japan) [T-En by TrekkiesUnite118 v1.5.1] [Sub Edition]
+  - Lunar - Silver Star Story (Japan) [T-En by TrekkiesUnite118 v1.5.1a] [Dub Edition]
++ Shining Force III (Japan) [T-En by Shining Force III Translation Project v24]
+  - Shining Force III (Japan) [T-En by Shining Force III Translation Project v24] [Debug]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Baroque (Japan) [T-En by Plissken v1.0.0]
++ Castlevania - Symphony of the Night (Japan) (2M) [T-En by Knight0fDragon v1.021+hotfix] [n]
++ DeathMask (Japan) [T-En by A Murder of Crows and ShadowMask v0.2j RC]
++ Dracula X - Nocturne in the Moonlight (Japan) [T-En by Paul_met v1.5] [i] [n]
++ Dragon Force II - The Godforsaken Land (Japan) [T-En by Verve Fanworks v1.04] [n]
++ Dungeon Master Nexus (Japan) [T-En by ChristopheF v1.0]
++ EGWord Ver 2.00 (Japan) [T-En by Retrodadandmodernlad v0.9]
++ Falcom Classics (Japan) [T-En by Murzik & CrawdKenny v0.763] [Ancient Ys Vanished Omen] [i]
++ Fire Pro Gaiden Blazing Tornado (Japan) [T-En by Malenko v0.91] [i]
++ Fire Prowrestling S - 6Men Scramble (Japan) [T-En by Malenko v0.91] [i]
++ Grandia (Japan) [T-En by TrekkiesUnite118 v1.1.1]
++ Gungriffon II (Japan) [T-En by Gungriffon II Localization Team v0.97.5] [i]
++ J. B. Harold - Blue Chicago Blues (Japan) [T-En by Collin ''Arjak'' Pierce & Kate ''MossstarMoon'' Pierce v1.00]
++ Langrisser III (Japan) [T-En by Cyber Warrior X v0.2] [i]
++ Linkle Liver Story (Japan) [T-En by Aishsha v1.0]
++ Lunar - Silver Star Story Complete (Japan) [T-En by Mr Conan v0.75] [req Video CD Card]
++ Lunar 2 - Eternal Blue (Japan) [T-En by Mr Conan v0.19b] [i]
++ Magic Knight Rayearth (USA) [Un-Worked Design by Supper v0 (15-03-2017)]
++ Magical Night Dreams - Cotton 2 (Japan) [T-En by Nanashi v0.9]
++ Mobile Suit Gundam (Japan) [T-En by ShadowMask v0.2] [i]
++ Ninja Penguin Manmaru (Japan) [T-En by Alex Kid and Darkfalzx and Simon Fang v2022-01-20b] [n]
++ Ogre Battle - The March of the Black Queen (Japan) [T-En by Aishsha & Paul_met & Stardust Crusaders v1.3.1] [n]
++ Phantasmagoria (Japan) [T-En by Delta-Islands Team v1.50 final revu] [n]
++ Policenauts (Japan) [T-En by JunkerHQ v1.0.1]
++ Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0.1]
++ RMJ - The Mystery Hospital (Japan) [T-En by Kitchen34 v1.10] [i]
++ Sakura Wars (Japan) [T-En by Sakura Wars Translation Project v2.01] [n]
++ Sega Ages - Castle of Illusion Starring Mickey Mouse & QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]
++ Sega Ages - Castle of Illusion Starring Mickey Mouse and QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]
++ SegaSaturn FDD Operator (Japan) [T-En by TrekkiesUnite118 v1.0]
++ Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) [T-En by In the Rose Garden v1.04]
++ Silhouette Mirage (Japan) [T-En by Rasputin3000 v0.99b]
++ Stellar Assault SS (Japan) [T-En by Stellar Assault SS Localization Team v1.0]
++ Tactics Ogre - Let Us Cling Together (Japan) [T-En by Aishsha & Paul_met & Pennywise v1.0.1]
++ Tokyo Highway Battle '97 (Japan) [T-En by Malenko v1.02] [n]
++ Valhollian (Japan) [T-En by Paul_Met and Aishsha and Pennywise v1.3] [n]
++ Vampire Savior (Japan) [T-En by Paul_met v1.0]
++ Vandal Hearts - The Lost Civilization (Japan) [T-En by Paul_met and Stardust Crusaders v1.5] [n]
++ Wachenroeder (Japan) [T-En by Knight0fDragon v0.49] [i]
++ Yumimi Mix Remix (Japan) [T-En by Supper v1.0]
+
+DEMO, KIOSK, AND SAMPLE REMOVES
+===============================
+These titles were removed because the user excluded demo, kiosk, and sample titles.
+
+- Sakura Wars 2 - Thou Shalt Not Die (Japan) (Demo) [T-En by TrekkiesUnite118 v1.1] [n]
+- Stellar Assault SS (Japan) (Demo) [T-En by Stellar Assault SS Localization Team v1.0]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sega Saturn [T-En] Docs

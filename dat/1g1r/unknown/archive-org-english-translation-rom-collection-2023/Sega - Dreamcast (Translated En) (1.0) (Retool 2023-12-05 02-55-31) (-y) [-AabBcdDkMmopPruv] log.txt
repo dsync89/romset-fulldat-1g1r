@@ -1,0 +1,73 @@
+This file shows which titles have been kept in the output dat with a `+`,
+and which have been removed with a `-`. If the `-` is indented, then the
+title was removed because it was a clone of the previous title with a `+`.
+
+SECTIONS
+========
+Search for these section names to jump to that part of the file.
+
+* TITLES WITH CLONES
+* TITLES WITHOUT CLONES
+* MANUAL REMOVES
+
+
+TITLES WITH CLONES
+==================
+
++ Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.2] [n]
+  - Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.0] [Bonus Disc] [n]
++ Resident Evil - Code Veronica X (Japan) [T-En by Truemaster1] [n] [Clone GDEMU bug fix by YZB]
+  - Resident Evil - Code Veronica X (Japan) [T-En by Truemaster1] [n]
++ Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria & MrNobody v1.4] [Forced VGA] [n]
+  - Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria & MrNobody v1.3] [n]
++ Super Puzzle Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Add by Derek Pascarella v1.1]
+  - Super Puzzle Fighter II X for Matching Service (Japan) [T-En by Unknown Hero] [i]
++ Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky]
+  - Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Remixed]
++ Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight & Mr. Nobody & SnowyAria v1.0] [i]
+  - Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight & Mr. Nobody & SnowyAria v1.0] [i] [Max VMU Score]
+
+TITLES WITHOUT CLONES
+=====================
+
++ Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer HQ v0.95] [i]
++ Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Japan) [T-En by Catasplurge & Vimiani & Gem v1.1] [n]
++ Blue Submarine No. 6 - Time and Tide (Japan) [T-En by Rolly and RafaGam and Esperknight B6] [n]
++ Boko Dream Master (Japan) [T-En by AnimatedAF v1] [i] [n]
++ Chaos Field (Japan) [T-En by Derek Pascarella v1.0]
++ Cool Cool Toon (Japan) [T-En by Derek Pascarella v1.1]
++ Dance Dance Revolution - Club Version - Dreamcast Edition (Japan) [T-En by Topping Translations v1.0] [i]
++ Fire Pro Wrestling D (Japan) [T-En by Irvgotti452]
++ Fish Life in Amazon (Japan) [T-En by Rolly v20190713]
++ Frame Gride (Japan) [T-En by DCHQ Final]
++ Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan) [T-En by SharkSnack v0.16] [i]
++ Karous (Japan) [T-En by Rolly and RafaGam v1.0]
++ L.O.L. - Lack of Love (Japan) [T-En by Rolly and RafaGam v1.1]
++ Lost Golem, The (Japan) [T-En by Rolly and RafaGam and Cargodin v1.0] [n]
++ Napple Tale - Arsia in Daydream (Japan) [T-En by Cargodin v1.0]
++ Neon Genesis Evangelion - Typing Project Advanced (Japan) [T-En by Derek Pascarella v1.0] [n]
++ Neon Genesis Evangelion - Typing Project E (Japan) [T-En by Derek Pascarella v2.0] [n]
++ Panzer Front (Japan) [T-En by DerPlayer and PhilYeahz v1.0]
++ Puyo Pop Fever (Japan) [T-En by Derek Pascarella v1.0] [n]
++ Puyo Puyo 4 (Japan) [T-En by Precise Museum v1.0] [n]
++ Radirgy (Japan) [T-En by Wiredcrackpot v1.0]
++ Rainbow Cotton (Japan) [T-En by Derek Pascarella v1.0]
++ Rent a Hero No.1 (Japan) [T-En by Rent-A-Modders Team v1.0]
++ Run=Dim as Black Soul (Japan) [T-En by EsperKnight & RafaMGam & Rolly v1.0]
++ Sakura Wars - Columns 2 (Japan) [T-En by Derek Pascarella v1.2] [n]
++ Samba de Amigo Ver. 2000 (Japan) [T-En by Dukeblooders v0.9.1]
++ Shenmue (Europe) [Undub Definitive Edition by Shenmue Master and Phantom River Stone]
++ Shenmue II (Europe) [Xbox dub by Fafadou]
++ Shutokou Battle 2 (Japan) [T-En by SGGG v20221128] [i]
++ Space Channel 5 Part 2 (Japan) [T-En by BrAzE v20110418]
++ Taxi 2 - The Game (France) [T-En by Derek Pascarella v1.0] [n]
++ Trizeal (Japan) [T-En by Derek Pascarella v1.0]
++ Under Defeat (Japan) [T-En by TapamN v1.0]
++ What's Shenmue (Japan) [T-En by Shenmue Dojo v1.0.4]
++ Yu Suzuki Game Works Vol. 1 (Japan) [T-En by Shenmue Dojo v20201208]
+
+MANUAL REMOVES
+==============
+These titles were removed because the user excluded manual titles.
+
+- _Sega - Dreamcast [T-En] Docs
