@@ -7,4 +7,4 @@ Currently hosting 1G1R set for
 
 # Credits
 
-These 1G1R DAT is generated from Retool 1G1R, using clonelists that I generated from ...
+These 1G1R DAT is generated from Retool 1G1R, using clonelists in my other repo [here](https://github.com/dsync89/retool-clonelists-metadata).
